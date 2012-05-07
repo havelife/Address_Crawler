@@ -31,12 +31,15 @@ CREATE TABLE `url` (
 
 
 CREATE TABLE `job` (
-  `id` int(10) NOT NULL,
+  `id` int(10) NOT NULL AUTO_INCREMENT,
   `prefix` varchar(255) NOT NULL,
-  `suffix` varchar(255) DEFAULT '''''',
+  `suffix` varchar(255) DEFAULT '""',
   `step` int(5) DEFAULT '1',
   `startidx` int(5) DEFAULT '1',
   `endidx` int(5) NOT NULL,
+  `category` varchar(255) DEFAULT NULL,
+  `type` varchar(255) DEFAULT NULL,
+  `domain` varchar(255) DEFAULT NULL,
   `count` int(5) DEFAULT '0' COMMENT '这个job总共有多少个页面',
   `completecount` int(5) DEFAULT '0' COMMENT '完成了下载的页面',
   PRIMARY KEY (`id`)

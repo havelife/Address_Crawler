@@ -20,8 +20,8 @@ public class LogMgrTest {
 	
 	
 	@Test
-	public void saveTest(){
+	public void logCommentAndOperatorTest(){
 		LogMgr logMgr = (LogMgr)ctx.getBean("logMgr");
-		logMgr.save();
+		logMgr.logCommentAndOperator("www", "我是");
 	}
 }

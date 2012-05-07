@@ -1,5 +1,7 @@
 package com.crawler.service;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,6 +14,8 @@ import com.crawler.pojo.Url;
 public class UrlMgr {
 	@Autowired
 	private UrlDao urlDao;
+	@Autowired
+	private PageMgr pageMgr;
 	
 	
 	public void generateUrlsAndSaveInDatabase(String url, Long jobid){
@@ -30,5 +34,19 @@ public class UrlMgr {
 		for(Map.Entry<Integer, String> entry : data.entrySet()){
 			generateUrlsAndSaveInDatabase(entry.getValue(), jobid);
 		}
+	}
+	
+	public void downloadAllWebPage4OneJob(Long jobid){
+		if (jobid == null) return;
+		List<Long> urlIdList = urlDao.getUrlIdList4OneJob(jobid);
+		if (urlIdList == null || urlIdList.size() == 0) return;
+		for (Long urlId : urlIdList) {
+			pageMgr.downloadWebPage(urlId);
+		}
+	}
+	
+	public int getCompleteCount4OneJob(Long jobid){
+		if (jobid == null) return 0;
+		return urlDao.getCompleteCount4OneJob(jobid);
 	}
 }

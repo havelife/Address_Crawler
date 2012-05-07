@@ -20,9 +20,11 @@ public class Page implements Serializable{ //
 	private String url;
 	private String content;
 	private String category;
+	private String domain;
 	private int iscompleted;
 	private String type;
 	private Date time;
+	private Long jobid;
 	
 	@Id
 	@GeneratedValue
@@ -50,6 +52,12 @@ public class Page implements Serializable{ //
 	public void setCategory(String category) {
 		this.category = category;
 	}
+	public String getDomain() {
+		return domain;
+	}
+	public void setDomain(String domain) {
+		this.domain = domain;
+	}
 	public int getIscompleted() {
 		return iscompleted;
 	}
@@ -67,5 +75,16 @@ public class Page implements Serializable{ //
 	}
 	public void setTime(Date time) {
 		this.time = time;
+	}
+	
+	public Long getJobid() {
+		return jobid;
+	}
+	public void setJobid(Long jobid) {
+		this.jobid = jobid;
+	}
+	public Page(){
+		super();
+		this.time = new Date();
 	}
 }

@@ -96,5 +96,7 @@ public class Job implements Serializable{
 	public void setCompletecount(int completecount) {
 		this.completecount = completecount;
 	}
-
+	public void setCount(){
+		this.count = (this.endidx - this.startidx) / step + 1;
+	}
 }

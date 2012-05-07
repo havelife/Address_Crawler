@@ -6,12 +6,16 @@ import org.apache.commons.httpclient.HttpClient;
 import org.apache.commons.httpclient.HttpException;
 import org.apache.commons.httpclient.HttpMethod;
 import org.apache.commons.httpclient.methods.GetMethod;
+import org.apache.commons.lang3.StringUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
 public class WebPageUtil {
 	
 	public static String getPageContentByUrl(String url){
+		if (StringUtils.isBlank(url)){
+			System.err.println("WebPageUtil.getPageContentByUrl: url is blank");
+		}
 		try {
 			Document doc;
 			doc = Jsoup.connect(url).timeout(80000).get();
@@ -113,7 +117,9 @@ public class WebPageUtil {
 	public static void main(String[] args){
 		
 		String pageContent;
-		pageContent = WebPageUtil.getPageContentByUrl("http://house.focus.cn/housemarket/house_search/index.php?page=153");
+		//http://house.focus.cn/housemarket/house_search/index.php?page=153
+		pageContent = WebPageUtil.getPageContentByUrl("http://bj.esf.focus.cn/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/");  
+		
 		FileUtil.writeStr2File(pageContent, "./data/pagecontent.txt");
 		System.out.println(pageContent);
 		/*
