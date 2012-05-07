@@ -41,3 +41,12 @@ CREATE TABLE `job` (
   `completecount` int(5) DEFAULT '0' COMMENT '完成了下载的页面',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8
+
+
+CREATE TABLE `log` (
+  `id` int(10) NOT NULL AUTO_INCREMENT,
+  `time` timestamp NULL DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
+  `comment` varchar(255) DEFAULT NULL,
+  `operator` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8
