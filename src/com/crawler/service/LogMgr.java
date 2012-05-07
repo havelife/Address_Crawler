@@ -25,6 +25,5 @@ public class LogMgr {
 		log.setComment(comment);
 		log.setOperator(operator);
 		logDao.save(log);
-		System.out.println("xxx");
 	}
 }
