@@ -2,9 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
  <head> 
   <meta http-equiv="Content-Type" content="text/html; charset=gb2312" /> 
-  <title>【北京二手房|北京二手房网】-搜狐二手房</title> 
-  <meta name="Keywords" content="北京二手房、北京二手房信息网" /> 
-  <meta name="Description" content="北京二手房，搜狐二手房北京二手房频道为您提供最新、最真实的北京二手房个人、中介信息，北京二手房价格，查找北京二手房中介、经纪人信息，尽在搜狐二手房。" />
+  <title>���������ַ�|�������ַ�����-�Ѻ����ַ�</title> 
+  <meta name="Keywords" content="�������ַ����������ַ���Ϣ��" /> 
+  <meta name="Description" content="�������ַ����Ѻ����ַ��������ַ�Ƶ��Ϊ���ṩ���¡�����ʵ�ı������ַ����ˡ��н���Ϣ���������ַ��۸񣬲��ұ������ַ��н顢��������Ϣ�������Ѻ����ַ���" />
   <link href="http://src.esf.focus.cn/upload/css/global.css" rel="stylesheet" type="text/css" /> 
   <link href="http://src.esf.focus.cn/upload/css/homelist.css" rel="stylesheet" type="text/css" /> 
   <link href="http://src.esf.focus.cn/upload/css/homebuy.css" rel="stylesheet" type="text/css" /> 
@@ -14,17 +14,17 @@
   <script type="text/javascript" src="http://src.esf.focus.cn/upload/js/begin_new.js"></script> 
   <div id="site_nav"> 
    <div class="site_nav_bd"> 
-    <p class="login_info fl" id="begin"><span>欢迎您来到<a href="http://esf.focus.cn/">搜狐二手房</a>!</span><a href="http://my.esf.focus.cn/login.php">登录</a><span class="line">|</span><a href="http://my.esf.focus.cn/person_register.php">注册</a></p> 
-    <!--原来的注册url http://bj.esf.focus.cn/broker_register.php--> 
+    <p class="login_info fl" id="begin"><span>��ӭ������<a href="http://esf.focus.cn/">�Ѻ����ַ�</a>!</span><a href="http://my.esf.focus.cn/login.php">��¼</a><span class="line">|</span><a href="http://my.esf.focus.cn/person_register.php">ע��</a></p> 
+    <!--ԭ����ע��url http://bj.esf.focus.cn/broker_register.php--> 
     <div class="menu_rv"> 
      <a href="#" class="menu_btn" id="rv_channel" onmouseout="hideotherchannel('rv_channel','rv_bd_51f');" onmouseover="showgaoji('rv_channel','rv_bd_51f')">
-      <s></s>最近浏览<b></b></a> 
+      <s></s>������<b></b></a> 
      <div class="menu_rv_bd" id="rv_bd_51f" onmouseout="hideotherchannel('rv_channel','rv_bd_51f');" onmouseover="showgaoji('rv_channel','rv_bd_51f')" style="display:none;"> 
       <div class="rvCen"> 
        <ul> 
-        <li><a href="/liulan/">最近浏览的房源</a></li> 
-        <li><a href="/liulan/xiaoqu/">最近浏览的小区</a></li> 
-        <li><a href="/liulan/dianpu/">最近浏览的店铺</a></li> 
+        <li><a href="/liulan/">�������ķ�Դ</a></li> 
+        <li><a href="/liulan/xiaoqu/">��������С��</a></li> 
+        <li><a href="/liulan/dianpu/">�������ĵ���</a></li> 
        </ul> 
       </div>
       <!-- /rvCen --> 
@@ -35,23 +35,23 @@
     <div class="fr"> 
      <div class="menu_jjr"> 
       <div class="menu_jjr_a"> 
-       <a class="menu_btn" href="#" id="jjr_channel" onmouseout="hideotherchannel('jjr_channel','jjr_bd_51f');" onmouseover="showgaoji('jjr_channel','jjr_bd_51f')">网络经纪人<b></b></a> 
+       <a class="menu_btn" href="#" id="jjr_channel" onmouseout="hideotherchannel('jjr_channel','jjr_bd_51f');" onmouseover="showgaoji('jjr_channel','jjr_bd_51f')">���羭����<b></b></a> 
       </div>
       <!-- /menu_jjr_a --> 
       <ul id="jjr_bd_51f" onmouseout="hideotherchannel('jjr_channel','jjr_bd_51f');" onmouseover="showgaoji('jjr_channel','jjr_bd_51f')" style="display:none;"> 
-       <li><a href="http://vip.esf.focus.cn/manager.php?do=sale&amp;action=add" target="_blank">发布出售房源</a></li> 
-       <li><a href="http://vip.esf.focus.cn/manager.php?do=rent&amp;action=add" target="_blank">发布出租房源</a></li> 
-       <li><a href="http://vip.esf.focus.cn/manager.php?do=sale" target="_blank">管理出售房源</a></li> 
-       <li><a href="http://vip.esf.focus.cn/manager.php?do=rent" target="_blank">管理出租房源</a></li> 
+       <li><a href="http://vip.esf.focus.cn/manager.php?do=sale&amp;action=add" target="_blank">�������۷�Դ</a></li> 
+       <li><a href="http://vip.esf.focus.cn/manager.php?do=rent&amp;action=add" target="_blank">�������ⷿԴ</a></li> 
+       <li><a href="http://vip.esf.focus.cn/manager.php?do=sale" target="_blank">�������۷�Դ</a></li> 
+       <li><a href="http://vip.esf.focus.cn/manager.php?do=rent" target="_blank">�������ⷿԴ</a></li> 
       </ul> 
      </div>
      <!-- /menu_jjr --> 
      <ul class="collect fl"> 
-      <li><a class="red" target="_blank" href="http://www.focus.cn" id="bangzhuhelp">新房</a></li> 
-      <li><a class="red" target="_blank" href="http://home.sohu.com" id="bangzhuhelp">家居</a></li> 
-      <li><a class="red" target="_blank" href="http://bj.esf.focus.cn/jiameng/jiameng.php" id="bangzhuhelp">招募</a></li> 
-      <li><a target="_blank" href="http://bj.esf.focus.cn/ad.php?123=www.hao123.com%2F%3Fsrc%3D51f" id="bangzhuhelp">导航</a></li> 
-      <li class="last"><a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">收藏本站</a></li> 
+      <li><a class="red" target="_blank" href="http://www.focus.cn" id="bangzhuhelp">�·�</a></li> 
+      <li><a class="red" target="_blank" href="http://home.sohu.com" id="bangzhuhelp">�Ҿ�</a></li> 
+      <li><a class="red" target="_blank" href="http://bj.esf.focus.cn/jiameng/jiameng.php" id="bangzhuhelp">��ļ</a></li> 
+      <li><a target="_blank" href="http://bj.esf.focus.cn/ad.php?123=www.hao123.com%2F%3Fsrc%3D51f" id="bangzhuhelp">����</a></li> 
+      <li class="last"><a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">�ղر�վ</a></li> 
      </ul>
      <!-- /collect --> 
     </div>
@@ -59,7 +59,7 @@
    </div>
    <!-- /site_nav_bd --> 
   </div>
-  <!-- /site_nav 导航区 --> 
+  <!-- /site_nav ������ --> 
   <script type="text/javascript">
 function AddFavorite(sURL, sTitle) {   
     try {   
@@ -68,27 +68,27 @@ function AddFavorite(sURL, sTitle) {
         try {   
             window.sidebar.addPanel(sTitle, sURL, "");   
         } catch (e) {   
-            alert("加入收藏失败，请使用Ctrl+D进行添加");   
+            alert("�����ղ�ʧ�ܣ���ʹ��Ctrl+D��������");   
         }   
     }   
 }
 
   </script> 
   <div id="header"> 
-   <!-- 选择城市 --> 
+   <!-- ѡ����� --> 
    <div class="masthead fl"> 
-    <h1 id="logo_51f"><a href="http://esf.focus.cn"><img src="http://src.esf.focus.cn/upload/images/www/logo.gif" width="115" height="38" title="搜狐二手房" alt="搜狐二手房" /></a></h1> 
+    <h1 id="logo_51f"><a href="http://esf.focus.cn"><img src="http://src.esf.focus.cn/upload/images/www/logo.gif" width="115" height="38" title="�Ѻ����ַ�" alt="�Ѻ����ַ�" /></a></h1> 
     <div class="select_city"> 
-     <a class="curr" href="javascript:void(0)">北京</a> 
+     <a class="curr" href="javascript:void(0)">����</a> 
      <div class="select_citybox"> 
       <ul style="display:none;top:68px;" id="city_link"> 
-       <li><a href="http://bj.esf.focus.cn">北京</a></li> 
-       <li><a href="http://sh.esf.focus.cn">上海</a></li> 
-       <li><a href="http://tj.esf.focus.cn">天津</a></li> 
-       <li><a href="http://gz.esf.focus.cn">广州</a></li> 
-       <li><a href="http://sz.esf.focus.cn">深圳</a></li> 
-       <li><a href="http://cd.esf.focus.cn">成都</a></li> 
-       <li><a href="http://cq.esf.focus.cn">重庆</a></li> 
+       <li><a href="http://bj.esf.focus.cn">����</a></li> 
+       <li><a href="http://sh.esf.focus.cn">�Ϻ�</a></li> 
+       <li><a href="http://tj.esf.focus.cn">���</a></li> 
+       <li><a href="http://gz.esf.focus.cn">����</a></li> 
+       <li><a href="http://sz.esf.focus.cn">����</a></li> 
+       <li><a href="http://cd.esf.focus.cn">�ɶ�</a></li> 
+       <li><a href="http://cq.esf.focus.cn">����</a></li> 
       </ul> 
       <!--[if lte IE 6]>
 			<div style="position:absolute;z-index:-1;left:0;bottom:0;width:100%; height:100%; margin:0;">
@@ -98,35 +98,35 @@ function AddFavorite(sURL, sTitle) {
      </div>
      <!-- /select_citybox --> 
     </div>
-    <!-- /select_city 选择城市 --> 
+    <!-- /select_city ѡ����� --> 
    </div>
-   <!-- /masthead 报头--> 
-   <!-- 频道导航 --> 
+   <!-- /masthead ��ͷ--> 
+   <!-- Ƶ������ --> 
    <div class="channel_wrap fl"> 
     <ul class="vertical-channel"> 
-     <li class="first"><a href="/">首页</a></li> 
-     <li><a class="curr" href="/ershoufang/">买房</a></li> 
-     <li><a href="/zufang/">租房</a></li> 
-     <li><a href="/xiaoqu/">小区</a></li> 
-     <li><a href="/fangjia/">房价</a></li> 
-     <li><a href="/map/ershoufang/">地图</a></li> 
-     <li><a href="/news/">资讯</a></li> 
-     <li class="n_3"><a href="/dianpu/">经纪人</a></li> 
-     <li><a href="http://house.focus.cn/msglist/717/s2916" target="_blank">论坛</a></li> 
-     <li><a href="http://home.focus.cn/school/laofang/" target="_blank">装修</a></li> 
+     <li class="first"><a href="/">��ҳ</a></li> 
+     <li><a class="curr" href="/ershoufang/">��</a></li> 
+     <li><a href="/zufang/">�ⷿ</a></li> 
+     <li><a href="/xiaoqu/">С��</a></li> 
+     <li><a href="/fangjia/">����</a></li> 
+     <li><a href="/map/ershoufang/">��ͼ</a></li> 
+     <li><a href="/news/">��Ѷ</a></li> 
+     <li class="n_3"><a href="/dianpu/">������</a></li> 
+     <li><a href="http://house.focus.cn/msglist/717/s2916" target="_blank">��̳</a></li> 
+     <li><a href="http://home.focus.cn/school/laofang/" target="_blank">װ��</a></li> 
     </ul>
     <!-- /vertica_channell --> 
    </div>
-   <!-- /channel-wrap 主页频道 --> 
+   <!-- /channel-wrap ��ҳƵ�� --> 
    <div class="personal_release"> 
     <div class="prHd" onmouseout="hideotherchannel('pr_hd','pr_bd');" onmouseover="showgaoji('pr_hd','pr_bd')">
-     <a href="javascript:void(0)" id="pr_hd">业主免费发布
+     <a href="javascript:void(0)" id="pr_hd">ҵ����ѷ���
       <s></s></a>
     </div>
     <!-- /prHd --> 
     <ul id="pr_bd" onmouseout="hideotherchannel('pr_hd','pr_bd');" onmouseover="showgaoji('pr_hd','pr_bd')" style="display:none;"> 
-     <li><a href="http://my.esf.focus.cn/index.php?do=unit&amp;action=add_r" target="_blank">发布出租房源</a></li> 
-     <li><a href="http://my.esf.focus.cn/index.php?do=unit&amp;action=add" target="_blank">发布出售房源</a></li> 
+     <li><a href="http://my.esf.focus.cn/index.php?do=unit&amp;action=add_r" target="_blank">�������ⷿԴ</a></li> 
+     <li><a href="http://my.esf.focus.cn/index.php?do=unit&amp;action=add" target="_blank">�������۷�Դ</a></li> 
     </ul> 
     <em class="new_icon"></em> 
    </div>
@@ -137,19 +137,19 @@ function AddFavorite(sURL, sTitle) {
    <div class="tsearchcen"> 
     <div class="seclet_sarch fl"> 
      <div class="curr_select" onclick="showChannel('channel')">
-      <a id="search_a" href="javascript:void(0)">二手房</a>
+      <a id="search_a" href="javascript:void(0)">���ַ�</a>
      </div> 
      <input type="hidden" id="search_url" value="ershoufang" /> 
      <ul style="display:none;" id="channel"> 
-      <li><a href="javascript:void(0)" onclick="setSearch('ershoufang')">二手房</a></li> 
-      <li><a href="javascript:void(0)" onclick="setSearch('zufang')">租房</a></li> 
-      <li><a href="javascript:void(0)" onclick="setSearch('xiaoqu')">找小区</a></li> 
+      <li><a href="javascript:void(0)" onclick="setSearch('ershoufang')">���ַ�</a></li> 
+      <li><a href="javascript:void(0)" onclick="setSearch('zufang')">�ⷿ</a></li> 
+      <li><a href="javascript:void(0)" onclick="setSearch('xiaoqu')">��С��</a></li> 
      </ul> 
     </div>
     <!-- /seclet_sarch --> 
     <div class="search_form fl"> 
      <div class="cf"> 
-      <input type="text" name="house_name" id="house_name" maxlength="20" value="请输入小区名称或地址" /> 
+      <input type="text" name="house_name" id="house_name" maxlength="20" value="������С�����ƻ��ַ" /> 
       <input type="submit" class="search_form_btn" onclick="setKeyWord(1)" value="" /> 
      </div> 
      <input type="hidden" name="house_id" id="house_id" value="0" /> 
@@ -160,7 +160,7 @@ function AddFavorite(sURL, sTitle) {
      </ul> 
     </div>
     <!-- /search_form --> 
-    <p><a href="/xiaoqu/3201" target="_blank">远洋山水</a><a href="/xiaoqu/11441" target="_blank">国美第一城</a><a href="/xiaoqu/11897" target="_blank">珠江帝景</a><a href="/xiaoqu/3252" target="_blank">新龙城</a><a href="/xiaoqu/2018" target="_blank">天鹅湾</a></p> 
+    <p><a href="/xiaoqu/3201" target="_blank">Զ��ɽˮ</a><a href="/xiaoqu/11441" target="_blank">������һ��</a><a href="/xiaoqu/11897" target="_blank">�齭�۾�</a><a href="/xiaoqu/3252" target="_blank">������</a><a href="/xiaoqu/2018" target="_blank">�����</a></p> 
    </div> 
   </div>
   <!-- /tsearch --> 
@@ -169,228 +169,228 @@ function AddFavorite(sURL, sTitle) {
    <div class="search_nav"> 
     <div class="hd"> 
      <ul class="left"> 
-      <li class="btn1 curr"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0q0b0xl0zd0xq0st0s0tx1/" title="按区域查询">
-        <s></s>按区域查询</a></li> 
-      <li class="btn2"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0q0b0xl0zd0xq0st0s0tx2/" title="按地铁查询">
-        <s></s>按地铁查询</a></li> 
-      <!-- 增加四个城市学校 北京，上海，天津，广州  start--> 
-      <li class="btn3"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0q0b0xl0zd0xq0st0s0tx3/" title="按学校查询">
-        <s></s>按学校查询</a></li> 
-      <!-- 增加四个城市学校 北京，上海，天津，广州  end--> 
-      <li class="btn5"><a href="/map/ershoufang/#config=lng:116.397428|lat:39.90923" target="_blank" title="地图找房">
-        <s></s>地图找房</a></li> 
+      <li class="btn1 curr"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0q0b0xl0zd0xq0st0s0tx1/" title="�������ѯ">
+        <s></s>�������ѯ</a></li> 
+      <li class="btn2"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0q0b0xl0zd0xq0st0s0tx2/" title="��������ѯ">
+        <s></s>��������ѯ</a></li> 
+      <!-- �����ĸ�����ѧУ �������Ϻ�����򣬹���  start--> 
+      <li class="btn3"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0q0b0xl0zd0xq0st0s0tx3/" title="��ѧУ��ѯ">
+        <s></s>��ѧУ��ѯ</a></li> 
+      <!-- �����ĸ�����ѧУ �������Ϻ�����򣬹���  end--> 
+      <li class="btn5"><a href="/map/ershoufang/#config=lng:116.397428|lat:39.90923" target="_blank" title="��ͼ�ҷ�">
+        <s></s>��ͼ�ҷ�</a></li> 
      </ul> 
      <ul class="right"> 
      </ul> 
     </div> 
     <div class="bd op"> 
      <div class="choice" style="display:none;"> 
-      <p class="l">您已选择：</p> 
+      <p class="l">����ѡ��</p> 
       <ul class="r"> 
       </ul> 
      </div> 
      <div class="dreshdae" style="display:none;"> 
       <p class="l">&nbsp;</p> 
       <ul class="r"> 
-       <li><a class="rel" href="javascript:void(0)">区域不限
+       <li><a class="rel" href="javascript:void(0)">������
          <s></s></a> 
         <div class="pop_select s_style1" style="display:none;"> 
          <ul> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st0s0tx1/">不限</a></li> 
-          <li><a id="area1" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q1b0xl0zd0xq0st0s0tx1/">东城</a></li> 
-          <li><a id="area2" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q2b0xl0zd0xq0st0s0tx1/">西城</a></li> 
-          <li><a id="area3" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q3b0xl0zd0xq0st0s0tx1/">崇文</a></li> 
-          <li><a id="area4" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q4b0xl0zd0xq0st0s0tx1/">宣武</a></li> 
-          <li><a id="area5" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q5b0xl0zd0xq0st0s0tx1/">朝阳</a></li> 
-          <li><a id="area6" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q6b0xl0zd0xq0st0s0tx1/">海淀</a></li> 
-          <li><a id="area7" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q7b0xl0zd0xq0st0s0tx1/">丰台</a></li> 
-          <li><a id="area8" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q8b0xl0zd0xq0st0s0tx1/">石景山</a></li> 
-          <li><a id="area9" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q9b0xl0zd0xq0st0s0tx1/">门头沟</a></li> 
-          <li><a id="area10" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q10b0xl0zd0xq0st0s0tx1/">房山</a></li> 
-          <li><a id="area11" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q11b0xl0zd0xq0st0s0tx1/">通州</a></li> 
-          <li><a id="area12" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q12b0xl0zd0xq0st0s0tx1/">昌平</a></li> 
-          <li><a id="area13" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q13b0xl0zd0xq0st0s0tx1/">大兴</a></li> 
-          <li><a id="area14" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q14b0xl0zd0xq0st0s0tx1/">怀柔</a></li> 
-          <li><a id="area15" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q15b0xl0zd0xq0st0s0tx1/">顺义</a></li> 
-          <li><a id="area16" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q16b0xl0zd0xq0st0s0tx1/">密云</a></li> 
-          <li><a id="area17" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q17b0xl0zd0xq0st0s0tx1/">平谷</a></li> 
-          <li><a id="area26" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q26b0xl0zd0xq0st0s0tx1/">延庆</a></li> 
-          <li><a id="area27" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q27b0xl0zd0xq0st0s0tx1/">周边</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st0s0tx1/">����</a></li> 
+          <li><a id="area1" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q1b0xl0zd0xq0st0s0tx1/">����</a></li> 
+          <li><a id="area2" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q2b0xl0zd0xq0st0s0tx1/">����</a></li> 
+          <li><a id="area3" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q3b0xl0zd0xq0st0s0tx1/">����</a></li> 
+          <li><a id="area4" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q4b0xl0zd0xq0st0s0tx1/">����</a></li> 
+          <li><a id="area5" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q5b0xl0zd0xq0st0s0tx1/">����</a></li> 
+          <li><a id="area6" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q6b0xl0zd0xq0st0s0tx1/">����</a></li> 
+          <li><a id="area7" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q7b0xl0zd0xq0st0s0tx1/">��̨</a></li> 
+          <li><a id="area8" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q8b0xl0zd0xq0st0s0tx1/">ʯ��ɽ</a></li> 
+          <li><a id="area9" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q9b0xl0zd0xq0st0s0tx1/">��ͷ��</a></li> 
+          <li><a id="area10" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q10b0xl0zd0xq0st0s0tx1/">��ɽ</a></li> 
+          <li><a id="area11" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q11b0xl0zd0xq0st0s0tx1/">ͨ��</a></li> 
+          <li><a id="area12" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q12b0xl0zd0xq0st0s0tx1/">��ƽ</a></li> 
+          <li><a id="area13" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q13b0xl0zd0xq0st0s0tx1/">����</a></li> 
+          <li><a id="area14" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q14b0xl0zd0xq0st0s0tx1/">����</a></li> 
+          <li><a id="area15" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q15b0xl0zd0xq0st0s0tx1/">˳��</a></li> 
+          <li><a id="area16" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q16b0xl0zd0xq0st0s0tx1/">����</a></li> 
+          <li><a id="area17" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q17b0xl0zd0xq0st0s0tx1/">ƽ��</a></li> 
+          <li><a id="area26" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q26b0xl0zd0xq0st0s0tx1/">����</a></li> 
+          <li><a id="area27" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q27b0xl0zd0xq0st0s0tx1/">�ܱ�</a></li> 
          </ul> 
         </div></li> 
-       <li style="display:none;"><a class="rel" href="javascript:void(0)">地铁不限
+       <li style="display:none;"><a class="rel" href="javascript:void(0)">��������
          <s></s></a> 
         <div class="pop_select s_style1" style="display:none;"> 
          <ul> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st0s0tx2/">不限</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl1zd0xq0st0s0tx2/">1号线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl3zd0xq0st0s0tx2/">2号线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl4zd0xq0st0s0tx2/">4号线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl5zd0xq0st0s0tx2/">5号线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl6zd0xq0st0s0tx2/">6号线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl8zd0xq0st0s0tx2/">8号线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl9zd0xq0st0s0tx2/">9号线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl10zd0xq0st0s0tx2/">10号线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl11zd0xq0st0s0tx2/">13号线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl13zd0xq0st0s0tx2/">15号线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl14zd0xq0st0s0tx2/">机场线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl15zd0xq0st0s0tx2/">八通线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl16zd0xq0st0s0tx2/">房山线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl17zd0xq0st0s0tx2/">昌平线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl18zd0xq0st0s0tx2/">大兴线</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl19zd0xq0st0s0tx2/">亦庄线</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st0s0tx2/">����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl1zd0xq0st0s0tx2/">1����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl3zd0xq0st0s0tx2/">2����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl4zd0xq0st0s0tx2/">4����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl5zd0xq0st0s0tx2/">5����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl6zd0xq0st0s0tx2/">6����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl8zd0xq0st0s0tx2/">8����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl9zd0xq0st0s0tx2/">9����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl10zd0xq0st0s0tx2/">10����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl11zd0xq0st0s0tx2/">13����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl13zd0xq0st0s0tx2/">15����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl14zd0xq0st0s0tx2/">������</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl15zd0xq0st0s0tx2/">��ͨ��</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl16zd0xq0st0s0tx2/">��ɽ��</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl17zd0xq0st0s0tx2/">��ƽ��</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl18zd0xq0st0s0tx2/">������</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl19zd0xq0st0s0tx2/">��ׯ��</a></li> 
          </ul> 
         </div> </li> 
        <li style="display:none;" class="school"><a class="s_btn rel" href="javascript:void(0)"><em></em></a> 
         <div class="pop_select s_style3" style="display:none;"> 
          <ul> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st1s0tx3/">大学</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st2s0tx3/">中学</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx3/">小学</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st1s0tx3/">��ѧ</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st2s0tx3/">��ѧ</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx3/">Сѧ</a></li> 
          </ul> 
         </div> <a class="rel" href="javascript:void(0)" style="display: none"></a> </li> 
-       <li style="display:none;"><a class="rel" href="javascript:void(0)">步行不限
+       <li style="display:none;"><a class="rel" href="javascript:void(0)">���в���
          <s></s></a> 
         <div class="pop_select s_style5" style="display:none;"> 
          <ul> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">不限</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx1pic0q0b0xl0zd0xq0st3s0tx1/">10分钟以内</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx2pic0q0b0xl0zd0xq0st3s0tx1/">10分钟-20分钟</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx3pic0q0b0xl0zd0xq0st3s0tx1/">20分钟-30分钟</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx1pic0q0b0xl0zd0xq0st3s0tx1/">10��������</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx2pic0q0b0xl0zd0xq0st3s0tx1/">10����-20����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx3pic0q0b0xl0zd0xq0st3s0tx1/">20����-30����</a></li> 
          </ul> 
         </div> </li> 
-       <li><a class="rel" href="javascript:void(0)">售价不限
+       <li><a class="rel" href="javascript:void(0)">�ۼ۲���
          <s></s></a> 
         <div class="pop_select s_style2" style="display:none;"> 
          <ul> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">不限</a></li> 
-          <li><a href="/ershoufang/j0-80m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">80万以下</a></li> 
-          <li><a href="/ershoufang/j80-150m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">80-150万</a></li> 
-          <li><a href="/ershoufang/j150-300m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">150-300万</a></li> 
-          <li><a href="/ershoufang/j300-500m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">300-500万</a></li> 
-          <li><a href="/ershoufang/j500-999999m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">500万以上</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a></li> 
+          <li><a href="/ershoufang/j0-80m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">80������</a></li> 
+          <li><a href="/ershoufang/j80-150m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">80-150��</a></li> 
+          <li><a href="/ershoufang/j150-300m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">150-300��</a></li> 
+          <li><a href="/ershoufang/j300-500m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">300-500��</a></li> 
+          <li><a href="/ershoufang/j500-999999m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">500������</a></li> 
          </ul> 
          <div class="input">
           <input class="inp w4" type="text" name="price_min_s" id="price_min_s" value="" />-
-          <input class="inp w4" type="text" name="price_max_s" id="price_max_s" value="" />万
-          <input class="btn" type="submit" onclick="setPriceS('/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')" value="确定" />
+          <input class="inp w4" type="text" name="price_max_s" id="price_max_s" value="" />��
+          <input class="btn" type="submit" onclick="setPriceS('/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')" value="ȷ��" />
          </div> 
         </div></li> 
-       <li><a class="rel" href="javascript:void(0)">面积不限
+       <li><a class="rel" href="javascript:void(0)">�������
          <s></s></a> 
         <div class="pop_select s_style2" style="display:none;"> 
          <ul> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">不限</a></li> 
-          <li><a href="/ershoufang/j0m0-50h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">50&#65533;以下</a></li> 
-          <li><a href="/ershoufang/j0m50-100h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">50-100&#65533;</a></li> 
-          <li><a href="/ershoufang/j0m100-200h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">100-200&#65533;</a></li> 
-          <li><a href="/ershoufang/j0m200-300h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">200-300&#65533;</a></li> 
-          <li><a href="/ershoufang/j0m300-500h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">300-500&#65533;</a></li> 
-          <li><a href="/ershoufang/j0m500-999999h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">500&#65533;以上</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a></li> 
+          <li><a href="/ershoufang/j0m0-50h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">50&#65533;O����</a></li> 
+          <li><a href="/ershoufang/j0m50-100h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">50-100&#65533;O</a></li> 
+          <li><a href="/ershoufang/j0m100-200h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">100-200&#65533;O</a></li> 
+          <li><a href="/ershoufang/j0m200-300h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">200-300&#65533;O</a></li> 
+          <li><a href="/ershoufang/j0m300-500h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">300-500&#65533;O</a></li> 
+          <li><a href="/ershoufang/j0m500-999999h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">500&#65533;O����</a></li> 
          </ul> 
          <div class="input">
           <input class="inp w4" type="text" name="area_min_s" id="area_min_s" value="" />-
-          <input class="inp w4" type="text" name="area_max_s" id="area_max_s" value="" />&#65533;
-          <input class="btn" type="submit" onclick="setAreaS('/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')" value="确定" />
+          <input class="inp w4" type="text" name="area_max_s" id="area_max_s" value="" />&#65533;O
+          <input class="btn" type="submit" onclick="setAreaS('/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')" value="ȷ��" />
          </div> 
         </div></li> 
-       <li><a class="rel" href="javascript:void(0)">户型不限
+       <li><a class="rel" href="javascript:void(0)">���Ͳ���
          <s></s></a> 
         <div class="pop_select s_style3" style="display:none;"> 
          <ul> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">不限</a></li> 
-          <li><a href="/ershoufang/j0m0h1jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">一居</a></li> 
-          <li><a href="/ershoufang/j0m0h2jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">两居</a></li> 
-          <li><a href="/ershoufang/j0m0h3jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">三居</a></li> 
-          <li><a href="/ershoufang/j0m0h4jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">四居</a></li> 
-          <li><a href="/ershoufang/j0m0h5jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">五居</a></li> 
-          <li><a href="/ershoufang/j0m0h6jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">五居以上</a></li> 
-          <li><a href="/ershoufang/j0m0h99jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">复式</a></li> 
-          <li><a href="/ershoufang/j0m0h100jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">开间</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a></li> 
+          <li><a href="/ershoufang/j0m0h1jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">һ��</a></li> 
+          <li><a href="/ershoufang/j0m0h2jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a></li> 
+          <li><a href="/ershoufang/j0m0h3jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a></li> 
+          <li><a href="/ershoufang/j0m0h4jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">�ľ�</a></li> 
+          <li><a href="/ershoufang/j0m0h5jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">���</a></li> 
+          <li><a href="/ershoufang/j0m0h6jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">�������</a></li> 
+          <li><a href="/ershoufang/j0m0h99jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">��ʽ</a></li> 
+          <li><a href="/ershoufang/j0m0h100jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a></li> 
          </ul> 
         </div> </li> 
-       <li><a class="rel" href="javascript:void(0)">类型不限
+       <li><a class="rel" href="javascript:void(0)">���Ͳ���
          <s></s></a> 
         <div class="pop_select s_style3" style="display:none;"> 
          <ul> 
-          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">不限</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz1zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">普通住宅</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz5zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">商住两用</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz6zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">公寓</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz2zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">别墅</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz3zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">写字楼</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz4zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">商铺</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz7zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">平房/四合院</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz8zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">车位</a></li> 
-          <li><a href="/ershoufang/j0m0h0jz9zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">其他</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz1zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">��ͨסլ</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz5zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">��ס����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz6zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">��Ԣ</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz2zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz3zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">д��¥</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz4zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz7zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">ƽ��/�ĺ�Ժ</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz8zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">��λ</a></li> 
+          <li><a href="/ershoufang/j0m0h0jz9zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a></li> 
          </ul> 
         </div> </li> 
       </ul> 
      </div> 
      <div class="keyword"> 
       <div class="qual" id="sale_show_block_1"> 
-       <strong>区域：</strong>
-       <a class="h" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st0s0tx1/">不限</a> 
-       <a id="area1" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q1b0xl0zd0xq0st0s0tx1/" name="area">东城</a> 
-       <a id="area2" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q2b0xl0zd0xq0st0s0tx1/" name="area">西城</a> 
-       <a id="area3" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q3b0xl0zd0xq0st0s0tx1/" name="area">崇文</a> 
-       <a id="area4" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q4b0xl0zd0xq0st0s0tx1/" name="area">宣武</a> 
-       <a id="area5" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q5b0xl0zd0xq0st0s0tx1/" name="area">朝阳</a> 
-       <a id="area6" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q6b0xl0zd0xq0st0s0tx1/" name="area">海淀</a> 
-       <a id="area7" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q7b0xl0zd0xq0st0s0tx1/" name="area">丰台</a> 
-       <a id="area8" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q8b0xl0zd0xq0st0s0tx1/" name="area">石景山</a> 
-       <a id="area9" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q9b0xl0zd0xq0st0s0tx1/" name="area">门头沟</a> 
-       <a id="area10" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q10b0xl0zd0xq0st0s0tx1/" name="area">房山</a> 
-       <a id="area11" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q11b0xl0zd0xq0st0s0tx1/" name="area">通州</a> 
-       <a id="area12" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q12b0xl0zd0xq0st0s0tx1/" name="area">昌平</a> 
-       <a id="area13" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q13b0xl0zd0xq0st0s0tx1/" name="area">大兴</a> 
-       <a id="area14" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q14b0xl0zd0xq0st0s0tx1/" name="area">怀柔</a> 
-       <a id="area15" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q15b0xl0zd0xq0st0s0tx1/" name="area">顺义</a> 
-       <a id="area16" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q16b0xl0zd0xq0st0s0tx1/" name="area">密云</a> 
-       <a id="area17" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q17b0xl0zd0xq0st0s0tx1/" name="area">平谷</a> 
-       <a id="area26" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q26b0xl0zd0xq0st0s0tx1/" name="area">延庆</a> 
-       <a id="area27" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q27b0xl0zd0xq0st0s0tx1/" name="area">周边</a> 
+       <strong>����</strong>
+       <a class="h" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st0s0tx1/">����</a> 
+       <a id="area1" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q1b0xl0zd0xq0st0s0tx1/" name="area">����</a> 
+       <a id="area2" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q2b0xl0zd0xq0st0s0tx1/" name="area">����</a> 
+       <a id="area3" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q3b0xl0zd0xq0st0s0tx1/" name="area">����</a> 
+       <a id="area4" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q4b0xl0zd0xq0st0s0tx1/" name="area">����</a> 
+       <a id="area5" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q5b0xl0zd0xq0st0s0tx1/" name="area">����</a> 
+       <a id="area6" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q6b0xl0zd0xq0st0s0tx1/" name="area">����</a> 
+       <a id="area7" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q7b0xl0zd0xq0st0s0tx1/" name="area">��̨</a> 
+       <a id="area8" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q8b0xl0zd0xq0st0s0tx1/" name="area">ʯ��ɽ</a> 
+       <a id="area9" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q9b0xl0zd0xq0st0s0tx1/" name="area">��ͷ��</a> 
+       <a id="area10" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q10b0xl0zd0xq0st0s0tx1/" name="area">��ɽ</a> 
+       <a id="area11" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q11b0xl0zd0xq0st0s0tx1/" name="area">ͨ��</a> 
+       <a id="area12" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q12b0xl0zd0xq0st0s0tx1/" name="area">��ƽ</a> 
+       <a id="area13" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q13b0xl0zd0xq0st0s0tx1/" name="area">����</a> 
+       <a id="area14" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q14b0xl0zd0xq0st0s0tx1/" name="area">����</a> 
+       <a id="area15" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q15b0xl0zd0xq0st0s0tx1/" name="area">˳��</a> 
+       <a id="area16" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q16b0xl0zd0xq0st0s0tx1/" name="area">����</a> 
+       <a id="area17" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q17b0xl0zd0xq0st0s0tx1/" name="area">ƽ��</a> 
+       <a id="area26" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q26b0xl0zd0xq0st0s0tx1/" name="area">����</a> 
+       <a id="area27" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q27b0xl0zd0xq0st0s0tx1/" name="area">�ܱ�</a> 
       </div> 
       <div class="qual" id="sale_show_block_2" style="display:none;"> 
-       <strong>地铁：</strong>
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st0s0tx2/" class="h">不限</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl1zd0xq0st0s0tx2/" name="site">1号线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl3zd0xq0st0s0tx2/" name="site">2号线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl4zd0xq0st0s0tx2/" name="site">4号线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl5zd0xq0st0s0tx2/" name="site">5号线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl6zd0xq0st0s0tx2/" name="site">6号线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl8zd0xq0st0s0tx2/" name="site">8号线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl9zd0xq0st0s0tx2/" name="site">9号线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl10zd0xq0st0s0tx2/" name="site">10号线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl11zd0xq0st0s0tx2/" name="site">13号线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl13zd0xq0st0s0tx2/" name="site">15号线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl14zd0xq0st0s0tx2/" name="site">机场线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl15zd0xq0st0s0tx2/" name="site">八通线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl16zd0xq0st0s0tx2/" name="site">房山线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl17zd0xq0st0s0tx2/" name="site">昌平线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl18zd0xq0st0s0tx2/" name="site">大兴线</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl19zd0xq0st0s0tx2/" name="site">亦庄线</a> 
+       <strong>������</strong>
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st0s0tx2/" class="h">����</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl1zd0xq0st0s0tx2/" name="site">1����</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl3zd0xq0st0s0tx2/" name="site">2����</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl4zd0xq0st0s0tx2/" name="site">4����</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl5zd0xq0st0s0tx2/" name="site">5����</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl6zd0xq0st0s0tx2/" name="site">6����</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl8zd0xq0st0s0tx2/" name="site">8����</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl9zd0xq0st0s0tx2/" name="site">9����</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl10zd0xq0st0s0tx2/" name="site">10����</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl11zd0xq0st0s0tx2/" name="site">13����</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl13zd0xq0st0s0tx2/" name="site">15����</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl14zd0xq0st0s0tx2/" name="site">������</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl15zd0xq0st0s0tx2/" name="site">��ͨ��</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl16zd0xq0st0s0tx2/" name="site">��ɽ��</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl17zd0xq0st0s0tx2/" name="site">��ƽ��</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl18zd0xq0st0s0tx2/" name="site">������</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl19zd0xq0st0s0tx2/" name="site">��ׯ��</a> 
       </div> 
       <div class="qual" id="sale_show_block_3" style="display:none;"> 
-       <strong>学校：</strong> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st1s0tx3/">大学</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st2s0tx3/">中学</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx3/" class="curr">小学</a> 
+       <strong>ѧУ��</strong> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st1s0tx3/">��ѧ</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st2s0tx3/">��ѧ</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx3/" class="curr">Сѧ</a> 
       </div> 
       <div class="word hidden"> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx3/" class="h">不限</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s1068tx3/">北京市海淀区中关村第一小学</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s1070tx3/">北京市海淀区中关村第三小学</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s816tx3/">北京第二实验小学</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s750tx3/">北京市东城区史家胡同小学</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s1040tx3/">北京市海淀区六一小学</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s851tx3/">北京小学</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx3/" class="h">����</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s1068tx3/">�����к������йش��һСѧ</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s1070tx3/">�����к������йش����Сѧ</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s816tx3/">�����ڶ�ʵ��Сѧ</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s750tx3/">�����ж�����ʷ�Һ�ͬСѧ</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s1040tx3/">�����к�������һСѧ</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s851tx3/">����Сѧ</a> 
        <input type="hidden" id="search_school_url" value="ershoufang" /> 
        <input type="hidden" id="school_type" value="3" /> 
        <input type="hidden" id="briefness" value="0" /> 
        <input type="hidden" id="school_ciyt_id" value="1" /> 
        <input type="hidden" id="walk_time_id" value="0" /> 
-       <span class="inputbox"> <input class="input" autocomplete="off" name="school_name" id="school_name" type="text" value="查找其他学校" onclick="if(this.value=='查找其他学校'){this.value=''}" onblur="if(this.value==''){this.value='查找其他学校'}" /><input class="btn _select_school_submit" type="submit" value="查找" onclick="showSchoolDiv()" /> 
+       <span class="inputbox"> <input class="input" autocomplete="off" name="school_name" id="school_name" type="text" value="��������ѧУ" onclick="if(this.value=='��������ѧУ'){this.value=''}" onblur="if(this.value==''){this.value='��������ѧУ'}" /><input class="btn _select_school_submit" type="submit" value="����" onclick="showSchoolDiv()" /> 
         <div class="pop_select s_style4" id="suggest_school" style="display:none"> 
          <!--[if lte IE 6]>
 							<div style="position:absolute;z-index:-1;left:0;bottom:0;width:100%; height:100%; margin:0;">
@@ -400,63 +400,63 @@ function AddFavorite(sURL, sTitle) {
         </div> </span> 
       </div> 
       <div class="qual" style="display:none;"> 
-       <strong>步行：</strong>
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" class="h">不限</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx1pic0q0b0xl0zd0xq0st3s0tx1/">10分钟以内</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx2pic0q0b0xl0zd0xq0st3s0tx1/">10分钟-20分钟</a> 
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx3pic0q0b0xl0zd0xq0st3s0tx1/">20分钟-30分钟</a> 
+       <strong>���У�</strong>
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" class="h">����</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx1pic0q0b0xl0zd0xq0st3s0tx1/">10��������</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx2pic0q0b0xl0zd0xq0st3s0tx1/">10����-20����</a> 
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx3pic0q0b0xl0zd0xq0st3s0tx1/">20����-30����</a> 
       </div> 
       <div class="qual"> 
-       <strong>售价：</strong>
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" class="h">不限</a> 
-       <a href="/ershoufang/j0-80m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">80万以下</a> 
-       <a href="/ershoufang/j80-150m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">80-150万</a> 
-       <a href="/ershoufang/j150-300m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">150-300万</a> 
-       <a href="/ershoufang/j300-500m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">300-500万</a> 
-       <a href="/ershoufang/j500-999999m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">500万以上</a> 
-       <span class="inputbox"><input class="input" type="text" name="price_min" id="price_min" value="" /> - <input class="input" type="text" name="price_max" id="price_max" value="" />&nbsp;万<input type="submit" name="price_btn" class="btn" value="确定" onclick="setPrice('/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')" /></span> 
+       <strong>�ۼۣ�</strong>
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" class="h">����</a> 
+       <a href="/ershoufang/j0-80m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">80������</a> 
+       <a href="/ershoufang/j80-150m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">80-150��</a> 
+       <a href="/ershoufang/j150-300m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">150-300��</a> 
+       <a href="/ershoufang/j300-500m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">300-500��</a> 
+       <a href="/ershoufang/j500-999999m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">500������</a> 
+       <span class="inputbox"><input class="input" type="text" name="price_min" id="price_min" value="" /> - <input class="input" type="text" name="price_max" id="price_max" value="" />&nbsp;��<input type="submit" name="price_btn" class="btn" value="ȷ��" onclick="setPrice('/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')" /></span> 
       </div> 
       <div class="qual"> 
        <input type="hidden" name="area_id" id="area_id" /> 
-       <strong>面积：</strong>
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" class="h">不限</a> 
-       <a href="/ershoufang/j0m0-50h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">50&#65533;以下</a> 
-       <a href="/ershoufang/j0m50-100h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">50-100&#65533;</a> 
-       <a href="/ershoufang/j0m100-200h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">100-200&#65533;</a> 
-       <a href="/ershoufang/j0m200-300h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">200-300&#65533;</a> 
-       <a href="/ershoufang/j0m300-500h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">300-500&#65533;</a> 
-       <a href="/ershoufang/j0m500-999999h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">500&#65533;以上</a> 
-       <span class="inputbox"><input class="input" type="text" name="area_min" id="area_min" value="" /> - <input class="input" type="text" name="area_max" id="area_max" value="" />&nbsp;&#65533;<input type="submit" name="area_btn" class="btn" value="确定" onclick="setArea('/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')" /></span> 
+       <strong>�����</strong>
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" class="h">����</a> 
+       <a href="/ershoufang/j0m0-50h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">50&#65533;O����</a> 
+       <a href="/ershoufang/j0m50-100h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">50-100&#65533;O</a> 
+       <a href="/ershoufang/j0m100-200h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">100-200&#65533;O</a> 
+       <a href="/ershoufang/j0m200-300h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">200-300&#65533;O</a> 
+       <a href="/ershoufang/j0m300-500h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">300-500&#65533;O</a> 
+       <a href="/ershoufang/j0m500-999999h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">500&#65533;O����</a> 
+       <span class="inputbox"><input class="input" type="text" name="area_min" id="area_min" value="" /> - <input class="input" type="text" name="area_max" id="area_max" value="" />&nbsp;&#65533;O<input type="submit" name="area_btn" class="btn" value="ȷ��" onclick="setArea('/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')" /></span> 
       </div> 
       <div class="qual"> 
-       <strong>户型：</strong>
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" class="h">不限</a> 
-       <a href="/ershoufang/j0m0h1jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">一居</a> 
-       <a href="/ershoufang/j0m0h2jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">两居</a> 
-       <a href="/ershoufang/j0m0h3jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">三居</a> 
-       <a href="/ershoufang/j0m0h4jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">四居</a> 
-       <a href="/ershoufang/j0m0h5jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">五居</a> 
-       <a href="/ershoufang/j0m0h6jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">五居以上</a> 
-       <a href="/ershoufang/j0m0h99jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">复式</a> 
-       <a href="/ershoufang/j0m0h100jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">开间</a> 
+       <strong>���ͣ�</strong>
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" class="h">����</a> 
+       <a href="/ershoufang/j0m0h1jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">һ��</a> 
+       <a href="/ershoufang/j0m0h2jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a> 
+       <a href="/ershoufang/j0m0h3jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a> 
+       <a href="/ershoufang/j0m0h4jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">�ľ�</a> 
+       <a href="/ershoufang/j0m0h5jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">���</a> 
+       <a href="/ershoufang/j0m0h6jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">�������</a> 
+       <a href="/ershoufang/j0m0h99jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">��ʽ</a> 
+       <a href="/ershoufang/j0m0h100jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a> 
       </div> 
       <div class="qual"> 
-       <strong>类型：</strong>
-       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" class="h">不限</a> 
-       <a href="/ershoufang/j0m0h0jz1zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">普通住宅</a> 
-       <a href="/ershoufang/j0m0h0jz5zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">商住两用</a> 
-       <a href="/ershoufang/j0m0h0jz6zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">公寓</a> 
-       <a href="/ershoufang/j0m0h0jz2zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">别墅</a> 
-       <a href="/ershoufang/j0m0h0jz3zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">写字楼</a> 
-       <a href="/ershoufang/j0m0h0jz4zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">商铺</a> 
-       <a href="/ershoufang/j0m0h0jz7zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">平房/四合院</a> 
-       <a href="/ershoufang/j0m0h0jz8zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">车位</a> 
-       <a href="/ershoufang/j0m0h0jz9zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">其他</a> 
+       <strong>���ͣ�</strong>
+       <a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" class="h">����</a> 
+       <a href="/ershoufang/j0m0h0jz1zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">��ͨסլ</a> 
+       <a href="/ershoufang/j0m0h0jz5zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">��ס����</a> 
+       <a href="/ershoufang/j0m0h0jz6zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">��Ԣ</a> 
+       <a href="/ershoufang/j0m0h0jz2zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a> 
+       <a href="/ershoufang/j0m0h0jz3zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">д��¥</a> 
+       <a href="/ershoufang/j0m0h0jz4zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a> 
+       <a href="/ershoufang/j0m0h0jz7zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">ƽ��/�ĺ�Ժ</a> 
+       <a href="/ershoufang/j0m0h0jz8zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">��λ</a> 
+       <a href="/ershoufang/j0m0h0jz9zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">����</a> 
       </div> 
      </div> 
      <div id="bdline" class="bdline"></div> 
      <div id="wrap" class="wrap">
-      <a class="close" href="javascript:void(0)" onclick="put(1,'/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/');return false;" title="收起"></a>
+      <a class="close" href="javascript:void(0)" onclick="put(1,'/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/');return false;" title="����"></a>
      </div> 
     </div> 
    </div> 
@@ -468,33 +468,33 @@ function AddFavorite(sURL, sTitle) {
       <div class="hd"> 
        <div class="nav"> 
         <div class="l"> 
-         <a class="curr" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="全部房源">全部房源</a>
-         <a href="/ershoufang/j0m0h0jz0zx0cx0bq1p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="急售房源">急售房源</a>
-         <a href="/ershoufang/j0m0h0jz0zx0cx0bq2p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="免税房源">免税房源</a>
-         <a href="/ershoufang/j0m0h0jz0zx0cx0bq3p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="个人房源">个人房源</a> 
+         <a class="curr" href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="ȫ����Դ">ȫ����Դ</a>
+         <a href="/ershoufang/j0m0h0jz0zx0cx0bq1p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="���۷�Դ">���۷�Դ</a>
+         <a href="/ershoufang/j0m0h0jz0zx0cx0bq2p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="��˰��Դ">��˰��Դ</a>
+         <a href="/ershoufang/j0m0h0jz0zx0cx0bq3p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="���˷�Դ">���˷�Դ</a> 
         </div> 
         <div class="r"> 
          <div class="pageIng"> 
-          <span class="fl">共有<b>188112</b>套出售房源</span> 
+          <span class="fl">����<b>189993</b>�׳��۷�Դ</span> 
           <ul class="fr"> 
-           <li class="no_up"><a href="javascript:void(0)">上一页</a></li>
-           <li>1/9406</li>
-           <li class="down"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p2px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="下一页">下一页</a></li> 
+           <li class="no_up"><a href="javascript:void(0)">��һҳ</a></li>
+           <li>1/9500</li>
+           <li class="down"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p2px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="��һҳ">��һҳ</a></li> 
           </ul> 
          </div> 
         </div> 
        </div> 
        <div class="filter"> 
         <div class="l"> 
-         <select onchange="setFitment(this.value,'/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')"> <option value="0" selected="">装修不限</option> <option value="1">精装</option> <option value="2">简装</option> <option value="3">毛坯房</option> <option value="4">豪华</option> </select> 
-         <select onchange="setExposure(this.value,'/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')"> <option value="0" selected="">朝向不限</option> <option value="1">东西</option> <option value="2">南北</option> <option value="3">东</option> <option value="4">南</option> <option value="5">西</option> <option value="6">北</option> <option value="7">东南</option> <option value="8">西南</option> <option value="9">东北</option> <option value="10">西北</option> </select> 
-         <select onchange="setBuildYear(this.value,'/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')"> <option value="0" selected="">年代不限</option> <option value="1">2008年后</option> <option value="2">2000-2008年</option> <option value="3">1995-2000年</option> <option value="4">1995年前</option> </select> 
+         <select onchange="setFitment(this.value,'/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')"> <option value="0" selected="">װ�޲���</option> <option value="1">��װ</option> <option value="2">��װ</option> <option value="3">ë����</option> <option value="4">����</option> </select> 
+         <select onchange="setExposure(this.value,'/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')"> <option value="0" selected="">������</option> <option value="1">����</option> <option value="2">�ϱ�</option> <option value="3">��</option> <option value="4">��</option> <option value="5">��</option> <option value="6">��</option> <option value="7">����</option> <option value="8">����</option> <option value="9">����</option> <option value="10">����</option> </select> 
+         <select onchange="setBuildYear(this.value,'/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')"> <option value="0" selected="">�������</option> <option value="1">2008���</option> <option value="2">2000-2008��</option> <option value="3">1995-2000��</option> <option value="4">1995��ǰ</option> </select> 
         </div> 
         <div class="r"> 
          <ul> 
-          <li>排序： <select onchange="setOrder(this.value,'/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')"> <option value="0" selected="">默认排序</option> <option value="1">总价由高到低</option> <option value="2">总价由低到高</option> <option value="3">面积由高到低</option> <option value="4">面积由低到高</option> </select></li> 
-          <li class="taxis"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px2nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">总价</a></li> 
-          <li class="taxis"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px4nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">面积</a></li> 
+          <li>���� <select onchange="setOrder(this.value,'/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/')"> <option value="0" selected="">Ĭ������</option> <option value="1">�ܼ��ɸߵ���</option> <option value="2">�ܼ��ɵ͵���</option> <option value="3">����ɸߵ���</option> <option value="4">����ɵ͵���</option> </select></li> 
+          <li class="taxis"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px2nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">�ܼ�</a></li> 
+          <li class="taxis"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p1px4nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/">���</a></li> 
          </ul> 
         </div> 
        </div> 
@@ -504,608 +504,606 @@ function AddFavorite(sURL, sTitle) {
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/278383711122933911.html" target="_blank"><img alt="降价降价在降价超级便宜5室北京198栋" src="http://img3.f.itc.cn/esf/6116/32/42/100x75_61163242.jpg" width="100" height="77" /></a><b>9&nbsp;图</b></p>
+           <p><a href="/ershoufang/267970525085600579.html" target="_blank"><img alt="�ߵ�����  �ƽ�ض�  ���ۺ÷�����   " src="http://img2.f.itc.cn/esf/6007/4/32/100x75_60070432.jpg" width="100" height="77" /></a><b>4&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/278383711122933911.html" target="_blank" title="降价降价在降价超级便宜5室北京198栋">降价降价在降价超级便宜5室北京198栋</a>
+            <a href="/ershoufang/267970525085600579.html" target="_blank" title="�ߵ�����  �ƽ�ض�  ���ۺ÷�����   ">������100%�淿Դ���ߵ����� �ƽ�ض� ���ۺ÷����� </a>
            </dt> 
            <dd>
-            5室3厅 | 毛坯房 | 南北 | 2008年 | 16206.9元/&#65533; | 1/3层
+            3��2�� | ��װ | ���� | 2004�� | 37209.3Ԫ/&#65533;O | 19/20��
            </dd> 
            <dd>
-            <a href="/xiaoqu/104746/" title="北京198栋" target="_blank">北京198栋</a>&nbsp; 大兴北京南五环路金星出口公安大学往南400米&nbsp;
-            <a href="/xiaoqu/104746/ditu" onmouseover="showMap(116.38192483172,39.748200366985);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/3154/" title="���ͳǴ���԰" target="_blank">���ͳǴ���԰</a>&nbsp; ���峧��·�������ű�&nbsp;
+            <a href="/xiaoqu/3154/ditu" onmouseover="showMap(116.28722139593,39.960498166867);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>470</b>万</p> <p><span class="fs16">290</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>640</b>��</p> <p><span class="fs16">172</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/278383711122933911.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/104746/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/104746/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/104746/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr8490xq0h0m0j0px0p1bq0" target="_blank">凯成永泰房地产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr8490xq0h0m0j0px0p1bq0" target="_blank">邝倍倍</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/267970525085600579.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/3154/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/3154/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/3154/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr65524xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr65524xq0h0m0j0px0p1bq0" target="_blank">�ﳯ��</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/278383711122933911.html" target="_blank"></a>
+          <a href="/ershoufang/267970525085600579.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/282802621030420819.html" target="_blank"><img alt="丰台科技园 怡海花园经典两居 楼层好" src="http://img4.f.itc.cn/esf/6177/29/68/100x75_61772968.jpg" width="100" height="77" /></a><b>8&nbsp;图</b></p>
+           <p><a href="/ershoufang/269534329113407965.html" target="_blank"><img alt="�����ľ��ۺ÷� ������� �˴���ʦ����Ժ" src="http://img3.f.itc.cn/esf/6026/56/89/100x75_60265689.jpg" width="100" height="77" /></a><b>6&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/282802621030420819.html" target="_blank" title="丰台科技园 怡海花园经典两居 楼层好">【链家100%真房源】丰台科技园 怡海花园经典两居 楼层好</a>
+            <a href="/ershoufang/269534329113407965.html" target="_blank" title="�����ľ��ۺ÷� ������� �˴���ʦ����Ժ">������100%�淿Դ�������ľ��ۺ÷� ������� �˴���ʦ����Ժ</a>
            </dt> 
            <dd>
-            2室2厅 | 简装 | 东南 | 2003年 | 23855.42元/&#65533; | 9/18层
+            3��2�� | ��װ | ���� | 2004�� | 35975.61Ԫ/&#65533;O | 16/21��
            </dd> 
            <dd>
-            <a href="/xiaoqu/11421/" title="怡海花园" target="_blank">怡海花园</a>&nbsp; 丰台南四环西路129号&nbsp;
-            <a href="/xiaoqu/11421/ditu" onmouseover="showMap(116.30192565917969,39.832393646240234);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/3160/" title="���ͳ�����ʱ��԰" target="_blank">���ͳ�����ʱ��԰</a>&nbsp; ���峧��·�����ű�300��&nbsp;
+            <a href="/xiaoqu/3160/ditu" onmouseover="showMap(116.28142782466,39.955711911957);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>198</b>万</p> <p><span class="fs16">83</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>590</b>��</p> <p><span class="fs16">164</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/282802621030420819.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/11421/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/11421/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/11421/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr96959xq0h0m0j0px0p1bq0" target="_blank">链家地产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr96959xq0h0m0j0px0p1bq0" target="_blank">刘伟</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/269534329113407965.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/3160/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/3160/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/3160/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr65524xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr65524xq0h0m0j0px0p1bq0" target="_blank">�ﳯ��</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/282802621030420819.html" target="_blank"></a>
+          <a href="/ershoufang/269534329113407965.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/280770616072120790.html" target="_blank"><img alt="精品婚房阳光两居，业主急售，机会难得，全新房。" src="http://img3.f.itc.cn/esf/6149/3/27/100x75_61490327.jpg" width="100" height="77" /></a><b>5&nbsp;图</b></p>
+           <p><a href="/ershoufang/287857701054429568.html" target="_blank"><img alt="�³���԰��װ3��1���ͻ�԰���ͼ۳���115ƽ140����" src="http://img2.f.itc.cn/esf/6237/15/18/100x75_62371518.jpg" width="100" height="77" /></a><b>8&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/280770616072120790.html" target="_blank" title="精品婚房阳光两居，业主急售，机会难得，全新房。">精品婚房阳光两居，业主急售，机会难得，全新房。</a>
+            <a href="/ershoufang/287857701054429568.html" target="_blank" title="�³���԰��װ3��1���ͻ�԰���ͼ۳���115ƽ140����">������100%�淿Դ���³���԰��װ3��1���ͻ�԰���ͼ۳���115ƽ140����</a>
            </dt> 
            <dd>
-            2室2厅 | 简装 | 南 | 2010年 | 34269.66元/&#65533; | 14/28层
+            2��2�� | ��װ | �ϱ� | 2004�� | 12173.91Ԫ/&#65533;O | 1/6��
            </dd> 
            <dd>
-            <a href="/xiaoqu/12114/" title="首城国际中心" target="_blank">首城国际中心</a>&nbsp; 朝阳区广渠路36号(双井桥向东600米）&nbsp;
-            <a href="/xiaoqu/12114/ditu" onmouseover="showMap(116.46957942249,39.890364975805);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/2719/" title="�³���԰" target="_blank">�³���԰</a>&nbsp; ºԷ�ϴ��15��(�ʱࣺ101101)&nbsp;
+            <a href="/xiaoqu/2719/ditu" onmouseover="showMap(116.6948013305664,39.933780670166016);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>305</b>万</p> <p><span class="fs16">89</span>平米</p> </span>
+           <span class="spec"> <p> <img title="���۷�Դ" src="http://src.esf.focus.cn/upload/images/tags/icon_js.gif" style="vertical-align:bottom;margin-left:5px;" /> </p> <p class="m"><b>140</b>��</p> <p><span class="fs16">115</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/280770616072120790.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/12114/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/12114/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/12114/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr4240xq0h0m0j0px0p1bq0" target="_blank">21世纪不动产安信瑞德</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr4240xq0h0m0j0px0p1bq0" target="_blank">李希猛</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/287857701054429568.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/2719/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/2719/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/2719/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr1059xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr1059xq0h0m0j0px0p1bq0" target="_blank">������</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/280770616072120790.html" target="_blank"></a>
+          <a href="/ershoufang/287857701054429568.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/150229431034633550.html" target="_blank"><img alt="回龙观的绝版三居两卫出来了，眼镜房快来抢购吧" src="http://img4.f.itc.cn/esf/4322/27/31/100x75_43222731.jpg" width="100" height="77" /></a><b>5&nbsp;图</b></p>
+           <p><a href="/ershoufang/292142808100131626.html" target="_blank"><img alt="������ ȫ�Ϲ۾�2�� ҵ���׼�389��" src="http://img3.f.itc.cn/esf/6281/50/97/100x75_62815097.jpg" width="100" height="77" /></a><b>5&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/150229431034633550.html" target="_blank" title="回龙观的绝版三居两卫出来了，眼镜房快来抢购吧">回龙观的绝版三居两卫出来了，眼镜房快来抢购吧</a>
+            <a href="/ershoufang/292142808100131626.html" target="_blank" title="������ ȫ�Ϲ۾�2�� ҵ���׼�389��">������100%�淿Դ�������� ȫ�Ϲ۾�2�� ҵ���׼�389��</a>
            </dt> 
            <dd>
-            3室2厅 | 精装 | 南北 | 2004年 | 15385元/&#65533; | 3/6层
+            2��2�� | ��װ | �� | 2008�� | 34649.12Ԫ/&#65533;O | 15/32��
            </dd> 
            <dd>
-            <a href="/xiaoqu/5435/" title="龙锦苑二区" target="_blank">龙锦苑二区</a>&nbsp; 回龙观文华路&nbsp;
-            <a href="/xiaoqu/5435/ditu" onmouseover="showMap(116.35704040527344,40.088584899902344);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/1298/" title="������" target="_blank">������</a>&nbsp; ������С��ɭ�ֹ�԰����&nbsp;
+            <a href="/xiaoqu/1298/ditu" onmouseover="showMap(116.46154022216797,40.00720977783203);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>220</b>万</p> <p><span class="fs16">143</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>395</b>��</p> <p><span class="fs16">114</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/150229431034633550.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/5435/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/5435/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/5435/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr38900xq0h0m0j0px0p1bq0" target="_blank">鑫尊房地产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr38900xq0h0m0j0px0p1bq0" target="_blank">袁红娟</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/292142808100131626.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/1298/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/1298/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/1298/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr103504xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr103504xq0h0m0j0px0p1bq0" target="_blank">��&#65533;F��</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/150229431034633550.html" target="_blank"></a>
+          <a href="/ershoufang/292142808100131626.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/291797707050615379.html" target="_blank"><img alt="中苑1011电梯4居复式送40平露台毛坯房" src="http://img1.f.itc.cn/esf/6278/17/8/100x75_62781708.jpg" width="100" height="77" /></a><b>4&nbsp;图</b></p>
+           <p><a href="/ershoufang/287431401102317773.html" target="_blank"><img alt="���Ļ�԰ĵ��԰�ϱ�ͨ͸��װ����88ƽ125����˰���ۣ�" src="http://img2.f.itc.cn/esf/6233/95/27/100x75_62339527.jpg" width="100" height="77" /></a><b>10&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/291797707050615379.html" target="_blank" title="中苑1011电梯4居复式送40平露台毛坯房">中苑1011电梯4居复式送40平露台毛坯房</a>
+            <a href="/ershoufang/287431401102317773.html" target="_blank" title="���Ļ�԰ĵ��԰�ϱ�ͨ͸��װ����88ƽ125����˰���ۣ�">������100%�淿Դ�����Ļ�԰ĵ��԰�ϱ�ͨ͸��װ����88ƽ125����˰���ۣ�</a>
            </dt> 
            <dd>
-            4室3厅 | 毛坯房 | 南北 | 2007年 | 14627.66元/&#65533; | 10/11层
+            2��2�� | ��װ | �ϱ� | 2004�� | 14204.55Ԫ/&#65533;O | 1/6��
            </dd> 
            <dd>
-            <a href="/xiaoqu/7249/" title="天通苑中苑" target="_blank">天通苑中苑</a>&nbsp; 立水桥以北1.5公里处&nbsp;
-            <a href="/xiaoqu/7249/ditu" onmouseover="showMap(116.42689514160156,40.07147979736328);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/11726/" title="���Ļ�԰(ĵ��԰)" target="_blank">���Ļ�԰(ĵ��԰)</a>&nbsp; ͨ�����3��,�»�����س���,���ٹ���2�����յ�վ&nbsp;
+            <a href="/xiaoqu/11726/ditu" onmouseover="showMap(116.69376918226,39.915303234986);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>275</b>万</p> <p><span class="fs16">188</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>125</b>��</p> <p><span class="fs16">88</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/291797707050615379.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/7249/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/7249/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/7249/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr16158xq0h0m0j0px0p1bq0" target="_blank">鑫尊房地产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr16158xq0h0m0j0px0p1bq0" target="_blank">孙晨</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/287431401102317773.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/11726/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/11726/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/11726/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr1059xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr1059xq0h0m0j0px0p1bq0" target="_blank">������</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/291797707050615379.html" target="_blank"></a>
+          <a href="/ershoufang/287431401102317773.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/279041212054724599.html" target="_blank"><img alt="5号线 天通苑大面积眼镜房便宜出售" src="http://img2.f.itc.cn/esf/6124/91/13/100x75_61249113.jpg" width="100" height="77" /></a><b>4&nbsp;图</b></p>
+           <p><a href="/ershoufang/287849901053428240.html" target="_blank"><img alt="���Ļ�԰�Ͼ�԰�ϱ�ͨ͸��¶̨��ʽ3����˰����12000���ۣ�" src="http://img4.f.itc.cn/esf/6237/6/25/100x75_62370625.jpg" width="100" height="77" /></a><b>9&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/279041212054724599.html" target="_blank" title="5号线 天通苑大面积眼镜房便宜出售">5号线 天通苑大面积眼镜房便宜出售</a>
+            <a href="/ershoufang/287849901053428240.html" target="_blank" title="���Ļ�԰�Ͼ�԰�ϱ�ͨ͸��¶̨��ʽ3����˰����12000���ۣ�">������100%�淿Դ�����Ļ�԰�Ͼ�԰�ϱ�ͨ͸��¶̨��ʽ3����˰����12000���ۣ�</a>
            </dt> 
            <dd>
-            4室2厅 | 精装 | 南北 | 2003年 | 12765.96元/&#65533; | 23/32层
+            3��2�� | ��װ | �ϱ� | 2004�� | 12109.38Ԫ/&#65533;O | 6/6��
            </dd> 
            <dd>
-            <a href="/xiaoqu/11477/" title="天通苑西三区" target="_blank">天通苑西三区</a>&nbsp; 昌平汤立路西侧&nbsp;
-            <a href="/xiaoqu/11477/ditu" onmouseover="showMap(116.40769958496094,40.07621765136719);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/3092/" title="���Ļ�԰(�Ͼ�԰)" target="_blank">���Ļ�԰(�Ͼ�԰)</a>&nbsp; ������ͨ����ͨ�����3��&nbsp;
+            <a href="/xiaoqu/3092/ditu" onmouseover="showMap(116.7010269165039,39.9181022644043);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> <img title="急售房源" src="http://src.esf.focus.cn/upload/images/tags/icon_js.gif" style="vertical-align:bottom;margin-left:5px;" /> </p> <p class="m"><b>240</b>万</p> <p><span class="fs16">188</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>155</b>��</p> <p><span class="fs16">128</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon5" href="/xiaoqu/11477/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/11477/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/11477/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr97566xq0h0m0j0px0p1bq0" target="_blank">鑫尊房地产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr97566xq0h0m0j0px0p1bq0" target="_blank">张海川</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/287849901053428240.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/3092/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/3092/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/3092/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr1059xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr1059xq0h0m0j0px0p1bq0" target="_blank">������</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/279041212054724599.html" target="_blank"></a>
+          <a href="/ershoufang/287849901053428240.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/242519702093312872.html" target="_blank"><img alt="链家百分百真房源，喧嚣中的宁静，水系豪宅两居诚售" src="http://img1.f.itc.cn/esf/5691/27/37/100x75_56912737.jpg" width="100" height="77" /></a><b>5&nbsp;图</b></p>
+           <p><a href="/ershoufang/291590107114421164.html" target="_blank"><img alt="����ީ�Ե���2�� ȫ���۾��� ����3��2��" src="http://img1.f.itc.cn/esf/6275/94/52/100x75_62759452.jpg" width="100" height="77" /></a><b>9&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/242519702093312872.html" target="_blank" title="链家百分百真房源，喧嚣中的宁静，水系豪宅两居诚售">【链家100%真房源】链家百分百真房源，喧嚣中的宁静，水系豪宅两居诚售</a>
+            <a href="/ershoufang/291590107114421164.html" target="_blank" title="����ީ�Ե���2�� ȫ���۾��� ����3��2��">������100%�淿Դ������ީ�Ե���2�� ȫ���۾��� ����3��2��</a>
            </dt> 
            <dd>
-            2室1厅 | 精装 | 南 | 2008年 | 32673.27元/&#65533; | 18/22层
+            2��2�� | ��װ | �� | 2003�� | 30303.03Ԫ/&#65533;O | 28/28��
            </dd> 
            <dd>
-            <a href="/xiaoqu/11552/" title="新华联丽景珊瑚湾" target="_blank">新华联丽景珊瑚湾</a>&nbsp; 朝阳区朝阳路华堂商场对面&nbsp;
-            <a href="/xiaoqu/11552/ditu" onmouseover="showMap(116.50125503087,39.920623154681);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/172/" title="������Է" target="_blank">������Է</a>&nbsp; ����������˳�����36��&nbsp;
+            <a href="/xiaoqu/172/ditu" onmouseover="showMap(116.46888732910156,40.004493713378906);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> <img title="急售房源" src="http://src.esf.focus.cn/upload/images/tags/icon_js.gif" style="vertical-align:bottom;margin-left:5px;" /> </p> <p class="m"><b>330</b>万</p> <p><span class="fs16">101</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>300</b>��</p> <p><span class="fs16">99</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/242519702093312872.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/11552/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/11552/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/11552/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr34465xq0h0m0j0px0p1bq0" target="_blank">链家地产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr34465xq0h0m0j0px0p1bq0" target="_blank">丁广辉</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/291590107114421164.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/172/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/172/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/172/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr103504xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr103504xq0h0m0j0px0p1bq0" target="_blank">��&#65533;F��</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/242519702093312872.html" target="_blank"></a>
+          <a href="/ershoufang/291590107114421164.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/283661423051952112.html" target="_blank"><img alt="户型方正  两居室  高利用率无浪费 带车位 有名额" src="http://img2.f.itc.cn/esf/6188/54/6/100x75_61885406.jpg" width="100" height="77" /></a><b>7&nbsp;图</b></p>
+           <p><a href="/ershoufang/292191608104814915.html" target="_blank"><img alt="�����塡�ϱ�ͨ͸2�� ҵ���׼�376��" src="http://img4.f.itc.cn/esf/6282/0/11/100x75_62820011.jpg" width="100" height="77" /></a><b>10&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <s title="麦田房产承诺真实房源"></s>
-            <a href="/ershoufang/283661423051952112.html" target="_blank" title="户型方正  两居室  高利用率无浪费 带车位 有名额">户型方正 两居室 高利用率无浪费 带车位 有名额</a>
+            <a href="/ershoufang/292191608104814915.html" target="_blank" title="�����塡�ϱ�ͨ͸2�� ҵ���׼�376��">������100%�淿Դ�������� �ϱ�ͨ͸2�� ҵ���׼�376��</a>
            </dt> 
            <dd>
-            2室2厅 | 精装 | 西南 | 2000年 | 36015.04元/&#65533; | 12/19层
+            2��2�� | ��װ | �ϱ� | 2008�� | 35185.19Ԫ/&#65533;O | 8/30��
            </dd> 
            <dd>
-            <a href="/xiaoqu/6984/" title="世纪城远大园四区" target="_blank">世纪城远大园四区</a>&nbsp; 世纪城远大园四区&nbsp;
-            <a href="/xiaoqu/6984/ditu" onmouseover="showMap(116.28697204589844,39.953250885009766);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/1298/" title="������" target="_blank">������</a>&nbsp; ������С��ɭ�ֹ�԰����&nbsp;
+            <a href="/xiaoqu/1298/ditu" onmouseover="showMap(116.46154022216797,40.00720977783203);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>479</b>万</p> <p><span class="fs16">133</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>380</b>��</p> <p><span class="fs16">108</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/283661423051952112.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/6984/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/6984/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/6984/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr51225xq0h0m0j0px0p1bq0" target="_blank">麦田房产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr51225xq0h0m0j0px0p1bq0" target="_blank">刘翠翠</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/292191608104814915.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/1298/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/1298/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/1298/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr103504xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr103504xq0h0m0j0px0p1bq0" target="_blank">��&#65533;F��</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/283661423051952112.html" target="_blank"></a>
+          <a href="/ershoufang/292191608104814915.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/271159631061409641.html" target="_blank"><img alt="润泽庄园 经典把东边德式联排 业主急售价格能谈" src="http://img4.f.itc.cn/esf/6043/95/55/100x75_60439555.jpg" width="100" height="77" /></a><b>5&nbsp;图</b></p>
+           <p><a href="/ershoufang/288681702084542832.html" target="_blank"><img alt="�˺�԰��װ�����ϱ�ͨ͸91ƽ122����˰����" src="http://img2.f.itc.cn/esf/6245/21/85/100x75_62452185.jpg" width="100" height="77" /></a><b>9&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/271159631061409641.html" target="_blank" title="润泽庄园 经典把东边德式联排 业主急售价格能谈">润泽庄园 经典把东边德式联排 业主急售价格能谈</a>
+            <a href="/ershoufang/288681702084542832.html" target="_blank" title="�˺�԰��װ�����ϱ�ͨ͸91ƽ122����˰����">������100%�淿Դ���˺�԰��װ�����ϱ�ͨ͸91ƽ122����˰����</a>
            </dt> 
            <dd>
-            4室3厅 | 毛坯房 | 南北 | 2009年 | 37572.25元/&#65533; 
+            2��2�� | ��װ | �ϱ� | 2004�� | 13406.59Ԫ/&#65533;O | 6/6��
            </dd> 
            <dd>
-            <a href="/xiaoqu/4042/" title="润泽庄园" target="_blank">润泽庄园</a>&nbsp; 北五环顾家庄桥北来广营乡清河营村&nbsp;
-            <a href="/xiaoqu/4042/ditu" onmouseover="showMap(116.4357681274414,40.057315826416016);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/7105/" title="�˺Ӽ�԰" target="_blank">�˺Ӽ�԰</a>&nbsp; ͨ���˺��Ļ��㳡��&nbsp;
+            <a href="/xiaoqu/7105/ditu" onmouseover="showMap(116.68439483642578,39.91178512573242);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>1300</b>万</p> <p><span class="fs16">346</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>122</b>��</p> <p><span class="fs16">91</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/271159631061409641.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/4042/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/4042/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/4042/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr97900xq0h0m0j0px0p1bq0" target="_blank">我爱我家</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr97900xq0h0m0j0px0p1bq0" target="_blank">李敬伟</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/288681702084542832.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/7105/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/7105/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/7105/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr1059xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr1059xq0h0m0j0px0p1bq0" target="_blank">������</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/271159631061409641.html" target="_blank"></a>
+          <a href="/ershoufang/288681702084542832.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/291732207040157328.html" target="_blank"><img alt="外销公寓低于市场价40万，三卧全南厅也南户型超级霸" src="http://img4.f.itc.cn/esf/6277/60/63/100x75_62776063.jpg" width="100" height="77" /></a><b>6&nbsp;图</b></p>
+           <p><a href="/ershoufang/291591607114646206.html" target="_blank"><img alt="������Էީ�Ե���2�� ȫ���۾��� ����3��2" src="http://img1.f.itc.cn/esf/6275/98/45/100x75_62759845.jpg" width="100" height="77" /></a><b>9&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/291732207040157328.html" target="_blank" title="外销公寓低于市场价40万，三卧全南厅也南户型超级霸">外销公寓低于市场价40万，三卧全南厅也南户型超级霸</a>
+            <a href="/ershoufang/291591607114646206.html" target="_blank" title="������Էީ�Ե���2�� ȫ���۾��� ����3��2">������100%�淿Դ��������Էީ�Ե���2�� ȫ���۾��� ����3��2</a>
            </dt> 
            <dd>
-            3室2厅 | 简装 | 南 | 2000年 | 19318.18元/&#65533; | 12/25层
+            2��2�� | ��װ | �� | 2003�� | 30303.03Ԫ/&#65533;O | 28/28��
            </dd> 
            <dd>
-            <a href="/xiaoqu/299/" title="亚运花园" target="_blank">亚运花园</a>&nbsp; 朝阳区小营路12号院&nbsp;
-            <a href="/xiaoqu/299/ditu" onmouseover="showMap(116.42451477050781,39.99447250366211);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/172/" title="������Է" target="_blank">������Է</a>&nbsp; ����������˳�����36��&nbsp;
+            <a href="/xiaoqu/172/ditu" onmouseover="showMap(116.46888732910156,40.004493713378906);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>340</b>万</p> <p><span class="fs16">176</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>300</b>��</p> <p><span class="fs16">99</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/291732207040157328.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/299/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/299/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/299/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr104101xq0h0m0j0px0p1bq0" target="_blank">我爱我家</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr104101xq0h0m0j0px0p1bq0" target="_blank">于智</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/291591607114646206.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/172/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/172/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/172/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr103504xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr103504xq0h0m0j0px0p1bq0" target="_blank">��&#65533;F��</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/291732207040157328.html" target="_blank"></a>
+          <a href="/ershoufang/291591607114646206.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/266929423103807782.html" target="_blank"><img alt="世纪城生活城，全方位的方便之城！" src="http://img2.f.itc.cn/esf/5992/58/43/100x75_59925843.jpg" width="100" height="77" /></a><b>5&nbsp;图</b></p>
+           <p><a href="/ershoufang/287849801053427146.html" target="_blank"><img alt="���Ļ�԰�Ͼ�԰�ϱ�ͨ͸��¶̨��ʽ3����˰����12000����" src="http://img2.f.itc.cn/esf/6237/6/25/100x75_62370625.jpg" width="100" height="77" /></a><b>9&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/266929423103807782.html" target="_blank" title="世纪城生活城，全方位的方便之城！">【链家100%真房源】世纪城生活城，全方位的方便之城！</a>
+            <a href="/ershoufang/287849801053427146.html" target="_blank" title="���Ļ�԰�Ͼ�԰�ϱ�ͨ͸��¶̨��ʽ3����˰����12000����">������100%�淿Դ�����Ļ�԰�Ͼ�԰�ϱ�ͨ͸��¶̨��ʽ3����˰����12000����</a>
            </dt> 
            <dd>
-            2室2厅 | 精装 | 东南 | 2007年 | 38297.87元/&#65533; | 5/18层
+            3��2�� | ��װ | �ϱ� | 2004�� | 12109.38Ԫ/&#65533;O | 6/6��
            </dd> 
            <dd>
-            <a href="/xiaoqu/4220/" title="世纪城晨月园" target="_blank">世纪城晨月园</a>&nbsp; 蓝靛厂中路西侧西顶路南侧蓝靛厂西路东侧&nbsp;
-            <a href="/xiaoqu/4220/ditu" onmouseover="showMap(116.28225394601,39.958705416572);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/3092/" title="���Ļ�԰(�Ͼ�԰)" target="_blank">���Ļ�԰(�Ͼ�԰)</a>&nbsp; ������ͨ����ͨ�����3��&nbsp;
+            <a href="/xiaoqu/3092/ditu" onmouseover="showMap(116.7010269165039,39.9181022644043);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>360</b>万</p> <p><span class="fs16">94</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>155</b>��</p> <p><span class="fs16">128</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/266929423103807782.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/4220/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/4220/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/4220/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr2036xq0h0m0j0px0p1bq0" target="_blank">链家地产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr2036xq0h0m0j0px0p1bq0" target="_blank">丁文辉</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/287849801053427146.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/3092/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/3092/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/3092/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr1059xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr1059xq0h0m0j0px0p1bq0" target="_blank">������</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/266929423103807782.html" target="_blank"></a>
+          <a href="/ershoufang/287849801053427146.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/290677705051932890.html" target="_blank"><img alt="（麦田百分百放心房）阳光户型三卧朝南经典四居室" src="http://img1.f.itc.cn/esf/6265/69/45/100x75_62656945.jpg" width="100" height="77" /></a><b>5&nbsp;图</b></p>
+           <p><a href="/ershoufang/286467329102055491.html" target="_blank"><img alt="���������� �������� ¥������ ����ŷʽ�ŵ����ִ����������" src="http://img2.f.itc.cn/esf/6224/1/25/100x75_62240125.jpg" width="100" height="77" /></a><b>10&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <s title="麦田房产承诺真实房源"></s>
-            <a href="/ershoufang/290677705051932890.html" target="_blank" title="（麦田百分百放心房）阳光户型三卧朝南经典四居室">（麦田百分百放心房）阳光户型三卧朝南经典四居室</a>
+            <a href="/ershoufang/286467329102055491.html" target="_blank" title="���������� �������� ¥������ ����ŷʽ�ŵ����ִ����������">������100%�淿Դ������������ �������� ¥������ ����ŷʽ�ŵ����ִ����������</a>
            </dt> 
            <dd>
-            4室2厅 | 精装 | 西南 | 2006年 | 38630.81元/&#65533; | 9/10层
+            4��2�� | ���� | �ϱ� | 2009�� | 36697.25Ԫ/&#65533;O | 5/28��
            </dd> 
            <dd>
-            <a href="/xiaoqu/1103/" title="阳光上东" target="_blank">阳光上东</a>&nbsp; 东四环北路6号(四环东侧宵云桥东南角)&nbsp;
-            <a href="/xiaoqu/1103/ditu" onmouseover="showMap(116.48169708251953,39.96467208862305);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/1298/" title="������" target="_blank">������</a>&nbsp; ������С��ɭ�ֹ�԰����&nbsp;
+            <a href="/xiaoqu/1298/ditu" onmouseover="showMap(116.46154022216797,40.00720977783203);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>948</b>万</p> <p><span class="fs16">245.4</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>800</b>��</p> <p><span class="fs16">218</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/290677705051932890.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/1103/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/1103/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/1103/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr38228xq0h0m0j0px0p1bq0" target="_blank">麦田房产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr38228xq0h0m0j0px0p1bq0" target="_blank">王相来</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/286467329102055491.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/1298/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/1298/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/1298/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr103504xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr103504xq0h0m0j0px0p1bq0" target="_blank">��&#65533;F��</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/290677705051932890.html" target="_blank"></a>
+          <a href="/ershoufang/286467329102055491.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/254479029085753756.html" target="_blank"><img alt="链家百分百真房源，三期板楼通透两居，有人大附小名额" src="http://img2.f.itc.cn/esf/5845/20/51/100x75_58452051.jpg" width="100" height="77" /></a><b>7&nbsp;图</b></p>
+           <p><a href="/ershoufang/280037114093101463.html" target="_blank"><img alt="�ʼҿڽ��貿���﹵����Сѧ�зĴ�Ժ����һ�����ڵ���" src="http://img2.f.itc.cn/esf/6138/40/3/100x75_61384003.jpg" width="100" height="77" /></a><b>5&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/254479029085753756.html" target="_blank" title="链家百分百真房源，三期板楼通透两居，有人大附小名额">【链家100%真房源】链家百分百真房源，三期板楼通透两居，有人大附小名额</a>
+            <a href="/ershoufang/280037114093101463.html" target="_blank" title="�ʼҿڽ��貿���﹵����Сѧ�зĴ�Ժ����һ�����ڵ���">������100%�淿Դ���ʼҿڽ��貿���﹵����Сѧ�зĴ�Ժ����һ�����ڵ���</a>
            </dt> 
            <dd>
-            2室2厅 | 精装 | 南北 | 2005年 | 37226.28元/&#65533; | 2/12层
+            3��1�� | ��װ | �ϱ� | 1968�� | 41433.37Ԫ/&#65533;O | 4/5��
            </dd> 
            <dd>
-            <a href="/xiaoqu/11841/" title="世纪城春荫园" target="_blank">世纪城春荫园</a>&nbsp; 海淀区 世纪城春荫园 北京市海淀区长春桥北300米&nbsp;
-            <a href="/xiaoqu/11841/ditu" onmouseover="showMap(116.28328643133,39.963390550083);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/9123/" title="����·21��Ժ" target="_blank">����·21��Ժ</a>&nbsp; ����·21��Ժ&nbsp;
+            <a href="/xiaoqu/9123/ditu" onmouseover="showMap(116.32979583740234,39.92823028564453);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>510</b>万</p> <p><span class="fs16">137</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>370</b>��</p> <p><span class="fs16">89.3</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/254479029085753756.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/11841/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/11841/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/11841/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr2036xq0h0m0j0px0p1bq0" target="_blank">链家地产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr2036xq0h0m0j0px0p1bq0" target="_blank">丁文辉</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/280037114093101463.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/9123/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/9123/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/9123/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr1258xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr1258xq0h0m0j0px0p1bq0" target="_blank">��ԪԪ</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/254479029085753756.html" target="_blank"></a>
+          <a href="/ershoufang/280037114093101463.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/280309615052406693.html" target="_blank"><img alt="北京华侨城小区中间全明格局、南北三居" src="http://img4.f.itc.cn/esf/6142/6/79/100x75_61420679.jpg" width="100" height="77" /></a><b>5&nbsp;图</b></p>
+           <p><a href="/ershoufang/283417823085141258.html" target="_blank"><img alt="���Ұ��Ҽң�����ϡȱ�ٻ���԰����1��1��1��1����" src="http://img2.f.itc.cn/esf/6185/7/98/100x75_61850798.jpg" width="100" height="77" /></a><b>3&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/280309615052406693.html" target="_blank" title="北京华侨城小区中间全明格局、南北三居">【链家100%真房源】北京华侨城小区中间全明格局、南北三居</a>
+            <a href="/ershoufang/283417823085141258.html" target="_blank" title="���Ұ��Ҽң�����ϡȱ�ٻ���԰����1��1��1��1����">���Ұ��Ҽң�����ϡȱ�ٻ���԰����1��1��1��1����</a>
            </dt> 
            <dd>
-            3室2厅 | 精装 | 南北 | 2009年 | 31774.61元/&#65533; | 3/15层
+            1��1�� | ��װ | �� | 2000�� | 24193.55Ԫ/&#65533;O | 25/28��
            </dd> 
            <dd>
-            <a href="/xiaoqu/11828/" title="北京华侨城" target="_blank">北京华侨城</a>&nbsp; 朝阳东四环四方桥京沈辅路南侧小武基北路&nbsp;
-            <a href="/xiaoqu/11828/ditu" onmouseover="showMap(116.49711369989,39.865792439251);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/388/" title="�ٻ���԰" target="_blank">�ٻ���԰</a>&nbsp; �˼�԰���뻪����֮��&nbsp;
+            <a href="/xiaoqu/388/ditu" onmouseover="showMap(116.45917510986328,39.87459945678711);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>600</b>万</p> <p><span class="fs16">188.83</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>150</b>��</p> <p><span class="fs16">62</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/280309615052406693.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/11828/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/11828/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/11828/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr21454xq0h0m0j0px0p1bq0" target="_blank">链家地产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr21454xq0h0m0j0px0p1bq0" target="_blank">倪钱邦</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/283417823085141258.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/388/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/388/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/388/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr29008xq0h0m0j0px0p1bq0" target="_blank">�Ұ��Ҽ�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr29008xq0h0m0j0px0p1bq0" target="_blank">¬ѩ��</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/280309615052406693.html" target="_blank"></a>
+          <a href="/ershoufang/283417823085141258.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/291746907041606712.html" target="_blank"><img alt="我爱我家真实房源地铁口边的精装修带车位公寓大一居" src="http://img2.f.itc.cn/esf/6277/72/20/100x75_62777220.jpg" width="100" height="77" /></a><b>3&nbsp;图</b></p>
+           <p><a href="/ershoufang/288044801090213419.html" target="_blank"><img alt="�ָ�����С������ϡȱ���ӷ�Դ���г�λ ����" src="http://img3.f.itc.cn/esf/6238/97/17/100x75_62389717.jpg" width="100" height="77" /></a><b>6&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/291746907041606712.html" target="_blank" title="我爱我家真实房源地铁口边的精装修带车位公寓大一居">我爱我家真实房源地铁口边的精装修带车位公寓大一居</a>
+            <a href="/ershoufang/288044801090213419.html" target="_blank" title="�ָ�����С������ϡȱ���ӷ�Դ���г�λ ����">������100%�淿Դ���ָ�����С������ϡȱ���ӷ�Դ���г�λ ����</a>
            </dt> 
            <dd>
-            1室2厅 | 精装 | 东 | 2004年 | 27380.95元/&#65533; | 5/12层
+            3��2�� | ��װ | ���� | 2004�� | 31782.95Ԫ/&#65533;O | 9/10��
            </dd> 
            <dd>
-            <a href="/xiaoqu/854/" title="阳光新干线" target="_blank">阳光新干线</a>&nbsp; 亚运村北苑路&nbsp;
-            <a href="/xiaoqu/854/ditu" onmouseover="showMap(116.41583251953125,39.99921417236328);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/11211/" title="�ָ�����" target="_blank">�ָ�����</a>&nbsp; ������ ��ڵ�����·һ��&nbsp;
+            <a href="/xiaoqu/11211/ditu" onmouseover="showMap(116.2633175492,39.928172104518);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>230</b>万</p> <p><span class="fs16">84</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>410</b>��</p> <p><span class="fs16">129</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/291746907041606712.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/854/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/854/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/854/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr104101xq0h0m0j0px0p1bq0" target="_blank">我爱我家</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr104101xq0h0m0j0px0p1bq0" target="_blank">于智</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/288044801090213419.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/11211/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/11211/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/11211/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr9854xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr9854xq0h0m0j0px0p1bq0" target="_blank">����</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/291746907041606712.html" target="_blank"></a>
+          <a href="/ershoufang/288044801090213419.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/280040314094256842.html" target="_blank"><img alt="快看了！晚了就没了！五一学区房无税3居74平220万随时签约" src="http://img3.f.itc.cn/esf/6138/45/76/100x75_61384576.gif" width="100" height="77" /></a><b>9&nbsp;图</b></p>
+           <p><a href="/ershoufang/268816827060503727.html" target="_blank"><img alt="���Ʒ�Դ �����ϱ�ͨ͸���ӽ���108��2�㾫װ�޵ķ�" src="http://img4.f.itc.cn/esf/6017/50/65/100x75_60175065.jpg" width="100" height="77" /></a><b>3&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/280040314094256842.html" target="_blank" title="快看了！晚了就没了！五一学区房无税3居74平220万随时签约">【链家100%真房源】快看了！晚了就没了！五一学区房无税3居74平220万随时签约</a>
+            <a href="/ershoufang/268816827060503727.html" target="_blank" title="���Ʒ�Դ �����ϱ�ͨ͸���ӽ���108��2�㾫װ�޵ķ�">���Ʒ�Դ �����ϱ�ͨ͸���ӽ���108��2�㾫װ�޵ķ�</a>
            </dt> 
            <dd>
-            3室1厅 | 简装 | 南北 | 1998年 | 29729.73元/&#65533; | 6/6层
+            2��1�� | ��װ | �ϱ� | 2000�� | 13333.33Ԫ/&#65533;O | 2/6��
            </dd> 
            <dd>
-            <a href="/xiaoqu/4559/" title="永定路西里" target="_blank">永定路西里</a>&nbsp; 海淀区永定路五棵松地铁西&nbsp;
-            <a href="/xiaoqu/4559/ditu" onmouseover="showMap(116.26306915283203,39.905147552490234);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/62/" title="���ǻ�԰" target="_blank">���ǻ�԰</a>&nbsp; ���˴�����12����&nbsp;
+            <a href="/xiaoqu/62/ditu" onmouseover="showMap(116.42183685302734,40.129756927490234);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>220</b>万</p> <p><span class="fs16">74</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>108</b>��</p> <p><span class="fs16">81</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/280040314094256842.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/4559/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/4559/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/4559/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr9854xq0h0m0j0px0p1bq0" target="_blank">链家地产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr9854xq0h0m0j0px0p1bq0" target="_blank">王永</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/268816827060503727.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/62/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/62/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/62/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr95260xq0h0m0j0px0p1bq0" target="_blank">���𷿵ز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr95260xq0h0m0j0px0p1bq0" target="_blank">���</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/280040314094256842.html" target="_blank"></a>
+          <a href="/ershoufang/268816827060503727.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/279921114060958895.html" target="_blank"><img alt="万象新天  性价比极高   三居观花园" src="http://img1.f.itc.cn/esf/6186/81/0/100x75_61868100.jpg" width="100" height="77" /></a><b>8&nbsp;图</b></p>
+           <p><a href="/ershoufang/283512823113314265.html" target="_blank"><img alt="�ķ��Ż�嫹��� ���ע����װ�ľ��·�����λ��¥�㣬���Լ۱�" src="http://img4.f.itc.cn/esf/6186/55/61/100x75_61865561.jpg" width="100" height="77" /></a><b>8&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/279921114060958895.html" target="_blank" title="万象新天  性价比极高   三居观花园">【链家100%真房源】万象新天 性价比极高 三居观花园</a>
+            <a href="/ershoufang/283512823113314265.html" target="_blank" title="�ķ��Ż�嫹��� ���ע����װ�ľ��·�����λ��¥�㣬���Լ۱�">������100%�淿Դ���ķ��Ż�嫹��� ���ע����װ�ľ��·�����λ��¥�㣬���Լ۱�</a>
            </dt> 
            <dd>
-            3室2厅 | 简装 | 南北 | 2008年 | 17361.11元/&#65533; | 1/17层
+            4��2�� | ��װ | �ϱ� | 2009�� | 38157.89Ԫ/&#65533;O | 21/24��
            </dd> 
            <dd>
-            <a href="/xiaoqu/3569/" title="天际万象高尔夫花园" target="_blank">天际万象高尔夫花园</a>&nbsp; 朝阳北路与东苇路交叉口&nbsp;
-            <a href="/xiaoqu/3569/ditu" onmouseover="showMap(116.59014129638672,39.92728042602539);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/5067/" title="��嫹���" target="_blank">��嫹���</a>&nbsp; ��ĥ����¥��ׯ���Ͷ�����԰һ��&nbsp;
+            <a href="/xiaoqu/5067/ditu" onmouseover="showMap(116.4935302734375,39.88458251953125);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> <img title="急售房源" src="http://src.esf.focus.cn/upload/images/tags/icon_js.gif" style="vertical-align:bottom;margin-left:5px;" /> </p> <p class="m"><b>250</b>万</p> <p><span class="fs16">144</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>870</b>��</p> <p><span class="fs16">228</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/279921114060958895.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/3569/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/3569/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/3569/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr93859xq0h0m0j0px0p1bq0" target="_blank">链家地产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr93859xq0h0m0j0px0p1bq0" target="_blank">陈杰</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/283512823113314265.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/5067/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/5067/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/5067/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr1999xq0h0m0j0px0p1bq0" target="_blank">���ҵز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr1999xq0h0m0j0px0p1bq0" target="_blank">������</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/279921114060958895.html" target="_blank"></a>
+          <a href="/ershoufang/283512823113314265.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/256925002062101378.html" target="_blank"><img alt="链家百分百真房源 复兴路46号院朝南一居出售" src="http://img1.f.itc.cn/esf/5865/29/92/100x75_58652992.jpg" width="100" height="77" /></a><b>6&nbsp;图</b></p>
+           <p><a href="/ershoufang/264959419101403445.html" target="_blank"><img alt="����԰�������ӣ��������һ�μ��˻��ͳ��ۣ�" src="http://img2.f.itc.cn/esf/5969/30/45/100x75_59693045.jpg" width="100" height="77" /></a><b>3&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/256925002062101378.html" target="_blank" title="链家百分百真房源 复兴路46号院朝南一居出售">【链家100%真房源】链家百分百真房源 复兴路46号院朝南一居出售</a>
+            <a href="/ershoufang/264959419101403445.html" target="_blank" title="����԰�������ӣ��������һ�μ��˻��ͳ��ۣ�">����԰�������ӣ��������һ�μ��˻��ͳ��ۣ�</a>
            </dt> 
            <dd>
-            1室1厅 | 简装 | 南 | 1990年 | 28936.17元/&#65533; | 12/16层
+            3��2�� | ��װ | �� | 2003�� | 36440.68Ԫ/&#65533;O | 10/18��
            </dd> 
            <dd>
-            <a href="/xiaoqu/105184/" title="复兴路46号院" target="_blank">复兴路46号院</a>&nbsp; 海淀玉泉路地铁东南口复兴路46号院&nbsp;
-            <a href="/xiaoqu/105184/ditu" onmouseover="showMap(116.25434824227,39.906333091231);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/7143/" title="����԰" target="_blank">����԰</a>&nbsp; ���������½�47��&nbsp;
+            <a href="/xiaoqu/7143/ditu" onmouseover="showMap(116.37196350097656,39.873043060302734);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>136</b>万</p> <p><span class="fs16">47</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>430</b>��</p> <p><span class="fs16">118</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/256925002062101378.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/105184/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/105184/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/105184/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr9854xq0h0m0j0px0p1bq0" target="_blank">链家地产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr9854xq0h0m0j0px0p1bq0" target="_blank">王永</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/264959419101403445.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/7143/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/7143/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/7143/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr90762xq0h0m0j0px0p1bq0" target="_blank">����ʱ�����ز�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr90762xq0h0m0j0px0p1bq0" target="_blank">������</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/256925002062101378.html" target="_blank"></a>
+          <a href="/ershoufang/264959419101403445.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/287540301114657967.html" target="_blank"><img alt="秀外慧中！欧园.北欧印象1室精装修，极力推荐！" src="http://img1.f.itc.cn/esf/6234/90/24/100x75_62349024.jpg" width="100" height="77" /></a><b>5&nbsp;图</b></p>
+           <p><a href="/ershoufang/282320020011539490.html" target="_blank"><img alt="����14���ߡ���������˰����С������" src="http://img2.f.itc.cn/esf/6170/46/9/100x75_61704609.jpg" width="100" height="77" /></a><b>6&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <a href="/ershoufang/287540301114657967.html" target="_blank" title="秀外慧中！欧园.北欧印象1室精装修，极力推荐！">秀外慧中！欧园.北欧印象1室精装修，极力推荐！</a>
+            <a href="/ershoufang/282320020011539490.html" target="_blank" title="����14���ߡ���������˰����С������">����14���ߡ���������˰����С������</a>
            </dt> 
            <dd>
-            1室1厅 | 精装 | 西北 | 2002年 | 24899.22元/&#65533; | 4/28层
+            2��1�� | ��װ | ���� | 2002�� | 26543.21Ԫ/&#65533;O | 7/25��
            </dd> 
            <dd>
-            <a href="/xiaoqu/11432/" title="欧园北欧印象" target="_blank">欧园北欧印象</a>&nbsp; 宣武广外南马连道80号&nbsp;
-            <a href="/xiaoqu/11432/ditu" onmouseover="showMap(116.33047485351562,39.87694549560547);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/11830/" title="�Ϸ�԰һ��" target="_blank">�Ϸ�԰һ��</a>&nbsp; ��ׯ��·�ڶ��м���Ժ����&nbsp;
+            <a href="/xiaoqu/11830/ditu" onmouseover="showMap(116.44347616426,39.864561201345);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>105</b>万</p> <p><span class="fs16">42.17</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>215</b>��</p> <p><span class="fs16">81</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/287540301114657967.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/11432/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/11432/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/11432/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr90840xq0h0m0j0px0p1bq0" target="_blank">我爱我家</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr90840xq0h0m0j0px0p1bq0" target="_blank">郑岩</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/282320020011539490.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/11830/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/11830/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/11830/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr57253xq0h0m0j0px0p1bq0" target="_blank">�Ұ��Ҽ�</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr57253xq0h0m0j0px0p1bq0" target="_blank">�����</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/287540301114657967.html" target="_blank"></a>
+          <a href="/ershoufang/282320020011539490.html" target="_blank"></a>
          </div> </li> 
         <li class="none" onmouseover="onBy(this);" onmouseout="onOut(this);"> 
          <div class="item"> 
           <div class="img">
-           <p><a href="/ershoufang/239223213114612153.html" target="_blank"><img alt="毗邻1600公顷郊野公园，层高3米3，通透精装" src="http://img3.f.itc.cn/esf/5650/12/1/100x75_56501201.jpg" width="100" height="77" /></a><b>6&nbsp;图</b></p>
+           <p><a href="/ershoufang/239552014044601777.html" target="_blank"><img alt="�׸����� �ϵ� �����Ŵ� �߹�·����Ҫ����" src="http://img4.f.itc.cn/esf/5655/20/81/100x75_56552081.jpg" width="100" height="77" /></a><b>6&nbsp;ͼ</b></p>
           </div> 
           <dl class="info"> 
            <dt>
-            <s title="麦田房产承诺真实房源"></s>
-            <a href="/ershoufang/239223213114612153.html" target="_blank" title="毗邻1600公顷郊野公园，层高3米3，通透精装">毗邻1600公顷郊野公园，层高3米3，通透精装</a>
+            <s title="���﷿����ŵ��ʵ��Դ"></s>
+            <a href="/ershoufang/239552014044601777.html" target="_blank" title="�׸����� �ϵ� �����Ŵ� �߹�·����Ҫ����">�׸����� �ϵ� �����Ŵ� �߹�·����Ҫ����</a>
            </dt> 
            <dd>
-            3室2厅 | 精装 | 南北 | 2004年 | 35256.41元/&#65533; | 9/14层
+            4��3�� | ��װ | �ϱ� | 2007�� | 56451.61Ԫ/&#65533;O | 3/3��
            </dd> 
            <dd>
-            <a href="/xiaoqu/11904/" title="逸成东苑" target="_blank">逸成东苑</a>&nbsp; 学清路西学院路北&nbsp;
-            <a href="/xiaoqu/11904/ditu" onmouseover="showMap(116.34922,40.013574);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">地图</a>
+            <a href="/xiaoqu/95581/" title="�׸�" target="_blank">�׸�</a>&nbsp; ����������·��20��Ժ&nbsp;
+            <a href="/xiaoqu/95581/ditu" onmouseover="showMap(116.47784062613,39.897896792782);setMapTop(this, false);" onmouseout="clearTimeout(tm);" target="_blank" rel="nofollow">��ͼ</a>
            </dd> 
           </dl> 
           <div class="pir"> 
-           <span class="spec"> <p> </p> <p class="m"><b>550</b>万</p> <p><span class="fs16">156</span>平米</p> </span>
+           <span class="spec"> <p> </p> <p class="m"><b>2100</b>��</p> <p><span class="fs16">372</span>ƽ��</p> </span>
            <s></s> 
           </div> 
          </div>
          <!-- /item --> 
          <div class="link"> 
-          <span class="l"><a class="icon4" href="/ershoufang/239223213114612153.html#houseUnitPic" target="_blank">户型图</a><a class="icon5" href="/xiaoqu/11904/" target="_blank">小区详情</a><a class="icon6" href="/xiaoqu/11904/xiangce" target="_blank">小区相册</a><a class="icon7" href="/xiaoqu/11904/ditu" target="_blank">小区地图</a></span>
-          <span class="r"><a href="/dianpu/jingjiren/index/jjr71188xq0h0m0j0px0p1bq0" target="_blank">麦田房产</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr71188xq0h0m0j0px0p1bq0" target="_blank">王红梅</a></span> 
+          <span class="l"><a class="icon4" href="/ershoufang/239552014044601777.html#houseUnitPic" target="_blank">����ͼ</a><a class="icon5" href="/xiaoqu/95581/" target="_blank">С������</a><a class="icon6" href="/xiaoqu/95581/xiangce" target="_blank">С�����</a><a class="icon7" href="/xiaoqu/95581/ditu" target="_blank">С����ͼ</a></span>
+          <span class="r"><a href="/dianpu/jingjiren/index/jjr88464xq0h0m0j0px0p1bq0" target="_blank">���﷿��</a>&nbsp;<a href="/dianpu/jingjiren/index/jjr88464xq0h0m0j0px0p1bq0" target="_blank">�����</a></span> 
          </div> 
          <div class="onblank">
-          <a href="/ershoufang/239223213114612153.html" target="_blank"></a>
+          <a href="/ershoufang/239552014044601777.html" target="_blank"></a>
          </div> </li> 
        </ul> 
-       <!-- popwindow 地图弹出框 --> 
+       <!-- popwindow ��ͼ������ --> 
        <div id="map_popwindow_a" class="popwindow" style="display:block; top:-300em;"> 
         <div class="map_popbox"> 
          <div id="map_box" class="map_box" style="width:350px; height:240px;"></div> 
@@ -1120,22 +1118,22 @@ function AddFavorite(sURL, sTitle) {
        <!-- /popwindow --> 
        <div class="db10"></div> 
        <div class="pageIng"> 
-        <span class="fl">共有<b>188112</b>套出售房源</span> 
+        <span class="fl">����<b>189993</b>�׳��۷�Դ</span> 
         <ul class="fr"> 
-         <li class="first"><a ref="javascript:void(0)" class="down2" title="首页">首页</a></li> 
-         <li class="no_up"><a href="javascript:void(0)">上一页</a></li>
+         <li class="first"><a ref="javascript:void(0)" class="down2" title="��ҳ">��ҳ</a></li> 
+         <li class="no_up"><a href="javascript:void(0)">��һҳ</a></li>
          <li class="is_now">1</li>
-         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p2px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="第2页">2</a></li>
-         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p3px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="第3页">3</a></li>
-         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p4px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="第4页">4</a></li>
-         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p5px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="第5页">5</a></li>
-         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p6px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="第6页">6</a></li>
-         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p7px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="第7页">7</a></li>
-         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p8px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="第8页">8</a></li>
-         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p9px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="第9页">9</a></li>
-         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p10px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="第10页">10</a></li>
-         <li class="down"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p2px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="下一页">下一页</a></li>
-         <li class="no_first"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p9406px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="末页">末页</a></li> 
+         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p2px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="��2ҳ">2</a></li>
+         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p3px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="��3ҳ">3</a></li>
+         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p4px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="��4ҳ">4</a></li>
+         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p5px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="��5ҳ">5</a></li>
+         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p6px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="��6ҳ">6</a></li>
+         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p7px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="��7ҳ">7</a></li>
+         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p8px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="��8ҳ">8</a></li>
+         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p9px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="��9ҳ">9</a></li>
+         <li><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p10px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="��10ҳ">10</a></li>
+         <li class="down"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p2px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="��һҳ">��һҳ</a></li>
+         <li class="no_first"><a href="/ershoufang/j0m0h0jz0zx0cx0bq0p9500px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/" title="ĩҳ">ĩҳ</a></li> 
         </ul> 
        </div> 
        <div class="db10"></div> 
@@ -1145,21 +1143,21 @@ function AddFavorite(sURL, sTitle) {
      <div class="db10"></div> 
      <div class="hot_area"> 
       <div class="hd"> 
-       <h4>大家都关注<span class="ora">北京二手房</span>热点小区</h4> 
-       <a class="more" href="/xiaoqu/ch1by0ae0lt0p1px0jd0bx0q0b0xl0zd0xq0st3s0tx1/" target="_blank">更多&nbsp;&gt;</a> 
+       <h4>��Ҷ���ע<span class="ora">�������ַ�</span>�ȵ�С��</h4> 
+       <a class="more" href="/xiaoqu/ch1by0ae0lt0p1px0jd0bx0q0b0xl0zd0xq0st3s0tx1/" target="_blank">����&nbsp;&gt;</a> 
       </div> 
       <div class="bd"> 
        <ul class="col c1"> 
-        <li><a class="l" href="/xiaoqu/3201" target="_blank">远洋山水</a><span class="c">售3682套</span><span class="r">26336元/&#65533;</span></li> 
-        <li><a class="l" href="/xiaoqu/3252" target="_blank">新龙城</a><span class="c">售2116套</span><span class="r">18234元/&#65533;</span></li> 
-        <li><a class="l" href="/xiaoqu/5080" target="_blank">东亚上北中心</a><span class="c">售1620套</span><span class="r">17605元/&#65533;</span></li> 
-        <li><a class="l" href="/xiaoqu/2758" target="_blank">柏林爱乐</a><span class="c">售1066套</span><span class="r">19747元/&#65533;</span></li> 
+        <li><a class="l" href="/xiaoqu/3201" target="_blank">Զ��ɽˮ</a><span class="c">��3682��</span><span class="r">26336Ԫ/&#65533;O</span></li> 
+        <li><a class="l" href="/xiaoqu/3252" target="_blank">������</a><span class="c">��2116��</span><span class="r">18234Ԫ/&#65533;O</span></li> 
+        <li><a class="l" href="/xiaoqu/5080" target="_blank">�����ϱ�����</a><span class="c">��1620��</span><span class="r">17605Ԫ/&#65533;O</span></li> 
+        <li><a class="l" href="/xiaoqu/2758" target="_blank">���ְ���</a><span class="c">��1066��</span><span class="r">19747Ԫ/&#65533;O</span></li> 
        </ul> 
        <ul class="col c2"> 
-        <li><a class="l" href="/xiaoqu/11475" target="_blank">天通苑东一区</a><span class="c">售896套</span><span class="r">13847元/&#65533;</span></li> 
-        <li><a class="l" href="/xiaoqu/2996" target="_blank">永定河孔雀城</a><span class="c">售825套</span><span class="r">8827元/&#65533;</span></li> 
-        <li><a class="l" href="/xiaoqu/952" target="_blank">苹果社区</a><span class="c">售764套</span><span class="r">32402元/&#65533;</span></li> 
-        <li><a class="l" href="/xiaoqu/11477" target="_blank">天通苑西三区</a><span class="c">售682套</span><span class="r">13243元/&#65533;</span></li> 
+        <li><a class="l" href="/xiaoqu/11475" target="_blank">��ͨԷ��һ��</a><span class="c">��896��</span><span class="r">13847Ԫ/&#65533;O</span></li> 
+        <li><a class="l" href="/xiaoqu/2996" target="_blank">�����ӿ�ȸ��</a><span class="c">��825��</span><span class="r">8827Ԫ/&#65533;O</span></li> 
+        <li><a class="l" href="/xiaoqu/952" target="_blank">ƻ������</a><span class="c">��764��</span><span class="r">32402Ԫ/&#65533;O</span></li> 
+        <li><a class="l" href="/xiaoqu/11477" target="_blank">��ͨԷ������</a><span class="c">��682��</span><span class="r">13243Ԫ/&#65533;O</span></li> 
        </ul> 
       </div> 
      </div> 
@@ -1168,44 +1166,44 @@ function AddFavorite(sURL, sTitle) {
     <div class="side"> 
      <div class="area trend"> 
       <div class="hd"> 
-       <h4>北京房价走势</h4> 
+       <h4>������������</h4> 
       </div> 
       <div class="bd"> 
-       <p class="price">5月均价：<span>24038元/&#65533;</span></p> 
-       <!-- 房价速递走势图 --> 
+       <p class="price">5�¾��ۣ�<span>24038Ԫ/&#65533;O</span></p> 
+       <!-- �����ٵ�����ͼ --> 
        <script type="text/javascript" src="http://src.esf.focus.cn/upload/js/swfobject.js"></script> 
        <div id="my_chart"></div> 
        <script type="text/javascript">
 							var so = new SWFObject("http://src.esf.focus.cn/upload/swf/ofc.swf",  "ofc", "220", "120", "9", "#FFFFFF");
 							so.addVariable("variables","true");
-							so.addVariable("loading","搜狐二手房");
+							so.addVariable("loading","�Ѻ����ַ�");
 							so.addVariable("data-file", "%2Fajax_house_price_run.php%3Fcity_id%3D1");
 							so.addParam("allowScriptAccess", "always" );
 							so.write("my_chart");
 						
        </script> 
-       <!-- 房价速递走势图 --> 
+       <!-- �����ٵ�����ͼ --> 
       </div> 
      </div> 
      <!--/--> 
      <div class="db10"></div> 
      <div class="area hotInfo"> 
       <div class="hd"> 
-       <h4><a href="/news.php?sid=5" target="_blank">您可能会关注</a></h4> 
-       <a class="more" href="/news.php?sid=5" target="_blank">更多&nbsp;&gt;</a> 
+       <h4><a href="/news.php?sid=5" target="_blank">�����ܻ��ע</a></h4> 
+       <a class="more" href="/news.php?sid=5" target="_blank">����&nbsp;&gt;</a> 
       </div> 
       <div class="bd"> 
        <ul> 
-        <li>・<a href="http://bj.esf.focus.cn/news/2012-05-07/68489.html" title="【楼盘】京西南热盘品荐  三环新城均价2万起" target="_blank">【楼盘】京西南热盘品荐 三环新城均价2万起</a></li> 
-        <li>・<a href="http://bj.esf.focus.cn/news/2012-05-03/68348.html" title="【区域】购房观望情绪渐少 天通苑社区均价1.4万" target="_blank">【区域】购房观望情绪渐少 天通苑社区均价1.4万</a></li> 
-        <li>・<a href="http://bj.esf.focus.cn/news/2012-04-28/68144.html" title="刚需准婚族首选 海淀西三旗均1.9万精装两居好房" target="_blank">刚需准婚族首选 海淀西三旗均1.9万精装两居好房</a></li> 
-        <li>・<a href="http://bj.esf.focus.cn/news/2012-04-28/68142.html" title="以价换量成共识  朝阳管庄1.7万/平好房大搜罗" target="_blank">以价换量成共识 朝阳管庄1.7万/平好房大搜罗</a></li> 
-        <li>・<a href="http://bj.esf.focus.cn/news/2012-04-27/68090.html" title="近郊刚需盘力撑回暖 大兴均1.5万好房源大集结" target="_blank">近郊刚需盘力撑回暖 大兴均1.5万好房源大集结</a></li> 
-        <li>・<a href="http://bj.esf.focus.cn/news/2012-04-27/68087.html" title="房价下行仍有空间 天通苑均1.3万精装两居即入住" target="_blank">房价下行仍有空间 天通苑均1.3万精装两居即入住</a></li> 
-        <li>・<a href="http://bj.esf.focus.cn/news/2012-04-26/68022.html" title="二手房市场量价缓升 探寻通州均1.2万大户型房" target="_blank">二手房市场量价缓升 探寻通州均1.2万大户型房</a></li> 
-        <li>・<a href="http://bj.esf.focus.cn/news/2012-04-26/68016.html" title="以价换量态势明显  劲松均2.5万精装两居集结" target="_blank">以价换量态势明显 劲松均2.5万精装两居集结</a></li> 
-        <li>・<a href="http://bj.esf.focus.cn/news/2012-04-25/67956.html" title="北五环5.1放“价” 邻13号线均2.4万上地精装房" target="_blank">北五环5.1放“价” 邻13号线均2.4万上地精装房</a></li> 
-        <li>・<a href="http://bj.esf.focus.cn/news/2012-04-25/67953.html" title="二手房均价跌幅收窄 东三环潘家园均2.1万好房汇" target="_blank">二手房均价跌幅收窄 东三环潘家园均2.1万好房汇</a></li> 
+        <li>?<a href="http://bj.esf.focus.cn/news/2012-05-07/68489.html" title="��¥�̡�����������Ʒ��  �����³Ǿ���2����" target="_blank">��¥�̡�����������Ʒ�� �����³Ǿ���2����</a></li> 
+        <li>?<a href="http://bj.esf.focus.cn/news/2012-05-03/68348.html" title="�����򡿹��������������� ��ͨԷ��������1.4��" target="_blank">�����򡿹��������������� ��ͨԷ��������1.4��</a></li> 
+        <li>?<a href="http://bj.esf.focus.cn/news/2012-04-28/68144.html" title="����׼������ѡ �����������1.9��װ���Ӻ÷�" target="_blank">����׼������ѡ �����������1.9��װ���Ӻ÷�</a></li> 
+        <li>?<a href="http://bj.esf.focus.cn/news/2012-04-28/68142.html" title="�Լۻ����ɹ�ʶ  ������ׯ1.7��/ƽ�÷�������" target="_blank">�Լۻ����ɹ�ʶ ������ׯ1.7��/ƽ�÷�������</a></li> 
+        <li>?<a href="http://bj.esf.focus.cn/news/2012-04-27/68090.html" title="�������������Ż�ů ���˾�1.5��÷�Դ�󼯽�" target="_blank">�������������Ż�ů ���˾�1.5��÷�Դ�󼯽�</a></li> 
+        <li>?<a href="http://bj.esf.focus.cn/news/2012-04-27/68087.html" title="�����������пռ� ��ͨԷ��1.3��װ���Ӽ���ס" target="_blank">�����������пռ� ��ͨԷ��1.3��װ���Ӽ���ס</a></li> 
+        <li>?<a href="http://bj.esf.focus.cn/news/2012-04-26/68022.html" title="���ַ��г����ۻ��� ̽Ѱͨ�ݾ�1.2����ͷ�" target="_blank">���ַ��г����ۻ��� ̽Ѱͨ�ݾ�1.2����ͷ�</a></li> 
+        <li>?<a href="http://bj.esf.focus.cn/news/2012-04-26/68016.html" title="�Լۻ���̬������  ���ɾ�2.5��װ���Ӽ���" target="_blank">�Լۻ���̬������ ���ɾ�2.5��װ���Ӽ���</a></li> 
+        <li>?<a href="http://bj.esf.focus.cn/news/2012-04-25/67956.html" title="���廷5.1�š��ۡ� ��13���߾�2.4���ϵؾ�װ��" target="_blank">���廷5.1�š��ۡ� ��13���߾�2.4���ϵؾ�װ��</a></li> 
+        <li>?<a href="http://bj.esf.focus.cn/news/2012-04-25/67953.html" title="���ַ����۵�����խ �������˼�԰��2.1��÷���" target="_blank">���ַ����۵�����խ �������˼�԰��2.1��÷���</a></li> 
        </ul> 
       </div> 
      </div> 
@@ -1220,14 +1218,14 @@ function AddFavorite(sURL, sTitle) {
      <form action="/community/feedback.php?action=addgfeedback&amp;sourceName=ershoufang" method="POST" id="feedbackform" target="feedback_f_l"> 
       <div class="area user_idea"> 
        <div class="hd"> 
-        <h4>参与用户反馈</h4> 
+        <h4>�����û�����</h4> 
        </div> 
        <div class="bd"> 
-        <p>用的还满意么？快来说几句</p> 
+        <p>�õĻ�����ô������˵����</p> 
         <textarea rows="5" maxlength="140" name="content" id="feedback_content" cols="29" class="textbox" oninput="feedback_keyChange(this.id,'feedback_max')" onpropertychange="feedback_keyChange(this.id,'feedback_max')"></textarea>
         <br /> 
-        <input class="btn" type="submit" onclick="return checkfeed()" value="提交反馈" />
-        <span id="feedback_max" class="cue">您还可以输入<b>140</b>个字</span> 
+        <input class="btn" type="submit" onclick="return checkfeed()" value="�ύ����" />
+        <span id="feedback_max" class="cue">������������<b>140</b>����</span> 
        </div> 
       </div>
       <!-- /user_idea --> 
@@ -1244,15 +1242,15 @@ function AddFavorite(sURL, sTitle) {
   <!-- /contant --> 
   <div class="db10"></div> 
   <div id="footer"> 
-   <p class="footer-nav cf"> <span class="fl">分站导航： <a href="http://bj.esf.focus.cn" target="_blank">北京二手房</a><a href="http://sh.esf.focus.cn" target="_blank">上海二手房</a><a href="http://tj.esf.focus.cn" target="_blank">天津二手房</a><a href="http://gz.esf.focus.cn" target="_blank">广州二手房</a><a href="http://sz.esf.focus.cn" target="_blank">深圳二手房</a><a href="http://cd.esf.focus.cn" target="_blank">成都二手房</a><a href="http://cq.esf.focus.cn" target="_blank">重庆二手房</a> </span> </p> 
-   <p class="about"> <a target="_blank" href="http://help.esf.focus.cn/4_1.html">关于我们</a>| <a target="_blank" href="http://help.esf.focus.cn/4_3.html">联系我们</a>| <a target="_blank" href="http://help.esf.focus.cn/4_4.html">用户协议</a>| <a target="_blank" href="http://help.esf.focus.cn/index.html">使用帮助</a>| <a href="#">网站地图</a> </p> 
+   <p class="footer-nav cf"> <span class="fl">��վ������ <a href="http://bj.esf.focus.cn" target="_blank">�������ַ�</a><a href="http://sh.esf.focus.cn" target="_blank">�Ϻ����ַ�</a><a href="http://tj.esf.focus.cn" target="_blank">�����ַ�</a><a href="http://gz.esf.focus.cn" target="_blank">���ݶ��ַ�</a><a href="http://sz.esf.focus.cn" target="_blank">���ڶ��ַ�</a><a href="http://cd.esf.focus.cn" target="_blank">�ɶ����ַ�</a><a href="http://cq.esf.focus.cn" target="_blank">������ַ�</a> </span> </p> 
+   <p class="about"> <a target="_blank" href="http://help.esf.focus.cn/4_1.html">��������</a>| <a target="_blank" href="http://help.esf.focus.cn/4_3.html">��ϵ����</a>| <a target="_blank" href="http://help.esf.focus.cn/4_4.html">�û�Э��</a>| <a target="_blank" href="http://help.esf.focus.cn/index.html">ʹ�ð���</a>| <a href="#">��վ��ͼ</a> </p> 
    <div class="footer_51f"> 
-    <p><span>搜狐二手房 北京站招商热线：010-62375037</span></p> 
-    <p>Copyright&copy; 2012 Sohu.com Inc. All rights reserved.京ICP证030367号 搜狐公司 版权所有</p> 
+    <p><span>�Ѻ����ַ� ����վ�������ߣ�010-62375037</span></p> 
+    <p>Copyright&copy; 2012 Sohu.com Inc. All rights reserved.��ICP֤030367�� �Ѻ���˾ ��Ȩ����</p> 
    </div> 
   </div> 
   <script type="text/javascript">
-//控制全站textarea、input表单用户输入文字颜色
+//����ȫվtextarea��input�����û�����������ɫ
 $(document).ready(function(){
 	$('textarea').click(function(){
 		$(this).css('color','#333');

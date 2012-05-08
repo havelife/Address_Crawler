@@ -8,5 +8,8 @@ public class SystemEncodingTest {
 	public void systemEncodingTest(){
 		String   encoding   =   System.getProperty("file.encoding");
 		System.out.println(encoding);
+		
+		String allProperties = System.getProperties().toString().replace(",", "\n");
+		System.out.println(allProperties);
 	}
 }
