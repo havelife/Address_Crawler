@@ -22,6 +22,6 @@ public class LogMgrTest {
 	@Test
 	public void logCommentAndOperatorTest(){
 		LogMgr logMgr = (LogMgr)ctx.getBean("logMgr");
-		logMgr.logCommentAndOperator("www", "æˆ‘æ˜¯");
+		logMgr.logCommentAndOperator("www", "²âÊÔasdbvbbf");
 	}
 }
