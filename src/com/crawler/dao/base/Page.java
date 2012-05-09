@@ -6,30 +6,30 @@ import java.util.List;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * �����ORMʵ���޹صķ�ҳ�����ѯ����װ.
- * ע��������Ŵ�1��ʼ.
+ * 与具体ORM实现无关的分页参数及查询结果封装.
+ * 注意所有序号从1开始.
  * 
- * @param <T> Page�м�¼������.
+ * @param <T> Page中记录的类型.
  * 
  * @author calvin
  */
 public class Page<T> {
-	//-- �������� --//
+	//-- 公共变量 --//
 	public static final String ASC = "asc";
 	public static final String DESC = "desc";
 
-	//-- ��ҳ���� --//
+	//-- 分页参数 --//
 	protected int pageNo = 1;
 	protected int pageSize = 1;
 	protected String orderBy = null;
 	protected String order = null;
 	protected boolean autoCount = true;
 
-	//-- ���ؽ�� --//
+	//-- 返回结果 --//
 	protected List<T> result = Collections.emptyList();
 	protected long totalCount = -1;
 
-	//-- ���캯�� --//
+	//-- 构造函数 --//
 	public Page() {
 	}
 
@@ -42,16 +42,16 @@ public class Page<T> {
 		setAutoCount(autoCount);
 	}
 
-	//-- ���ʲ�ѯ������ --//
+	//-- 访问查询参数函数 --//
 	/**
-	 * ��õ�ǰҳ��ҳ��,��Ŵ�1��ʼ,Ĭ��Ϊ1.
+	 * 获得当前页的页号,序号从1开始,默认为1.
 	 */
 	public int getPageNo() {
 		return pageNo;
 	}
 
 	/**
-	 * ���õ�ǰҳ��ҳ��,��Ŵ�1��ʼ,����1ʱ�Զ�����Ϊ1.
+	 * 设置当前页的页号,序号从1开始,低于1时自动调整为1.
 	 */
 	public void setPageNo(final int pageNo) {
 		this.pageNo = pageNo;
@@ -62,14 +62,14 @@ public class Page<T> {
 	}
 
 	/**
-	 * ���ÿҳ�ļ�¼����,Ĭ��Ϊ1.
+	 * 获得每页的记录数量,默认为1.
 	 */
 	public int getPageSize() {
 		return pageSize;
 	}
 
 	/**
-	 * ����ÿҳ�ļ�¼����,����1ʱ�Զ�����Ϊ1.
+	 * 设置每页的记录数量,低于1时自动调整为1.
 	 */
 	public void setPageSize(final int pageSize) {
 		this.pageSize = pageSize;
@@ -80,102 +80,102 @@ public class Page<T> {
 	}
 
 	/**
-	 * ���pageNo��pageSize���㵱ǰҳ��һ����¼���ܽ���е�λ��,��Ŵ�1��ʼ.
+	 * 根据pageNo和pageSize计算当前页第一条记录在总结果集中的位置,序号从1开始.
 	 */
 	public int getFirst() {
 		return ((pageNo - 1) * pageSize) + 1;
 	}
 
 	/**
-	 * ��������ֶ�,��Ĭ��ֵ.��������ֶ�ʱ��','�ָ�.
+	 * 获得排序字段,无默认值.多个排序字段时用','分隔.
 	 */
 	public String getOrderBy() {
 		return orderBy;
 	}
 
 	/**
-	 * ���������ֶ�,��������ֶ�ʱ��','�ָ�.
+	 * 设置排序字段,多个排序字段时用','分隔.
 	 */
 	public void setOrderBy(final String orderBy) {
 		this.orderBy = orderBy;
 	}
 
 	/**
-	 * �Ƿ������������ֶ�,��Ĭ��ֵ.
+	 * 是否已设置排序字段,无默认值.
 	 */
 	public boolean isOrderBySetted() {
 		return (StringUtils.isNotBlank(orderBy) && StringUtils.isNotBlank(order));
 	}
 
 	/**
-	 * ���������.
+	 * 获得排序方向.
 	 */
 	public String getOrder() {
 		return order;
 	}
 
 	/**
-	 * ��������ʽ��.
+	 * 设置排序方式向.
 	 * 
-	 * @param order ��ѡֵΪdesc��asc,��������ֶ�ʱ��','�ָ�.
+	 * @param order 可选值为desc或asc,多个排序字段时用','分隔.
 	 */
 	public void setOrder(final String order) {
-		//���order�ַ�ĺϷ�ֵ
+		//检查order字符串的合法值
 		String[] orders = StringUtils.split(StringUtils.lowerCase(order), ',');
 		for (String orderStr : orders) {
 			if (!StringUtils.equals(DESC, orderStr) && !StringUtils.equals(ASC, orderStr))
-				throw new IllegalArgumentException("������" + orderStr + "���ǺϷ�ֵ");
+				throw new IllegalArgumentException("排序方向" + orderStr + "不是合法值");
 		}
 
 		this.order = StringUtils.lowerCase(order);
 	}
 
 	/**
-	 * ��ѯ����ʱ�Ƿ��Զ�����ִ��count��ѯ��ȡ�ܼ�¼��, Ĭ��Ϊfalse.
+	 * 查询对象时是否自动另外执行count查询获取总记录数, 默认为false.
 	 */
 	public boolean isAutoCount() {
 		return autoCount;
 	}
 
 	/**
-	 * ��ѯ����ʱ�Ƿ��Զ�����ִ��count��ѯ��ȡ�ܼ�¼��.
+	 * 查询对象时是否自动另外执行count查询获取总记录数.
 	 */
 	public void setAutoCount(final boolean autoCount) {
 		this.autoCount = autoCount;
 	}
 
-	//-- ���ʲ�ѯ����� --//
+	//-- 访问查询结果函数 --//
 
 	/**
-	 * ȡ��ҳ�ڵļ�¼�б�.
+	 * 取得页内的记录列表.
 	 */
 	public List<T> getResult() {
 		return result;
 	}
 
 	/**
-	 * ����ҳ�ڵļ�¼�б�.
+	 * 设置页内的记录列表.
 	 */
 	public void setResult(final List<T> result) {
 		this.result = result;
 	}
 
 	/**
-	 * ȡ���ܼ�¼��, Ĭ��ֵΪ-1.
+	 * 取得总记录数, 默认值为-1.
 	 */
 	public long getTotalCount() {
 		return totalCount;
 	}
 
 	/**
-	 * �����ܼ�¼��.
+	 * 设置总记录数.
 	 */
 	public void setTotalCount(final long totalCount) {
 		this.totalCount = totalCount;
 	}
 
 	/**
-	 * ���pageSize��totalCount������ҳ��, Ĭ��ֵΪ-1.
+	 * 根据pageSize与totalCount计算总页数, 默认值为-1.
 	 */
 	public long getTotalPages() {
 		if (totalCount < 0)
@@ -189,15 +189,15 @@ public class Page<T> {
 	}
 
 	/**
-	 * �Ƿ�����һҳ.
+	 * 是否还有下一页.
 	 */
 	public boolean isHasNext() {
 		return (pageNo + 1 <= getTotalPages());
 	}
 
 	/**
-	 * ȡ����ҳ��ҳ��, ��Ŵ�1��ʼ.
-	 * ��ǰҳΪβҳʱ�Է���βҳ���.
+	 * 取得下页的页号, 序号从1开始.
+	 * 当前页为尾页时仍返回尾页序号.
 	 */
 	public int getNextPage() {
 		if (isHasNext())
@@ -207,15 +207,15 @@ public class Page<T> {
 	}
 
 	/**
-	 * �Ƿ�����һҳ.
+	 * 是否还有上一页.
 	 */
 	public boolean isHasPre() {
 		return (pageNo - 1 >= 1);
 	}
 
 	/**
-	 * ȡ����ҳ��ҳ��, ��Ŵ�1��ʼ.
-	 * ��ǰҳΪ��ҳʱ������ҳ���.
+	 * 取得上页的页号, 序号从1开始.
+	 * 当前页为首页时返回首页序号.
 	 */
 	public int getPrePage() {
 		if (isHasPre())
