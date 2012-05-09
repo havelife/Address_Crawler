@@ -1,13 +1,3 @@
-CREATE TABLE `fenye` 
-  `id` bigint(20) NOT NULL AUTO_INCREMENT,
-  `city` varchar(100) DEFAULT NULL,
-  `page` int(10) DEFAULT NULL,
-  `content` mediumtext,
-  `url` varchar(500) DEFAULT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8
-
-
 CREATE TABLE `page` (
   `id` int(10) NOT NULL AUTO_INCREMENT COMMENT '主键',
   `url` char(255) NOT NULL,
@@ -19,7 +9,7 @@ CREATE TABLE `page` (
   `time` timestamp NULL DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
   `jobid` int(5) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8
+) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8;
 
 
 CREATE TABLE `url` (
@@ -45,7 +35,7 @@ CREATE TABLE `job` (
   `count` int(5) DEFAULT '0' COMMENT '这个job总共有多少个页面',
   `completecount` int(5) DEFAULT '0' COMMENT '完成了下载的页面',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
 CREATE TABLE `log` (
@@ -54,4 +44,4 @@ CREATE TABLE `log` (
   `comment` varchar(255) DEFAULT NULL,
   `operator` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;

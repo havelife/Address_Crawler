@@ -118,9 +118,9 @@ public class WebPageUtil {
 		
 		String pageContent;
 		//http://house.focus.cn/housemarket/house_search/index.php?page=153
-		pageContent = WebPageUtil.getPageContentByUrl("http://bj.esf.focus.cn/ershoufang/j0m0h0jz0zx0cx0bq0p1px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/");  
+		pageContent = WebPageUtil.getPageContentByUrl("http://bj.esf.focus.cn/ershoufang/j0m0h0jz0zx0cx0bq0p51px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/");  
 		
-		FileUtil.writeStr2File(pageContent, "./data/pagecontent.txt");
+		FileUtil.writeStr2File(pageContent, "./data/pagecontentPage51.txt");
 		System.out.println(pageContent);
 		/*
 		try {
