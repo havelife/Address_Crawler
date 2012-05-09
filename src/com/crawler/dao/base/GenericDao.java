@@ -23,11 +23,11 @@ import org.springframework.util.Assert;
 import com.crawler.util.ReflectionUtils;
 
 /**
- * À©Õ¹¹¦ÄÜ°üÀ¨·ÖÒ³²éÑ¯,°´ÊôĞÔ¹ıÂËÌõ¼şÁĞ±í²éÑ¯.
- * ²ÎÕÕSpringSideÊµÏÖ
+ * æ‰©å±•åŠŸèƒ½åŒ…æ‹¬åˆ†é¡µæŸ¥è¯¢,æŒ‰å±æ€§è¿‡æ»¤æ¡ä»¶åˆ—è¡¨æŸ¥è¯¢.
+ * å‚ç…§SpringSideå®ç°
  * 
- * @param <T> DAO²Ù×÷µÄ¶ÔÏóÀàĞÍ
- * @param <PK> Ö÷¼üÀàĞÍ
+ * @param <T> DAOæ“ä½œçš„å¯¹è±¡ç±»å‹
+ * @param <PK> ä¸»é”®ç±»å‹
  * 
  * @author luochao
  * @version 1.0.0
@@ -41,8 +41,8 @@ public class GenericDao<T, PK extends Serializable> extends BaseDao<T, PK> {
 	}
 
 	/**
-	 * ÓÃÓÚÊ¡ÂÔDao²ã, Service²ãÖ±½ÓÊ¹ÓÃÍ¨ÓÃHibernateDaoµÄ¹¹Ôìº¯Êı.
-	 * ÔÚ¹¹Ôìº¯ÊıÖĞ¶¨Òå¶ÔÏóÀàĞÍClass.
+	 * ç”¨äºçœç•¥Daoå±‚, Serviceå±‚ç›´æ¥ä½¿ç”¨é€šç”¨HibernateDaoçš„æ„é€ å‡½æ•°.
+	 * åœ¨æ„é€ å‡½æ•°ä¸­å®šä¹‰å¯¹è±¡ç±»å‹Class.
 	 * eg.
 	 * HibernateDao<User, Long> userDao = new HibernateDao<User, Long>(sessionFactory, User.class);
 	 */
@@ -50,9 +50,9 @@ public class GenericDao<T, PK extends Serializable> extends BaseDao<T, PK> {
 		super(sessionFactory, entityClass);
 	}
 
-	//-- ·ÖÒ³²éÑ¯º¯Êı --//
+	//-- åˆ†é¡µæŸ¥è¯¢å‡½æ•° --//
 	/**
-	 * ·ÖÒ³»ñÈ¡È«²¿¶ÔÏó.
+	 * åˆ†é¡µè·å–å…¨éƒ¨å¯¹è±¡.
 	 */
 	public Page<T> findAll(final Page<T> page) {
 		return findPage(page);
@@ -62,13 +62,13 @@ public class GenericDao<T, PK extends Serializable> extends BaseDao<T, PK> {
 	
 	
 	/**
-	 * °´HQL·ÖÒ³²éÑ¯.
+	 * æŒ‰HQLåˆ†é¡µæŸ¥è¯¢.
 	 * 
-	 * @param page ·ÖÒ³²ÎÊı.²»Ö§³ÖÆäÖĞµÄorderBy²ÎÊı.
-	 * @param hql hqlÓï¾ä.
-	 * @param values ÊıÁ¿¿É±äµÄ²éÑ¯²ÎÊı,°´Ë³Ğò°ó¶¨.
+	 * @param page åˆ†é¡µå‚æ•°.ä¸æ”¯æŒå…¶ä¸­çš„orderByå‚æ•°.
+	 * @param hql hqlè¯­å¥.
+	 * @param values æ•°é‡å¯å˜çš„æŸ¥è¯¢å‚æ•°,æŒ‰é¡ºåºç»‘å®š.
 	 * 
-	 * @return ·ÖÒ³²éÑ¯½á¹û, ¸½´ø½á¹ûÁĞ±í¼°ËùÓĞ²éÑ¯Ê±µÄ²ÎÊı.
+	 * @return åˆ†é¡µæŸ¥è¯¢ç»“æœ, é™„å¸¦ç»“æœåˆ—è¡¨åŠæ‰€æœ‰æŸ¥è¯¢æ—¶çš„å‚æ•°.
 	 */
 	public Page<T> findPage(final Page<T> page, final String hql, final Object... values) {
 		Assert.notNull(page);
@@ -87,13 +87,13 @@ public class GenericDao<T, PK extends Serializable> extends BaseDao<T, PK> {
 	}
 
 	/**
-	 * °´HQL·ÖÒ³²éÑ¯.
+	 * æŒ‰HQLåˆ†é¡µæŸ¥è¯¢.
 	 * 
-	 * @param page ·ÖÒ³²ÎÊı.
-	 * @param hql hqlÓï¾ä.
-	 * @param values ÃüÃû²ÎÊı,°´Ãû³Æ°ó¶¨.
+	 * @param page åˆ†é¡µå‚æ•°.
+	 * @param hql hqlè¯­å¥.
+	 * @param values å‘½åå‚æ•°,æŒ‰åç§°ç»‘å®š.
 	 * 
-	 * @return ·ÖÒ³²éÑ¯½á¹û, ¸½´ø½á¹ûÁĞ±í¼°ËùÓĞ²éÑ¯Ê±µÄ²ÎÊı.
+	 * @return åˆ†é¡µæŸ¥è¯¢ç»“æœ, é™„å¸¦ç»“æœåˆ—è¡¨åŠæ‰€æœ‰æŸ¥è¯¢æ—¶çš„å‚æ•°.
 	 */
 	public Page<T> findPage(final Page<T> page, final String hql, final Map<String, Object> values) {
 		Assert.notNull(page);
@@ -113,12 +113,12 @@ public class GenericDao<T, PK extends Serializable> extends BaseDao<T, PK> {
 	}
 
 	/**
-	 * °´Criteria·ÖÒ³²éÑ¯.
+	 * æŒ‰Criteriaåˆ†é¡µæŸ¥è¯¢.
 	 * 
-	 * @param page ·ÖÒ³²ÎÊı.
-	 * @param criterions ÊıÁ¿¿É±äµÄCriterion.
+	 * @param page åˆ†é¡µå‚æ•°.
+	 * @param criterions æ•°é‡å¯å˜çš„Criterion.
 	 * 
-	 * @return ·ÖÒ³²éÑ¯½á¹û.¸½´ø½á¹ûÁĞ±í¼°ËùÓĞ²éÑ¯Ê±µÄ²ÎÊı.
+	 * @return åˆ†é¡µæŸ¥è¯¢ç»“æœ.é™„å¸¦ç»“æœåˆ—è¡¨åŠæ‰€æœ‰æŸ¥è¯¢æ—¶çš„å‚æ•°.
 	 */
 	public Page<T> findPage(final Page<T> page, final Criterion... criterions) {
 		Assert.notNull(page);
@@ -137,8 +137,8 @@ public class GenericDao<T, PK extends Serializable> extends BaseDao<T, PK> {
 	}
 
 	/**
-	 * °´Criteria·ÖÒ³²éÑ¯.
-	 * ÓÃÓÚCriteria¹ØÁª²éÑ¯
+	 * æŒ‰Criteriaåˆ†é¡µæŸ¥è¯¢.
+	 * ç”¨äºCriteriaå…³è”æŸ¥è¯¢
 	 *
 	 * @author luochao
 	 * @version 1.0.0
@@ -159,20 +159,20 @@ public class GenericDao<T, PK extends Serializable> extends BaseDao<T, PK> {
 	
 	
 	/**
-	 * ÉèÖÃ·ÖÒ³²ÎÊıµ½Query¶ÔÏó,¸¨Öúº¯Êı.
+	 * è®¾ç½®åˆ†é¡µå‚æ•°åˆ°Queryå¯¹è±¡,è¾…åŠ©å‡½æ•°.
 	 */
 	protected Query setPageParameter(final Query q, final Page<T> page) {
-		//hibernateµÄfirstResultµÄĞòºÅ´Ó0¿ªÊ¼
+		//hibernateçš„firstResultçš„åºå·ä»0å¼€å§‹
 		q.setFirstResult(page.getFirst() - 1);
 		q.setMaxResults(page.getPageSize());
 		return q;
 	}
 
 	/**
-	 * ÉèÖÃ·ÖÒ³²ÎÊıµ½Criteria¶ÔÏó,¸¨Öúº¯Êı.
+	 * è®¾ç½®åˆ†é¡µå‚æ•°åˆ°Criteriaå¯¹è±¡,è¾…åŠ©å‡½æ•°.
 	 */
 	protected Criteria setPageParameter(final Criteria c, final Page<T> page) {
-		//hibernateµÄfirstResultµÄĞòºÅ´Ó0¿ªÊ¼
+		//hibernateçš„firstResultçš„åºå·ä»0å¼€å§‹
 		c.setFirstResult(page.getFirst() - 1);
 		c.setMaxResults(page.getPageSize());
 
@@ -180,7 +180,7 @@ public class GenericDao<T, PK extends Serializable> extends BaseDao<T, PK> {
 			String[] orderByArray = StringUtils.split(page.getOrderBy(), ',');
 			String[] orderArray = StringUtils.split(page.getOrder(), ',');
 
-			Assert.isTrue(orderByArray.length == orderArray.length, "·ÖÒ³¶àÖØÅÅĞò²ÎÊıÖĞ,ÅÅĞò×Ö¶ÎÓëÅÅĞò·½ÏòµÄ¸öÊı²»ÏàµÈ");
+			Assert.isTrue(orderByArray.length == orderArray.length, "åˆ†é¡µå¤šé‡æ’åºå‚æ•°ä¸­,æ’åºå­—æ®µä¸æ’åºæ–¹å‘çš„ä¸ªæ•°ä¸ç›¸ç­‰");
 
 			for (int i = 0; i < orderByArray.length; i++) {
 				if (Page.ASC.equals(orderArray[i])) {
@@ -195,16 +195,16 @@ public class GenericDao<T, PK extends Serializable> extends BaseDao<T, PK> {
 
 	
 	
-	//-- ¼ÆËã½á¹û¼¯×ÜÊı ÓÃÓÚ·ÖÒ³ --//
+	//-- è®¡ç®—ç»“æœé›†æ€»æ•° ç”¨äºåˆ†é¡µ --//
 	
 	/**
-	 * Ö´ĞĞcount²éÑ¯»ñµÃ±¾´ÎHql²éÑ¯ËùÄÜ»ñµÃµÄ¶ÔÏó×ÜÊı.
+	 * æ‰§è¡ŒcountæŸ¥è¯¢è·å¾—æœ¬æ¬¡HqlæŸ¥è¯¢æ‰€èƒ½è·å¾—çš„å¯¹è±¡æ€»æ•°.
 	 * 
-	 * ±¾º¯ÊıÖ»ÄÜ×Ô¶¯´¦Àí¼òµ¥µÄhqlÓï¾ä,¸´ÔÓµÄhql²éÑ¯ÇëÁíĞĞ±àĞ´countÓï¾ä²éÑ¯.
+	 * æœ¬å‡½æ•°åªèƒ½è‡ªåŠ¨å¤„ç†ç®€å•çš„hqlè¯­å¥,å¤æ‚çš„hqlæŸ¥è¯¢è¯·å¦è¡Œç¼–å†™countè¯­å¥æŸ¥è¯¢.
 	 */
 	public long countHqlResult(final String hql, final Object... values) {
 		String fromHql = hql;
-		//select×Ó¾äÓëorder by×Ó¾ä»áÓ°Ïìcount²éÑ¯,½øĞĞ¼òµ¥µÄÅÅ³ı.
+		//selectå­å¥ä¸order byå­å¥ä¼šå½±å“countæŸ¥è¯¢,è¿›è¡Œç®€å•çš„æ’é™¤.
 		fromHql = "from " + StringUtils.substringAfter(fromHql, "from");
 		fromHql = StringUtils.substringBefore(fromHql, "order by");
 
@@ -219,13 +219,13 @@ public class GenericDao<T, PK extends Serializable> extends BaseDao<T, PK> {
 	}
 
 	/**
-	 * Ö´ĞĞcount²éÑ¯»ñµÃ±¾´ÎHql²éÑ¯ËùÄÜ»ñµÃµÄ¶ÔÏó×ÜÊı.
+	 * æ‰§è¡ŒcountæŸ¥è¯¢è·å¾—æœ¬æ¬¡HqlæŸ¥è¯¢æ‰€èƒ½è·å¾—çš„å¯¹è±¡æ€»æ•°.
 	 * 
-	 * ±¾º¯ÊıÖ»ÄÜ×Ô¶¯´¦Àí¼òµ¥µÄhqlÓï¾ä,¸´ÔÓµÄhql²éÑ¯ÇëÁíĞĞ±àĞ´countÓï¾ä²éÑ¯.
+	 * æœ¬å‡½æ•°åªèƒ½è‡ªåŠ¨å¤„ç†ç®€å•çš„hqlè¯­å¥,å¤æ‚çš„hqlæŸ¥è¯¢è¯·å¦è¡Œç¼–å†™countè¯­å¥æŸ¥è¯¢.
 	 */
 	public long countHqlResult(final String hql, final Map<String, Object> values) {
 		String fromHql = hql;
-		//select×Ó¾äÓëorder by×Ó¾ä»áÓ°Ïìcount²éÑ¯,½øĞĞ¼òµ¥µÄÅÅ³ı.
+		//selectå­å¥ä¸order byå­å¥ä¼šå½±å“countæŸ¥è¯¢,è¿›è¡Œç®€å•çš„æ’é™¤.
 		fromHql = "from " + StringUtils.substringAfter(fromHql, "from");
 		fromHql = StringUtils.substringBefore(fromHql, "order by");
 
@@ -240,12 +240,12 @@ public class GenericDao<T, PK extends Serializable> extends BaseDao<T, PK> {
 	}
 
 	/**
-	 * Ö´ĞĞcount²éÑ¯»ñµÃ±¾´ÎCriteria²éÑ¯ËùÄÜ»ñµÃµÄ¶ÔÏó×ÜÊı.
+	 * æ‰§è¡ŒcountæŸ¥è¯¢è·å¾—æœ¬æ¬¡CriteriaæŸ¥è¯¢æ‰€èƒ½è·å¾—çš„å¯¹è±¡æ€»æ•°.
 	 */
 	public int countCriteriaResult(final Criteria c) {
 		CriteriaImpl impl = (CriteriaImpl) c;
 
-		// ÏÈ°ÑProjection¡¢ResultTransformer¡¢OrderByÈ¡³öÀ´,Çå¿ÕÈıÕßºóÔÙÖ´ĞĞCount²Ù×÷
+		// å…ˆæŠŠProjectionã€ResultTransformerã€OrderByå–å‡ºæ¥,æ¸…ç©ºä¸‰è€…åå†æ‰§è¡ŒCountæ“ä½œ
 		Projection projection = impl.getProjection();
 		ResultTransformer transformer = impl.getResultTransformer();
 
@@ -254,13 +254,13 @@ public class GenericDao<T, PK extends Serializable> extends BaseDao<T, PK> {
 			orderEntries = (List) ReflectionUtils.getFieldValue(impl, "orderEntries");
 			ReflectionUtils.setFieldValue(impl, "orderEntries", new ArrayList());
 		} catch (Exception e) {
-			logger.error("²»¿ÉÄÜÅ×³öµÄÒì³£:{}", e.getMessage());
+			logger.error("ä¸å¯èƒ½æŠ›å‡ºçš„å¼‚å¸¸:{}", e.getMessage());
 		}
 
-		// Ö´ĞĞCount²éÑ¯
+		// æ‰§è¡ŒCountæŸ¥è¯¢
 		int totalCount = (Integer) c.setProjection(Projections.rowCount()).uniqueResult();
 
-		// ½«Ö®Ç°µÄProjection,ResultTransformerºÍOrderByÌõ¼şÖØĞÂÉè»ØÈ¥
+		// å°†ä¹‹å‰çš„Projection,ResultTransformerå’ŒOrderByæ¡ä»¶é‡æ–°è®¾å›å»
 		c.setProjection(projection);
 
 		if (projection == null) {
@@ -272,19 +272,19 @@ public class GenericDao<T, PK extends Serializable> extends BaseDao<T, PK> {
 		try {
 			ReflectionUtils.setFieldValue(impl, "orderEntries", orderEntries);
 		} catch (Exception e) {
-			logger.error("²»¿ÉÄÜÅ×³öµÄÒì³£:{}", e.getMessage());
+			logger.error("ä¸å¯èƒ½æŠ›å‡ºçš„å¼‚å¸¸:{}", e.getMessage());
 		}
 
 		return totalCount;
 	}
 
 	
-	//-- ÊôĞÔ¹ıÂËÌõ¼ş(PropertyFilter)²éÑ¯º¯Êı ÂÔ--//
+	//-- å±æ€§è¿‡æ»¤æ¡ä»¶(PropertyFilter)æŸ¥è¯¢å‡½æ•° ç•¥--//
 
 	/**
-	 * ÅĞ¶Ï¶ÔÏóµÄÊôĞÔÖµÔÚÊı¾İ¿âÄÚÊÇ·ñÎ¨Ò».
+	 * åˆ¤æ–­å¯¹è±¡çš„å±æ€§å€¼åœ¨æ•°æ®åº“å†…æ˜¯å¦å”¯ä¸€.
 	 * 
-	 * ÔÚĞŞ¸Ä¶ÔÏóµÄÇé¾°ÏÂ,Èç¹ûÊôĞÔĞÂĞŞ¸ÄµÄÖµ(value)µÈÓÚÊôĞÔÔ­À´µÄÖµ(orgValue)Ôò²»×÷±È½Ï.
+	 * åœ¨ä¿®æ”¹å¯¹è±¡çš„æƒ…æ™¯ä¸‹,å¦‚æœå±æ€§æ–°ä¿®æ”¹çš„å€¼(value)ç­‰äºå±æ€§åŸæ¥çš„å€¼(orgValue)åˆ™ä¸ä½œæ¯”è¾ƒ.
 	 */
 	public boolean isPropertyUnique(final String propertyName, final Object newValue, final Object oldValue) {
 		if (newValue == null || newValue.equals(oldValue))
