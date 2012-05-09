@@ -21,9 +21,9 @@ import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.Assert;
    
 /**
- * ��װHibernateԭ��API��DAO���ͻ���.
- * ����չ����DAO����ʹ��
- * ����SpringSideʵ��
+ * 封装Hibernate原生API的DAO泛型基类.
+ * 可扩展泛型DAO子类使用
+ * 参照SpringSide实现
  * 
  * @author luochao
  *
@@ -70,7 +70,7 @@ public class BaseDao<T, PK extends Serializable>{
 	}
 	
 	/**
-	 * ���Criterion��������Criteria. 
+	 * 根据Criterion条件创建Criteria. 
 	 */
 	public Criteria createCriteria(final Criterion... criterions) {  
 		Criteria criteria = this.getCriteria();
@@ -81,7 +81,7 @@ public class BaseDao<T, PK extends Serializable>{
 	}
 	
 	/**
-	 * ���Order������������Criteria. 
+	 * 根据Order排序条件创建Criteria. 
 	 */
 	public Criteria createCriteria(final Order... orders) {  
 		Criteria criteria = this.getCriteria();
@@ -92,7 +92,7 @@ public class BaseDao<T, PK extends Serializable>{
 	}
 	
 	/**
-	 * ��ݲ�ѯHQL������б?��Query����.
+	 * 根据查询HQL与参数列表创建Query对象.
 	 */
 	public Query createQuery(final String queryString, final Map<String, Object> values) {
 		Assert.hasText(queryString);
@@ -114,15 +114,11 @@ public class BaseDao<T, PK extends Serializable>{
 	    return query;  
 	}  
 	
-	
-	
-	
-	
 	@Transactional (propagation = Propagation.REQUIRED, readOnly=false)
 	public T save(final T entity) {  
 	    Assert.notNull(entity);  
 	    logger.info("save entity: {}", entity);
-	    return (T) getSession().merge(entity);		//�˴�ʹ��merge
+	    return (T) getSession().merge(entity);		//此处使用merge
 	}  
 	
 	@Transactional (propagation = Propagation.REQUIRED, readOnly=false)
@@ -140,7 +136,7 @@ public class BaseDao<T, PK extends Serializable>{
 	}
 	
 	/**
-	 * ��id��ȡ����.
+	 * 按id获取对象.
 	 */
 	public T get(final PK id) {  
 		return (T) getSession().get(entityClass, id);
@@ -150,22 +146,17 @@ public class BaseDao<T, PK extends Serializable>{
 		return (T) getSession().load(entityClass, id);
 	}
 	
-	
 	/**
-	 * ��ȡȫ������
-	 * Ҳ��return find();
+	 * 获取全部对象
+	 * 也可return find();
 	 */
 	public List<T> findAll() {  
 	    return findByCriteria();
 	}  
 	
-	
-	
-	
-	
 	/**
-	 * ��HQL��ѯ�����б�.
-	 * ���������ɱ�,��˳���.
+	 * 按HQL查询对象列表.
+	 * 参数数量可变,按顺序绑定.
 	 */
 	public <X> List<X> find(final String hql, final Object... values) {
 	    return createQuery(hql, values).list();  
@@ -181,7 +172,7 @@ public class BaseDao<T, PK extends Serializable>{
 	
 	
 	/**
-	 * ��ѯΨһ����.
+	 * 查询唯一对象.
 	 */
 	public <X> X findUnique(final String hql, final Object... values) {  
 	    return (X) createQuery(hql, values).uniqueResult();  
@@ -195,25 +186,16 @@ public class BaseDao<T, PK extends Serializable>{
 		return (T) createCriteria(criterions).uniqueResult();
 	}
 	
-	
-	
-	
-	
-	
 	/**
-	 * ��SQL��ѯ�����б�.
+	 * 按SQL查询对象列表.
 	 * 
-	 * @param sql sql���
-	 * @param paramMap ����Map
+	 * @param sql sql语句
+	 * @param paramMap 参数Map
 	 */
 	public List findBySQL(String sql, Map<String,Object> paramMap) {
 		return createSQLQuery(sql, paramMap).list();
 	}
-	
-	
-	
 
-	
 	public Integer findInt(String hql, Object... values) {  
 	    return (Integer) findUnique(hql, values);  
 	}  
@@ -226,10 +208,8 @@ public class BaseDao<T, PK extends Serializable>{
 	    return createCriteria(criterion).list();  
 	}  
 	
-	
-	
 	/**  
-	 * �����Բ��Ҷ����б�.  
+	 * 按属性查找对象列表.  
 	 */  
 	public List<T> findByProperty(final String propertyName, final Object value) {  
 	    Assert.hasText(propertyName);  
@@ -241,10 +221,8 @@ public class BaseDao<T, PK extends Serializable>{
 	    return (T) createCriteria(Restrictions.eq(propertyName, value)).uniqueResult();  
 	}  
 	
-	
-	
 	/**
-	 * ��ݲ�ѯ����������б?��SQLQuery����,����ɽ��и�ദ��,������.
+	 * 根据查询函数与参数列表创建SQLQuery对象,后续可进行更多处理,辅助函数.
 	 */
 	public Query createSQLQuery(String querySQL, Map<String,Object> parameterMap) {
 		Assert.hasText(querySQL);
@@ -260,42 +238,34 @@ public class BaseDao<T, PK extends Serializable>{
 		return queryObject;
 	}
 
-	  
-	
-	
-	
-	
-	
 	/**
-	 * ��id�б��ȡ����.
+	 * 按id列表获取对象.
 	 */
 	public List<T> findByIds(List<PK> ids) {
 		return find(Restrictions.in(getSessionFactory().getClassMetadata(entityClass).getIdentifierPropertyName(), ids));
 	}
 	
-
-	
 	/**
-	 * ִ��HQL���������޸�/ɾ�����.
+	 * 执行HQL进行批量修改/删除操作.
 	 */
 	public int execHQL(final String hql, final Object... values) {
 		return createQuery(hql, values).executeUpdate();
 	}
 
 	/**
-	 * ִ��HQL���������޸�/ɾ�����.
-	 * @return ���¼�¼��.
+	 * 执行HQL进行批量修改/删除操作.
+	 * @return 更新记录数.
 	 */
 	public int execHQL(final String hql, final Map<String, Object> values) {
 		return createQuery(hql, values).executeUpdate();
 	}
 	
 	/**
-	 * ִ��SQL���������޸�/ɾ�����.
-	 * @return ���¼�¼��.
+	 * 执行SQL进行批量修改/删除操作.
+	 * @return 更新记录数.
 	 */
 	public int execSQL(final String sql, final Map<String, Object> values) {
 		return createSQLQuery(sql, values).executeUpdate();
 	}
 	
-}  
+}

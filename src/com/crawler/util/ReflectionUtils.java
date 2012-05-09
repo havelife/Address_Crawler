@@ -20,9 +20,9 @@ import org.slf4j.LoggerFactory;
 import org.springframework.util.Assert;
 
 /**
- * �����Util�����.
+ * 反射的Util函数集合.
  * 
- * �ṩ����˽�б���,��ȡ��������Class,��ȡ������Ԫ�ص�����,ת���ַ������Util����.
+ * 提供访问私有变量,获取泛型类型Class,提取集合中元素的属性,转换字符串到对象等Util函数.
  * 
  * @author calvin
  */
@@ -31,7 +31,7 @@ public class ReflectionUtils {
 	private static Logger logger = LoggerFactory.getLogger(ReflectionUtils.class);
 
 	/**
-	 * ֱ�Ӷ�ȡ��������ֵ, ����private/protected���η�, ������getter����.
+	 * 直接读取对象属性值, 无视private/protected修饰符, 不经过getter函数.
 	 */
 	public static Object getFieldValue(final Object object, final String fieldName) {
 		Field field = getDeclaredField(object, fieldName);
@@ -45,13 +45,13 @@ public class ReflectionUtils {
 		try {
 			result = field.get(object);
 		} catch (IllegalAccessException e) {
-			logger.error("�������׳����쳣{}", e.getMessage());
+			logger.error("不可能抛出的异常{}", e.getMessage());
 		}
 		return result;
 	}
 
 	/**
-	 * ֱ�����ö�������ֵ, ����private/protected���η�, ������setter����.
+	 * 直接设置对象属性值, 无视private/protected修饰符, 不经过setter函数.
 	 */
 	public static void setFieldValue(final Object object, final String fieldName, final Object value) {
 		Field field = getDeclaredField(object, fieldName);
@@ -64,12 +64,12 @@ public class ReflectionUtils {
 		try {
 			field.set(object, value);
 		} catch (IllegalAccessException e) {
-			logger.error("�������׳����쳣:{}", e.getMessage());
+			logger.error("不可能抛出的异常:{}", e.getMessage());
 		}
 	}
 
 	/**
-	 * ֱ�ӵ��ö��󷽷�, ����private/protected���η�.
+	 * 直接调用对象方法, 无视private/protected修饰符.
 	 */
 	public static Object invokeMethod(final Object object, final String methodName, final Class<?>[] parameterTypes,
 			final Object[] parameters) {
@@ -87,26 +87,26 @@ public class ReflectionUtils {
 	}
 
 	/**
-	 * ѭ������ת��, ��ȡ�����DeclaredField.
+	 * 循环向上转型, 获取对象的DeclaredField.
 	 * 
-	 * ������ת�͵�Object���޷��ҵ�, ����null.
+	 * 如向上转型到Object仍无法找到, 返回null.
 	 */
 	protected static Field getDeclaredField(final Object object, final String fieldName) {
-		Assert.notNull(object, "object����Ϊ��");
+		Assert.notNull(object, "object不能为空");
 		Assert.hasText(fieldName, "fieldName");
 		for (Class<?> superClass = object.getClass(); superClass != Object.class; superClass = superClass
 				.getSuperclass()) {
 			try {
 				return superClass.getDeclaredField(fieldName);
 			} catch (NoSuchFieldException e) {
-				// Field���ڵ�ǰ�ඨ��,��������ת��
+				// Field不在当前类定义,继续向上转型
 			}
 		}
 		return null;
 	}
 
 	/**
-	 * ǿ������Field�ɷ���.
+	 * 强行设置Field可访问.
 	 */
 	protected static void makeAccessible(final Field field) {
 		if (!Modifier.isPublic(field.getModifiers()) || !Modifier.isPublic(field.getDeclaringClass().getModifiers())) {
@@ -115,27 +115,27 @@ public class ReflectionUtils {
 	}
 
 	/**
-	 * ѭ������ת��,��ȡ�����DeclaredMethod.
+	 * 循环向上转型,获取对象的DeclaredMethod.
 	 * 
-	 * ������ת�͵�Object���޷��ҵ�, ����null.
+	 * 如向上转型到Object仍无法找到, 返回null.
 	 */
 	protected static Method getDeclaredMethod(Object object, String methodName, Class<?>[] parameterTypes) {
-		Assert.notNull(object, "object����Ϊ��");
+		Assert.notNull(object, "object不能为空");
 
 		for (Class<?> superClass = object.getClass(); superClass != Object.class; superClass = superClass
 				.getSuperclass()) {
 			try {
 				return superClass.getDeclaredMethod(methodName, parameterTypes);
 			} catch (NoSuchMethodException e) {
-				// Method���ڵ�ǰ�ඨ��,��������ת��
+				// Method不在当前类定义,继续向上转型
 			}
 		}
 		return null;
 	}
 
 	/**
-	 * ͨ����,���Class�����������ĸ���ķ��Ͳ��������.
-	 * ���޷��ҵ�, ����Object.class.
+	 * 通过反射,获得Class定义中声明的父类的泛型参数的类型.
+	 * 如无法找到, 返回Object.class.
 	 * eg.
 	 * public UserDao extends HibernateDao<User>
 	 *
@@ -148,10 +148,10 @@ public class ReflectionUtils {
 	}
 
 	/**
-	 * ͨ����,��ö���Classʱ�����ĸ���ķ��Ͳ��������.
-	 * ���޷��ҵ�, ����Object.class.
+	 * 通过反射,获得定义Class时声明的父类的泛型参数的类型.
+	 * 如无法找到, 返回Object.class.
 	 * 
-	 * ��public UserDao extends HibernateDao<User,Long>
+	 * 如public UserDao extends HibernateDao<User,Long>
 	 *
 	 * @param clazz clazz The class to introspect
 	 * @param index the Index of the generic ddeclaration,start from 0.
@@ -183,10 +183,10 @@ public class ReflectionUtils {
 	}
 
 	/**
-	 * ��ȡ�����еĶ��������(ͨ��getter����), ��ϳ�List.
+	 * 提取集合中的对象的属性(通过getter函数), 组合成List.
 	 * 
-	 * @param collection ��Դ����.
-	 * @param propertyName Ҫ��ȡ��������.
+	 * @param collection 来源集合.
+	 * @param propertyName 要提取的属性名.
 	 */
 	@SuppressWarnings("unchecked")
 	public static List convertElementPropertyToList(final Collection collection, final String propertyName) {
@@ -204,11 +204,11 @@ public class ReflectionUtils {
 	}
 
 	/**
-	 * ��ȡ�����еĶ��������(ͨ��getter����), ��ϳ��ɷָ��ָ����ַ�.
+	 * 提取集合中的对象的属性(通过getter函数), 组合成由分割符分隔的字符串.
 	 * 
-	 * @param collection ��Դ����.
-	 * @param propertyName Ҫ��ȡ��������.
-	 * @param separator �ָ���.
+	 * @param collection 来源集合.
+	 * @param propertyName 要提取的属性名.
+	 * @param separator 分隔符.
 	 */
 	@SuppressWarnings("unchecked")
 	public static String convertElementPropertyToString(final Collection collection, final String propertyName,
@@ -218,11 +218,11 @@ public class ReflectionUtils {
 	}
 
 	/**
-	 * ת���ַ����͵�clazz��property���͵�ֵ.
+	 * 转换字符串类型到clazz的property类型的值.
 	 * 
-	 * @param value ��ת�����ַ�
-	 * @param clazz �ṩ������Ϣ��Class
-	 * @param propertyName �ṩ������Ϣ��Class������.
+	 * @param value 待转换的字符串
+	 * @param clazz 提供类型信息的Class
+	 * @param propertyName 提供类型信息的Class的属性.
 	 */
 	public static Object convertValue(Object value, Class<?> toType) {
 		try {
@@ -237,7 +237,7 @@ public class ReflectionUtils {
 	}
 
 	/**
-	 * ������ʱ��checked exceptionת��Ϊunchecked exception.
+	 * 将反射时的checked exception转换为unchecked exception.
 	 */
 	public static RuntimeException convertReflectionExceptionToUnchecked(Exception e) {
 		if (e instanceof IllegalAccessException || e instanceof IllegalArgumentException
@@ -250,4 +250,3 @@ public class ReflectionUtils {
 		return new RuntimeException("Unexpected Exception.", e);
 	}
 }
-
