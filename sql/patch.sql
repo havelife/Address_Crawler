@@ -45,3 +45,5 @@ CREATE TABLE `log` (
   `operator` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
+
+alter table page add index page_url_idx(`url`);

@@ -1,11 +1,13 @@
 package com.crawler.service;
 
+import java.util.Date;
+
 import org.apache.commons.lang3.StringUtils;
+import org.jsoup.helper.StringUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import com.crawler.dao.JobDao;
-import com.crawler.dao.LogDao;
 import com.crawler.dao.PageDao;
 import com.crawler.dao.UrlDao;
 import com.crawler.pojo.Job;
@@ -24,6 +26,8 @@ public class PageMgr {
 	private JobDao jobDao;
 	@Autowired
 	private LogMgr logMgr;
+	@Autowired
+	private UrlMgr urlMgr;
 	
 	public void downloadWebPage(Long urlId){
 		Url urlObj = urlDao.get(urlId);
@@ -58,6 +62,39 @@ public class PageMgr {
 		}
 	}
 	
+	/*
+	 * 对于一个特定的url，之前下载过，但是没有抓到内容，这次去重新下载
+	 * */
+	public void redownloadWebPage(String url){
+		if (StringUtil.isBlank(url)){
+			System.out.println("input url for redownload() is blank in PageMgr");
+			return;
+		}
+		Url urlObj = urlMgr.getUrlObjByUrl(url);
+		if (urlObj == null) {
+			System.out.println("url Obj for " + url + " does not exist in table:url.");
+			return;
+		}
+		Page page = getPageObjByPageUrl(url);
+		if (page == null) {
+			System.out.println("page Obj for " + url + " does not exist in table:page.");
+			return;
+		}
+		
+		// start to redownload page
+		String content = WebPageUtil.getPageContentByUrl(urlObj.getUrl());
+		int iscompleted = (StringUtils.isBlank(content)) ? 0:1;
+		urlObj.setIscompleted(iscompleted);
+		//update
+		urlDao.save(urlObj);
+		
+		page.setContent(content);
+		page.setIscompleted(iscompleted);
+		page.setTime(new Date());
+		//update
+		pageDao.save(page);
+	}
+	
 	public String getPageContentByPageId(Long id){
 		Page page = pageDao.get(id);
 		if (page == null) return null;
@@ -68,5 +105,13 @@ public class PageMgr {
 		Page page = pageDao.getPageByUrl(url);
 		if (page == null) return null;
 		return page.getContent();
+	}
+	
+	/*
+	 * 通过url来获取page对象
+	 * 
+	 */
+	public Page getPageObjByPageUrl(String url){
+		return pageDao.getPageByUrl(url);
 	}
 }

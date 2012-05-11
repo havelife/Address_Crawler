@@ -50,4 +50,34 @@ public class UrlDao extends GenericDao<Url, Long>{
 			return resList.get(0);
 		}
 	}
+	
+	/*
+	 * 获取上次下载了，但是没有下载到页面内容的url对象List
+	 * */
+	public List<Url> getEmptyPageUrlList4Redownload(Long jobid){
+		String hql = "from Url as u where u.jobid = ? and u.iscompleted = ? and u.isinit = ?";
+		List<Url> resList = this.find(hql, jobid, 0, 1);
+		return resList;
+	}
+	
+	/*
+	 * get Url Object by the url String
+	 * */
+	public Url getUrlObjByUrl(String url){
+		List<Url> resList = this.findByProperty("url", url);
+		if (resList == null || resList.size() == 0) {
+			return null;
+		} else if (resList.size() > 1) {
+			try {
+				throw new Exception("duplicated url:" + url + " in table:url");
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			return null;
+		} else {
+			return resList.get(0);
+		}
+		
+	}
 }

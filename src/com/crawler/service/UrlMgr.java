@@ -49,4 +49,16 @@ public class UrlMgr {
 		if (jobid == null) return 0;
 		return urlDao.getCompleteCount4OneJob(jobid);
 	}
+	
+	/*
+	 * 重新下载 当时没有下载下来的 页面
+	 */
+	public List<Url> getEmptyUrlList(Long jobid){
+		List<Url> resList = urlDao.getEmptyPageUrlList4Redownload(jobid);
+		return resList;
+	}
+	
+	public Url getUrlObjByUrl(String url){
+		return urlDao.getUrlObjByUrl(url);
+	}
 }
