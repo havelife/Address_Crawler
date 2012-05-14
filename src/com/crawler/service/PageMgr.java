@@ -38,7 +38,10 @@ public class PageMgr {
 			System.out.println("null in PageMgr.downloadWebPage(Long)");
 			return;
 		}
-		
+		if (urlObj.getIscompleted() == 1) {
+			System.out.println("url:" + urlObj.getUrl() + ", has already been downloaded.");
+			return;
+		}
 		String content = WebPageUtil.getPageContentByUrl(urlObj.getUrl());
 		urlObj.setIsinit(1);
 		int iscompleted = (StringUtils.isBlank(content)) ? 0:1;

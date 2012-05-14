@@ -70,7 +70,7 @@ public class JobMgr {
 		urlMgr.downloadAllWebPage4OneJob(jobid);
 		Job job = jobDao.get(jobid);
 		if (job == null) return false;
-		int completecount = urlMgr.getCompleteCount4OneJob(jobid);
+		int completecount = urlMgr.getCompletedPageCount4OneJob(jobid);
 		job.setCompletecount(completecount);
 		jobDao.save(job);
 		if (CrawlerConstants.LOG_JOB_COMPLETE) logMgr.logCommentAndOperator("job completed download webpage. " + job.getCompletecount() + "/" + job.getCount() , jobid.toString());
@@ -141,6 +141,12 @@ public class JobMgr {
 			for(Url url : urlList){
 				pageMgr.redownloadWebPage(url.getUrl());
 			}
+			
+			//update statistics in table job
+			Job job = jobDao.get(jobid);
+			job.setCompletecount(urlMgr.getCompletedPageCount4OneJob(jobid));
+			jobDao.save(job);
+			
 			return true;
 		}
 	}

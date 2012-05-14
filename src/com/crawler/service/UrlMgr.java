@@ -45,9 +45,12 @@ public class UrlMgr {
 		}
 	}
 	
-	public int getCompleteCount4OneJob(Long jobid){
+	/*
+	 * 查看一个job，它已经完成了下载的页面的个数 
+	 * */
+	public int getCompletedPageCount4OneJob(Long jobid){
 		if (jobid == null) return 0;
-		return urlDao.getCompleteCount4OneJob(jobid);
+		return urlDao.getCompletedPageCount4OneJob(jobid);
 	}
 	
 	/*

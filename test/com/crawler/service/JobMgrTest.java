@@ -25,6 +25,28 @@ public class JobMgrTest {
 		jobMgr.createJob("http://bj.esf.focus.cn/ershoufang/j0m0h0jz0zx0cx0bq0p", "px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/", 1, 1, 10, "Beijing", "MaiFangErShou", "http://soufun.com");
 	}
 	
+	
+	/***********************************************************/
+	
+	/*
+	 *安居客, 上海, 小区 
+	 */
+	@Test
+	public void createJobAndDownloadWholeProcess_AnjukeShanghaiXiaoqu(){
+		jobMgr.createJobAndDownloadWholeProcess("http://shanghai.anjuke.com/community/W0QQpZ", "", 1, 1, 101, "上海", "安居客-小区", "http://shanghai.anjuke.com/community/");
+	}
+	
+	/***********************************************************/
+	
+	/*
+	 *安居客, 北京, 小区 
+	 */
+	@Test
+	public void createJobAndDownloadWholeProcess_AnjukeBeijingXiaoqu(){
+		jobMgr.createJobAndDownloadWholeProcess("http://beijing.anjuke.com/community/W0QQpZ", "", 1, 1, 101, "北京", "安居客-小区", "http://beijing.anjuke.com/community/");
+	}
+	 
+	
 	/***********************************************************/
 	
 	/*

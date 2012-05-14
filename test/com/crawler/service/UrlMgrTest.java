@@ -24,4 +24,10 @@ public class UrlMgrTest {
 	public void downloadAllWebPage4OneJobTest(){
 		urlMgr.downloadAllWebPage4OneJob(1L);
 	}
+	
+	@Test
+	public void getCompletedPageCount4OneJobTest(){
+		int count = urlMgr.getCompletedPageCount4OneJob(3L);
+		System.out.println(count);
+	}
 }

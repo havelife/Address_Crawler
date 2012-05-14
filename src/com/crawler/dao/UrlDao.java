@@ -30,6 +30,7 @@ public class UrlDao extends GenericDao<Url, Long>{
 		}
 	}
 	
+	/*
 	public int getCompleteCount4OneJob(Long jobid){
 		String sql = "select count(*) as completecount from url where jobid=" + jobid + " and iscompleted=1";
 		SQLQuery query = this.getSession().createSQLQuery(sql);
@@ -50,6 +51,7 @@ public class UrlDao extends GenericDao<Url, Long>{
 			return resList.get(0);
 		}
 	}
+	*/
 	
 	/*
 	 * 获取上次下载了，但是没有下载到页面内容的url对象List
@@ -80,4 +82,18 @@ public class UrlDao extends GenericDao<Url, Long>{
 		}
 		
 	}
+	
+	/* 
+	 *查看一个job，它已经完成了下载的页面的个数 
+	 */
+	public int getCompletedPageCount4OneJob(Long jobid){
+		String hql = "from Url u where u.iscompleted = ? and u.jobid = ?";
+		List<Url> resList = this.find(hql, 1, jobid);
+		if (resList == null) {
+			return 0;
+		} else {
+			return resList.size();
+		}
+	}
+	
 }
