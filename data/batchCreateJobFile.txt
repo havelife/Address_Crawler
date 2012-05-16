@@ -1,0 +1,4 @@
+http://beijing.anjuke.com/community/W0QQpZ, , 1, 1, 101, 北京, 安居客-小区, http://beijing.anjuke.com/community/
+^
+http://guangzhou.anjuke.com/community/W0QQpZ, , 1, 1, 769, 广州, 安居客-小区, http://guangzhou.anjuke.com/community/
+$
