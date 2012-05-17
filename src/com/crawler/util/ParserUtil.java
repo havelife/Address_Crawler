@@ -30,7 +30,11 @@ public class ParserUtil {
 	
 	public static Element parseUrlWithRegexAndResultIndex(String url, String regex, int index){
 		Elements elems = parseUrlWithRegex(url, regex);
-		if (elems.size() < index){
+		if (elems == null){
+			System.out.println("null result for parseUrlWithRegexAndResultIndex(), url:" + url +", regex:" + regex);
+			return null;
+		}
+		if (elems.size() < index + 1){
 			System.out.println("input index:" + index + " is beyond result size:" + elems.size());
 			return null;
 		}

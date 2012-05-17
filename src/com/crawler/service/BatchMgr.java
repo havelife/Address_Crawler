@@ -17,7 +17,7 @@ public class BatchMgr {
 	 * 批量的从一个文件去读取，创建job，并下载
 	 * ^表示起点，$表示终点
 	 * */
-	public void batchCreateJob(String filePath){
+	public void batchCreateJobAndDownload(String filePath){
 		String fileContent = FileUtil.getDataFile2StrKeepReturn(filePath, "utf-8");
 		if (StringUtils.isBlank(fileContent)) {
 			System.out.println("batchCreateJob file:" + filePath + " is blank.");
