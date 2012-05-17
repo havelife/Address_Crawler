@@ -25,7 +25,6 @@ public class JobMgrTest {
 		jobMgr.createJob("http://bj.esf.focus.cn/ershoufang/j0m0h0jz0zx0cx0bq0p", "px0nd0jd0bx0pic0q0b0xl0zd0xq0st3s0tx1/", 1, 1, 10, "Beijing", "MaiFangErShou", "http://soufun.com");
 	}
 	
-	
 	/***********************************************************/
 	
 	/*
