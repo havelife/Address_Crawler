@@ -1,7 +1,6 @@
 package com.crawler.util;
 
 import org.hibernate.SessionFactory;
-import org.hibernate.cfg.Configuration;
 import org.hibernate.cfg.AnnotationConfiguration;
 
 public class HibernateUtil {

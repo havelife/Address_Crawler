@@ -9,7 +9,6 @@ import com.crawler.dao.JobDao;
 import com.crawler.pojo.Job;
 import com.crawler.pojo.Url;
 import com.crawler.util.CrawlerConstants;
-import com.crawler.util.FileUtil;
 import com.crawler.util.ListUtil;
 import com.crawler.vo.UrlSet;
 
