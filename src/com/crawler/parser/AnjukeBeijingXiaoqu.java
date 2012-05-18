@@ -1,11 +1,9 @@
 package com.crawler.parser;
 
-import org.apache.commons.lang3.StringUtils;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import org.junit.Test;
 
-import com.crawler.pojo.Job;
 import com.crawler.util.FileUtil;
 import com.crawler.util.ParserUtil;
 
@@ -39,7 +37,7 @@ public class AnjukeBeijingXiaoqu {
 			sb.append(href);
 			sb.append(",");
 			sb.append(word);
-			sb.append("\n" + SPLIT_REGEX); // 分页不不干净，只要加了$
+			sb.append("\n");
 		}
 		FileUtil.writeStr2File(sb.toString(), XIAOQU_WHOLE_FILE_PATH, "utf-8");
 	}
@@ -68,8 +66,8 @@ public class AnjukeBeijingXiaoqu {
 	 * */
 	@Test
 	public void xiaoquSub(){
-		String data = FileUtil.getDataFile2Str(XIAOQU_WHOLE_FILE_PATH, "utf-8");
-		String[] lineArr = StringUtils.split(data, SPLIT_REGEX);//data.split("$"); 国双教的，具体原因不清楚
+		String data = FileUtil.getDataFile2StrKeepReturn(XIAOQU_WHOLE_FILE_PATH, "utf-8");
+		String[] lineArr = data.split("\n");
 		StringBuffer sb = new StringBuffer();
 		for (String line : lineArr){
 			sb.append(xiaoquSubSingle(line));

@@ -1,0 +1,2166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <title>【北京楼盘】_北京新楼盘_北京房价 (1308)  - 北京搜房网</title> 
+  <meta http-equiv="Content-Type" content="text/html; charset=gb2312" /> 
+  <meta name="Description" content=" 北京搜房网―提供北京楼盘, 北京新楼盘信息,提供权威的北京房价走势分析，方便快捷的地图找房,最全面的北京新楼盘, 北京楼盘信息以及北京房价查询,为您找到最适合您的北京楼盘信息。" /> 
+  <link href="http://js.soufunimg.com/newhouse/style/css_sh.css" rel="stylesheet" type="text/css" /> 
+  <link href="http://js.soufunimg.com/newhouse/style/SearchResult100708.css?v=11" type="text/css" rel="stylesheet" /> 
+  <link href="http://js.soufunimg.com/newhouse/style/search_style.css?v=23" rel="stylesheet" type="text/css" /> 
+  <script>
+		    ucity = "%B1%B1%BE%A9";
+		    ad_lunxun_1=ad_lunxun_2=ad_lunxun_3=ad_lunxun_4=ad_lunxun_5='';
+		
+  </script> 
+  <script type="text/javascript" language="javascript">
+            function  download_new()
+            {
+            	var content=document.getElementById("tese");
+            	var down_btn=document.getElementById("s_btn");
+            	if(content.style.display=="none")
+            	{
+            		content.style.display="block"
+            		down_btn.className='down';
+            	}
+                else 
+                {
+            		content.style.display="none"
+            		down_btn.className='up';
+            	}
+            }
+			function searchTips(input, tips){
+				var input = document.getElementById(input);
+				if(!input) return;
+				if(input.value==""){
+					input.value = tips;
+					input.className = "sec_input input_height search-tips";
+				}
+				input.onblur = function(){
+					if(!this.value){
+						this.value = tips;
+					}
+					input.className = "sec_input input_height search-tips";
+				}
+				input.onmouseover = function(){
+					if(this.value == tips){
+						this.value = "";
+						this.focus();
+					}
+					input.className = "sec_input0 input_height";
+				}
+				input.onfocus = function(){
+					if(this.value == tips){
+						this.value = "";
+					}
+					input.className = "sec_input0 input_height";
+				}
+			}
+			function sortData(value){
+			    var fgoto = "/house/%B1%B1%BE%A9_________?________1308_.htm";
+			    var fgoto = fgoto.replace("?",value);
+			    window.location.href = fgoto;
+			}
+			function sortStartdate(value){
+			    var fgoto = "/house/%B1%B1%BE%A9___?______________1308_.htm";
+			    var fgoto = fgoto.replace("?",value);
+			    window.location.href = fgoto;
+			}
+			function sortFit(value){
+			    var fgoto = "/house/%B1%B1%BE%A9_________________1308_?.htm";
+			    var fgoto = fgoto.replace("?",value);
+			    window.location.href = fgoto;
+			}
+			function byb_new(url){
+				var inputs = document.getElementsByTagName("input");
+				var num = 0;
+
+				for(var i = 0; i < inputs.length; i++){
+					if(inputs[i].type == "checkbox"){
+						if(inputs[i].checked == true){
+							url += inputs[i].value + '|';
+							num++;
+						}
+					}
+				}
+				if(num < 2 || num > 4){
+					alert('请选择2-4个楼盘进行比较！');
+				}else{
+					window.open(url);
+				}
+			}
+		
+  </script> 
+ </head> 
+ <body> 
+  <!--主体框架 begin--> 
+  <div class="header"> 
+   <div class="top_bar" style="text-align:center;" id="sjina_1">
+    <!--2011-8-8 18:32:22 update : --> 
+    <script>
+isNorth = "Y";
+uvcode  = ['UA-24140496-1','UA-24829808-1','UA-24830538-1','UA-24829808-2','UA-24830538-2'];
+uv_bid  = '9';
+
+    </script> 
+    <script type="text/javascript">
+var _dctc=_dctc || {};
+_dctc._account=_dctc._account || uvcode;
+_dctc.isNorth = _dctc.isNorth || isNorth;
+_dctc.bid = uv_bid;
+(function() {
+    var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+    script.src = 'http://js.soufunimg.com/count/load.min.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(script, s);
+  })();
+
+    </script> 
+    <style type="text/css">
+.DivCss20091020WZiColor333{font-size:12px;color:#333;}
+.DivCss20091020WZiColor333 a:link{font-size:12px;color:#333;text-decoration:none;}
+.DivCss20091020WZiColor333 a:visited{font-size:12px;color:#333;text-decoration:none;}
+.DivCss20091020WZiColor333 a:hover{font-size:12px;color:#f00;text-decoration:underline;}
+.DivCss20091020WZiColor333 a:active{font-size:12px;color:#f00;}
+
+    </style> 
+    <style>.DivCss20091020WZiColor333 span {letter-spacing: 0;}
+    </style> 
+    <!--20091020搜房网统一版头--> 
+    <div style="width:960px;height:29px;background:#fff;font-size:12px;font-family:'宋体';line-height:29px;margin:0 auto;" class="DivCss20091020WZiColor333"> 
+     <span style="float:right;color:#333;letter-spacing:1px; margin-right:3px;"><a href="http://www.soufun.com/" target="_blank">首页</a>│<a href="http://www.soufun.com/news/" target="_blank">快讯</a>│<a href="http://www.soufun.com/house/" target="_blank">新房</a> <a href="http://esf.soufun.com/" target="_blank">二手房</a> <a href="http://zu.soufun.com/" target="_blank">租房</a>│<a href="http://map.soufun.com/house/bj/" target="_blank">地图</a>│<a href="http://villa.soufun.com" target="_blank">别墅</a>│<a href="http://sydc.soufun.com" target="_blank">商业地产</a> <a href="http://office.soufun.com" target="_blank">写字楼</a> <a href="http://shop.soufun.com" target="_blank">商铺</a>│<a href="http://home.soufun.com/" target="_blank">装修</a> <a href="http://home.soufun.com/" target="_blank">家居</a> <a style="color:#FF0000;" href="http://shop.jiatx.com/" target="_blank">商城</a>│<a href="http://bbs.soufun.com" target="_blank">业主论坛</a>│<a href="http://home.soufun.com/bbs/board/010_bjzxlt/" target="_blank">装修论坛</a>│<a href="http://fdc.soufun.com/data" target="_blank">地产数据</a>│<a href="http://blog.soufun.com/city/bj.htm" target="_blank">博客</a>│<a href="http://www.soufun.com/card" target="_blank">搜房卡</a>│<a href="http://fdc.soufun.com/" target="_blank">产业</a></span> 
+     <span style="float:left; margin-left:3px;"><a href="http://www.soufun.com/" target="_blank"><strong>房地产门户-搜房网</strong></a></span>
+    </div> 
+   </div> 
+   <div class="clear"></div> 
+  </div> 
+  <div id="sjina_2"> 
+   <link href="http://js.soufunimg.com/newhouse/style/css_sh.css" rel="stylesheet" type="text/css" /> 
+   <link href="http://js.soufunimg.com/newhouse/style/css_soufunsearch120413.css" rel="stylesheet" type="text/css" /> 
+   <style>
+.soufunsearch110615rightnav em {color:#004499;text-decoration:none;}   
+.soufunsearch110615rightnav .new1{ position:relative;margin-right:10px;}
+.soufunsearch110615rightnav .new2{width:24px;position:absolute;top:-5px;right:-13px;color:#c00;}
+.soufunsearch110615rightform .tr01 span {
+    float: left;
+    overflow: hidden;
+}
+.navtd a:hover{text-decoration::underline;} 
+
+   </style> 
+   <script type="text/javascript">
+function loadScript(B,D){var A=document.createElement("script"),C=document.documentElement.firstChild;A.type="text/javascript";if(A.readyState){A.onreadystatechange=function(){if(A.readyState=="loaded"||A.readyState=="complete"){A.onreadystatechange=null;D()}}}else{A.onload=function(){D()}}A.src=B;C.insertBefore(A,C.firstChild)};
+
+   </script> 
+   <!--新搜索 begin--> 
+   <script type="text/javascript">
+loadScript("http://js.soufunimg.com/newhouse/js/SFSF_newhouse_816_2012.js",function()
+{
+    loadScript("http://www.soufun.com/house/newhouse_js_config.js",function()
+    {
+        setTimeout(function()
+        {
+            SFSF.init();
+        },0)
+    })
+});
+function getPointerPosition(e) {//兼容浏览器的鼠标x,y获得函数
+	e = e || getEventObject(e);
+	var x = e.pageX || (e.clientX + (document.documentElement.scrollLeft || document.body.scrollLeft));
+	var y = e.pageY || (e.clientY + (document.documentElement.scrollTop || document.body.scrollTop));
+	
+	return { 'x':x,'y':y };
+}
+var $=function(id) {
+   return document.getElementById(id);
+}
+function moreBoxto(numcss1112){
+	for (j=0; j<10; j++){
+	 if($('moreBox' + j)){
+	 $('moreBox'+j).style.display='none';
+
+	 }
+	}
+	$('moreBox'+numcss1112).style.display='block';
+}
+function hidden_moreBoxto(numcss1112) {
+	timeout = setTimeout(function() {$("moreBox"+numcss1112).style.display = "none";},100);
+}
+function show_moreBoxto(numcss1112){
+	window.clearTimeout(timeout);
+	$("moreBox"+numcss1112).style.display = "";
+}
+function doSearchSubmit() {
+    var nowKeywValue = $("input_keyw0").value;
+    $("input_keyw0").defaultValue = "　 请输入关键字(楼盘名/地名/开发商等)";
+    $("input_keyw0").value = nowKeywValue;
+    SFSF.house.submitForm();
+}
+
+   </script> 
+   <div class="soufunsearch110615" style="margin-top:25px;margin-bottom:30px;"> 
+    <div class="soufunsearch110615logo">
+     <a href="http://www.soufun.com/" target="_blank"><img src="http://js.soufunimg.com/homepage/new/images/logo.gif?v=3" alt="" /></a>
+    </div> 
+    <div class="soufunsearch110615city"> 
+     <p>北京</p> 
+     <p class="zilink">[<a onclick="showcities(event);" href="javascript:void(0);" id="">切换</a>]</p> 
+    </div> 
+    <div class="soufunsearch110615right"> 
+     <div class="soufunsearch110615rightnav"> 
+      <div class="navtdup">
+       新房
+      </div> 
+      <div class="navtd">
+       <a id="" href="http://esf.soufun.com" target="_blank">二手房</a>
+      </div> 
+      <div class="navtd">
+       <a id="" href="http://zu.soufun.com" target="_blank">租房</a>
+      </div> 
+      <div class="navtd">
+       <a href="http://www.youtx.com/" target="_blank">短租</a>
+      </div> 
+      <div class="navtd">
+       <a id="" href="http://home.soufun.com/" target="_blank">装修家居</a>
+      </div> 
+      <div class="navtd">
+       <a id="" href="http://bbs.soufun.com" target="_blank">业主论坛</a>
+      </div> 
+      <div class="navtd">
+       <a href="http://www.soufun.com/news/" target="_blank">资讯</a>
+      </div> 
+      <div class="navtd" style="position:relative;z-index:999;left:10px;"> 
+       <a onmouseout="hidden_moreBoxto(1112)" onmouseover="moreBoxto(1112)" id=""><em>更多</em></a> 
+       <div class="more0413pm" onmouseout="hidden_moreBoxto(1112)" onmouseover="show_moreBoxto(1112)" id="moreBox1112" style="display:none;"> 
+        <ul> 
+         <li><a href="http://search.soufun.com/so/" target="_blank">网页搜索</a></li> 
+         <li><a href="http://www.soufun.com/ask/" target="_blank">问答</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="soufunsearch110615rightform"> 
+      <form target="_self" id="form_newhouse" name="form_newhouse" onsubmit="doSearchSubmit();" action="#" method="post" class="search20090622080118from"> 
+       <div class="tr01"> 
+        <span id="www_298"> <input id="input_keyw0" type="text" onmousedown="javascript:hideSicon('hide');" class="inputstyle_out" value="　 请输入关键字(楼盘名/地名/开发商等)" onfocus="this.className='inputstyle_on';this.onmouseout='';SFUI.toggleHint(this);" onblur="this.className='inputstyle_off';this.onmouseout=function(){this.className='inputstyle_out'};SFUI.toggleHint(this);hideSicon('show');" onmousemove="this.className='inputstyle_move'" onkeyup="SFSF.house.suggest(event, this);" autocomplete="off" /> <span class="inpbj" id="span1" onclick="javascript:clickSicon();"></span> </span> 
+        <span id="www_299"><input type="image" src="http://img1.soufun.com/house/detail_php/housesearch/schh111.gif" style="width:auto;height:auto;margin-left:3px;" /></span> 
+       </div> 
+       <div class="tr02"> 
+        <input type="hidden" id="strCity" name="strCity" /> 
+        <input type="hidden" id="strDistrict0" name="strDistrict" /> 
+        <input type="hidden" id="strRailway0" name="Railway" /> 
+        <input type="hidden" id="strRoundStation0" name="strRoundStation" /> 
+        <input type="hidden" id="strPurpose0" name="strPurpose" /> 
+        <input type="hidden" id="strPrice0" name="strPrice" /> 
+        <input type="hidden" id="strNamekeyword0" name="strNamekeyword" /> 
+        <input type="hidden" id="show_type0" name="show_type" /> 
+        <span id="www_300"><a href="javascript:;" target="_self" class="menubar" style="font-size: 12px;" id="strDistrict0_a" onclick="SFSF.house.menuDistrict(this);return false;"><span>区县/地铁</span></a></span> 
+        <span id="www_301"><a href="javascript:;" target="_self" class="menubar" style="font-size: 12px;" id="strPurpose0_a" onclick="SFSF.house.menuPurpose(this);return false;"><span>物业类型</span></a></span> 
+        <span id="www_302"><a href="javascript:;" target="_self" class="menubar" style="font-size: 12px;" id="strPrice0_a" onclick="SFSF.house.menuPrice(this, $('strPurpose0').value);return false;"><span>价格范围</span></a></span> 
+        <span class="mobile"><a href="http://wap.soufun.com/xc/mobile.html" target="_blank">手机搜房</a></span> 
+        <span class="searchmap" id="www_303"><a href="javascript:void(0);" onclick="ToMap();">在地图上找</a></span> 
+        <script>
+					function ToMap()
+					{
+						var houseAction;
+							houseAction = SFSF.info[$("strCity").value].house.maction;
+							$("strDistrict0").setAttribute("name","district");
+							$("strPurpose0").setAttribute("name","purpose");
+							$("strPrice0").setAttribute("name","price");
+							$("strRoundStation0").setAttribute("name","round");
+							$("strRailway0").setAttribute("name","subwayname");
+							$("strNamekeyword0").setAttribute("name","keyword");
+					
+						if (houseAction) {
+							$("form_newhouse").action = houseAction; 
+                             $("form_newhouse").submit();
+							 $("form_newhouse").action = SFSF.info[$("strCity").value].house.action;
+						}
+					}
+					function hideSicon(showhide)
+					{
+						if(showhide == 'show' && $('input_keyw0').value == '　 请输入关键字(楼盘名/地名/开发商等)')
+						{
+							$("span1").style.display="block";
+						}
+						else
+						{
+							$("span1").style.display="none";
+						}
+					}
+					function clickSicon()
+					{
+						$("input_keyw0").select();
+						hideSicon();
+					}					
+					function showcities(e){
+						var pos = getPointerPosition(e);
+
+						var obj = document.getElementById('searchExpert2');
+						obj.style.position="absolute";
+						obj.style.left = pos.x+20 + 'px';
+						obj.style.top = pos.y + 20 + 'px';
+						obj.style.display = 'block';    
+					}
+					function closeCityList(){
+						document.getElementById('searchExpert2').style.display='none';  
+					}					
+					hideSicon('show');
+				
+        </script> 
+       </div> 
+      </form> 
+     </div> 
+    </div> 
+   </div> 
+   <!--新搜索20120413 end--> 
+   <!--全国城市 begin--> 
+   <div id="searchExpert2" style="display:none;"> 
+   </div> 
+   <!--全国城市 end--> 
+   <script language="JavaScript" src="http://js.soufunimg.com/newhouse/js/index_other_city.js"></script> 
+  </div> 
+  <script language="javascript" type="text/javascript" src="http://img1.soufun.com/house/detail_new/js/Root.Xml.js"></script> 
+  <div class="are"> 
+   <!--头部LOGO/导航/搜索 begin--> 
+   <div class="header">
+    <div class="clear"></div>
+   </div> 
+   <!--头部LOGO/搜索 end--> 
+   <!--内容主体 begin--> 
+   <div class="pagebody"> 
+    <!--右侧 begin--> 
+    <!--2012-3-30 搜索结果 begin--> 
+    <div class="pagecontent"> 
+     <div id="tab_div0" class="searchadtion"> 
+      <!--按区域 begin--> 
+      <div class="searchadtion searchadtion1"> 
+       <div class="search_nav"> 
+        <div class="search_nav_left"> 
+         <span class="on" id="m1"><span id="sjina_3">按区域查询</span></span>
+         <span class="out" id="m2" href="#"><span id="sjina_4">按地铁查询</span></span> 
+        </div> 
+       </div> 
+       <!--按区域查询 begin--> 
+       <div style="display:block" id="c1" class="search_content"> 
+        <ul id="sjina_5"> 
+         <li> 
+          <div class="s1">
+           区域:
+          </div> 
+          <div class="s3"> 
+           <span class="search_all_bg">全部</span>&nbsp; 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%BA%A3%B5%ED____________1_.htm">海淀(2360)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%B3%AF%D1%F4____________1_.htm">朝阳(2716)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%B6%AB%B3%C7____________1_.htm">东城(744)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%CE%F7%B3%C7____________1_.htm">西城(968)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%B3%E7%CE%C4____________1_.htm">崇文(354)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%D0%FB%CE%E4____________1_.htm">宣武(646)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%B7%E1%CC%A8____________1_.htm">丰台(1241)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%CA%AF%BE%B0%C9%BD____________1_.htm">石景山(317)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%B7%BF%C9%BD____________1_.htm">房山(434)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%C3%C5%CD%B7%B9%B5____________1_.htm">门头沟(178)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%CD%A8%D6%DD____________1_.htm">通州(598)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%CB%B3%D2%E5____________1_.htm">顺义(356)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%B2%FD%C6%BD____________1_.htm">昌平(691)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%C3%DC%D4%C6____________1_.htm">密云(183)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%BB%B3%C8%E1____________1_.htm">怀柔(154)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%D1%D3%C7%EC____________1_.htm">延庆(63)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%C6%BD%B9%C8____________1_.htm">平谷(84)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%B4%F3%D0%CB____________1_.htm">大兴(585)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%D1%E0%BD%BC____________1_.htm">燕郊(145)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%C6%E4%CB%FB____________1_.htm">其他(116)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%CF%E3%BA%D3____________1_.htm">香河(8)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%B9%CC%B0%B2____________1_.htm">固安(13)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9_____%E4%C3%D6%DD____________1_.htm">涿州(1)</a> 
+          </div> 
+          <div class="clear"></div> </li> 
+        </ul> 
+        <ul class="common"> 
+         <li id="sjina_6"> 
+          <div class="s12"> 
+          </div> 
+          <div class="s1">
+           类型:
+          </div> 
+          <div class="s3">
+           <span class="search_all_bg">全部</span> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9______%D7%A1%D5%AC___________1_.htm" rel="nofollow">住宅(8987)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9______%BE%AD%BC%C3%CA%CA%D3%C3%B7%BF___________1_.htm" rel="nofollow">经济适用房(105)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9______%B1%F0%CA%FB___________1_.htm" rel="nofollow">别墅(568)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9______%D0%B4%D7%D6%C2%A5___________1_.htm" rel="nofollow">写字楼(2293)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9______%C9%CC%C6%CC___________1_.htm" rel="nofollow">商铺(988)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9______%C1%BD%CF%DE%B7%BF___________1_.htm" rel="nofollow">两限房(24)</a> 
+          </div> 
+          <div class="clear"></div> </li> 
+         <li id="sjina_7"> 
+          <div class="s12"> 
+          </div> 
+          <div class="s1">
+           价格:
+          </div> 
+          <div class="s3">
+           <span class="search_all_bg">全部</span> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__________10000%D2%D4%CF%C2_______1_.htm">10000以下</a>
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__________10000-15000_______1_.htm">10000-15000</a>
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__________15000-20000_______1_.htm">15000-20000</a>
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__________20000-30000_______1_.htm">20000-30000</a>
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__________30000-40000_______1_.htm">30000-40000</a>
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__________40000%D2%D4%C9%CF_______1_.htm">40000以上</a>
+           <span style="color: rgb(102, 102, 102); font-weight: normal;">单价(元/&#65533;)</span> 
+          </div> 
+          <div class="clear"></div> </li> 
+         <!--<li>
+								    <div class="s5">
+								    </div>
+								    <div class="clear"></div>
+								</li>--> 
+         <li style="border-bottom:0px;" id="sjina_8"> 
+          <div class="s12"> 
+          </div> 
+          <div class="s1">
+           环线:
+          </div> 
+          <div class="s3">
+           <span class="search_all_bg">全部</span> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__%B6%FE%BB%B7%D2%D4%C4%DA_______________1_.htm">二环以内(1447)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__%B6%FE%D6%C1%C8%FD%BB%B7_______________1_.htm">二至三环(2205)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__%C8%FD%D6%C1%CB%C4%BB%B7_______________1_.htm">三至四环(2166)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__%CB%C4%D6%C1%CE%E5%BB%B7_______________1_.htm">四至五环(1677)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__%CE%E5%D6%C1%C1%F9%BB%B7_______________1_.htm">五至六环(2368)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__%C1%F9%BB%B7%D2%D4%CD%E2_______________1_.htm">六环以外(1753)</a> 
+          </div> 
+          <div class="clear"></div> </li> 
+        </ul> 
+       </div> 
+       <!--按区域查询 end--> 
+       <!--按特色楼盘&购房圈 begin--> 
+       <div style="display:none" id="c2" class="search_content"> 
+        <!--按地铁查询--> 
+        <ul id="sjina_4"> 
+         <li> 
+          <div class="s12"></div> 
+          <div class="s1">
+           地铁:
+          </div> 
+          <div class="s3"> 
+           <span class="search_all_bg">全部</span> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________1%BA%C5%CF%DF___rail__1_.htm">1号线(792)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________2%BA%C5%CF%DF___rail__1_.htm">2号线(1064)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________4%BA%C5%CF%DF___rail__1_.htm">4号线(1233)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________5%BA%C5%CF%DF___rail__1_.htm">5号线(829)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________6%BA%C5%CF%DF___rail__1_.htm">6号线(1365)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________7%BA%C5%CF%DF___rail__1_.htm">7号线(386)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________8%BA%C5%CF%DF___rail__1_.htm">8号线(609)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________9%BA%C5%CF%DF___rail__1_.htm">9号线(624)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________10%BA%C5%CF%DF___rail__1_.htm">10号线(2027)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________13%BA%C5%CF%DF___rail__1_.htm">13号线(936)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________14%BA%C5%CF%DF___rail__1_.htm">14号线(855)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________15%BA%C5%CF%DF___rail__1_.htm">15号线(443)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________%BB%FA%B3%A1%CF%DF___rail__1_.htm">机场线(250)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________%B0%CB%CD%A8%CF%DF___rail__1_.htm">八通线(485)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________%B7%BF%C9%BD%CF%DF___rail__1_.htm">房山线(154)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________%B2%FD%C6%BD%CF%DF___rail__1_.htm">昌平线(252)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________%B4%F3%D0%CB%CF%DF___rail__1_.htm">大兴线(286)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9____________%D2%E0%D7%AF%CF%DF___rail__1_.htm">亦庄线(287)</a> 
+          </div> 
+          <div class="clear"></div> </li> 
+        </ul> 
+        <ul class="common"> 
+         <li id="sjina_6"> 
+          <div class="s12"> 
+          </div> 
+          <div class="s1">
+           类型:
+          </div> 
+          <div class="s3">
+           <span class="search_all_bg">全部</span> 
+           <a href="/house/%B1%B1%BE%A9______%D7%A1%D5%AC___________1_.htm" rel="nofollow">住宅(8987)</a> 
+           <a href="/house/%B1%B1%BE%A9______%BE%AD%BC%C3%CA%CA%D3%C3%B7%BF___________1_.htm" rel="nofollow">经济适用房(105)</a> 
+           <a href="http://villa.soufun.com/villa/%B1%B1%BE%A9______%B1%F0%CA%FB___________1_.htm" rel="nofollow">别墅(568)</a> 
+           <a href="/house/%B1%B1%BE%A9______%D0%B4%D7%D6%C2%A5___________1_.htm" rel="nofollow">写字楼(2293)</a> 
+           <a href="/house/%B1%B1%BE%A9______%C9%CC%C6%CC___________1_.htm" rel="nofollow">商铺(988)</a> 
+           <a href="/house/%B1%B1%BE%A9______%C1%BD%CF%DE%B7%BF___________1_.htm" rel="nofollow">两限房(24)</a> 
+          </div> 
+          <div class="clear"></div> </li> 
+         <li id="sjina_7"> 
+          <div class="s12"> 
+          </div> 
+          <div class="s1">
+           价格:
+          </div> 
+          <div class="s3">
+           <span class="search_all_bg">全部</span> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__________10000%D2%D4%CF%C2_______1_.htm">10000以下</a>
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__________10000-15000_______1_.htm">10000-15000</a>
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__________15000-20000_______1_.htm">15000-20000</a>
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__________20000-30000_______1_.htm">20000-30000</a>
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__________30000-40000_______1_.htm">30000-40000</a>
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__________40000%D2%D4%C9%CF_______1_.htm">40000以上</a>
+           <span style="color: rgb(102, 102, 102); font-weight: normal;">单价(元/&#65533;)</span> 
+          </div> 
+          <div class="clear"></div> </li> 
+         <li style="border-bottom:0px;" id="sjina_8"> 
+          <div class="s12"> 
+          </div> 
+          <div class="s1">
+           环线:
+          </div> 
+          <div class="s3">
+           <span class="search_all_bg">全部</span> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__%B6%FE%BB%B7%D2%D4%C4%DA_______________1_.htm">二环以内(1447)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__%B6%FE%D6%C1%C8%FD%BB%B7_______________1_.htm">二至三环(2205)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__%C8%FD%D6%C1%CB%C4%BB%B7_______________1_.htm">三至四环(2166)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__%CB%C4%D6%C1%CE%E5%BB%B7_______________1_.htm">四至五环(1677)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__%CE%E5%D6%C1%C1%F9%BB%B7_______________1_.htm">五至六环(2368)</a> 
+           <a href="http://soufun.com/house/%B1%B1%BE%A9__%C1%F9%BB%B7%D2%D4%CD%E2_______________1_.htm">六环以外(1753)</a> 
+          </div> 
+          <div class="clear"></div> </li> 
+        </ul> 
+       </div> 
+      </div> 
+      <!--按特色楼盘&购房圈 end--> 
+      <div style="display:none" id="tese" class="teseblock">
+       <!--特色楼盘--> 
+       <div class="city_TraitBox"> 
+        <div class="city_Trait" id="sjina_11"> 
+         <div class="city_TraitL">
+          特色楼盘:
+         </div> 
+         <div class="city_TraitL2"> 
+          <span class="search_all_bg"><strong>全部</strong></span> 
+          <a href="http://soufun.com/house/%B1%B1%BE%A9___________%B4%F2%D5%DB%D3%C5%BB%DD%C2%A5%C5%CC______1_.htm">打折优惠楼盘</a> 
+          <a href="http://soufun.com/house/%B1%B1%BE%A9___________%D0%A1%BB%A7%D0%CD______1_.htm">小户型</a> 
+          <a href="http://soufun.com/house/%B1%B1%BE%A9___________%B9%AB%D4%B0%B5%D8%B2%FA______1_.htm">公园地产</a> 
+          <a href="http://soufun.com/house/%B1%B1%BE%A9___________%BD%CC%D3%FD%B5%D8%B2%FA______1_.htm">教育地产</a> 
+          <a href="http://soufun.com/house/%B1%B1%BE%A9___________%BE%C6%B5%EA%CA%BD%B9%AB%D4%A2______1_.htm">酒店式公寓</a> 
+          <a href="http://soufun.com/house/%B1%B1%BE%A9___________%BB%A8%D4%B0%D1%F3%B7%BF______1_.htm">花园洋房</a> 
+          <a href="http://soufun.com/house/%B1%B1%BE%A9___________%CB%D1%B7%BF%BF%A8%BA%CF%D7%F7%C2%A5%C5%CC______1_.htm">搜房卡合作楼盘</a> 
+          <a href="http://soufun.com/house/%B1%B1%BE%A9______%D7%DB%BA%CF%CC%E5___________1_.htm">综合体</a> 
+         </div> 
+         <div class="clear"></div> 
+        </div> 
+       </div> 
+       <div class="city_gfq" id="sjina_12"> 
+        <div class="city_gfqL">
+         购 房 圈:
+        </div> 
+        <div class="city_gfqL2">
+         <span class="search_all_bg"><strong>全部</strong></span> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%B9%CC%B0%B2___1_.htm">固安</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%D4%B6%D1%F3___1_.htm">远洋</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%D6%D0%B9%FA%CC%FA%BD%A8___1_.htm">中国铁建</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%B1%B1%BE%A9%B3%C7%BD%A8___1_.htm">北京城建</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%BB%E9%B7%BF___1_.htm">婚房</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%B1%A3%D5%CF%B7%BF___1_.htm">保障房</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________MOMA___1_.htm">MOMA</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________K2___1_.htm">K2</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%D1%D8%BA%A3___1_.htm">沿海</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%CA%D7%B4%B4___1_.htm">首创</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%D6%D0%BA%A3___1_.htm">中海</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%B1%A3%C0%FB___1_.htm">保利</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%BA%CF%C9%FA___1_.htm">合生</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%CA%D7%BF%AA___1_.htm">首开</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%C0%F6%D4%F3___1_.htm">丽泽</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%B8%BB%C1%A6___1_.htm">富力</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%CD%F2%BF%C6___1_.htm">万科</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%D6%E9%BD%AD___1_.htm">珠江</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%BD%F0%C8%DA%BF%A8___1_.htm">金融卡</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%C9%CF%C7%E5___1_.htm">上清</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%CB%B3%D2%E5___1_.htm">顺义</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%D6%D0%D1%EB%B9%AB%D4%B0___1_.htm">中央公园</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%C4%CF%B3%C7___1_.htm">南城</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%D2%E0%D7%AF___1_.htm">亦庄</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%B7%BF%C9%BD___1_.htm">房山</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%B6%FE%BB%B7___1_.htm">二环</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%D6%D0%D6%E1%B1%F0%CA%FB___1_.htm">中轴别墅</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________CBD___1_.htm">CBD</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%CD%A8%D6%DD___1_.htm">通州</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%B9%FA%B0%C2___1_.htm">国奥</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%CA%AF%BE%B0%C9%BD___1_.htm">石景山</a> 
+         <a href="http://soufun.com/house/%B1%B1%BE%A9______________%B3%AF%C7%E0___1_.htm">朝青</a> 
+        </div> 
+        <div class="city_gfqL3"></div> 
+        <div class="clear"></div> 
+       </div> 
+      </div> 
+      <!--特色楼盘end--> 
+      <div class="down_shou" id="sjina_9" onclick="download_new()" style="cursor:pointer"> 
+       <span id="s_btn" class="up"></span> 
+      </div> 
+      <div class="no_slectd_cditn" id="nooptions">
+       <div class="lftno"></div>
+       <div class="ritno"></div>
+      </div> 
+     </div> 
+     <div class="blank20"></div> 
+     <div class="searchExpertBox"> 
+      <!--全国城市 begin--> 
+      <div id="searchExpert2" style="display:none;"> 
+      </div> 
+      <!--全国城市 end--> 
+     </div> 
+     <!--2012-3-30 右侧 begin--> 
+     <div class="pagebodyRight"> 
+      <!--area 广告 start--> 
+      <div style="height:5px;"></div> 
+      <div class="zhoubian1" id="sjina_109"> 
+       <div class="basicinform_title"> 
+        <div class="lefttitlebox"> 
+         <div class="newtitle_left"></div> 
+         <div class="newtitle_center">
+          城市地标
+         </div> 
+         <div class="newtitle_right"></div> 
+        </div> 
+       </div> 
+       <div class="quydb830tr">
+        <div class="quydb830trl">
+         <a title="北京城建徜徉集" href="http://changyangji.soufun.com/" target="_blank"><img src="http://img.soufun.com/house/2012_02/20/bj/1329705788261_000_s.jpg" /></a>
+        </div>
+        <div class="quydb830trr">
+         <ul>
+          <li class="title"><a href="http://changyangji.soufun.com/" target="_blank">北京城建徜徉集</a> </li>
+          <li>均价 <span class="tel">12900</span> 元/平方米 </li>
+          <li><span class="tel">400-813-0000 </span>转 <span class="tel">55602</span> </li>
+         </ul>
+        </div>
+        <div class="clear"></div>
+       </div>
+       <div class="quydb830tr">
+        <div class="quydb830trl">
+         <a title="盘龙谷三期星梦工坊" href="http://bj.soufun.com/market/guoduye/plg12-05-04/index.html" target="_blank"><img src="http://img.soufun.com/house/2012_04/20/bj/1334892041153_000_s.jpg" /></a>
+        </div>
+        <div class="quydb830trr">
+         <ul>
+          <li class="title"><a href="http://bj.soufun.com/market/guoduye/plg12-05-04/index.html" target="_blank">盘龙谷三期星梦工坊</a> </li>
+          <li>均价 <span class="tel">5500</span> 元/平方米 </li>
+          <li><span class="tel">400-813-0000 </span>转 <span class="tel">55285</span> </li>
+         </ul>
+        </div>
+        <div class="clear"></div>
+       </div>
+       <div class="quydb830tr">
+        <div class="quydb830trl">
+         <a title="倪氏南海・清岛湾" href="http://719255.soufun.com/" target="_blank"><img src="http://img.soufun.com/house/2012_03/19/bj/1332127500605_000_s.jpg" /></a>
+        </div>
+        <div class="quydb830trr">
+         <ul>
+          <li class="title"><a href="http://719255.soufun.com/" target="_blank">倪氏南海・清岛湾</a> </li>
+          <li>均价 <span class="tel">5800</span> 元/平方米 </li>
+          <li><span class="tel">400-813-0000 </span>转 <span class="tel">69348</span> </li>
+         </ul>
+        </div>
+        <div class="clear"></div>
+       </div>
+       <div class="quydb830tr">
+        <div class="quydb830trl">
+         <a title="星悦国际" href="http://office.soufun.com/house/%B1%B1%BE%A9_1010689315.htm" target="_blank"><img src="http://img.soufun.com/house/2011_03/10/bj/1299722553193_000_s.jpg" /></a>
+        </div>
+        <div class="quydb830trr">
+         <ul>
+          <li class="title"><a href="http://office.soufun.com/house/%B1%B1%BE%A9_1010689315.htm" target="_blank">星悦国际</a> </li>
+          <li>均价 <span class="tel">12800</span> 元/平方米 </li>
+          <li><span class="tel">400-813-0000 </span>转 <span class="tel">61035</span> </li>
+         </ul>
+        </div>
+        <div class="clear"></div>
+       </div>
+       <div class="quydb830tr">
+        <div class="quydb830trl">
+         <a title="中粮万科长阳半岛" href="http://www.soufun.com/tuan/Detail.aspx?id=1436" target="_blank"><img src="http://img.soufun.com/house/2010_08/23/bj/1282558654623_000_s.jpg" /></a>
+        </div>
+        <div class="quydb830trr">
+         <ul>
+          <li class="title"><a href="http://www.soufun.com/tuan/Detail.aspx?id=1436" target="_blank">中粮万科长阳半岛</a> </li>
+          <li>均价 <span class="tel">18000</span> 元/平方米 </li>
+          <li><span class="tel">400-813-0000 </span>转 <span class="tel">54674</span> </li>
+         </ul>
+        </div>
+        <div class="clear"></div>
+       </div> 
+      </div> 
+      <!--area 广告 end--> 
+      <div class="blank8"></div> 
+      <!--20110627狂拍团 最近浏览过的楼盘 begin--> 
+      <script>
+function show_menuh_jingpai(num){
+    if(num==2){
+        $('zxll02').className = 'huadongbjxfbjzxll01';
+        $('zxll01').className = 'qw';  
+        $('zxllli02').style.display="block";  
+        $('zxllli01').style.display="none"; 
+    }else{
+        $('zxll02').className = 'huadongbjxfbjzxll01';
+        $('zxll01').className = 'qw';  
+        $('zxllli01').style.display="block"; 
+        $('zxllli02').style.display="none"; 
+    }
+    
+}
+	
+      </script> 
+      <style>
+a {blr:expression(this.onFocus=this.blur())}
+a{outline:none;cursor:pointer}
+a{color:#0c1832; text-decoration:none}
+#box{height:247px;*height:238px;_height:247px;margin:0 auto;
+    font-family:"宋体",arial;
+       margin:0;
+       padding:0;
+       font-size:12px;
+	   color:#646464;}
+#box .zhoubian03{clear:both;}
+#left{width:250px; float:left}
+#left_1{width:248px; float:left}
+.left_2{width:248px;  float:left}
+.left_2 .qw{width:116px; background:#cb0000; line-height:19px; border:none; text-align:center; height:19px;_height:21px; float:left;padding-top:4px;}
+.left_2 .qw a{font-weight:bold; color:#FFFFFF}
+.left_2 li{width:116px; border-left:1px solid #acd2e9; line-height:24px; text-align:center; float:left; height:24px; float:left}
+.left_3{width:240px; border:#cb0000 solid 4px; clear:both;overflow:hidden;}
+.left_8{width:232px; float:left}
+.left_4{width:222px; background:#FFFFFF; display:inline; margin:8px; float:left}
+.left_5{width:222px; text-align:center; float:left;background:url(http://js.soufunimg.com/homepage/style/new/images/20090903_xu.gif) repeat-x bottom;}
+.left_6{width:222px;float:left;height:156px;*height:158px;overflow:hidden;}
+.left_6 li{width:222px; float:left;background:url(http://js.soufunimg.com/homepage/style/new/images/20090903_xu.gif) repeat-x bottom;height:34px;padding:3px 0;}
+.left_6 li strong{color:#FF0000; float:left;font-weight:normal}
+.left_7{width:224px; padding-bottom:8px; padding-left:8px; background:url(http://img1.soufun.com/house/detail_php/images/beijing_07.gif) right bottom no-repeat; margin-top:7px; float:left}
+.left_7 li{width:224px; float:left}
+.left_9{width:222px; margin-top:8px; float:left}
+.left_9 a{padding-left:8px}
+.left_9 .qq{font-weight:bold}
+.redjp{color:#FF0000;}
+#box .pinglun1top{_border-bottom:0;}
+.left_6 li .lftname{float:left;width:220px;overflow:hidden;height:17px;line-height:17px;}
+.left_6 li .ritprice{float:left;width:220px;overflow:hidden;height:17px;line-height:17px;}
+.huadongbjxfbjzxll01{float:left;width:116px;height:25px;line-height:25px;text-align:center;}
+.huadongbjxfbjzxll01 strong{font-size:12px;color:#049;font-weight:bold;text-decoration:none;}
+.fl{float:left;}
+
+
+      </style> 
+      <div id="sjina_110"> 
+       <div id="box" class="zhoubian1"> 
+        <div class="pinglun1top zi12 left_2" style="padding:0;"> 
+         <div class="huxingdianping"></div> 
+         <div class="qw" onmouseover="show_menuh_jingpai(1)" id="zxll01">
+          <a href="javascript:void(0)"><img src="http://img1.soufun.com/house/detail_php/gg/kpgrouphd.gif" alt="" width="59" height="18" /></a>
+         </div> 
+         <div class="huadongbjxfbjzxll01" onmouseover="show_menuh_jingpai(2)" id="zxll02">
+          <a href="javascript:void(0)"><strong>最近浏览过的楼盘</strong></a>
+         </div> 
+        </div> 
+        <div class="left_3" id="zxllli01"> 
+         <div class="left_4"> 
+          <div class="left_5" style="margin:-2px 0px 2px 0;"> 
+           <img src="http://img1.soufun.com/house/detail_php/gg/kuangpai_01.gif" usemap="#Map" /> 
+           <map name="Map" id="Map"> <area shape="rect" coords="77,3,154,37" href="http://auction.soufun.com/summerauction/" alt="" target="_blank"></area> <area shape="rect" coords="2,2,75,39" href="http://pai.soufun.com/kuang/" target="_blank" alt=""></area> <area shape="rect" coords="154,3,233,40" href="http://soufun.com/tuan/bj/default.html" alt="" target="_blank"></area> </map> 
+          </div> 
+          <div class="left_8"> 
+           <div class="left_6"> 
+            <ul> 
+             <li>
+              <div class="lftname">
+               <a href="http://bj.soufun.com/market/zhuanti/nsqdw20120419/index.html" target="_blank"> <strong>威海 倪氏南海・清岛湾</strong></a>
+              </div> 
+              <div class="ritprice">
+               [搜房狂]总价6000元海景房 
+              </div></li> 
+             <li>
+              <div class="lftname">
+               <a href="http://www.soufun.com/tuan/Detail.aspx?id=1436" target="_blank"> <strong>万科长阳半岛</strong></a>
+              </div> 
+              <div class="ritprice">
+               [搜房团]5.11夜场疯66套8折特惠房 
+              </div></li> 
+             <li>
+              <div class="lftname">
+               <a href="http://bj.soufun.com/market/guoduye/rfls_zhuanti/rfls_zt.html" target="_blank"> <strong>润枫领尚</strong></a>
+              </div> 
+              <div class="ritprice">
+               [搜房团]东五环13300买两居送一居 
+              </div></li> 
+             <li>
+              <div class="lftname">
+               <a href="http://bj.soufun.com/market/guoduye/ycxsgg111108/index.html" target="_blank"> <strong>亿城・西山公馆</strong></a>
+              </div> 
+              <div class="ritprice">
+               [搜房团]海淀精装现房享2万抵60万 
+              </div></li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="zhoubian03 noneBox" id="zxllli02"> 
+         <table cellpadding="0" id="houseHistory" cellspacing="0" border="0" width="100%" style="display:none"> 
+         </table> 
+         <table cellpadding="0" cellspacing="0" border="0" width="100%"> 
+          <tbody>
+           <tr class="zhoubian03top"> 
+            <td width="105" style="font-size:12px;">热门楼盘</td> 
+            <td align="right" width="50" style="font-size:12px; padding-right:10px;">区县</td> 
+            <td align="center" width="85" style="font-size:12px;">价格(元/&#65533;)</td> 
+           </tr> 
+           <tr> 
+            <td style="font-size:12px;"> <a href="http://bj.soufun.com/market/guoduye/xsw111118/index.html" target="_blank">橡树湾</a> </td> 
+            <td align="left" style="font-size:12px; padding-left:20px">海淀</td> 
+            <td align="right" style="font-size:12px; padding-right:5px; color:#ff0000;">32000</td> 
+           </tr> 
+           <tr> 
+            <td style="font-size:12px;"> <a href="http://bj.soufun.com/market/guoduye/slgg111128/index.html" target="_blank">赛洛公馆</a> </td> 
+            <td align="left" style="font-size:12px; padding-left:20px">百子湾</td> 
+            <td align="right" style="font-size:12px; padding-right:5px; color:#ff0000;">21000</td> 
+           </tr> 
+           <tr> 
+            <td style="font-size:12px;"> <a href="http://www.soufun.com/tuan/RoomDetail.aspx?id=857" target="_blank">泊爱蓝岛</a> </td> 
+            <td align="left" style="font-size:12px; padding-left:20px">京郊</td> 
+            <td align="right" style="font-size:12px; padding-right:5px; color:#ff0000;">12008</td> 
+           </tr> 
+           <tr> 
+            <td style="font-size:12px;"> <a href="http://baihewank2.soufun.com/" target="_blank">K2百合湾</a> </td> 
+            <td align="left" style="font-size:12px; padding-left:20px">通州</td> 
+            <td align="right" style="font-size:12px; padding-right:5px; color:#ff0000;">140万/套</td> 
+           </tr> 
+           <tr> 
+            <td style="font-size:12px;"> <a href="http://huangjinsoho.soufun.com/" target="_blank">黄金SOHO</a> </td> 
+            <td align="left" style="font-size:12px; padding-left:20px">燕郊</td> 
+            <td align="right" style="font-size:12px; padding-right:5px; color:#ff0000;">待定</td> 
+           </tr> 
+           <tr> 
+            <td style="font-size:12px;"> <a href="http://bj.soufun.com/market/guoduye/baxxt111125/index.html" target="_blank">彼岸香醍</a> </td> 
+            <td align="left" style="font-size:12px; padding-left:20px">密云</td> 
+            <td align="right" style="font-size:12px; padding-right:5px; color:#ff0000;">300万</td> 
+           </tr> 
+          </tbody>
+         </table> 
+        </div> 
+       </div> 
+      </div> 
+      <!--20110627狂拍团 最近浏览过的楼盘 end--> 
+      <!-- 北京最新楼盘  begin --> 
+      <div class="blank8"></div> 
+      <div class="kaipan" id="sjina_111"> 
+       <div class="basicinform_title"> 
+        <div class="lefttitlebox"> 
+         <div class="newtitle_left"></div> 
+         <div class="newtitle_center">
+          北京最新楼盘
+         </div> 
+         <div class="newtitle_right"></div> 
+        </div> 
+        <div class="pricetrend_rit fb_blue">
+         <a href="/house/asp/trans/buynewhouse/newfornotice.htm" target="_blank">更多&gt;&gt;</a>
+        </div> 
+       </div> 
+       <div id="gi1" class="proptcomprsn_cont noneBox" style="display: block;"> 
+        <div class="h1"> 
+         <div class="wid106 center">
+          楼盘名称
+         </div> 
+         <div class="wid42 center">
+          区县
+         </div> 
+         <div class="wid72 center">
+          点击(次)
+         </div> 
+        </div> 
+        <ul class="proptcomprsn_list"> 
+         <li> 
+          <div class="wid115">
+           <a href="http://725721.soufun.com/" target="_blank">国隆府</a>
+          </div> 
+          <div class="wid42">
+           香河
+          </div> 
+          <div class="wid62 fred center">
+           1417
+          </div> </li> 
+         <li> 
+          <div class="wid115">
+           <a href="http://725541.soufun.com/" target="_blank">盘龙谷古根海姆山</a>
+          </div> 
+          <div class="wid42">
+           其他
+          </div> 
+          <div class="wid62 fred center">
+           2995
+          </div> </li> 
+         <li> 
+          <div class="wid115">
+           <a href="http://yunlifangzgsd010.soufun.com/" target="_blank">中国水电・云立方</a>
+          </div> 
+          <div class="wid42">
+           大兴
+          </div> 
+          <div class="wid62 fred center">
+           8800
+          </div> </li> 
+         <li> 
+          <div class="wid115">
+           <a href="http://725403.soufun.com/" target="_blank">瑞涛・我的国</a>
+          </div> 
+          <div class="wid42">
+           其他
+          </div> 
+          <div class="wid62 fred center">
+           2713
+          </div> </li> 
+         <li> 
+          <div class="wid115">
+           <a href="http://haidianmingzhudy.soufun.com/" target="_blank">大苑・海淀名著</a>
+          </div> 
+          <div class="wid42">
+           海淀
+          </div> 
+          <div class="wid62 fred center">
+           14608
+          </div> </li> 
+         <li> 
+          <div class="wid115">
+           <a href="http://725181.soufun.com/" target="_blank">鼎兴华府</a>
+          </div> 
+          <div class="wid42">
+           其他
+          </div> 
+          <div class="wid62 fred center">
+           5911
+          </div> </li> 
+         <li> 
+          <div class="wid115">
+           <a href="http://725093.soufun.com/" target="_blank">尚水淳品</a>
+          </div> 
+          <div class="wid42">
+           固安
+          </div> 
+          <div class="wid62 fred center">
+           6892
+          </div> </li> 
+         <li> 
+          <div class="wid115">
+           <a href="http://shicang168.soufun.com/" target="_blank">世藏168</a>
+          </div> 
+          <div class="wid42">
+           东城
+          </div> 
+          <div class="wid62 fred center">
+           13522
+          </div> </li> 
+         <li> 
+          <div class="wid115">
+           <a href="http://bailinggongyu010.soufun.com/" target="_blank">白领公寓</a>
+          </div> 
+          <div class="wid42">
+           昌平
+          </div> 
+          <div class="wid62 fred center">
+           19549
+          </div> </li> 
+         <li> 
+          <div class="wid115">
+           <a href="http://huizhanyujing.soufun.com/" target="_blank">会展誉景</a>
+          </div> 
+          <div class="wid42">
+           顺义
+          </div> 
+          <div class="wid62 fred center">
+           6214
+          </div> </li> 
+        </ul> 
+       </div> 
+      </div> 
+      <!-- 北京最新楼盘  end --> 
+      <!-- AFP Control Code/Caption.小横幅1--> 
+      <script language="JavaScript1.1" src="http://show.soufun.com/adpolestar/door/;ap=0FCCAE2D_E6C8_E8C5_0EB4_698A28F157FC;ct=js;pu=soufun;/?">
+
+      </script> 
+      <noscript> 
+       <iframe src="http://show.soufun.com/adpolestar/door/;ap=0FCCAE2D_E6C8_E8C5_0EB4_698A28F157FC;ct=if;pu=soufun;/?" name="adFrame_0FCCAE2D_E6C8_E8C5_0EB4_698A28F157FC" width="250" height="70" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe> 
+      </noscript> 
+      <!-- AFP Control Code End/No.--> 
+      <div id="div_hits"> 
+       <!-- 北京热门楼盘排行榜 begin --> 
+       <div class="blank8"></div> 
+       <!-- 北京热门楼盘排行榜 begin --> 
+       <div class="kaipan" id="sjina_112"> 
+        <div class="basicinform_title"> 
+         <div class="lefttitlebox"> 
+          <div class="newtitle_left"></div> 
+          <div class="newtitle_center">
+           北京热门楼盘排行榜
+          </div> 
+          <div class="newtitle_right"></div> 
+         </div> 
+         <div class="pricetrend_rit fb_blue">
+          <a href="/house/asp/trans/buynewhouse/default.htm" target="_blank">更多&gt;&gt;</a>
+         </div> 
+        </div> 
+        <div id="gi1" class="proptcomprsn_cont noneBox" style="display: block;"> 
+         <div class="h1"> 
+          <div class="wid106 center">
+           楼盘名称
+          </div> 
+          <div class="wid42 center">
+           区县
+          </div> 
+          <div class="wid72 center">
+           点击(次)
+          </div> 
+         </div> 
+         <ul class="proptcomprsn_list"> 
+          <li> 
+           <div class="wid115">
+            <a href="http://7haoyuanln.soufun.com/" target="_blank">鲁能7号院</a>
+           </div> 
+           <div class="wid42">
+            顺义
+           </div> 
+           <div class="wid62 fred center">
+            206484
+           </div> </li> 
+          <li> 
+           <div class="wid115">
+            <a href="http://chuntianlibl010.soufun.com/" target="_blank">保利春天里</a>
+           </div> 
+           <div class="wid42">
+            大兴
+           </div> 
+           <div class="wid62 fred center">
+            155127
+           </div> </li> 
+          <li> 
+           <div class="wid115">
+            <a href="http://xiwangshanhk.soufun.com/" target="_blank">鸿坤・曦望山</a>
+           </div> 
+           <div class="wid42">
+            大兴
+           </div> 
+           <div class="wid62 fred center">
+            134448
+           </div> </li> 
+          <li> 
+           <div class="wid115">
+            <a href="http://guofengmeitangsk.soufun.com/" target="_blank">首开国风美唐</a>
+           </div> 
+           <div class="wid42">
+            昌平
+           </div> 
+           <div class="wid62 fred center">
+            132150
+           </div> </li> 
+          <li> 
+           <div class="wid115">
+            <a href="http://beijingxiangsuzh.soufun.com/" target="_blank">中弘北京像素</a>
+           </div> 
+           <div class="wid42">
+            朝阳
+           </div> 
+           <div class="wid62 fred center">
+            94527
+           </div> </li> 
+          <li> 
+           <div class="wid115">
+            <a href="http://changyangbandaozlwk.soufun.com/" target="_blank">中粮万科长阳半岛</a>
+           </div> 
+           <div class="wid42">
+            房山
+           </div> 
+           <div class="wid62 fred center">
+            84774
+           </div> </li> 
+          <li> 
+           <div class="wid115">
+            <a href="http://ncifangbjcj.soufun.com/" target="_blank">北京城建・N次方</a>
+           </div> 
+           <div class="wid42">
+            朝阳
+           </div> 
+           <div class="wid62 fred center">
+            79986
+           </div> </li> 
+          <li> 
+           <div class="wid115">
+            <a href="http://jinxihuayuanfl.soufun.com/" target="_blank">富力金禧花园</a>
+           </div> 
+           <div class="wid42">
+            通州
+           </div> 
+           <div class="wid62 fred center">
+            77352
+           </div> </li> 
+          <li> 
+           <div class="wid115">
+            <a href="http://luolanxianggubl.soufun.com/" target="_blank">保利・罗兰香谷</a>
+           </div> 
+           <div class="wid42">
+            昌平
+           </div> 
+           <div class="wid62 fred center">
+            72993
+           </div> </li> 
+          <li> 
+           <div class="wid115">
+            <a href="http://changyangji.soufun.com/" target="_blank">北京城建徜徉集</a>
+           </div> 
+           <div class="wid42">
+            房山
+           </div> 
+           <div class="wid62 fred center">
+            72147
+           </div> </li> 
+         </ul> 
+        </div> 
+       </div> 
+       <!-- 北京热门楼盘排行榜 end --> 
+      </div> 
+      <!--排行榜 end--> 
+      <!--画中画 start--> 
+      <div id="sjina_45">
+       <!-- AFP Control Code/Caption.画中画--> 
+       <script language="JavaScript1.1" src="http://show.soufun.com/adpolestar/door/;ap=5CA8C0D6_74F0_BCD9_B902_272D6E10DF43;ct=js;pu=soufun;/?">
+
+       </script> 
+       <noscript> 
+        <iframe src="http://show.soufun.com/adpolestar/door/;ap=5CA8C0D6_74F0_BCD9_B902_272D6E10DF43;ct=if;pu=soufun;/?" name="adFrame_5CA8C0D6_74F0_BCD9_B902_272D6E10DF43" width="240" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe> 
+       </noscript> 
+       <!-- AFP Control Code End/No.--> 
+      </div> 
+      <!--画中画 end--> 
+      <!--新房在线问答 begin--> 
+      <style>
+.zhoubian03 ul li {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+background:transparent url(http://img1.soufun.com/house/subject/images/diarybj.gif) no-repeat scroll 1px -44px;
+height:24px;
+line-height:24px;
+overflow:hidden;
+padding:0 5px 0 10px;
+}
+.zhoubian03 ul {
+margin:5px 0 0 7px;
+_margin:5px 0 0 5px;
+width:235px;
+}
+/*小搜索2011.3.29 input*/
+.search_input{width:240px;}
+.search_input .inp2{float:left;width:2px;height:22px;background:url(http://img1.soufun.com/house/detail_php/images/searchbj.gif) no-repeat right 0px;position:absolute;top:0px;right:-1px;}
+.search_input .inp1{float:left;height:22px;position:relative;}
+.search_input .inp1 input{float:left;height:22px;line-height:22px;width:108px;padding-left:7px;overflow:hidden;background:url(http://img1.soufun.com/house/detail_php/images/searchbj.gif) repeat-x 0px 0px;font-size:12px;color:#888;border:0px;}
+.search_input span .button1{float:left;width:50px;height:22px;line-height:22px;border:0px;cursor:pointer;background:url(http://img1.soufun.com/house/detail_php/images/searchbj2.gif) no-repeat -72px 0;margin-left:5px;}
+.search_input span .button2{float:left;width:50px;height:22px;line-height:22px;border:0px;cursor:pointer;background:url(http://img1.soufun.com/house/detail_php/images/searchbj2.gif) no-repeat -72px -24px;margin-left:4px;}
+
+      </style> 
+      <!-- 在线问答&业主装修列表 begin --> 
+      <style type="text/css">
+/* 业主装修列表20111115 */
+.renovation_hd{clear:both;overflow:hidden;height:23px;line-height:24px;font-weight:bold;}
+.renovation_hd .on{float:left;overflow:hidden;width:123px;text-align:center;background:#fff;color:#049}
+.renovation_hd .on a:link, .renovation_hd .on a:visited{color:#049;text-decoration:none;}
+.renovation_hd .on a:hover, .renovation_hd .on a:active{color:#f00;text-decoration:none;}
+.renovation_hd .geline{float:left;width:1px;overflow:hidden;font-size:0;background:#c8d3da repeat;height:23px;}
+.renovation_hd .out{float:left;overflow:hidden;width:124px;text-align:center;background:url(http://img1.soufun.com/house/detail_php/images/renovation_out.gif) repeat-x;cursor:pointer;}
+.renovation_hd .out a:link, .renovation_hd .out a:visited{color:#333;text-decoration:none;}
+.renovation_hd .out a:hover, .renovation_hd .out a:active{color:#f00;text-decoration:none;}
+.fred{color:#c00;}
+.fred a:link, .fred a:visited{color:#f00;text-decoration:none;}
+.fred a:hover, .fred a:active{color:#f00;text-decoration:underline;}
+
+      </style> 
+      <script>
+
+//id1是tab的开头,id2是content的开头,index是当前的位置,count是总的tab个数,classname没选中tab的样式
+///交换样式
+var $_s=function(id) {
+   return document.getElementById(id);
+}
+function show_menuc(id1,id2,index,count,classcurrent,classname){
+	for(var i=0;i<count;i++)	{
+		$_s(id2.toString()+i).style.display="none";
+		$_s(id1.toString()+i).className=classname;
+	}
+	$_s(id2.toString()+index).style.display="block";
+	$_s(id1.toString()+index).className=classcurrent;
+}
+
+      </script> 
+      <div class="blank8"></div> 
+      <div class="zhoubian1" style="height:202px;overflow:hidden;" id="sjina_113"> 
+       <div class="renovation_hd"> 
+        <div class="on" onmouseover="show_menuc('o','oi',0,2,'on','out')" id="o0">
+         <a href="http://www.soufun.com/ask/house/2/a_2_1____-1.html" target="_blank">北京新房在线问答</a>
+        </div> 
+        <div class="geline"></div> 
+        <div class="out" onmouseover="show_menuc('o','oi',1,2,'on','out')" id="o1">
+         <a href="#" target="_blank">业主装修服务站</a>
+        </div> 
+       </div> 
+       <div class="zhoubian03" id="oi0"> 
+        <ul id=""> 
+         <li style="padding-left: 0px; padding-top: 5px; height: 22px;width: 230px;"> 
+          <form action="http://www.soufun.com/ask/search.aspx" style="margin: 0pt; padding: 0pt;" method="get" id="frm_search"> 
+           <!--input搜索begin--> 
+           <div class="search_input"> 
+            <div class="inp1">
+             <input type="text" value="" name="asktitle" />
+             <div class="inp2"></div>
+            </div> 
+            <span style="float:none;margin:0px;"><input type="submit" onclick="javascript:search_ask();" value="" class="button1" /></span> 
+            <span style="float:none;margin:0px;"><input type="button" onclick="window.open('http://www.soufun.com/ask/Ask_StepTwo.aspx?asktitle=')" value="" class="button2" /></span> 
+           </div> 
+           <!--input搜索end--> 
+          </form> </li> 
+         <li><a href="http://www.soufun.com/ask/house/c_cs/2/b_3893411.html" target="_blank">勤诚达新界最近有搞什么活动没？</a></li> 
+         <li><a href="http://www.soufun.com/ask/house/c_sz/2/b_3893406.html" target="_blank">想请问一下各位，龙城一品相较于翡翠山有什么优势？</a></li> 
+         <li><a href="http://www.soufun.com/ask/house/c_sz/2/b_3882639.html" target="_blank">卓越蔚蓝城邦，有一房吗？本人投资的，升值空间怎样？</a></li> 
+         <li><a href="http://www.soufun.com/ask/house/c_qd/2/b_3882499.html" target="_blank">蓝山湾现在有什么优惠？</a></li> 
+         <li><a href="http://www.soufun.com/ask/house/c_xian/2/b_3882023.html" target="_blank">验房需要注意哪些问题？</a></li> 
+         <li><a href="http://www.soufun.com/ask/house/c_suzhou/2/b_3881795.html" target="_blank">苏州现在首套房贷款利率最低多少</a></li> 
+        </ul> 
+       </div> 
+       <div class="zhoubian03 noneBox" id="oi1"> 
+        <ul class="fB" style="margin-top:8px;*margin-top:10px;" id=""> 
+         <li class="fred"><a href="http://home.soufun.com/bbs/bjzxlt~1056~19/57205558_57205558.htm" target="_blank">5月12日金地仰山团购会!</a></li> 
+         <li><a href="http://home.soufun.com/bbs/bjzxlt~1056~19/57166237_57166237.htm" target="_blank">装修季社区行--装修俱乐部在行动（北京站）!</a></li> 
+         <li><a href="http://bbs.soufun.com/1010282343~-1~10323/163602667_163602667.htm" target="_blank">5月13日合生世界村家具选购讲座,火速报名中!</a></li> 
+         <li><a href="http://home.soufun.com/bbs/bjzxlt~1056~19/57205992_57206016_1.htm" target="_blank">5月13日天通・公园里专属设计讲座,火速报名!</a></li> 
+         <li><a href="http://home.soufun.com/bbs/bjzxlt~1056~19/57211424_57211424.htm" target="_blank">5月19日东亚马赛公馆团购,携手邻居一同装修!</a></li> 
+         <li><a href="http://home.soufun.com/bbs/bjzxlt~-1~19/57198650_57198650.htm" target="_blank">5月20日芭蕾雨・悦都家具选购讲座开课报名中!</a></li> 
+         <li><a href="http://home.soufun.com/bbs/bjzxlt~1056~19/57198646_57198646.htm" target="_blank">5月6日金色漫香郡业主相约搜房学习装修讲座!</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <!-- 在线问答&业主装修列表 end --> 
+      <!-- 新房在线问答 end --> 
+     </div> 
+     <!--2012-3-30 右侧 end--> 
+     <!-- 2012-3-30 搜索结果列表 begin --> 
+     <div class="pagebodyLeft"> 
+      <div id="sjina_43">
+       <!-- AFP Control Code/Caption.搜索区旗帜--> 
+       <script language="JavaScript1.1" src="http://show.soufun.com/adpolestar/door/;ap=17EE4EFD_3D79_8F20_D9A8_6610F553670D;ct=js;pu=soufun;/?" _fckxhtmljob="1">
+
+       </script> 
+       <noscript _fckxhtmljob="1"> 
+       </noscript>
+       <!-- AFP Control Code End/No.-->
+      </div> 
+      <div style="height:5px;"></div> 
+      <!--城市显示 end--> 
+      <!--2010年2月23日新增切换按钮 begin--> 
+      <div class="lpmap20100223"> 
+       <div id="sjina_13" class="l1">
+        <a href="http://soufun.com/house/%B1%B1%BE%A9_________________1_.htm">全部楼盘 </a>
+       </div> 
+       <div id="sjina_14" class="l2">
+        <a href="http://soufun.com/house/%B1%B1%BE%A9________________1_1_.htm">在售楼盘</a>
+       </div> 
+       <div id="sjina_15" class="l2">
+        <a href="http://soufun.com/house/%B1%B1%BE%A9________________2_1_.htm">待售楼盘</a>
+       </div> 
+       <div id="sjina_16" class="l2">
+        <a href="http://soufun.com/house/%B1%B1%BE%A9________________0_1_.htm">售完楼盘</a>
+       </div> 
+       <div id="sjina_17" class="l2">
+        <a href="http://soufun.com/house/%B1%B1%BE%A9___________%B4%F2%D5%DB%D3%C5%BB%DD%C2%A5%C5%CC______1_.htm">打折楼盘</a>
+       </div> 
+       <div id="sjina_18" class="l2">
+        <a href="http://soufun.com/house/%B1%B1%BE%A9______%D7%DB%BA%CF%CC%E5___________1_.htm">综合体</a>
+       </div> 
+       <div class="l3" id="sjina_19">
+        <a href="http://map.soufun.com/house/bj/index.php?" target="_blank">&nbsp;&nbsp;切换到地图模式</a>
+       </div> 
+       <div class="clear"></div> 
+      </div> 
+      <!--2010年2月23日新增切换按钮 end--> 
+      <!--搜索结果头 begin--> 
+      <!--搜索结果头 begin--> 
+      <div class="searchListMenu"> 
+       <!--关闭城市 begin--> 
+       <div class="closeCity" style="z-index:0;"> 
+        <div id="tab_div1">
+         <a href="javascript:void(0)" onclick="javascript:document.getElementById('tab_div0').style.display = 'none';document.getElementById('tab_div1').style.display = 'none';document.getElementById('tab_div2').style.display = 'block';"><img src="http://img1.soufun.com/house/Search/images/menu2.gif" /></a>
+        </div> 
+        <!--显示城市 begin--> 
+        <div id="tab_div2" style="display:none;" class="openCity">
+         <a href="javascript:void(0)" onclick="javascript:document.getElementById('tab_div0').style.display = 'block';document.getElementById('tab_div1').style.display = 'block';document.getElementById('tab_div2').style.display = 'none';"><img src="http://img1.soufun.com/house/Search/images/menu3.gif" /></a>
+        </div> 
+        <!--显示城市 end--> 
+       </div> 
+       <!--关闭城市 end--> 
+       <!--菜单 begin--> 
+       <div class="searchListMenuDot"> 
+        <div class="s1">
+         <img src="http://img1.soufun.com/house/Search/images/dot3.gif" />
+        </div> 
+        <div class="s2" id="sjina_20">
+         <img src="http://img1.soufun.com/house/Search/images/btn1.gif" onclick="javascript:byb_new('/house/web/newhouse_compare_house.php?str_id=');" style="cursor:pointer;" />
+        </div> 
+        <div class="clear"></div> 
+       </div> 
+       <!--菜单 end--> 
+       <!--排序 begin--> 
+       <div class="searchListMenuDot" style="margin-left:5px;" id="sjina_21"> 
+        <select onchange="javascript:sortData(this.value)"> <option value="" selected="">默认排序</option> <option value="pd">价格由高到低</option> <option value="pa">价格由低到高</option> <option value="saledate">开盘时间倒序</option> <option value="saledateasc">开盘时间顺序</option> <option value="moveindate">入住时间倒序</option> <option value="moveindateasc">入住时间顺序</option> </select> 
+       </div> 
+       <div class="searchListMenuDot" style="margin-left:5px;" id="sjina_22"> 
+        <select onchange="javascript:sortStartdate(this.value)"> <option value="" selected="">开盘时间</option> <option value="s1">本月开盘</option> <option value="s2">下月开盘</option> <option value="s3">三月内开盘</option> <option value="s4">六月内开盘</option> <option value="s5">前三个月已开</option> <option value="s6">前六个月已开</option> </select> 
+       </div> 
+       <div class="searchListMenuDot" style="margin-left:5px;" id="sjina_23"> 
+        <select onchange="javascript:sortFit(this.value)"> <option value="" selected="">装修状况</option> <option value="%C8%AB%B2%BF">全部</option> <option value="%BE%AB%D7%B0%D0%DE">精装修</option> <option value="%C3%AB%C5%F7">毛坯</option> </select> 
+       </div> 
+       <!--排序 end--> 
+       <!--页码 begin--> 
+       <div class="searchListPage" id="sjina_24"> 
+        <div class="s1">
+         共
+         <span class="red">13075</span>条
+        </div> 
+        <div class="s4">
+         <a href="/house/%B1%B1%BE%A9_________________1_.htm">首页</a>
+        </div> 
+        <div class="s4">
+         <a href="/house/%B1%B1%BE%A9_________________1307_.htm">上一页</a>
+        </div> 
+        <div class="s3"> 
+         <a href="/house/%B1%B1%BE%A9_________________1306_.htm" class="sss">1306 </a> 
+        </div> 
+        <div class="s3"> 
+         <a href="/house/%B1%B1%BE%A9_________________1307_.htm" class="sss">1307 </a> 
+        </div> 
+        <div class="s2">
+         1308
+        </div> 
+        <div class="clear"></div> 
+       </div> 
+       <!--页码 end--> 
+       <div class="clear"></div> 
+      </div> 
+      <!--搜索结果头 end--> 
+      <!--项目推广位 begin--> 
+      <style>
+    #tg_gg_div a {color:#000000;text-decoration: none;}
+    #tg_gg_div H1 {color:#0C1832;text-decoration: none;}
+.adlist_bg .more .tglink {
+    color: #BBBBBB;
+    height: 43px;
+    line-height: 20px;
+    margin-bottom: 2px;
+}
+
+      </style> 
+      <script language="javascript">
+    function leftMouseOver()
+    {
+        var objH1 = document.getElementById("leftProjName");
+        objH1.style.color = "#004499";    
+        objH1.style.textDecoration = "underline";    
+    }
+    function leftMouseOut()
+    {
+        var objH1 = document.getElementById("leftProjName");
+        objH1.style.color = "#0C1832";    
+        objH1.style.textDecoration = "none";  
+    }
+    function rightMouseOver()
+    {
+        var objH1 = document.getElementById("rightProjName");
+        objH1.style.color = "#004499";    
+        objH1.style.textDecoration = "underline";    
+    }
+    function rightMouseOut()
+    {
+        var objH1 = document.getElementById("rightProjName");
+        objH1.style.color = "#0C1832";    
+        objH1.style.textDecoration = "none";  
+    }
+
+      </script> 
+      <div class="adlist_bg" id="tg_gg_div"> 
+       <div class="leftbox"> 
+        <div id="sjina_47"> 
+         <a href="http://longxishunjingaqu.soufun.com/" target="_blank"> 
+          <div class="listad" id="clickLeft" onmouseover="leftMouseOver();" onmouseout="leftMouseOut();"> 
+           <h1 id="leftProjName">龙熙顺景</h1> 
+           <ul> 
+            <li>低价 <span class="forange">11000</span> 元/平方米</li> 
+            <li><span class="forange">400-813-0000 </span> 转 <span class="forange"> 56195</span></li> 
+           </ul> 
+          </div> </a> 
+         <div class="more"> 
+          <a href="http://longxishunjingaqu.soufun.com/" target="_blank" onmouseover="leftMouseOver();" onmouseout="leftMouseOut();">
+           <div class="tglink">
+            推广链接
+           </div></a> 
+          <a href="http://map.soufun.com/house/bj/index.php?newcode=1010683431" target="_blank">
+           <div class="lookmap">
+            查看地图
+           </div></a> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="rightbox"> 
+        <div id="sjina_40"> 
+         <a href="http://bj.soufun.com/market/guoduye/ycxsgg111108/index.html" target="_blank"> 
+          <div class="listad" id="clickRight" onmouseover="rightMouseOver();" onmouseout="rightMouseOut();"> 
+           <h1 id="rightProjName">亿城西山公馆</h1> 
+           <ul> 
+            <li> <span class="forange">海淀精装现房团购独享最高60万优惠</span> </li> 
+            <li><span class="forange">400-813-0000 </span> 转 <span class="forange"> 54968</span></li> 
+           </ul> 
+          </div> </a> 
+         <div class="more"> 
+          <a href="http://bj.soufun.com/market/guoduye/ycxsgg111108/index.html" target="_blank" onmouseover="rightMouseOver();" onmouseout="rightMouseOut();">
+           <div class="tglink">
+            推广链接
+           </div></a> 
+          <a href="http://map.soufun.com/house/bj/index.php?newcode=1010653307" target="_blank">
+           <div class="lookmap">
+            查看地图
+           </div></a> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+      <!--项目推广位 end--> 
+      <!--搜索结果列表 begin--> 
+      <div class="searchList"> 
+       <div id="slist_ad"> 
+       </div> 
+       <!--普通项目位 begin--> 
+       <style>
+						    
+						    .paneltable a{display:block;margin:0 auto;padding:4px;font-size:12px;height:14px;line-height:14px;color:#004499;white-space:nowrap;text-decoration:none;}
+						    .searchListNoraml .info .s2 em{color:#FF6600;}
+						    #houselist dt a {
+                                font-size:14px;
+                                font-weight:bold;
+                                padding-right:10px;
+                                color:#0553B5;
+                                text-decoration:none;
+                            }
+                             #houselist dd a {
+                                color:#0553B5;
+                                text-decoration:none;
+                            }
+                            #houselist dt a:hover {
+                                color:#FF6600;
+                                text-decoration:underline;
+                            }
+                            #houselist .iconinfo, #houselist .iconpic, #houselist .iconmap, #houselist .iconbbs {
+                            -moz-background-clip:border;
+                            -moz-background-inline-policy:continuous;
+                            -moz-background-origin:padding;
+                            background:transparent url(http://img1.soufun.com/secondhouse/image/fangyuandaquan/icon_list.gif) no-repeat scroll 0 0;
+                            display:inline-block;
+                            padding-left:20px;
+                            }
+                            #houselist dd{margin-left:0px;}
+                            .price .font16{
+                                -x-system-font:none;
+                                color:#FF3300;
+                                font-family:Arial;
+                                font-size:16px;
+                                font-size-adjust:none;
+                                font-stretch:normal;
+                                font-style:normal;
+                                font-variant:normal;
+                                font-weight:bold;
+                                line-height:26px;
+                                padding-right:2px;
+                            }
+                            #houselist{
+                            float:left;
+                            line-height:23px;
+                            width:450px;
+                            }
+						
+       </style> 
+       <div class="searchListNoraml"> 
+        <div class="box" id="sjina_25"> 
+         <input type="checkbox" value="1010522663" name="chk_1010522663" id="chk_1010522663" />
+         <br /> 
+         <span style="cursor: pointer;" onclick="javascript:byb_new('/house/web/newhouse_compare_house.php?str_id=');">比<br />较 </span> 
+        </div> 
+        <!--新房部分|综合体部分--> 
+        <div class="photo" id="sjina_26"> 
+         <a target="_blank" href="http://www.soufun.com/house/1010522663.htm"> <img height="92" width="122" border="0" alt="昌平回龙观新建库房" src="http://img.soufun.com/house/2009_07/20/bj/1248066032648_000_s.jpg" /> </a> 
+        </div> 
+        <div class="info"> 
+         <ul> 
+          <li class="s1"> 
+           <div class="name" id="sjina_27"> 
+            <a target="_blank" href="http://www.soufun.com/house/1010522663.htm">昌平回龙观新建库房</a> 
+           </div> 
+           <div class="dot1"> 
+            <img src="http://img1.soufun.com/house/Search/images/dotzz.gif" /> 
+           </div> 
+           <div class="clear"></div> </li> 
+          <li class="s2"> 
+           <div class="purpose">
+            物业类型：仓库
+           </div> 
+           <div class="character" id="sjina_28"> 
+            <a href="http://soufun.com/house/%B1%B1%BE%A9_________________1_.htm"></a> 
+           </div> </li> 
+          <div class="clear"></div> 
+          <li class="s2">物业地址：[六环以外]昌平昌平回龙观镇定福皇庄村(离五环高速公路约11公里... <span><a id="sjina_29" target="_blank" href="http://map.soufun.com/house/bj/index.php?newcode=1010522663">查看地图</a></span> </li> 
+          <div class="clear"></div> 
+          <li class="searchListNoramlInfo"> 
+           <div class="s5" id="sjina_30">
+            <a target="_blank" href="http://bbs.soufun.com/board/1010522663/" title="昌平回龙观新建库房业主论坛">业主论坛 <span style="color: rgb(255, 120, 0);">(0)</span></a> 
+           </div> 
+           <div class="s5" id="sjina_31">
+            <a target="_blank" href="http://www.soufun.com/house/1010522663.htm#buy">团购人数 <span style="color: rgb(255, 120, 0);">(0)</span></a>
+           </div> 
+           <div class="clear"></div> </li> 
+         </ul> 
+        </div> 
+        <div class="anther"> 
+         <div class="antherBox"> 
+          <div class="price"> 
+           <span class="price_type">价格待定</span> 
+          </div> 
+          <div class="clear"></div> 
+         </div> 
+        </div> 
+        <div class="clear"></div> 
+       </div> 
+       <div class="searchListNoraml"> 
+        <div class="box" id="sjina_33"> 
+         <input type="checkbox" value="1010521103" name="chk_1010521103" id="chk_1010521103" />
+         <br /> 
+         <span style="cursor: pointer;" onclick="javascript:byb_new('/house/web/newhouse_compare_house.php?str_id=');">比<br />较 </span> 
+        </div> 
+        <!--新房部分|综合体部分--> 
+        <div class="photo" id="sjina_42"> 
+         <a target="_blank" href="http://www.soufun.com/house/1010521103.htm"> <img height="92" width="122" border="0" alt="朝阳定辛庄厂新建库房" src="http://img.soufun.com/house/2009_07/17/bj/1247810183058_000_s.jpg" /> </a> 
+        </div> 
+        <div class="info"> 
+         <ul> 
+          <li class="s1"> 
+           <div class="name" id="sjina_43"> 
+            <a target="_blank" href="http://www.soufun.com/house/1010521103.htm">朝阳定辛庄厂新建库房</a> 
+           </div> 
+           <div class="dot1"> 
+            <img src="http://img1.soufun.com/house/Search/images/dotzz.gif" /> 
+           </div> 
+           <div class="clear"></div> </li> 
+          <li class="s2"> 
+           <div class="purpose">
+            物业类型：仓库
+           </div> 
+           <div class="character" id="sjina_44"> 
+            <a href="http://soufun.com/house/%B1%B1%BE%A9_________________1_.htm"></a> 
+           </div> </li> 
+          <div class="clear"></div> 
+          <li class="s2">物业地址：[六环以外]朝阳朝阳双桥东路定辛庄村 <span><a id="sjina_45" target="_blank" href="http://map.soufun.com/house/bj/index.php?newcode=1010521103">查看地图</a></span> </li> 
+          <div class="clear"></div> 
+          <li class="searchListNoramlInfo"> 
+           <div class="s5" id="sjina_46">
+            <a target="_blank" href="http://bbs.soufun.com/board/1010521103/" title="朝阳定辛庄厂新建库房业主论坛">业主论坛 <span style="color: rgb(255, 120, 0);">(0)</span></a> 
+           </div> 
+           <div class="s5" id="sjina_47">
+            <a target="_blank" href="http://www.soufun.com/house/1010521103.htm#buy">团购人数 <span style="color: rgb(255, 120, 0);">(0)</span></a>
+           </div> 
+           <div class="clear"></div> </li> 
+         </ul> 
+        </div> 
+        <div class="anther"> 
+         <div class="antherBox"> 
+          <div class="price"> 
+           <span class="price_type">价格待定</span> 
+          </div> 
+          <div class="clear"></div> 
+         </div> 
+        </div> 
+        <div class="clear"></div> 
+       </div> 
+       <div class="searchListNoraml"> 
+        <div class="box" id="sjina_34"> 
+         <input type="checkbox" value="1010725751" name="chk_1010725751" id="chk_1010725751" />
+         <br /> 
+         <span style="cursor: pointer;" onclick="javascript:byb_new('/house/web/newhouse_compare_house.php?str_id=');">比<br />较 </span> 
+        </div> 
+        <div class="photo" id="sjina_49"> 
+         <a target="_blank" href="http://esf.soufun.com/house-xm1010725751/"> <img height="92" width="122" border="0" alt="复兴路83号院" src="http://img1n.soufunimg.com/agents/2012_05/08/12/1/55/bj/houseinfo/405207408900_s.jpg" /></a> 
+        </div> 
+        <dl id="houselist">
+         <dt> 
+          <a target="_blank" href="http://esf.soufun.com/house-xm1010725751/">复兴路83号院</a>玉泉路地铁口东北口
+         </dt> 
+         <dd>
+          本月新增二手房：
+          <a target="_blank" href="http://esf.soufun.com/house-xm1010725751/" class="number">0 套</a> 本月新增出租房：
+          <a target="_blank" href="http://zu.soufun.com/house-xm1010725751/" class="number">0 套</a> 
+         </dd> 
+         <dd>
+          <a class="iconinfo" target="_blank" href="http://esf.soufun.com/house-xm1010725751/">查看详情</a> 
+          <a class="iconpic" target="_blank" href="http://esf.soufun.com/housing/1010725751/p2_1/">小区图片</a> 
+          <a class="iconmap" target="_blank" href="http://esf.soufun.com/map/?newcode=1010725751">地图位置</a> 
+          <a class="iconbbs" target="_blank" href="http://bbs.soufun.com/board/1010725751/">业主论坛</a> 
+         </dd> 
+        </dl> 
+        <div class="price">
+         <span class="font16">0</span>元/&#65533;
+         <br />
+         <span title="房价涨幅" class="orange number">↑+</span>
+        </div> 
+       </div> 
+       <div class="searchListNoraml"> 
+        <div class="box" id="sjina_35"> 
+         <input type="checkbox" value="1010725733" name="chk_1010725733" id="chk_1010725733" />
+         <br /> 
+         <span style="cursor: pointer;" onclick="javascript:byb_new('/house/web/newhouse_compare_house.php?str_id=');">比<br />较 </span> 
+        </div> 
+        <div class="photo" id="sjina_56"> 
+         <a target="_blank" href="http://esf.soufun.com/house-xm1010725733/"> <img height="92" width="122" border="0" alt="东新帘子胡同" src="http://img.soufun.com/house/2012_05/08/bj/1336460176056_000_s.jpg" /></a> 
+        </div> 
+        <dl id="houselist">
+         <dt> 
+          <a target="_blank" href="http://esf.soufun.com/house-xm1010725733/">东新帘子胡同</a>北新华街东侧东新帘子胡同
+         </dt> 
+         <dd>
+          本月新增二手房：
+          <a target="_blank" href="http://esf.soufun.com/house-xm1010725733/" class="number">0 套</a> 本月新增出租房：
+          <a target="_blank" href="http://zu.soufun.com/house-xm1010725733/" class="number">0 套</a> 
+         </dd> 
+         <dd>
+          <a class="iconinfo" target="_blank" href="http://esf.soufun.com/house-xm1010725733/">查看详情</a> 
+          <a class="iconpic" target="_blank" href="http://esf.soufun.com/housing/1010725733/p2_1/">小区图片</a> 
+          <a class="iconmap" target="_blank" href="http://esf.soufun.com/map/?newcode=1010725733">地图位置</a> 
+          <a class="iconbbs" target="_blank" href="http://bbs.soufun.com/board/1010725733/">业主论坛</a> 
+         </dd> 
+        </dl> 
+        <div class="price">
+         <span class="font16">0</span>元/&#65533;
+         <br />
+         <span title="房价涨幅" class="orange number">↑+</span>
+        </div> 
+       </div> 
+       <div class="searchListNoraml"> 
+        <div class="box" id="sjina_36"> 
+         <input type="checkbox" value="1010725693" name="chk_1010725693" id="chk_1010725693" />
+         <br /> 
+         <span style="cursor: pointer;" onclick="javascript:byb_new('/house/web/newhouse_compare_house.php?str_id=');">比<br />较 </span> 
+        </div> 
+        <div class="photo" id="sjina_61"> 
+         <a target="_blank" href="http://esf.soufun.com/house-xm1010725693/"> <img height="92" width="122" border="0" alt="奥景公馆" src="http://img.soufun.com/house/2012_05/07/bj/1336382655793_000_s.jpg" /></a> 
+        </div> 
+        <dl id="houselist">
+         <dt> 
+          <a target="_blank" href="http://esf.soufun.com/house-xm1010725693/">奥景公馆</a>朝阳区慧忠里122号
+         </dt> 
+         <dd>
+          本月新增二手房：
+          <a target="_blank" href="http://esf.soufun.com/house-xm1010725693/" class="number">0 套</a> 本月新增出租房：
+          <a target="_blank" href="http://zu.soufun.com/house-xm1010725693/" class="number">0 套</a> 
+         </dd> 
+         <dd>
+          <a class="iconinfo" target="_blank" href="http://esf.soufun.com/house-xm1010725693/">查看详情</a> 
+          <a class="iconpic" target="_blank" href="http://esf.soufun.com/housing/1010725693/p2_1/">小区图片</a> 
+          <a class="iconmap" target="_blank" href="http://esf.soufun.com/map/?newcode=1010725693">地图位置</a> 
+          <a class="iconbbs" target="_blank" href="http://bbs.soufun.com/board/1010725693/">业主论坛</a> 
+         </dd> 
+        </dl> 
+        <div class="price">
+         <span class="font16">0</span>元/&#65533;
+         <br />
+         <span title="房价涨幅" class="orange number">↑+</span>
+        </div> 
+       </div> 
+       <!--普通项目位 end--> 
+      </div> 
+      <!--搜索结果列表 end--> 
+      <!--搜索结果头 begin--> 
+      <div class="searchListMenu" style="margin-top:5px;"> 
+       <!--菜单 begin--> 
+       <div class="searchListMenuDot" style="margin-top:5px;"> 
+        <div class="s1">
+         <img src="http://img1.soufun.com/house/Search/images/dot12.gif" />
+        </div> 
+        <div class="s2" id="sjina_102">
+         <img src="http://img1.soufun.com/house/Search/images/btn1.gif" onclick="javascript:byb_new('/house/web/newhouse_compare_house.php?str_id=');" style="cursor:pointer;" />
+        </div> 
+        <div class="clear"></div> 
+       </div> 
+       <!--菜单 end--> 
+       <!--排序 begin--> 
+       <div class="searchListMenuDot" style="margin-left:5px;" id="sjina_103"> 
+        <select onchange="javascript:sortData(this.value)"> <option value="" selected="">默认排序</option> <option value="pd">价格由高到低</option> <option value="pa">价格由低到高</option> <option value="saledate">开盘时间倒序</option> <option value="saledateasc">开盘时间顺序</option> <option value="moveindate">入住时间倒序</option> <option value="moveindateasc">入住时间顺序</option> </select> 
+       </div> 
+       <div class="searchListMenuDot" style="margin-left:5px;" id="sjina_104"> 
+        <select onchange="javascript:sortStartdate(this.value)"> <option value="" selected="">开盘时间</option> <option value="s1">本月开盘</option> <option value="s2">下月开盘</option> <option value="s3">三月内开盘</option> <option value="s4">六月内开盘</option> <option value="s5">前三个月已开</option> <option value="s6">前六个月已开</option> </select> 
+       </div> 
+       <div class="searchListMenuDot" style="margin-left:5px;" id="sjina_105"> 
+        <select onchange="javascript:sortFit(this.value)"> <option value="" selected="">装修状况</option> <option value="%C8%AB%B2%BF">全部</option> <option value="%BE%AB%D7%B0%D0%DE">精装修</option> <option value="%C3%AB%C5%F7">毛坯</option> </select> 
+       </div> 
+       <!--排序 end--> 
+       <!--页码 begin--> 
+       <div class="searchListPage" id="sjina_106"> 
+        <div class="s1">
+         共
+         <span class="red">13075</span>条
+        </div> 
+        <div class="s4">
+         <a href="/house/%B1%B1%BE%A9_________________1_.htm">首页</a>
+        </div> 
+        <div class="s4">
+         <a href="/house/%B1%B1%BE%A9_________________1307_.htm">上一页</a>
+        </div> 
+        <div class="s3"> 
+         <a href="/house/%B1%B1%BE%A9_________________1306_.htm" class="sss">1306 </a> 
+        </div> 
+        <div class="s3"> 
+         <a href="/house/%B1%B1%BE%A9_________________1307_.htm" class="sss">1307 </a> 
+        </div> 
+        <div class="s2">
+         1308
+        </div> 
+        <div class="clear"></div> 
+       </div> 
+       <!--页码 end--> 
+      </div> 
+      <!--搜索结果头 end--> 
+      <!-- 店铺推广 begin --> 
+      <!--品牌start--> 
+      <!--end--> 
+      <!-- 店铺推广 end --> 
+      <!--提示 begin--> 
+      <div class="searchTip" style="display:none;">
+       提示：为了提供最相关的结果，我们省略了一些相关度较低的条目，点击
+       <a href="" target="_blank">查看更多</a>搜索结果
+      </div> 
+      <!--提示 end--> 
+      <!--相关搜索 begin--> 
+      <table class="searchAntherTable" style="display:none;"> 
+       <tbody>
+        <tr> 
+         <td> 
+          <div class="searchAnther" style="overflow:hidden;"> 
+           <div class="searchAntherMenu">
+            相关搜索
+           </div> 
+           <div class="searchAntherList"> 
+            <ul></ul> 
+            <div class="clear"></div> 
+           </div> 
+          </div> </td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <!--相关搜索 end--> 
+      <!--文字推广 begin--> 
+      <br /> 
+      <div style="overflow: hidden;" class="searchTxtLink" id="sjina_107"> 
+       <style type="text/css">
+.sadver li{float:left;
+height:22px;
+line-height:22px;
+overflow:hidden;
+padding-right:2px;
+width:136px;}
+.sadver li a:link, .sadver li a:visited{text-decoration:none;}
+    
+       </style> 
+       <div class="sadver"> 
+        <ul> 
+         <li><a target="_blank" href="http://show.soufun.com/adpolestar/wayl/;ad=D8C43ABA_85D3_8A76_47BE_CBAB3F48DAB2;ap=C9980913_E0EB_A383_2F57_2D9EDBCDA9A3;pu=soufun;ext_key=;/?http://www.soufun.com/tuan/Detail.aspx?id=1317" style="color:#000000">大兴销冠15万住洋房</a></li> 
+         <li><a target="_blank" href="http://show.soufun.com/adpolestar/wayl/;ad=36CF5D79_4FA3_FE8C_8209_E441665583FD;ap=FF983603_C3AB_BAD0_1AE9_95E2D530E5D5;pu=soufun;ext_key=;/?http://www.soufun.com/tuan/Detail.aspx?id=1335" style="color:#000000">奥北唯一双轨洋房</a></li> 
+         <li><a target="_blank" href="http://show.soufun.com/adpolestar/wayl/;ad=D71D984B_1969_332A_BF52_0E81A685947A;ap=88E3713C_929E_3602_E2AD_00BFAA33F1A9;pu=soufun;ext_key=;/?http://www.soufun.com/house/2012-04-06/7410792.htm" style="color:#000000">3-4环小户型推荐</a></li> 
+         <li><a target="_blank" href="http://show.soufun.com/adpolestar/wayl/;ad=B59CC674_C2CB_E8DC_0DC8_A94B7E8DF470;ap=053D01E5_FF09_56E3_7D0B_C7A8C015A789;pu=soufun;ext_key=;/?http://www.soufun.com/house/2012-03-31/7382548.htm" style="color:#000000">房山在售楼盘盘点</a></li> 
+         <li><a target="_blank" href="http://show.soufun.com/adpolestar/wayl/;ad=0FCB9C87_F527_254D_DA59_2F31C7BDB141;ap=5F2E2248_B2A8_2D39_4318_004D3D1DC8B2;pu=soufun;ext_key=;/?http://www.soufun.com/house/2012-04-05/7395931.htm" style="color:#000000">昌平楼盘汇88万起</a></li> 
+         <li><a target="_blank" href="http://show.soufun.com/adpolestar/wayl/;ad=4384266F_14F6_0D43_C46B_C0D90E30063F;ap=20CE3D99_874C_918E_F58B_39F8A41FE695;pu=soufun;ext_key=;/?http://www.soufun.com/house/2012-04-05/7401863.htm" style="color:#000000">四环低价盘59万起</a></li> 
+         <li><a target="_blank" href="http://show.soufun.com/adpolestar/wayl/;ad=3E990A24_897E_5865_C582_160DDEBBBACE;ap=CB3F13A2_74F4_908E_BC30_D96763EFFB41;pu=soufun;ext_key=;/?http://www.soufun.com/house/2012-04-06/7411970.htm" style="color:#000000">朝阳四月折扣抄底</a></li> 
+         <li><a target="_blank" href="http://show.soufun.com/adpolestar/wayl/;ad=4C4EEC19_93E3_9842_FC68_08CFCD91A70B;ap=D7E9835B_4F52_91AD_C796_71BE8A3F8015;pu=soufun;ext_key=;/?http://www.soufun.com/house/2012-03-30/7370506.htm" style="color:#000000">万科保利远洋14盘</a></li> 
+         <li><a target="_blank" href="http://show.soufun.com/adpolestar/wayl/;ad=966270F8_C307_A16E_ED56_E43928E2281F;ap=63FDCF27_BB14_CB13_37A2_89708EEAB779;pu=soufun;ext_key=;/?http://www.soufun.com/house/2012-04-05/7402283.htm" style="color:#000000">淘北苑望京立水桥</a></li> 
+         <li><a target="_blank" href="http://show.soufun.com/adpolestar/wayl/;ad=8C1DF290_8EC2_66B6_719C_1DBF330044B8;ap=A9126A12_4EAC_A9BD_1A73_D8392D941F86;pu=soufun;ext_key=;/?http://www.soufun.com/house/2012-03-29/7361904.htm" style="color:#000000">3至4环低价尾盘</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <!--文字推广 end--> 
+      <!--页尾广告 begin--> 
+      <!-- AFP Control Code/Caption.底部旗帜--> 
+      <div class="searchImgLink2" id="sjina_46">
+       <!-- AFP Control Code/Caption.底部旗帜--> 
+       <script language="JavaScript1.1" src="http://show.soufun.com/adpolestar/door/;ap=4FCBCB3A_AE44_2CA0_6C32_0FE4705ECFC5;ct=js;pu=soufun;/?">
+
+       </script> 
+       <noscript> 
+        <iframe src="http://show.soufun.com/adpolestar/door/;ap=4FCBCB3A_AE44_2CA0_6C32_0FE4705ECFC5;ct=if;pu=soufun;/?" name="adFrame_4FCBCB3A_AE44_2CA0_6C32_0FE4705ECFC5" width="702" height="70" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe> 
+       </noscript> 
+       <!-- AFP Control Code End/No.--> 
+      </div> 
+      <!-- AFP Control Code End/No.--> 
+      <!--页尾广告 end--> 
+     </div> 
+     <!-- 2012-3-30 搜索结果列表 end --> 
+    </div> 
+    <div class="clear"></div> 
+    <!--2012-3-30 搜索结果 end--> 
+   </div> 
+   <!--内容主体 end--> 
+   <!--标准新房导航 begin--> 
+   <!--标准新房导航 begin--> 
+   <div id="sjina_108">
+    <div class="newHouseMenu" _fckxhtmljob="1"> 
+     <div class="s1" _fckxhtmljob="1">
+      新房导航
+     </div> 
+     <div class="s2" _fckxhtmljob="1">
+      <a href="http://www.soufun.com/" target="_blank" _fckxhtmljob="1">首页</a> 
+      <a href="http://www.soufun.com/house/saledate/%b1%be%d4%c2.htm" target="_blank" _fckxhtmljob="1">本月开盘</a> 
+      <a href="http://www.soufun.com/house/livindate/%b1%be%d4%c2.htm" target="_blank" _fckxhtmljob="1">本月入住</a> 
+      <a href="http://www.soufun.com/house/asp/trans/buynewhouse/newfornotice.htm" target="_blank" _fckxhtmljob="1">最新楼盘</a> 
+      <a href="http://www.soufun.com/house/asp/trans/buynewhouse/default.htm" target="_blank" _fckxhtmljob="1">热门楼盘</a> 
+      <a href="http://www.soufun.com/house/tg_top100.htm" target="_blank" _fckxhtmljob="1">团购排行</a> 
+      <a href="http://www.soufun.com/house/lskd.htm" target="_blank" _fckxhtmljob="1">楼市快递</a> 
+      <a href="http://www.soufun.com/house/lookhouse.htm" target="_blank" _fckxhtmljob="1">看房日记</a> 
+      <a href="http://www.soufun.com/house/housecollection.htm" target="_blank" _fckxhtmljob="1">户型图</a> 
+      <a href="http://www.soufun.com/house/subject.htm" target="_blank" _fckxhtmljob="1">买房专题</a> 
+      <a href="http://www.soufun.com/house/tools.htm" target="_blank" _fckxhtmljob="1">房贷计算器</a>
+     </div>
+    </div>
+   </div> 
+   <!--key detail start--> 
+   <div style="float:left;margin: 10px auto 8px 20px; padding: 15px 20px; background: rgb(238, 238, 238);width:920px;">
+    友情提示：本网站所提供的北京楼盘信息以及北京房价仅供参考，搜房网致力于提供最全面的北京新楼盘, 北京楼盘信息以及北京房价查询，在这里你可以查看北京新楼盘的打折优惠以及团购活动，到北京楼盘的各个业主论坛同其它网友互动
+   </div> 
+   <!--key detail end--> 
+   <!--版权 begin--> 
+   <!--20110322搜房网统一版尾begin--> 
+   <style type="text/css">
+.DivCss20091020WZiColor333 a:link{font-size:12px;color:#333;text-decoration:none;}
+.DivCss20091020WZiColor333 a:visited{font-size:12px;color:#333;text-decoration:none;}
+.DivCss20091020WZiColor333 a:hover{font-size:12px;color:#c00;text-decoration:underline;}
+.DivCss20091020WZiColor333 a:active{font-size:12px;color:#c00;}
+.DivCss20091020WZiColorc00 a:link{font-size:12px;color:#c00;text-decoration:none;}
+.DivCss20091020WZiColorc00 a:visited{font-size:12px;color:#c00;text-decoration:none;}
+.DivCss20091020WZiColorc00 a:hover{font-size:12px;color:#c00;text-decoration:underline;}
+.DivCss20091020WZiColorc00 a:active{font-size:12px;color:#c00;}
+.DivCss20091020WZiColor333 .spacing{letter-spacing:2px;font-family:Verdana;}
+
+   </style> 
+   <script>
+var $=function(id) {
+   return document.getElementById(id);
+}
+function moreBoxto(numcss1020){
+	for (j=0; j<10; j++){
+	 if($('moreBox' + j)){
+	 $('moreBox'+j).style.display='none';
+
+	 }
+	}
+	$('moreBox'+numcss1020).style.display='block';
+}
+function hidden_moreBoxto(numcss1020) {
+	timeout = setTimeout(function() {$("moreBox"+numcss1020).style.display = "none";},100);
+}
+function show_moreBoxto(numcss1020){
+	window.clearTimeout(timeout);
+	$("moreBox"+numcss1020).style.display = "";
+}
+
+   </script> 
+   <div style="text-align:center;" id=""> 
+    <div style="width:960px;height:105px;background:#fff;font-size:12px;font-family:'宋体';clear:both;margin:0 auto;border-top:1px solid #ccc;" class="DivCss20091020WZiColor333"> 
+     <div style="line-height:20px;text-align:center;margin-top:5px;"> 
+      <a href="http://www.soufun.com/aboutus/index.asp" target="_blank">关于搜房</a> 
+      <span style="font-family: Verdana;">‖</span> 
+      <a href="http://www.soufun.com/hezuo_file/house/index.html" target="_blank">网站合作</a> 
+      <span style="font-family: Verdana;">‖</span> 
+      <a href="http://www.soufun.com/aboutus/contactus.html" target="_blank">联系我们</a> 
+      <span style="font-family: Verdana;">‖</span> 
+      <a href="http://www.soufun.com/aboutus/marketing/index.html" target="_blank">网络营销</a> 
+      <span style="font-family: Verdana;">‖</span> 
+      <a href="http://www.soufun.com/zhaopin" target="_blank">招聘信息</a> 
+      <span style="font-family: Verdana;">‖</span> 
+      <a href="javascript:;" onmouseout="hidden_moreBoxto(1020)" onmouseover="moreBoxto(1020)">搜房家族</a> 
+      <span style="font-family: Verdana;">‖</span> 
+      <a href="http://www.soufun.com/sitemap/sitemap.html" target="_blank">网站地图</a> 
+      <span style="font-family: Verdana;">‖</span> 
+      <a href="http://www.soufun.com/service/feedback/LeaveMess.aspx/" target="_blank">意见反馈</a> 
+      <span style="font-family: Verdana;">‖</span> 
+      <a href="http://wap.soufun.com/xc/mobile.html" target="_blank">手机搜房</a> 
+      <span style="font-family: Verdana;">‖</span> 
+      <a href="http://www.soufun.com/aboutus/copyright.html" target="_blank">服务声明</a> 
+     </div> 
+     <!--弹出城市 begin--> 
+     <div style="position:relative;width:auto;height:1px; z-index:99"> 
+      <div onmouseout="hidden_moreBoxto(1020)" onmouseover="show_moreBoxto(1020);" id="moreBox1020" style="display:none;position:absolute;top:0px;right:10px!important;left:318px;width:480px;height:153px;background:#eff3f8;border:1px solid #acd2e9;padding:10px 10px 0 10px;line-height:21px;font-size:12px;"> 
+       <table width="100%" border="0" cellspacing="0" cellpadding="0" class="DivCss20091020WZiColor333"> 
+        <tbody>
+         <tr> 
+          <td width="3%"><strong style="color:#c00;">B</strong></td> 
+          <td width="18%"><a href="http://bj.soufun.com/" target="_blank">北京房地产</a></td> 
+          <td width="3%"><strong style="color:#c00;">D</strong></td> 
+          <td width="18%"><a href="http://dg.soufun.com/" target="_blank">东莞房地产</a></td> 
+          <td width="3%"> </td> 
+          <td width="17%"><a href="http://hn.soufun.com/" target="_blank">海南房地产</a></td> 
+          <td width="3%"> </td> 
+          <td width="19%"><a href="http://nn.soufun.com/" target="_blank">南宁房地产</a></td> 
+          <td width="3%"> </td> 
+          <td width="13%"><a href="http://sy.soufun.com/" target="_blank">沈阳房地产</a></td> 
+         </tr> 
+         <tr> 
+          <td><strong style="color:#c00;">C</strong></td> 
+          <td><a href="http://cd.soufun.com/" target="_blank">成都房地产</a></td> 
+          <td> </td> 
+          <td><a href="http://dl.soufun.com/" target="_blank">大连房地产</a></td> 
+          <td> </td> 
+          <td><a href="http://hf.soufun.com" target="_blank">合肥房地产</a></td> 
+          <td><strong style="color:#c00;">Q</strong></td> 
+          <td><a href="http://qd.soufun.com/" target="_blank">青岛房地产</a></td> 
+          <td><strong style="color:#c00;">T</strong></td> 
+          <td><a href="http://tj.soufun.com/" target="_blank">天津房地产</a></td> 
+         </tr> 
+         <tr> 
+          <td> </td> 
+          <td><a href="http://cq.soufun.com/" target="_blank">重庆房地产</a></td> 
+          <td><strong style="color:#c00;">F</strong></td> 
+          <td><a href="http://fz.soufun.com/" target="_blank">福州房地产</a></td> 
+          <td><strong style="color:#c00;">J</strong></td> 
+          <td><a href="http://jn.soufun.com/" target="_blank">济南房地产</a></td> 
+          <td><strong style="color:#c00;">S</strong></td> 
+          <td><a href="http://sh.soufun.com/" target="_blank">上海房地产</a></td> 
+          <td><strong style="color:#c00;">W</strong></td> 
+          <td><a href="http://wuhan.soufun.com/" target="_blank">武汉房地产</a></td> 
+         </tr> 
+         <tr> 
+          <td> </td> 
+          <td><a href="http://cs.soufun.com/" target="_blank">长沙房地产</a></td> 
+          <td><strong style="color:#c00;">G</strong></td> 
+          <td><a href="http://gz.soufun.com/" target="_blank">广州房地产</a></td> 
+          <td><strong style="color:#c00;">N</strong></td> 
+          <td><a href="http://nanjing.soufun.com/" target="_blank">南京房地产</a></td> 
+          <td> </td> 
+          <td><a href="http://sz.soufun.com/" target="_blank">深圳房地产</a></td> 
+          <td> </td> 
+          <td><a href="http://wuxi.soufun.com/" target="_blank">无锡房地产</a></td> 
+         </tr> 
+         <tr> 
+          <td> </td> 
+          <td><a href="http://changchun.soufun.com/" target="_blank">长春房地产</a></td> 
+          <td> </td> 
+          <td><a href="http://gy.soufun.com" target="_blank">贵阳房地产</a></td> 
+          <td> </td> 
+          <td><a href="http://nc.soufun.com/" target="_blank">南昌房地产</a></td> 
+          <td> </td> 
+          <td><a href="http://suzhou.soufun.com/" target="_blank">苏州房地产</a></td> 
+          <td><strong style="color:#c00;">X</strong></td> 
+          <td><a href="http://xian.soufun.com/" target="_blank">西安房地产</a></td> 
+         </tr> 
+         <tr> 
+          <td> </td> 
+          <td><a href="http://cz.soufun.com/" target="_blank">常州房地产</a></td> 
+          <td><strong style="color:#c00;">H</strong></td> 
+          <td><a href="http://hz.soufun.com/" target="_blank">杭州房地产</a></td> 
+          <td> </td> 
+          <td><a href="http://nb.soufun.com/" target="_blank">宁波房地产</a></td> 
+          <td> </td> 
+          <td><a href="http://sjz.soufun.com/" target="_blank">石家庄房地产</a></td> 
+          <td><strong style="color:#c00;">Z</strong></td> 
+          <td><a href="http://zz.soufun.com/" target="_blank">郑州房地产</a></td> 
+         </tr> 
+        </tbody>
+       </table> 
+       <div style="text-align:right;" class="DivCss20091020WZiColorc00">
+        <a href="http://www.soufun.com/SoufunFamily.htm" target="_blank">进入搜房家族&gt;&gt;</a>
+       </div> 
+      </div> 
+     </div> 
+     <!--弹出城市 end--> 
+     <div style="font-family:Verdana;line-height:20px;text-align:center;">
+      copyright &copy; 2012 SouFun.com Limited, All Rights Reserved
+     </div> 
+     <div style="line-height:23px;text-align:center;position:relative;">
+      搜房公司 版权所有
+      <a target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=0102000110800002"><img style="border:0pt none;position:absolute;right:249px;top:-18px;" src="http://img.soufun.com/house/images/beian_min.gif" /></a>
+     </div> 
+     <div style="line-height:20px;text-align:center;">
+      举报电话：
+      <span style="font-family:Verdana;">010-59306587</span> 举报邮箱：
+      <a href="mailto:jubao@soufun.com" style="font-family:Verdana;">jubao@soufun.com</a>
+     </div> 
+    </div> 
+   </div> 
+   <!--20110322搜房网统一版尾end--> 
+   <script type="text/javascript" src="http://js.soufunimg.com/homepage/js/ad/beitou.js"></script> 
+   <!--版权 end--> 
+   <script type="text/javascript">
+	    /* 王牌广告click */
+        function wpclickId() {
+            var wpdc_obj = document.getElementById('slist_ad');
+            if( wpdc_obj!=null ) {
+               var div_obj = wpdc_obj.getElementsByTagName('div');
+               var len= div_obj.length;
+               var counter = 1;
+               for(i=0;i<len;i++) 
+                   if(div_obj[i].className=='searchListNoraml'){
+                      div_obj[i].id = "sjina_wpdc_"+counter;  
+                      counter++;
+                   }
+            }
+        }
+        /* 区域广告click */
+        function areaclickId() {
+            var area_obj = document.getElementById('ad_area');
+            if( area_obj!=null ) {
+               var div_obj = area_obj.getElementsByTagName('div');
+               var len= div_obj.length;
+               var counter = 1;
+               for(i=0;i<len;i++) 
+                   if(div_obj[i].className=='quydb830tr'){
+                      div_obj[i].id = "sjina_qydb_"+counter;  
+                      counter++;
+                   }
+            }
+        }
+        wpclickId();
+        
+        var dc_obj = document.getElementById('tg_gg_div');
+        if( dc_obj!=null ) {
+            var div_obj = dc_obj.getElementsByTagName('div');
+            var len= div_obj.length;
+            var left_obj = right_obj = "";
+            for(i=0;i<len;i++) 
+            {
+                if(div_obj[i].className=='leftbox'){
+                    left_obj = div_obj[i];
+                }
+                if(div_obj[i].className=='rightbox'){
+                    right_obj = div_obj[i];
+                }
+            }
+            if( left_obj )
+            {
+                left_obj.onmouseover = function() {
+                    //left_obj.style.backgroundColor="#e0f1ff";
+                    //left_obj.style.cursor = "pointer";
+                }
+                left_obj.onmouseout = function() {
+                    //left_obj.style.backgroundColor="";
+                }
+                //获取链接
+                var a_leftobj = left_obj.getElementsByTagName('a');
+                if(a_leftobj.length>0) {
+                    var sub_obj = left_obj.getElementsByTagName('div');
+                    var click_div_obj = "";
+                    for(i=0;i<sub_obj.length;i++) {
+                        if(sub_obj[i].className=='listad') {
+                            click_div_obj = sub_obj[i];
+                            break;
+                        }
+                    }
+                    if(click_div_obj) {
+                        click_div_obj.onclick=function() {
+                            //window.open(a_leftobj[0].href);    
+                        }
+                    }
+                }
+            }
+            if( right_obj ) {
+                right_obj.onmouseover = function() {
+                    //right_obj.style.backgroundColor="#e0f1ff";
+                    //right_obj.style.cursor = "pointer";
+                }
+                right_obj.onmouseout = function() {
+                    //right_obj.style.backgroundColor="";
+                }
+                //获取链接
+                var a_rightobj = right_obj.getElementsByTagName('a');
+                if(a_rightobj.length>0)
+                {
+                    var sub_r_obj = right_obj.getElementsByTagName('div');
+                    var click_div_r_obj = "";
+                    for(i=0;i<sub_r_obj.length;i++) {
+                        if(sub_r_obj[i].className=='listad') {
+                            click_div_r_obj = sub_r_obj[i];
+                            break;
+                        }
+                    }
+                    if(click_div_r_obj){
+                        click_div_r_obj.onclick=function() {
+                            //window.open(a_rightobj[0].href);    
+                        }
+                    }
+                }
+            }
+        }
+        
+   </script> 
+   <!--主体框架 end--> 
+   <script src="http://img1.soufun.com/house/Search/js/browse_mark.js" type="text/javascript"></script> 
+   <script type="text/javascript" src="http://fla.soufun.com/flash.js"></script> 
+   <script language="javascript" src="http://img1.soufun.com/house/detail_new/js/changad.js"></script> 
+   <script language="javascript" src="http://js.soufunimg.com/newhouse/js/plts.js?v=2"></script> 
+   <script language="JavaScript" src="http://clickm.soufun.com/stats/homepage.js"></script> 
+   <script language="JavaScript" src="http://js.soufunimg.com/newhouse/js/search_other_city.js?v=616"></script> 
+   <script type="text/javascript">
+		    ucity = '%B1%B1%BE%A9';
+		    city = "北京";
+		    findhouse_item= "北京";
+		    thispage = "1308";
+		    findhouse_href= "%B1%B1%BE%A9_________________1308_";
+		    clickurl = "http://clickn.soufun.com/stats/clickm2011.js";
+		    citysuo = "bj";
+		    keyword = "";
+		
+   </script> 
+   <script type="text/javascript">loadScript(clickurl,function(){Clickstat.batchEvent('sjina_',citysuo);}); 
+   </script> 
+   <script language="javascript">
+				var domainStr = "";
+				var newcodes = "";
+				var projNames = "";
+				var obj = document.getElementById('houseHistory');
+				function giveDomainValue(strDomain) {
+					var newcodesArr = newcodes.split(",");
+					var strDomainArr = strDomain.split(",");
+					var projNamesArr = projNames.split(",");
+					num = 0;
+					for(var i=0; i<newcodesArr.length; i++) {
+						if(newcodesArr[i] && strDomainArr[i] && projNamesArr[i]) {
+							if(num == 0 || num == 2 || num == 4) {
+								elTR = obj.insertRow( -1 );
+							}
+							elTD = elTR.insertCell( -1 );
+							elTD.innerHTML = '<td style="width:50%; font-size:12px;"><a href="'+strDomainArr[i]+'" target="_blank">'+ projNamesArr[i] +'</a></td>';
+							num = num + 1;
+						}
+					}
+					if(num > 0) {
+						document.getElementById('houseHistory').style.display = '';
+					}
+				}
+        		document.getElementById('form_newhouse').action='/house/web/Search_Result.php';
+        
+   </script>  
+   <!-- AFP Control Code/Caption.临时对联--> 
+   <script language="JavaScript1.1" src="http://show.soufun.com/adpolestar/door/;ap=93ECC4AF_666D_4A17_5F7A_4BA7B1EC6843;ct=js;pu=soufun;/?">
+
+   </script> 
+   <noscript> 
+    <iframe src="http://show.soufun.com/adpolestar/door/;ap=93ECC4AF_666D_4A17_5F7A_4BA7B1EC6843;ct=if;pu=soufun;/?" name="adFrame_93ECC4AF_666D_4A17_5F7A_4BA7B1EC6843" width="100" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"> </iframe> 
+   </noscript> 
+   <!-- AFP Control Code End/No.--> 
+   <script language="javascript">
+				$('strDistrict0').value = "";
+				    $('strDistrict0_a').innerHTML='区县/地铁';
+				$('strRailway0').value = "";
+		
+		if($('strRailway0').value)
+		{
+		    $('strDistrict0_a').innerHTML='<span></span>';          
+		}
+		
+		$('strRoundStation0').value = "";
+		$('strPurpose0').value = "";
+		$('strPurpose0_a').innerHTML="<span>物业类型</span>";
+		$('strPrice0').value = "";
+		$('strPrice0_a').innerHTML="<span>价格范围</span>";
+		
+   </script>  
+  </div>
+ </body>
+</html>

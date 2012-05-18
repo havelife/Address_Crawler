@@ -2,6 +2,7 @@ package com.crawler.parser;
 
 import java.util.ArrayList;
 
+import org.apache.commons.io.filefilter.SuffixFileFilter;
 import org.apache.commons.lang3.StringUtils;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -20,7 +21,7 @@ public class AnjukeBeijingSecondhand {
 	public static final String TYPE = "安居客-二手房";
 	public static final String TYPE_SPAN = "#";
 	public static final String PREFIX_TAIL = "/W0QQpZ";
-	public static final String CREATE_BATCH_FILE_RESULT_PATH = "./data/batch/Anjuke/AnjukeBeijingXiaoquBatchCreateJobFilePrepare.txt";
+	public static final String CREATE_BATCH_FILE_RESULT_PATH = "./data/batch/Anjuke/AnjukeBeijingSecondhandBatchCreateJobFilePrepare.txt";
 	
 	public static ArrayList<Pair> roomNumbuerArrayList = new ArrayList<Pair>();
 	public static ArrayList<Pair> houseTypeArrayList = new ArrayList<Pair>();
@@ -50,7 +51,7 @@ public class AnjukeBeijingSecondhand {
 		Pair p34 = new Pair();
 		Pair p35 = new Pair();
 		Pair p36 = new Pair();
-		Pair p37= new Pair();
+		Pair p37 = new Pair();
 		Pair p38 = new Pair();
 		Pair p39 = new Pair();
 		Pair p30 = new Pair();
@@ -61,7 +62,7 @@ public class AnjukeBeijingSecondhand {
 		Pair p44 = new Pair();
 		Pair p45 = new Pair();
 		Pair p46 = new Pair();
-		Pair p47= new Pair();
+		Pair p47 = new Pair();
 		Pair p48 = new Pair();
 		Pair p49 = new Pair();
 		Pair p50 = new Pair();
@@ -186,15 +187,7 @@ public class AnjukeBeijingSecondhand {
 		priceRangeArrayList.add(p50);
 		priceRangeArrayList.add(p51);
 	}
-	
-	
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		new AnjukeBeijingSecondhand().secondhandSub();
-//		Element element = ParserUtil.parseUrlWithRegexAndResultIndex("http://beijing.anjuke.com/sale/sanlitun/", "div[class=current]", 0);
-	}
+
 	
 	/*
 	 * 北京安居客，二手房，北京总的各个地域，（朝阳 海淀 丰台 等等）
@@ -418,7 +411,7 @@ public class AnjukeBeijingSecondhand {
 	}
 	
 	@Test
-	public void createBatchFile(){
+	public void createBatchFile$AnjukeBeijingSecondhand(){
 		//用以统计总共有多少个页面
 		int totalCount = 0;
 		String content = FileUtil.getDataFile2StrKeepReturn(ALL_SINGLE_SUB_FILE_PATH, "utf-8");
@@ -427,8 +420,52 @@ public class AnjukeBeijingSecondhand {
 		for(String line : lineArr){
 			String[] attrArr = line.split(",");
 			//form the attributes for the output file
-			String prefix = attrArr[0].trim() + PREFIX_TAIL;
+			String prefix = attrArr[0].trim();
 			String suffix = "";
+			String url = prefix;
+			//这里要分四种情况来拼接这个prefix和suffix
+			
+			//CASE 1
+			//http://beijing.anjuke.com/sale/anhuiqiao/
+			//http://beijing.anjuke.com/sale/anhuiqiao/p2
+			if (prefix.lastIndexOf("/") + 1 == prefix.length()) {
+				prefix += "p";
+				suffix = "";
+			}
+			//CASE 2
+			//http://beijing.anjuke.com/sale/aolinpikegongyuan/b24
+			//http://beijing.anjuke.com/sale/aolinpikegongyuan/b24-p2
+			if (prefix.lastIndexOf("/") + 4 == prefix.length()) {
+				prefix += "-p";
+				suffix = "";
+			}
+			//CASE 3
+			//http://beijing.anjuke.com/sale/beiyuan/b17-t7
+			//http://beijing.anjuke.com/sale/beiyuan/b17-p2-t7
+			if (prefix.lastIndexOf("/") + 5 == prefix.lastIndexOf("t")) {
+				int idx = url.lastIndexOf("-");
+				prefix = url.substring(0, idx) + "-p";
+				suffix = url.substring(idx);
+			}
+			//CASE 4
+			//http://beijing.anjuke.com/sale/beiyuan/a15-b17-t9
+			//http://beijing.anjuke.com/sale/beiyuan/a15-b17-p2-t9
+			if (prefix.lastIndexOf("/") + 9 == prefix.lastIndexOf("t")) {
+				int idx = url.lastIndexOf("-");
+				prefix = url.substring(0, idx) + "-p";
+				suffix = url.substring(idx);
+			}
+			//CASE 5
+			//http://beijing.anjuke.com/sale/chaoyanggongyuan/a19-b23-m23-t7
+			//http://beijing.anjuke.com/sale/chaoyanggongyuan/a19-b23-m23-p2-t7
+			if (prefix.lastIndexOf("/") + 13 == prefix.lastIndexOf("t")) {
+				int idx = url.lastIndexOf("-");
+				prefix = url.substring(0, idx) + "-p";
+				suffix = url.substring(idx);
+			}
+			
+			
+			
 			int step = 1;
 			int startidx = 1;
 			int endidx = Integer.parseInt(attrArr[3].trim());
@@ -460,5 +497,12 @@ public class AnjukeBeijingSecondhand {
 		System.err.println(totalCount);
 		FileUtil.writeStr2File(sb.toString(), CREATE_BATCH_FILE_RESULT_PATH);
 	}
-
+	
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		new AnjukeBeijingSecondhand().createBatchFile$AnjukeBeijingSecondhand();
+//		Element element = ParserUtil.parseUrlWithRegexAndResultIndex("http://beijing.anjuke.com/sale/sanlitun/", "div[class=current]", 0);
+	}
 }
