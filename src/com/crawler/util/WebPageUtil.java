@@ -6,16 +6,11 @@ import org.apache.commons.httpclient.HttpClient;
 import org.apache.commons.httpclient.HttpException;
 import org.apache.commons.httpclient.HttpMethod;
 import org.apache.commons.httpclient.methods.GetMethod;
-import org.apache.commons.lang3.StringUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
 public class WebPageUtil {
-	
 	public static String getPageContentByUrl(String url){
-		if (StringUtils.isBlank(url)){
-			System.err.println("WebPageUtil.getPageContentByUrl: url is blank");
-		}
 		try {
 			Document doc;
 			doc = Jsoup.connect(url).timeout(80000).get();
@@ -29,12 +24,12 @@ public class WebPageUtil {
 	
 	public static String getPageContentByUrlWithReferer(String url){
 		HttpClient client = new HttpClient();
-        //璁剧疆浠ｇ悊鏈嶅姟鍣ㄥ湴鍧�拰绔彛        
+        //设置代理服务器地址和端口        
         //client.getHostConfiguration().setProxy("proxy_host_addr",proxy_port);
-        //浣跨敤GET鏂规硶锛屽鏋滄湇鍔″櫒闇�閫氳繃HTTPS杩炴帴锛岄偅鍙渶瑕佸皢涓嬮潰URL涓殑http鎹㈡垚https
+        //使用GET方法，如果服务器需要通过HTTPS连接，那只需要将下面URL中的http换成https
         HttpMethod method = new GetMethod(url);
         method.setRequestHeader("Referer", url);
-        //浣跨敤POST鏂规硶
+        //使用POST方法
         //HttpMethod method = new PostMethod("http://java.sun.com");
         try {
 			client.executeMethod(method);
@@ -45,9 +40,9 @@ public class WebPageUtil {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-        //鎵撳嵃鏈嶅姟鍣ㄨ繑鍥炵殑鐘舵�
+        //打印服务器返回的状态
 //        System.out.println(method.getStatusLine());
-        //鎵撳嵃杩斿洖鐨勪俊鎭�
+        //打印返回的信息
         String res = null;
 		try {
 			res = method.getResponseBodyAsString();
@@ -55,19 +50,19 @@ public class WebPageUtil {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-        //閲婃斁杩炴帴
+        //释放连接
         method.releaseConnection();
         return res;
 	}
 	
 	public static String getPageContentByUrlWithReferer(String url, String encoding){
 		HttpClient client = new HttpClient();
-        //璁剧疆浠ｇ悊鏈嶅姟鍣ㄥ湴鍧�拰绔彛        
+        //设置代理服务器地址和端口        
         //client.getHostConfiguration().setProxy("proxy_host_addr",proxy_port);
-        //浣跨敤GET鏂规硶锛屽鏋滄湇鍔″櫒闇�閫氳繃HTTPS杩炴帴锛岄偅鍙渶瑕佸皢涓嬮潰URL涓殑http鎹㈡垚https
+        //使用GET方法，如果服务器需要通过HTTPS连接，那只需要将下面URL中的http换成https
         HttpMethod method = new GetMethod(url);
         method.setRequestHeader("Referer", url);
-        //浣跨敤POST鏂规硶
+        //使用POST方法
         //HttpMethod method = new PostMethod("http://java.sun.com");
         try {
 			client.executeMethod(method);
@@ -78,9 +73,9 @@ public class WebPageUtil {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-        //鎵撳嵃鏈嶅姟鍣ㄨ繑鍥炵殑鐘舵�
+        //打印服务器返回的状态
 //        System.out.println(method.getStatusLine());
-        //鎵撳嵃杩斿洖鐨勪俊鎭�
+        //打印返回的信息
         String res = null;
 		try {
 			res = new String(method.getResponseBodyAsString().getBytes(encoding));
@@ -88,7 +83,7 @@ public class WebPageUtil {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-        //閲婃斁杩炴帴
+        //释放连接
         method.releaseConnection();
         return res;
 	}
@@ -115,14 +110,12 @@ public class WebPageUtil {
 	
 	//for test
 	public static void main(String[] args){
-		
-		String pageContent;
-		//http://house.focus.cn/housemarket/house_search/index.php?page=153
-		pageContent = WebPageUtil.getPageContentByUrl("http://soufun.com/house/%B1%B1%BE%A9_________________1308_.htm");  
-		
-		FileUtil.writeStr2File(pageContent, "./data/pagecontentSoufunBeijing.txt");
-		System.out.println(pageContent);
 		/*
+		String pageContent;
+		pageContent = WebPageUtil.getPageContentByUrl("http://house.focus.cn/housemarket/house_search/index.php?page=153");
+		FileUtil.writeStr2File(pageContent, "./data/pagecontent.txt");
+		System.out.println(pageContent);
+		*/
 		try {
 		for(int i=0; i<10; i++){
 			Thread.sleep(3000);
@@ -132,6 +125,5 @@ public class WebPageUtil {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		*/
 	}
 }
