@@ -1,5 +1,7 @@
 package com.crawler.service;
 
+import java.util.Date;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -22,6 +24,6 @@ public class LogMgrTest {
 	@Test
 	public void logCommentAndOperatorTest(){
 		LogMgr logMgr = (LogMgr)ctx.getBean("logMgr");
-		logMgr.logCommentAndOperator("www", "≤‚ ‘asdbvbbf");
+		logMgr.logCommentAndOperator(new Date().toString(), "chenhuiting test");
 	}
 }
