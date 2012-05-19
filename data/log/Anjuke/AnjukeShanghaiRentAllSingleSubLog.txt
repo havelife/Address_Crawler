@@ -1,0 +1,633 @@
+碧云 : 29
+碧云 : 29
+北蔡 : 34
+北蔡 : 34
+曹路 : 4
+曹路 : 4
+川沙 : 11
+川沙 : 11
+花木 : 21
+花木 : 21
+金桥 : 72
+金桥 : 72
+金杨 : 18
+金杨 : 18
+陆家嘴 : 132
+陆家嘴#一室 : 28
+陆家嘴#二室 : 40
+陆家嘴#三室 : 44
+陆家嘴#四室 : 19
+陆家嘴#五室 : 2
+陆家嘴#五室以上 : 1
+陆家嘴#roomNumbuerTotal:134, roomNumbuerOriginCount:132
+联洋 : 76
+联洋 : 76
+六里 : 4
+六里 : 4
+梅园 : 18
+梅园 : 18
+南码头 : 17
+南码头 : 17
+浦东外环 : 1
+浦东外环 : 1
+世纪公园 : 46
+世纪公园 : 46
+世博滨江 : 7
+世博滨江 : 7
+上南 : 11
+上南 : 11
+三林 : 56
+三林 : 56
+塘桥 : 68
+塘桥 : 68
+唐镇 : 4
+唐镇 : 4
+外高桥 : 10
+外高桥 : 10
+潍坊 : 24
+潍坊 : 24
+杨东 : 18
+杨东 : 18
+源深 : 43
+源深 : 43
+洋泾 : 27
+洋泾 : 27
+张江 : http://shanghai.anjuke.com/rental/biyun/,浦东,碧云,29
+http://shanghai.anjuke.com/rental/beicai/,浦东,北蔡,34
+http://shanghai.anjuke.com/rental/caolu/,浦东,曹路,4
+http://shanghai.anjuke.com/rental/chuansha/,浦东,川沙,11
+http://shanghai.anjuke.com/rental/huamu/,浦东,花木,21
+http://shanghai.anjuke.com/rental/jinqiao/,浦东,金桥,72
+http://shanghai.anjuke.com/rental/jinyangd/,浦东,金杨,18
+http://shanghai.anjuke.com/rental/lujiazui/b2,浦东,陆家嘴#一室,28
+http://shanghai.anjuke.com/rental/lujiazui/b4,浦东,陆家嘴#二室,40
+http://shanghai.anjuke.com/rental/lujiazui/b10,浦东,陆家嘴#三室,44
+http://shanghai.anjuke.com/rental/lujiazui/b11,浦东,陆家嘴#四室,19
+http://shanghai.anjuke.com/rental/lujiazui/b12,浦东,陆家嘴#五室,2
+http://shanghai.anjuke.com/rental/lujiazui/b13,浦东,陆家嘴#五室以上,1
+http://shanghai.anjuke.com/rental/lianyang/,浦东,联洋,76
+http://shanghai.anjuke.com/rental/liuli/,浦东,六里,4
+http://shanghai.anjuke.com/rental/meiyuana/,浦东,梅园,18
+http://shanghai.anjuke.com/rental/nanmatou/,浦东,南码头,17
+http://shanghai.anjuke.com/rental/pudongwaihuan/,浦东,浦东外环,1
+http://shanghai.anjuke.com/rental/shijigongyuan/,浦东,世纪公园,46
+http://shanghai.anjuke.com/rental/shibobinjianga/,浦东,世博滨江,7
+http://shanghai.anjuke.com/rental/shangnan/,浦东,上南,11
+http://shanghai.anjuke.com/rental/sanlin/,浦东,三林,56
+http://shanghai.anjuke.com/rental/tangqiao/,浦东,塘桥,68
+http://shanghai.anjuke.com/rental/tangzhen/,浦东,唐镇,4
+http://shanghai.anjuke.com/rental/waigaoqiao/,浦东,外高桥,10
+http://shanghai.anjuke.com/rental/weifanga/,浦东,潍坊,24
+http://shanghai.anjuke.com/rental/yangdong/,浦东,杨东,18
+http://shanghai.anjuke.com/rental/yuanshen/,浦东,源深,43
+http://shanghai.anjuke.com/rental/yangjing/,浦东,洋泾,27
+http://shanghai.anjuke.com/rental/zhangjiang/,浦东,张江,84
+
+84
+张江 : 84
+春申 : 21
+春申 : 21
+古美罗阳 : 49
+古美罗阳 : 49
+航华 : 10
+航华 : 10
+华漕 : 20
+华漕 : 20
+静安新城 : 22
+静安新城 : 22
+金虹桥 : 46
+金虹桥 : 46
+江川路 : 17
+江川路 : 17
+龙柏金汇 : 37
+龙柏金汇 : 37
+龙茗 : 1
+龙茗 : 1
+梅陇 : 7
+梅陇 : 7
+马桥 : 1
+马桥 : 1
+浦江 : 7
+浦江 : 7
+七宝 : 45
+七宝 : 45
+吴泾 : 4
+吴泾 : 4
+莘庄 : 50
+莘庄 : 50
+颛桥 : 17
+颛桥 : 17
+http://shanghai.anjuke.com/rental/chunshen/,闵行,春申,21
+http://shanghai.anjuke.com/rental/gumeiluoyang/,闵行,古美罗阳,49
+http://shanghai.anjuke.com/rental/hanghua/,闵行,航华,10
+http://shanghai.anjuke.com/rental/huacao/,闵行,华漕,20
+http://shanghai.anjuke.com/rental/jinganxincheng/,闵行,静安新城,22
+http://shanghai.anjuke.com/rental/jinhongqiao/,闵行,金虹桥,46
+http://shanghai.anjuke.com/rental/jiangchuanlu/,闵行,江川路,17
+http://shanghai.anjuke.com/rental/longbaijinhui/,闵行,龙柏金汇,37
+http://shanghai.anjuke.com/rental/longming/,闵行,龙茗,1
+http://shanghai.anjuke.com/rental/meilong/,闵行,梅陇,7
+http://shanghai.anjuke.com/rental/maqiao/,闵行,马桥,1
+http://shanghai.anjuke.com/rental/pujiang/,闵行,浦江,7
+http://shanghai.anjuke.com/rental/qibao/,闵行,七宝,45
+http://shanghai.anjuke.com/rental/wujing/,闵行,吴泾,4
+http://shanghai.anjuke.com/rental/xinzhuang/,闵行,莘庄,50
+http://shanghai.anjuke.com/rental/zhuanqiao/,闵行,颛桥,17
+
+滨江 : 12
+滨江 : 12
+长桥 : 8
+长桥 : 8
+复兴中路 : 16
+复兴中路 : 16
+淮海西路 : 7
+淮海西路 : 7
+华东理工 : 13
+华东理工 : 13
+华泾 : 11
+华泾 : 11
+湖南路 : 54
+湖南路 : 54
+康健 : 27
+康健 : 27
+龙华 : 28
+龙华 : 28
+上海南站 : 8
+上海南站 : 8
+田林 : 30
+田林 : 30
+万体馆 : 52
+万体馆 : 52
+徐家汇 : 158
+徐家汇#一室 : 33
+徐家汇#二室 : 61
+徐家汇#三室 : 52
+徐家汇#四室 : 10
+徐家汇#五室 : 3
+徐家汇#五室以上 : 3
+徐家汇#roomNumbuerTotal:162, roomNumbuerOriginCount:158
+斜土路 : 36
+斜土路 : 36
+肇嘉浜路 : 43
+肇嘉浜路 : 43
+植物园 : 11
+植物园 : 11http://shanghai.anjuke.com/rental/binjiange/,徐汇,滨江,12
+http://shanghai.anjuke.com/rental/changqiao/,徐汇,长桥,8
+http://shanghai.anjuke.com/rental/fuxingzhonglu/,徐汇,复兴中路,16
+http://shanghai.anjuke.com/rental/huaihaixilu/,徐汇,淮海西路,7
+http://shanghai.anjuke.com/rental/huadongligong/,徐汇,华东理工,13
+http://shanghai.anjuke.com/rental/huajing/,徐汇,华泾,11
+http://shanghai.anjuke.com/rental/hunanlub/,徐汇,湖南路,54
+http://shanghai.anjuke.com/rental/kangjian/,徐汇,康健,27
+http://shanghai.anjuke.com/rental/longhua/,徐汇,龙华,28
+http://shanghai.anjuke.com/rental/shanghainanzhan/,徐汇,上海南站,8
+http://shanghai.anjuke.com/rental/tianlin/,徐汇,田林,30
+http://shanghai.anjuke.com/rental/wantiguan/,徐汇,万体馆,52
+http://shanghai.anjuke.com/rental/xujiahui/b2,徐汇,徐家汇#一室,33
+http://shanghai.anjuke.com/rental/xujiahui/b4,徐汇,徐家汇#二室,61
+http://shanghai.anjuke.com/rental/xujiahui/b10,徐汇,徐家汇#三室,52
+http://shanghai.anjuke.com/rental/xujiahui/b11,徐汇,徐家汇#四室,10
+http://shanghai.anjuke.com/rental/xujiahui/b12,徐汇,徐家汇#五室,3
+http://shanghai.anjuke.com/rental/xujiahui/b13,徐汇,徐家汇#五室以上,3
+http://shanghai.anjuke.com/rental/xietulu/,徐汇,斜土路,36
+http://shanghai.anjuke.com/rental/zhaojiabanglu/,徐汇,肇嘉浜路,43
+http://shanghai.anjuke.com/rental/zhiwuyuan/,徐汇,植物园,11
+
+
+长寿路 : 55
+长寿路 : 55
+长风 : 10
+长风 : 10
+曹杨 : 17
+曹杨 : 17
+长征 : 13
+长征 : 13
+光新 : 13
+光新 : 13
+甘泉宜川 : 12
+甘泉宜川 : 12
+桃浦 : 15
+桃浦 : 15
+武宁 : 33
+武宁 : 33
+万里 : 19
+万里 : 19
+中远两湾城 : 16
+中远两湾城 : 16
+真光 : 4
+真光 : 4
+真如 : 8
+真如 : 8
+http://shanghai.anjuke.com/rental/changshoulu/,普陀,长寿路,55
+http://shanghai.anjuke.com/rental/changfeng/,普陀,长风,10
+http://shanghai.anjuke.com/rental/caoyang/,普陀,曹杨,17
+http://shanghai.anjuke.com/rental/changzheng/,普陀,长征,13
+http://shanghai.anjuke.com/rental/guangxin/,普陀,光新,13
+http://shanghai.anjuke.com/rental/ganquanyichuan/,普陀,甘泉宜川,12
+http://shanghai.anjuke.com/rental/taopu/,普陀,桃浦,15
+http://shanghai.anjuke.com/rental/wuning/,普陀,武宁,33
+http://shanghai.anjuke.com/rental/wanli/,普陀,万里,19
+http://shanghai.anjuke.com/rental/zhongyuanliangwancheng/,普陀,中远两湾城,16
+http://shanghai.anjuke.com/rental/zhenguang/,普陀,真光,4
+http://shanghai.anjuke.com/rental/zhenru/,普陀,真如,8
+
+北新泾 : 50
+北新泾 : 50
+动物园 : 17
+动物园 : 17
+古北 : 57
+古北 : 57
+虹桥路 : 18
+虹桥路 : 18
+天山 : 87
+天山 : 87
+新华路 : 45
+新华路 : 45
+仙霞 : 33
+仙霞 : 33
+中山公园 : 55
+中山公园 : 55
+镇宁路 : 18
+镇宁路 : 18
+http://shanghai.anjuke.com/rental/beixinjing/,长宁,北新泾,50
+http://shanghai.anjuke.com/rental/dongwuyuan/,长宁,动物园,17
+http://shanghai.anjuke.com/rental/gubei/,长宁,古北,57
+http://shanghai.anjuke.com/rental/hongqiaolu/,长宁,虹桥路,18
+http://shanghai.anjuke.com/rental/tianshan/,长宁,天山,87
+http://shanghai.anjuke.com/rental/xinhualu/,长宁,新华路,45
+http://shanghai.anjuke.com/rental/xianxia/,长宁,仙霞,33
+http://shanghai.anjuke.com/rental/zhongshangongyuan/,长宁,中山公园,55
+http://shanghai.anjuke.com/rental/zhenninglu/,长宁,镇宁路,18
+
+曹家渡 : 38
+曹家渡 : 38
+静安寺 : 41
+静安寺 : 41
+江宁路 : 52
+江宁路 : 52
+南京西路 : 116
+南京西路#一室 : 32
+南京西路#二室 : 43
+南京西路#三室 : 30
+南京西路#四室 : 9
+南京西路#五室 : 2
+南京西路#五室以上 : 3
+南京西路#roomNumbuerTotal:119, roomNumbuerOriginCount:116
+http://shanghai.anjuke.com/rental/caojiadu/,静安,曹家渡,38
+http://shanghai.anjuke.com/rental/jingansi/,静安,静安寺,41
+http://shanghai.anjuke.com/rental/jiangninglu/,静安,江宁路,52
+http://shanghai.anjuke.com/rental/nanjingxilu/b2,静安,南京西路#一室,32
+http://shanghai.anjuke.com/rental/nanjingxilu/b4,静安,南京西路#二室,43
+http://shanghai.anjuke.com/rental/nanjingxilu/b10,静安,南京西路#三室,30
+http://shanghai.anjuke.com/rental/nanjingxilu/b11,静安,南京西路#四室,9
+http://shanghai.anjuke.com/rental/nanjingxilu/b12,静安,南京西路#五室,2
+http://shanghai.anjuke.com/rental/nanjingxilu/b13,静安,南京西路#五室以上,3
+
+董家渡 : 20
+董家渡 : 20
+黄浦滨江 : 22
+黄浦滨江 : 22
+老西门 : 32
+老西门 : 32
+南京东路 : 17
+南京东路 : 17
+蓬莱公园 : 23
+蓬莱公园 : 23
+人民广场 : 18
+人民广场 : 18
+豫园 : 15
+豫园 : 15
+http://shanghai.anjuke.com/rental/dongjiadu/,黄浦,董家渡,20
+http://shanghai.anjuke.com/rental/huangpubinjiang/,黄浦,黄浦滨江,22
+http://shanghai.anjuke.com/rental/laoximen/,黄浦,老西门,32
+http://shanghai.anjuke.com/rental/nanjingdonglu/,黄浦,南京东路,17
+http://shanghai.anjuke.com/rental/penglaigongyuan/,黄浦,蓬莱公园,23
+http://shanghai.anjuke.com/rental/renminguangchang/,黄浦,人民广场,18
+http://shanghai.anjuke.com/rental/yuyuan/,黄浦,豫园,15
+
+打浦桥 : 31
+打浦桥 : 31
+复兴公园 : 9
+复兴公园 : 9
+淮海中路 : 19
+淮海中路 : 19
+世博滨江 : 3
+世博滨江 : 3
+五里桥 : 18
+五里桥 : 18
+新天地 : http://shanghai.anjuke.com/rental/dapuqiao/,卢湾,打浦桥,31
+http://shanghai.anjuke.com/rental/fuxinggongyuan/,卢湾,复兴公园,9
+http://shanghai.anjuke.com/rental/huaihaizhonglu/,卢湾,淮海中路,19
+http://shanghai.anjuke.com/rental/shibobinjiang/,卢湾,世博滨江,3
+http://shanghai.anjuke.com/rental/wuliqiao/,卢湾,五里桥,18
+http://shanghai.anjuke.com/rental/xintiandi/,卢湾,新天地,43
+
+43
+新天地 : 43
+北外滩 : 18
+北外滩 : 18
+和平公园 : 5
+和平公园 : 5
+江湾镇 : 11
+江湾镇 : 11
+临平路 : 34
+临平路 : 34
+鲁迅公园 : 13
+鲁迅公园 : 13
+凉城 : 19
+凉城 : 19
+曲阳 : 28
+曲阳 : 28
+四川北路 : 21
+四川北路 : 21
+http://shanghai.anjuke.com/rental/beiwaitan/,虹口,北外滩,18
+http://shanghai.anjuke.com/rental/hepinggongyuan/,虹口,和平公园,5
+http://shanghai.anjuke.com/rental/jiangwanzhen/,虹口,江湾镇,11
+http://shanghai.anjuke.com/rental/linpinglu/,虹口,临平路,34
+http://shanghai.anjuke.com/rental/luxungongyuan/,虹口,鲁迅公园,13
+http://shanghai.anjuke.com/rental/liangcheng/,虹口,凉城,19
+http://shanghai.anjuke.com/rental/quyang/,虹口,曲阳,28
+http://shanghai.anjuke.com/rental/sichuanbeilu/,虹口,四川北路,21
+
+大宁绿地 : 45
+大宁绿地 : 45
+彭浦 : 19
+彭浦 : 19
+新客站 : 23
+新客站 : 23
+西藏北路 : 12
+西藏北路 : 12
+阳城永和 : 6
+阳城永和 : 6
+闸北公园 : 16
+闸北公园 : 16
+http://shanghai.anjuke.com/rental/daninglvdi/,闸北,大宁绿地,45
+http://shanghai.anjuke.com/rental/pengpu/,闸北,彭浦,19
+http://shanghai.anjuke.com/rental/xinkezhan/,闸北,新客站,23
+http://shanghai.anjuke.com/rental/xizangbeilu/,闸北,西藏北路,12
+http://shanghai.anjuke.com/rental/yangchengyonghe/,闸北,阳城永和,6
+http://shanghai.anjuke.com/rental/zhabeigongyuan/,闸北,闸北公园,16
+
+鞍山 : 2
+鞍山 : 2
+东外滩 : 8
+东外滩 : 8
+黄兴公园 : 14
+黄兴公园 : 14
+控江路 : 14
+控江路 : 14
+五角场 : 28
+五角场 : 28
+新江湾城 : 22
+新江湾城 : 22
+杨浦公园 : 3
+杨浦公园 : 3
+杨浦大桥 : 3
+杨浦大桥 : 3
+周家嘴路 : 13
+周家嘴路 : 13
+中原社区 : 13
+中原社区 : 13
+http://shanghai.anjuke.com/rental/anshan/,杨浦,鞍山,2
+http://shanghai.anjuke.com/rental/dongwaitan/,杨浦,东外滩,8
+http://shanghai.anjuke.com/rental/huangxinggongyuan/,杨浦,黄兴公园,14
+http://shanghai.anjuke.com/rental/kongjianglu/,杨浦,控江路,14
+http://shanghai.anjuke.com/rental/wujiaochang/,杨浦,五角场,28
+http://shanghai.anjuke.com/rental/xinjiangwancheng/,杨浦,新江湾城,22
+http://shanghai.anjuke.com/rental/yangpugongyuan/,杨浦,杨浦公园,3
+http://shanghai.anjuke.com/rental/yangpudaqiao/,杨浦,杨浦大桥,3
+http://shanghai.anjuke.com/rental/zhoujiazuilu/,杨浦,周家嘴路,13
+http://shanghai.anjuke.com/rental/zhongyuanshequ/,杨浦,中原社区,13
+
+大场 : 1
+大场 : 1
+大华 : 26
+大华 : 26
+东城区 : 1
+东城区 : 1
+共康 : 10
+共康 : 10
+高境 : 6
+高境 : 6
+顾村 : 7
+顾村 : 7
+共富 : 3
+共富 : 3
+罗店 : 3
+罗店 : 3
+罗泾 : 1
+罗泾 : 1
+上大 : 6
+上大 : 6
+泗塘 : 1
+泗塘 : 1
+淞南 : 4
+淞南 : 4
+淞宝 : 3
+淞宝 : 3
+通河 : 5
+通河 : 5
+月浦 : 2
+月浦 : 2
+杨行 : 3
+杨行 : 3
+张庙 : http://shanghai.anjuke.com/rental/dachang/,宝山,大场,1
+http://shanghai.anjuke.com/rental/dahua/,宝山,大华,26
+http://shanghai.anjuke.com/rental/dongchengqu/,宝山,东城区,1
+http://shanghai.anjuke.com/rental/gongkang/,宝山,共康,10
+http://shanghai.anjuke.com/rental/gaojing/,宝山,高境,6
+http://shanghai.anjuke.com/rental/gucun/,宝山,顾村,7
+http://shanghai.anjuke.com/rental/gongfu/,宝山,共富,3
+http://shanghai.anjuke.com/rental/luodian/,宝山,罗店,3
+http://shanghai.anjuke.com/rental/luojing/,宝山,罗泾,1
+http://shanghai.anjuke.com/rental/shangda/,宝山,上大,6
+http://shanghai.anjuke.com/rental/sitang/,宝山,泗塘,1
+http://shanghai.anjuke.com/rental/songnan/,宝山,淞南,4
+http://shanghai.anjuke.com/rental/songbao/,宝山,淞宝,3
+http://shanghai.anjuke.com/rental/tonghea/,宝山,通河,5
+http://shanghai.anjuke.com/rental/yuepu/,宝山,月浦,2
+http://shanghai.anjuke.com/rental/yanghang/,宝山,杨行,3
+http://shanghai.anjuke.com/rental/zhangmiao/,宝山,张庙,1
+
+1
+张庙 : 1
+九亭 : 41
+九亭 : 41
+松江新城 : 15
+松江新城 : 15
+松江城区 : 5
+松江城区 : 5
+泗泾 : 16
+泗泾 : 16
+松江老城 : 3
+松江老城 : 3
+佘山 : 1
+佘山 : 1
+松江大学城 : 15
+松江大学城 : 15
+新桥 : 1
+新桥 : 1
+莘闵 : 10
+莘闵 : 10
+小昆山 : 1
+小昆山 : 1
+http://shanghai.anjuke.com/rental/jiuting/,松江,九亭,41
+http://shanghai.anjuke.com/rental/songjiangxincheng/,松江,松江新城,15
+http://shanghai.anjuke.com/rental/songjiangchengqu/,松江,松江城区,5
+http://shanghai.anjuke.com/rental/sijing/,松江,泗泾,16
+http://shanghai.anjuke.com/rental/songjianglaocheng/,松江,松江老城,3
+http://shanghai.anjuke.com/rental/sheshan/,松江,佘山,1
+http://shanghai.anjuke.com/rental/songjiangdaxuecheng/,松江,松江大学城,15
+http://shanghai.anjuke.com/rental/xinqiao/,松江,新桥,1
+http://shanghai.anjuke.com/rental/xinmin/,松江,莘闵,10
+http://shanghai.anjuke.com/rental/xiaokunshan/,松江,小昆山,1
+
+航头 : 2
+航头 : 2
+惠南 : 6
+惠南 : 6
+康桥 : 20
+康桥 : 20
+临港新城 : 1
+临港新城 : 1
+新场 : 1
+新场 : 1
+周浦 : 10
+周浦 : 10
+祝桥 : 1
+祝桥 : 1
+http://shanghai.anjuke.com/rental/hangtou/,南汇,航头,2
+http://shanghai.anjuke.com/rental/huinan/,南汇,惠南,6
+http://shanghai.anjuke.com/rental/kangqiao/,南汇,康桥,20
+http://shanghai.anjuke.com/rental/lingangxincheng/,南汇,临港新城,1
+http://shanghai.anjuke.com/rental/xinchang/,南汇,新场,1
+http://shanghai.anjuke.com/rental/zhoupu/,南汇,周浦,10
+http://shanghai.anjuke.com/rental/zhuqiao/,南汇,祝桥,1
+
+安亭 : 4
+安亭 : 4
+丰庄 : 13
+丰庄 : 13
+嘉定城区 : 4
+嘉定城区 : 4
+江桥新城 : 17
+江桥新城 : 17
+嘉定镇 : 1
+嘉定镇 : 1
+菊园新区 : 1
+菊园新区 : 1
+南翔 : 9
+南翔 : 9
+真新 : 1
+真新 : 1
+http://shanghai.anjuke.com/rental/anting/,嘉定,安亭,4
+http://shanghai.anjuke.com/rental/fengzhuang/,嘉定,丰庄,13
+http://shanghai.anjuke.com/rental/jiadingchengqu/,嘉定,嘉定城区,4
+http://shanghai.anjuke.com/rental/jiangqiaoxincheng/,嘉定,江桥新城,17
+http://shanghai.anjuke.com/rental/jiadingzhen/,嘉定,嘉定镇,1
+http://shanghai.anjuke.com/rental/juyuanxinqua/,嘉定,菊园新区,1
+http://shanghai.anjuke.com/rental/nanxiang/,嘉定,南翔,9
+http://shanghai.anjuke.com/rental/zhenxin/,嘉定,真新,1
+
+白鹤 : 1
+白鹤 : 1
+重固 : 2
+重固 : 2
+青浦北部 : 1
+青浦北部 : 1
+青浦新城 : 3
+青浦新城 : 3
+徐泾 : 49
+徐泾 : 49
+赵巷 : 3
+赵巷 : 3
+朱家角 : http://shanghai.anjuke.com/rental/baihe/,青浦,白鹤,1
+http://shanghai.anjuke.com/rental/chonggu/,青浦,重固,2
+http://shanghai.anjuke.com/rental/qingpubeibu/,青浦,青浦北部,1
+http://shanghai.anjuke.com/rental/qingpuxincheng/,青浦,青浦新城,3
+http://shanghai.anjuke.com/rental/xujing/,青浦,徐泾,49
+http://shanghai.anjuke.com/rental/zhaoxiang/,青浦,赵巷,3
+http://shanghai.anjuke.com/rental/zhujiajiao/,青浦,朱家角,1
+
+1
+朱家角 : 1
+奉城 : 1
+奉城 : 1
+海湾旅游区 : 1
+海湾旅游区 : 1
+海湾 : 1
+海湾 : 1
+金汇 : 1
+金汇 : 1
+南桥 : 13
+南桥 : 13
+西渡 : 2
+西渡 : 2
+柘林 : 1
+柘林 : 1
+庄行 : 1
+庄行 : 1
+http://shanghai.anjuke.com/rental/fengcheng/,奉贤,奉城,1
+http://shanghai.anjuke.com/rental/haiwanlvyouqu/,奉贤,海湾旅游区,1
+http://shanghai.anjuke.com/rental/haiwana/,奉贤,海湾,1
+http://shanghai.anjuke.com/rental/jinhui/,奉贤,金汇,1
+http://shanghai.anjuke.com/rental/nanqiao/,奉贤,南桥,13
+http://shanghai.anjuke.com/rental/xidu/,奉贤,西渡,2
+http://shanghai.anjuke.com/rental/zhelin/,奉贤,柘林,1
+http://shanghai.anjuke.com/rental/zhuanghang/,奉贤,庄行,1
+
+漕泾 : 1
+漕泾 : 1
+枫泾 : 1
+枫泾 : 1
+金山中部 : 1
+金山中部 : 1
+金山新城 : 1
+金山新城 : 1
+石化 : 3
+石化 : 3
+亭林 : 1
+亭林 : 1
+朱泾 : 1
+朱泾 : 1
+http://shanghai.anjuke.com/rental/caojing/,金山,漕泾,1
+http://shanghai.anjuke.com/rental/fengjing/,金山,枫泾,1
+http://shanghai.anjuke.com/rental/jinshanzhongbu/,金山,金山中部,1
+http://shanghai.anjuke.com/rental/jinshanxincheng/,金山,金山新城,1
+http://shanghai.anjuke.com/rental/shihua/,金山,石化,3
+http://shanghai.anjuke.com/rental/tinglin/,金山,亭林,1
+http://shanghai.anjuke.com/rental/zhujing/,金山,朱泾,1
+
+堡镇 : 1
+堡镇 : 1
+崇明 : 1
+崇明 : 1
+崇明新城 : 1
+崇明新城 : 1
+陈家镇 : 1
+陈家镇 : 1
+长兴岛 : 1
+长兴岛 : 1
+崇明其他 : 1
+崇明其他 : 1
+横沙岛 : 1
+横沙岛 : 1
+http://shanghai.anjuke.com/rental/baozhen/,崇明,堡镇,1
+http://shanghai.anjuke.com/rental/chongminga/,崇明,崇明,1
+http://shanghai.anjuke.com/rental/chongmingxincheng/,崇明,崇明新城,1
+http://shanghai.anjuke.com/rental/chenjiazhen/,崇明,陈家镇,1
+http://shanghai.anjuke.com/rental/changxingdao/,崇明,长兴岛,1
+http://shanghai.anjuke.com/rental/chongmingqita/,崇明,崇明其他,1
+http://shanghai.anjuke.com/rental/hengshadao/,崇明,横沙岛,1
+
+嘉兴 : 1
+嘉兴 : 1
+昆山 : 1
+昆山 : 1
+苏州 : 1
+苏州 : 1
+http://shanghai.anjuke.com/rental/jiaxinga/,上海周边,嘉兴,1
+http://shanghai.anjuke.com/rental/kunshanc/,上海周边,昆山,1
+http://shanghai.anjuke.com/rental/suzhoub/,上海周边,苏州,1
+
+input index:0 is beyond result size:0

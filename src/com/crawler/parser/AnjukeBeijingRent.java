@@ -208,7 +208,7 @@ public class AnjukeBeijingRent {
 	 * 北京安居客，租房， 某个单个小区，比如 单个的朝阳
 	 * */
 
-	public String secondhandSubSingle(String line){
+	public String subSingle(String line){
 		//prepare data
 		String[] strArr = line.split(",");
 		String url = strArr[0];
@@ -236,7 +236,7 @@ public class AnjukeBeijingRent {
 		String[] lineArr = StringUtils.split(data, "\n");
 		StringBuffer sb = new StringBuffer();
 		for (String line : lineArr){
-			sb.append(secondhandSubSingle(line));
+			sb.append(subSingle(line));
 		}
 		FileUtil.writeStr2File(sb.toString(), ALL_SINGLE_SUB_FILE_PATH);
 	}
