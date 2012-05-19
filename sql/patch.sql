@@ -53,3 +53,6 @@ alter table url add index url_url_idx(`url`);
 alter table page add index page_iscompleted_idx(`iscompleted`);
 
 alter table url add index url_iscompleted_idx(`iscompleted`);
+
+alter table page add index page_jobid_idx(`jobid`);
+
