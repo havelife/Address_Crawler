@@ -69,6 +69,6 @@ public class BatchMgrTest {
 	 * */
 	@Test
 	public void batchCreateJobTestAnjukeShanghaiSecondhand(){
-		batchMgr.batchCreateJobAndDownload("./data/batch/Anjuke/AnjukeShanghaiSecondBatchCreateJobFile.txt");
+		batchMgr.batchCreateJobAndDownload("./data/batch/Anjuke/AnjukeShanghaiSecondhandBatchCreateJobFile.txt");
 	}
 }
