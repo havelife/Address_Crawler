@@ -25,7 +25,7 @@ public class AnjukeShanghaiXiaoqu {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		new AnjukeShanghaiXiaoqu().xiaoquSubSingle("http://shanghai.anjuke.com/community/list/pudong,浦东");  
+		new AnjukeShanghaiXiaoqu().xiaoquSubSingle("http://shanghai.anjuke.com/sale/pudong/,浦东");  
 	}
 	
 	/*
