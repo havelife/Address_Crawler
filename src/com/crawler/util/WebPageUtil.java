@@ -110,20 +110,13 @@ public class WebPageUtil {
 	
 	//for test
 	public static void main(String[] args){
-		/*
+
 		String pageContent;
-		pageContent = WebPageUtil.getPageContentByUrl("http://house.focus.cn/housemarket/house_search/index.php?page=153");
-		FileUtil.writeStr2File(pageContent, "./data/pagecontent.txt");
+		pageContent = WebPageUtil.getPageContentByUrl("http://shanghai.anjuke.com/community/pudong/yangdong");
+		//http://house.focus.cn/housemarket/house_search/index.php?page=153
+//		FileUtil.writeStr2File(pageContent, "./data/pagecontent.txt");
 		System.out.println(pageContent);
-		*/
-		try {
-		for(int i=0; i<10; i++){
-			Thread.sleep(3000);
-			System.out.println(i);
-		}
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+
+
 	}
 }

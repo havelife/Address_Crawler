@@ -11,13 +11,13 @@ import com.crawler.util.FileUtil;
 import com.crawler.util.ParserUtil;
 import com.crawler.vo.Pair;
 
-public class AnjukeBeijingSecondhand {
-	public static final String ALL_SINGLE_SUB_FILE_PATH = "./data/parser/Anjuke/AnjukeBeijingSecondhandAllSingleSub.txt";
-	public static final String SECONDHAND_WHOLE_FILE_PATH = "./data/parser/Anjuke/AnjukeBeijingSecondhandWhole.txt";
+public class AnjukeBeijingRent {
+	public static final String ALL_SINGLE_SUB_FILE_PATH = "./data/parser/Anjuke/AnjukeBeijingRentAllSingleSub.txt";
+	public static final String SECONDHAND_WHOLE_FILE_PATH = "./data/parser/Anjuke/AnjukeBeijingRentWhole.txt";
 	public static final String CITY = "北京";
-	public static final String TYPE = "安居客-二手房";
+	public static final String TYPE = "安居客-租房";
 	public static final String TYPE_SPAN = "#";
-	public static final String CREATE_BATCH_FILE_RESULT_PATH = "./data/batch/Anjuke/AnjukeBeijingSecondhandBatchCreateJobFilePrepare.txt";
+	public static final String CREATE_BATCH_FILE_RESULT_PATH = "./data/batch/Anjuke/AnjukeBeijingRentBatchCreateJobFilePrepare.txt";
 	
 	public static ArrayList<Pair> roomNumbuerArrayList = new ArrayList<Pair>();
 	public static ArrayList<Pair> houseTypeArrayList = new ArrayList<Pair>();
@@ -186,11 +186,11 @@ public class AnjukeBeijingSecondhand {
 
 	
 	/*
-	 * 北京安居客，二手房，北京总的各个地域，（朝阳 海淀 丰台 等等）
+	 * 北京安居客，租房，北京总的各个地域，（朝阳 海淀 丰台 等等）
 	 * */
 	@Test
 	public void secondhandWhole(){
-		Element elem = ParserUtil.parseUrlWithRegexAndResultIndex("http://beijing.anjuke.com/sale/", "div[id=apf_id_13_areacontainer]", 0);
+		Element elem = ParserUtil.parseUrlWithRegexAndResultIndex("http://beijing.anjuke.com/rental/", "div[id=apf_id_10_areacontainer]", 0);
 		Elements elements = ParserUtil.parseElementWithRegex(elem, "a");
 		StringBuffer sb = new StringBuffer();
 		for (Element element : elements){
@@ -205,7 +205,7 @@ public class AnjukeBeijingSecondhand {
 	}
 	
 	/*
-	 * 北京安居客，二手房， 某个单个小区，比如 单个的朝阳
+	 * 北京安居客，租房， 某个单个小区，比如 单个的朝阳
 	 * */
 
 	public String secondhandSubSingle(String line){
@@ -214,7 +214,7 @@ public class AnjukeBeijingSecondhand {
 		String url = strArr[0];
 		String district = strArr[1];
 			
-		Element elem = ParserUtil.parseUrlWithRegexAndResultIndex(url, "div[id=apf_id_13_blockcontainer]", 0);
+		Element elem = ParserUtil.parseUrlWithRegexAndResultIndex(url, "div[id=apf_id_10_blockcontainer]", 0);
 		//可能会空，像怀柔就没有
 		if (elem == null ){
 			return "";
@@ -226,7 +226,7 @@ public class AnjukeBeijingSecondhand {
 	}
 	
 	/*
-	 * 北京安居客，二手房，下面的分区块的信息，比如 朝阳下的 团结湖，燕莎等等
+	 * 北京安居客，租房，下面的分区块的信息，比如 朝阳下的 团结湖，燕莎等等
 	 * 
 	 * 这个方法是把所有的subSingle串起来的
 	 * */
@@ -251,7 +251,7 @@ public class AnjukeBeijingSecondhand {
 			String href = element.attr("href");
 			String word = element.text();
 			
-			System.out.print(word + " : ");
+			System.out.print("very outer layer: " + word + " : ");
 			int count = getCount(href);
 			System.out.println(count);
 			
@@ -407,7 +407,7 @@ public class AnjukeBeijingSecondhand {
 	}
 	
 	@Test
-	public void createBatchFileAnjukeBeijingSecondhand(){
+	public void createBatchFileAnjukeBeijingRent(){
 		//用以统计总共有多少个页面
 		int totalCount = 0;
 		String content = FileUtil.getDataFile2StrKeepReturn(ALL_SINGLE_SUB_FILE_PATH, "utf-8");
@@ -498,7 +498,7 @@ public class AnjukeBeijingSecondhand {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		new AnjukeBeijingSecondhand().createBatchFileAnjukeBeijingSecondhand();
+		new AnjukeBeijingRent().createBatchFileAnjukeBeijingRent();
 //		Element element = ParserUtil.parseUrlWithRegexAndResultIndex("http://beijing.anjuke.com/sale/sanlitun/", "div[class=current]", 0);
 	}
 }
