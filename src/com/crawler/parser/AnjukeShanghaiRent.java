@@ -11,18 +11,18 @@ import com.crawler.util.FileUtil;
 import com.crawler.util.ParserUtil;
 import com.crawler.vo.Pair;
 
-public class AnjukeShanghaiSecondhand {
+public class AnjukeShanghaiRent {
+	
 	public static final String CITY_PINYING = "Shanghai";
-	public static final String TYPE_PINYING = "Secondhand";
+	public static final String TYPE_PINYING = "Rent";
 	public static final String SITE_NAME_PINYING = "Anjuke";
 	public static final String ALL_SINGLE_SUB_FILE_PATH = "./data/parser/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "AllSingleSub.txt";
-	public static final String SECONDHAND_WHOLE_FILE_PATH = "./data/parser/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "Whole.txt";
-	public static final String CITY = "上海";
-	public static final String TYPE = "安居客-二手房";
+	public static final String WHOLE_FILE_PATH = "./data/parser/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "Whole.txt";public static final String CITY = "北京";
+	public static final String TYPE = "安居客-租房";
 	public static final String TYPE_SPAN = "#";
 	public static final String CREATE_BATCH_FILE_RESULT_PATH = "./data/batch/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "BatchCreateJobFilePrepare.txt";
-	public static final String WHOLE_URL = "http://shanghai.anjuke.com/sale/";
-	public static final String WHOLE_SELECT_REGEX = "div[id=apf_id_13_areacontainer]";
+	public static final String WHOLE_URL = "http://shanghai.anjuke.com/rental/";
+	public static final String WHOLE_SELECT_REGEX = "div[id=apf_id_10_areacontainer]";
 	
 	public static ArrayList<Pair> roomNumbuerArrayList = new ArrayList<Pair>();
 	public static ArrayList<Pair> houseTypeArrayList = new ArrayList<Pair>();
@@ -44,6 +44,7 @@ public class AnjukeShanghaiSecondhand {
 		Pair p23 = new Pair();
 		Pair p24 = new Pair();
 		Pair p25 = new Pair();
+		Pair p26 = new Pair();
 		
 		Pair p31 = new Pair();
 		Pair p32 = new Pair();
@@ -77,27 +78,27 @@ public class AnjukeShanghaiSecondhand {
 		p15.setKey("五室");
 		p16.setKey("五室以上");
 		
-		p11.setValue("b2");
-		p12.setValue("b4");
-		p13.setValue("b10");
-		p14.setValue("b11");
-		p15.setValue("b12");
-		p16.setValue("b13");
+		p11.setValue("b15");
+		p12.setValue("b17");
+		p13.setValue("b23");
+		p14.setValue("b24");
+		p15.setValue("b25");
+		p16.setValue("b26");
 		
 		//设置类型
-		p21.setKey("老公房");
+		p21.setKey("四合院");
 		p22.setKey("公寓");
-		p23.setKey("新里洋房");
+		p23.setKey("普通住宅");
 		p24.setKey("别墅");
-		p25.setKey("其它");
-
+		p25.setKey("平房");
+		p26.setKey("其它");
 		
-		p21.setValue("t5");
-		p22.setValue("t1");
-		p23.setValue("t3");
-		p24.setValue("t2");
-		p25.setValue("t4");
-
+		p21.setValue("t11");
+		p22.setValue("t7");
+		p23.setValue("t9");
+		p24.setValue("t8");
+		p25.setValue("t12");
+		p26.setValue("t10");
 		
 		//设置面积
 		p31.setKey("50平米以下");
@@ -112,16 +113,16 @@ public class AnjukeShanghaiSecondhand {
 		p30.setKey("500平米以上");
 		
 		
-		p31.setValue("a2");
-		p32.setValue("a3");
-		p33.setValue("a4");
-		p34.setValue("a5");
-		p35.setValue("a6");
-		p36.setValue("a7");
-		p37.setValue("a8");
-		p38.setValue("a9");
-		p39.setValue("a10");
-		p30.setValue("a11");
+		p31.setValue("a13");
+		p32.setValue("a14");
+		p33.setValue("a15");
+		p34.setValue("a16");
+		p35.setValue("a17");
+		p36.setValue("a18");
+		p37.setValue("a19");
+		p38.setValue("a20");
+		p39.setValue("a21");
+		p30.setValue("a22");
 		
 		//设置价格
 		p41.setKey("50万元以下");
@@ -137,17 +138,17 @@ public class AnjukeShanghaiSecondhand {
 		p51.setKey("1000万以上");
 		
 		
-		p41.setValue("m2");
-		p42.setValue("m3");
-		p43.setValue("m4");
-		p44.setValue("m5");
-		p45.setValue("m6");
-		p46.setValue("m7");
-		p47.setValue("m8");
-		p48.setValue("m9");
-		p49.setValue("m10");
-		p50.setValue("m11");
-		p51.setValue("m12");
+		p41.setValue("m14");
+		p42.setValue("m15");
+		p43.setValue("m16");
+		p44.setValue("m17");
+		p45.setValue("m18");
+		p46.setValue("m19");
+		p47.setValue("m20");
+		p48.setValue("m21");
+		p49.setValue("m22");
+		p50.setValue("m23");
+		p51.setValue("m24");
 		
 		
 		roomNumbuerArrayList.add(p11);
@@ -162,6 +163,7 @@ public class AnjukeShanghaiSecondhand {
 		houseTypeArrayList.add(p23);
 		houseTypeArrayList.add(p24);
 		houseTypeArrayList.add(p25);
+		houseTypeArrayList.add(p26);
 		
 		areaSizeArrayList.add(p31);
 		areaSizeArrayList.add(p32);
@@ -189,7 +191,7 @@ public class AnjukeShanghaiSecondhand {
 
 	
 	/*
-	 * 上海安居客，二手房，上海总的各个地域，（浦东 闵行 徐汇 等等）
+	 * 上海安居客，租房，上海总的各个地域，（浦东 闵行 徐汇 等等）
 	 * */
 	@Test
 	public void secondhandWhole(){
@@ -204,11 +206,11 @@ public class AnjukeShanghaiSecondhand {
 			sb.append(word);
 			sb.append("\n");
 		}
-		FileUtil.writeStr2File(sb.toString(), SECONDHAND_WHOLE_FILE_PATH, "utf-8");
+		FileUtil.writeStr2File(sb.toString(), WHOLE_FILE_PATH, "utf-8");
 	}
 	
 	/*
-	 * 上海安居客，二手房， 某个单个小区，比如 单个的浦东
+	 * 北京安居客，租房， 某个单个小区，比如 单个的朝阳
 	 * */
 
 	public String secondhandSubSingle(String line){
@@ -217,7 +219,7 @@ public class AnjukeShanghaiSecondhand {
 		String url = strArr[0];
 		String district = strArr[1];
 			
-		Element elem = ParserUtil.parseUrlWithRegexAndResultIndex(url, "div[id=apf_id_13_blockcontainer]", 0);
+		Element elem = ParserUtil.parseUrlWithRegexAndResultIndex(url, "div[id=apf_id_10_blockcontainer]", 0);
 		//可能会空，像怀柔就没有
 		if (elem == null ){
 			return "";
@@ -229,13 +231,13 @@ public class AnjukeShanghaiSecondhand {
 	}
 	
 	/*
-	 * 上海安居客，二手房，下面的分区块的信息，subSingle的串起来
+	 * 北京安居客，租房，下面的分区块的信息，比如 朝阳下的 团结湖，燕莎等等
 	 * 
 	 * 这个方法是把所有的subSingle串起来的
 	 * */
 	@Test
 	public void secondhandSub(){
-		String data = FileUtil.getDataFile2StrKeepReturn(SECONDHAND_WHOLE_FILE_PATH, "utf-8");
+		String data = FileUtil.getDataFile2StrKeepReturn(WHOLE_FILE_PATH, "utf-8");
 		String[] lineArr = StringUtils.split(data, "\n");
 		StringBuffer sb = new StringBuffer();
 		for (String line : lineArr){
@@ -254,38 +256,32 @@ public class AnjukeShanghaiSecondhand {
 			String href = element.attr("href");
 			String word = element.text();
 			
-			System.out.print(word + " : ");
+			System.out.print("very outer layer: " + word + " : ");
 			int count = getCount(href);
 			System.out.println(count);
 			
 			if (count > 0){
 				if (count > 100){
-					int roomNumbuerOriginCount = count, roomNumbuerTotal = 0;
 					for (Pair roomNumberPair : roomNumbuerArrayList) {
 						String url = href + roomNumberPair.getValue();
 						count = getCount(url);
-						roomNumbuerTotal += count;
 						if (count > 0){
 							if (count > 100){
-								int houseTypeOriginCount = count, houseTypeTotal = 0;
 								for (Pair houseTypePair : houseTypeArrayList) {
 									url = href + roomNumberPair.getValue() + "-" + houseTypePair.getValue();
 									count = getCount(url);
-									houseTypeTotal += count;
 									if (count > 0){
 										if (count > 100){
-											int areaSizeOriginCount = count, areaSizeTotal = 0;
 											for (Pair areaSizePair : areaSizeArrayList) {
 												url = href + areaSizePair.getValue() + "-" + roomNumberPair.getValue() + "-" + houseTypePair.getValue();
 												count = getCount(url);
-												areaSizeTotal += count;
 												if (count > 0) {
 													if (count > 100){
-														int priceRangeOriginCount = count, priceRangeTotal = 0;
+														
 														for (Pair priceRangePair : priceRangeArrayList) {
 															url = href + areaSizePair.getValue() + "-" + roomNumberPair.getValue() + "-" + priceRangePair.getValue() + "-" + houseTypePair.getValue();
 															count = getCount(url);
-															priceRangeTotal += count;
+															
 															if (count > 0){
 																//这里是指 比如 '朝阳,甘露园,一室,普通住宅,70-90平米, xxx万,1' 即六级划分才小于100
 																//组装数据
@@ -313,13 +309,8 @@ public class AnjukeShanghaiSecondhand {
 																	System.out.println(word + "#" + areaSizePair.getKey() + "#" + roomNumberPair.getKey()+ "#" + priceRangePair.getKey() + "#" + houseTypePair.getKey() + " : " + count);
 																}
 															}
-														}//end of for (Pair priceRangePair : priceRangeArrayList) 
-														if (priceRangeTotal < priceRangeOriginCount) {
-															System.err.println(roomNumberPair.getKey() + "#" + houseTypePair.getKey() + "#" + areaSizePair.getKey() + "#ERROR!!!!   " + "priceRangeTotal:" + priceRangeTotal + ", priceRangeOriginCount:" + priceRangeOriginCount);
-															return "";
-														} else {
-															System.out.println(roomNumberPair.getKey() + "#" + houseTypePair.getKey() + "#" + areaSizePair.getKey() + "#priceRangeTotal:" + priceRangeTotal + ", priceRangeOriginCount:" + priceRangeOriginCount);
 														}
+														
 													} else {
 														
 														//这里是指 比如 '朝阳,甘露园,一室,普通住宅,70-90平米,1' 即五级划分才小于100
@@ -337,12 +328,6 @@ public class AnjukeShanghaiSecondhand {
 														System.out.println(word + "#" + areaSizePair.getKey() + "#" + roomNumberPair.getKey()+ "#" + houseTypePair.getKey() + " : " + count);
 													}
 												}
-											}// end of for (Pair areaSizePair : areaSizeArrayList)
-											if (areaSizeTotal < areaSizeOriginCount) {
-												System.err.println(roomNumberPair.getKey() + "#" + houseTypePair.getKey() + "#ERROR!!!!   " + "areaSizeTotal:" + areaSizeTotal + ", areaSizeOriginCount:" + areaSizeOriginCount);
-												return "";
-											} else {
-												System.out.println(roomNumberPair.getKey() + "#" + houseTypePair.getKey() + "#areaSizeTotal:" + areaSizeTotal + ", areaSizeOriginCount:" + areaSizeOriginCount);
 											}
 										} else {
 											//这里是指 比如 '朝阳,甘露园,一室,普通住宅,14' 即四级划分才小于100
@@ -360,12 +345,6 @@ public class AnjukeShanghaiSecondhand {
 											System.out.println(word + "#" + roomNumberPair.getKey()+ "#" + houseTypePair.getKey() + " : " + count);
 										}
 									}
-								}// end of for (Pair houseTypePair : houseTypeArrayList)
-								if (houseTypeTotal < houseTypeOriginCount) {
-									System.err.println(roomNumberPair.getKey() + "#ERROR!!!!   " + "houseTypeTotal:" + houseTypeTotal + ", houseTypeOriginCount:" + houseTypeOriginCount);
-									return "";
-								} else {
-									System.out.println(roomNumberPair.getKey() + "#houseTypeTotal:" + houseTypeTotal + ", houseTypeOriginCount:" + houseTypeOriginCount);
 								}
 							} else {
 								//这里是指 比如 '朝阳,甘露园,一室,16' 即三级划分才小于100
@@ -383,12 +362,6 @@ public class AnjukeShanghaiSecondhand {
 								System.out.println(word + "#" + roomNumberPair.getKey() + " : " + count);
 							}
 						}
-					}// end of for (Pair roomNumberPair : roomNumbuerArrayList)
-					if (roomNumbuerTotal < roomNumbuerOriginCount) {
-						System.err.println(word + "#ERROR!!!!   " + "roomNumbuerTotal:" + roomNumbuerTotal + ", roomNumbuerOriginCount:" + roomNumbuerOriginCount);
-						return "";
-					} else {
-						System.out.println(word + "#roomNumbuerTotal:" + roomNumbuerTotal + ", roomNumbuerOriginCount:" + roomNumbuerOriginCount);
 					}
 				} else {
 					//这里是指 比如 '朝阳,甘露园,32' 即两级划分就小于100了
@@ -418,7 +391,6 @@ public class AnjukeShanghaiSecondhand {
 	public static int getCount(String url){
 		Element element = ParserUtil.parseUrlWithRegexAndResultIndex(url, "div[class=current]", 0);
 		if (element == null ) {
-			System.out.println("url:" + url + ", count:0");
 			return 0;
 		}
 		String html = element.html();
@@ -440,7 +412,7 @@ public class AnjukeShanghaiSecondhand {
 	}
 	
 	@Test
-	public void createBatchFileAnjukeShanghaiSecondhand(){
+	public void createBatchFileAnjukeBeijingRent(){
 		//用以统计总共有多少个页面
 		int totalCount = 0;
 		String content = FileUtil.getDataFile2StrKeepReturn(ALL_SINGLE_SUB_FILE_PATH, "utf-8");
@@ -464,14 +436,14 @@ public class AnjukeShanghaiSecondhand {
 			//CASE 2
 			//http://beijing.anjuke.com/sale/aolinpikegongyuan/b24
 			//http://beijing.anjuke.com/sale/aolinpikegongyuan/b24-p2
-			else if (prefix.indexOf("a", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("b", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("m", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("t", prefix.lastIndexOf("/")) == -1) {  
+			if (prefix.lastIndexOf("/") + 4 == prefix.length()) {
 				prefix += "-p";
 				suffix = "";
 			}
 			//CASE 3
 			//http://beijing.anjuke.com/sale/beiyuan/b17-t7
 			//http://beijing.anjuke.com/sale/beiyuan/b17-p2-t7
-			else if (prefix.indexOf("a", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("b", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("m", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("t", prefix.lastIndexOf("/")) != -1) {
+			if (prefix.lastIndexOf("/") + 5 == prefix.lastIndexOf("t")) {
 				int idx = url.lastIndexOf("-");
 				prefix = url.substring(0, idx) + "-p";
 				suffix = url.substring(idx);
@@ -479,7 +451,7 @@ public class AnjukeShanghaiSecondhand {
 			//CASE 4
 			//http://beijing.anjuke.com/sale/beiyuan/a15-b17-t9
 			//http://beijing.anjuke.com/sale/beiyuan/a15-b17-p2-t9
-			else if (prefix.indexOf("a", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("b", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("m", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("t", prefix.lastIndexOf("/")) != -1) {
+			if (prefix.lastIndexOf("/") + 9 == prefix.lastIndexOf("t")) {
 				int idx = url.lastIndexOf("-");
 				prefix = url.substring(0, idx) + "-p";
 				suffix = url.substring(idx);
@@ -487,7 +459,7 @@ public class AnjukeShanghaiSecondhand {
 			//CASE 5
 			//http://beijing.anjuke.com/sale/chaoyanggongyuan/a19-b23-m23-t7
 			//http://beijing.anjuke.com/sale/chaoyanggongyuan/a19-b23-m23-p2-t7
-			else if (prefix.indexOf("a", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("b", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("m", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("t", prefix.lastIndexOf("/")) != -1) {
+			if (prefix.lastIndexOf("/") + 13 == prefix.lastIndexOf("t")) {
 				int idx = url.lastIndexOf("-");
 				prefix = url.substring(0, idx) + "-p";
 				suffix = url.substring(idx);
@@ -531,8 +503,7 @@ public class AnjukeShanghaiSecondhand {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		new AnjukeShanghaiSecondhand().createBatchFileAnjukeShanghaiSecondhand();
-		//secondhandSubSingle("http://shanghai.anjuke.com/sale/pudong/,浦东");
+		new AnjukeShanghaiRent().createBatchFileAnjukeBeijingRent();
 //		Element element = ParserUtil.parseUrlWithRegexAndResultIndex("http://beijing.anjuke.com/sale/sanlitun/", "div[class=current]", 0);
 	}
 }
