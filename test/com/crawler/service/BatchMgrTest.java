@@ -53,4 +53,13 @@ public class BatchMgrTest {
 	public void batchCreateJobTestAnjukeBeijingRent(){
 		batchMgr.batchCreateJobAndDownload("./data/batch/Anjuke/AnjukeBeijingRentBatchCreateJobFile.txt");
 	}
+	
+	/***********************************************************/
+	/*
+	 *安居客，上海，小区
+	 * */
+	@Test
+	public void batchCreateJobTestAnjukeShanghaiXiaoqu(){
+		batchMgr.batchCreateJobAndDownload("./data/batch/Anjuke/AnjukeShanghaiXiaoquBatchCreateJobFile.txt");
+	}
 }
