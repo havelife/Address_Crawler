@@ -1,0 +1,1846 @@
+碧云 : 116
+碧云#一室 : 13
+碧云#二室 : 13
+碧云#三室 : 45
+碧云#四室 : 27
+碧云#五室 : 17
+碧云#五室以上 : 3
+北蔡 : 279
+北蔡#一室 : 37
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+北蔡#三室 : 75
+北蔡#四室 : 27
+北蔡#五室 : 13
+北蔡#五室以上 : 4
+曹路 : 106
+曹路#一室 : 18
+曹路#二室 : 65
+曹路#三室 : 22
+曹路#四室 : 2
+曹路#五室 : 1
+input index:0 is beyond result size:0
+川沙 : 251
+川沙#一室 : 29
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+川沙#三室 : 69
+川沙#四室 : 7
+川沙#五室 : 4
+川沙#五室以上 : 1
+花木 : 147
+花木#一室 : 20
+花木#二室 : 47
+花木#三室 : 56
+花木#四室 : 15
+花木#五室 : 9
+花木#五室以上 : 2
+金桥 : 1135
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+金桥#四室 : 60
+金桥#五室 : 18
+金桥#五室以上 : 4
+金杨 : 249
+金杨#一室 : 42
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+金杨#三室 : 69
+金杨#四室 : 7
+金杨#五室 : 2
+金杨#五室以上 : 1
+陆家嘴 : 469
+陆家嘴#一室 : 32
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+陆家嘴#五室 : 20
+陆家嘴#五室以上 : 6
+联洋 : 272
+联洋#一室 : 4
+联洋#二室 : 46
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+联洋#四室 : 63
+联洋#五室 : 26
+联洋#五室以上 : 9
+六里 : 52
+六里 : 52
+梅园 : 96
+梅园 : 96
+南码头 : 190
+南码头#一室 : 42
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+南码头#三室 : 35
+南码头#四室 : 5
+南码头#五室 : 2
+南码头#五室以上 : 1
+浦东外环 : 2
+浦东外环 : 2
+世纪公园 : 213
+世纪公园#一室 : 12
+世纪公园#二室 : 73
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+世纪公园#四室 : 16
+世纪公园#五室 : 6
+世纪公园#五室以上 : 4
+世博滨江 : 87
+世博滨江 : 87
+上南 : 161
+上南#一室 : 37
+上南#二室 : 100
+上南#三室 : 23
+上南#四室 : 3
+input index:0 is beyond result size:0
+上南#五室以上 : 1
+三林 : 953
+三林#一室 : 99
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+三林#四室 : 85
+三林#五室 : 20
+三林#五室以上 : 2
+塘桥 : 382
+塘桥#一室 : 61
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+塘桥#四室 : 32
+塘桥#五室 : 8
+塘桥#五室以上 : 3
+唐镇 : 83
+唐镇 : 83
+外高桥 : 242
+外高桥#一室 : 42
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+外高桥#三室 : 52
+外高桥#四室 : 10
+外高桥#五室 : 1
+外高桥#五室以上 : 1
+潍坊 : 128
+潍坊#一室 : 47
+潍坊#二室 : 71
+潍坊#三室 : 11
+潍坊#四室 : 1
+input index:0 is beyond result size:0
+潍坊#五室以上 : 1
+杨东 : 170
+杨东#一室 : 8
+杨东#二室 : 57
+杨东#三室 : 71
+杨东#四室 : 27
+杨东#五室 : 7
+杨东#五室以上 : 1
+源深 : 264
+源深#一室 : 19
+源深#二室 : 98
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+源深#四室 : 32
+源深#五室 : 6
+源深#五室以上 : 2
+洋泾 : 271
+洋泾#一室 : 29
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+洋泾#三室 : 92
+洋泾#四室 : 6
+洋泾#五室 : 2
+洋泾#五室以上 : 2
+张江 : 308
+张江#一室 : 14
+张江#二室 : 87
+张江#三室 : 69
+张江#四室 : 56
+张江#五室 : 60
+张江#五室以上 : 26
+http://shanghai.anjuke.com/sale/biyun/b15,浦东,碧云#一室,13
+http://shanghai.anjuke.com/sale/biyun/b17,浦东,碧云#二室,13
+http://shanghai.anjuke.com/sale/biyun/b23,浦东,碧云#三室,45
+http://shanghai.anjuke.com/sale/biyun/b24,浦东,碧云#四室,27
+http://shanghai.anjuke.com/sale/biyun/b25,浦东,碧云#五室,17
+http://shanghai.anjuke.com/sale/biyun/b26,浦东,碧云#五室以上,3
+http://shanghai.anjuke.com/sale/beicai/b15,浦东,北蔡#一室,37
+http://shanghai.anjuke.com/sale/beicai/b23,浦东,北蔡#三室,75
+http://shanghai.anjuke.com/sale/beicai/b24,浦东,北蔡#四室,27
+http://shanghai.anjuke.com/sale/beicai/b25,浦东,北蔡#五室,13
+http://shanghai.anjuke.com/sale/beicai/b26,浦东,北蔡#五室以上,4
+http://shanghai.anjuke.com/sale/caolu/b15,浦东,曹路#一室,18
+http://shanghai.anjuke.com/sale/caolu/b17,浦东,曹路#二室,65
+http://shanghai.anjuke.com/sale/caolu/b23,浦东,曹路#三室,22
+http://shanghai.anjuke.com/sale/caolu/b24,浦东,曹路#四室,2
+http://shanghai.anjuke.com/sale/caolu/b25,浦东,曹路#五室,1
+http://shanghai.anjuke.com/sale/chuansha/b15,浦东,川沙#一室,29
+http://shanghai.anjuke.com/sale/chuansha/b23,浦东,川沙#三室,69
+http://shanghai.anjuke.com/sale/chuansha/b24,浦东,川沙#四室,7
+http://shanghai.anjuke.com/sale/chuansha/b25,浦东,川沙#五室,4
+http://shanghai.anjuke.com/sale/chuansha/b26,浦东,川沙#五室以上,1
+http://shanghai.anjuke.com/sale/huamu/b15,浦东,花木#一室,20
+http://shanghai.anjuke.com/sale/huamu/b17,浦东,花木#二室,47
+http://shanghai.anjuke.com/sale/huamu/b23,浦东,花木#三室,56
+http://shanghai.anjuke.com/sale/huamu/b24,浦东,花木#四室,15
+http://shanghai.anjuke.com/sale/huamu/b25,浦东,花木#五室,9
+http://shanghai.anjuke.com/sale/huamu/b26,浦东,花木#五室以上,2
+http://shanghai.anjuke.com/sale/jinqiao/b24,浦东,金桥#四室,60
+http://shanghai.anjuke.com/sale/jinqiao/b25,浦东,金桥#五室,18
+http://shanghai.anjuke.com/sale/jinqiao/b26,浦东,金桥#五室以上,4
+http://shanghai.anjuke.com/sale/jinyangd/b15,浦东,金杨#一室,42
+http://shanghai.anjuke.com/sale/jinyangd/b23,浦东,金杨#三室,69
+http://shanghai.anjuke.com/sale/jinyangd/b24,浦东,金杨#四室,7
+http://shanghai.anjuke.com/sale/jinyangd/b25,浦东,金杨#五室,2
+http://shanghai.anjuke.com/sale/jinyangd/b26,浦东,金杨#五室以上,1
+http://shanghai.anjuke.com/sale/lujiazui/b15,浦东,陆家嘴#一室,32
+http://shanghai.anjuke.com/sale/lujiazui/b25,浦东,陆家嘴#五室,20
+http://shanghai.anjuke.com/sale/lujiazui/b26,浦东,陆家嘴#五室以上,6
+http://shanghai.anjuke.com/sale/lianyang/b15,浦东,联洋#一室,4
+http://shanghai.anjuke.com/sale/lianyang/b17,浦东,联洋#二室,46
+http://shanghai.anjuke.com/sale/lianyang/b24,浦东,联洋#四室,63
+http://shanghai.anjuke.com/sale/lianyang/b25,浦东,联洋#五室,26
+http://shanghai.anjuke.com/sale/lianyang/b26,浦东,联洋#五室以上,9
+http://shanghai.anjuke.com/sale/liuli/,浦东,六里,52
+http://shanghai.anjuke.com/sale/meiyuana/,浦东,梅园,96
+http://shanghai.anjuke.com/sale/nanmatou/b15,浦东,南码头#一室,42
+http://shanghai.anjuke.com/sale/nanmatou/b23,浦东,南码头#三室,35
+http://shanghai.anjuke.com/sale/nanmatou/b24,浦东,南码头#四室,5
+http://shanghai.anjuke.com/sale/nanmatou/b25,浦东,南码头#五室,2
+http://shanghai.anjuke.com/sale/nanmatou/b26,浦东,南码头#五室以上,1
+http://shanghai.anjuke.com/sale/pudongwaihuan/,浦东,浦东外环,2
+http://shanghai.anjuke.com/sale/shijigongyuan/b15,浦东,世纪公园#一室,12
+http://shanghai.anjuke.com/sale/shijigongyuan/b17,浦东,世纪公园#二室,73
+http://shanghai.anjuke.com/sale/shijigongyuan/b24,浦东,世纪公园#四室,16
+http://shanghai.anjuke.com/sale/shijigongyuan/b25,浦东,世纪公园#五室,6
+http://shanghai.anjuke.com/sale/shijigongyuan/b26,浦东,世纪公园#五室以上,4
+http://shanghai.anjuke.com/sale/shibobinjianga/,浦东,世博滨江,87
+http://shanghai.anjuke.com/sale/shangnan/b15,浦东,上南#一室,37
+http://shanghai.anjuke.com/sale/shangnan/b17,浦东,上南#二室,100
+http://shanghai.anjuke.com/sale/shangnan/b23,浦东,上南#三室,23
+http://shanghai.anjuke.com/sale/shangnan/b24,浦东,上南#四室,3
+http://shanghai.anjuke.com/sale/shangnan/b26,浦东,上南#五室以上,1
+http://shanghai.anjuke.com/sale/sanlin/b15,浦东,三林#一室,99
+http://shanghai.anjuke.com/sale/sanlin/b24,浦东,三林#四室,85
+http://shanghai.anjuke.com/sale/sanlin/b25,浦东,三林#五室,20
+http://shanghai.anjuke.com/sale/sanlin/b26,浦东,三林#五室以上,2
+http://shanghai.anjuke.com/sale/tangqiao/b15,浦东,塘桥#一室,61
+http://shanghai.anjuke.com/sale/tangqiao/b24,浦东,塘桥#四室,32
+http://shanghai.anjuke.com/sale/tangqiao/b25,浦东,塘桥#五室,8
+http://shanghai.anjuke.com/sale/tangqiao/b26,浦东,塘桥#五室以上,3
+http://shanghai.anjuke.com/sale/tangzhen/,浦东,唐镇,83
+http://shanghai.anjuke.com/sale/waigaoqiao/b15,浦东,外高桥#一室,42
+http://shanghai.anjuke.com/sale/waigaoqiao/b23,浦东,外高桥#三室,52
+http://shanghai.anjuke.com/sale/waigaoqiao/b24,浦东,外高桥#四室,10
+http://shanghai.anjuke.com/sale/waigaoqiao/b25,浦东,外高桥#五室,1
+http://shanghai.anjuke.com/sale/waigaoqiao/b26,浦东,外高桥#五室以上,1
+http://shanghai.anjuke.com/sale/weifanga/b15,浦东,潍坊#一室,47
+http://shanghai.anjuke.com/sale/weifanga/b17,浦东,潍坊#二室,71
+http://shanghai.anjuke.com/sale/weifanga/b23,浦东,潍坊#三室,11
+http://shanghai.anjuke.com/sale/weifanga/b24,浦东,潍坊#四室,1
+http://shanghai.anjuke.com/sale/weifanga/b26,浦东,潍坊#五室以上,1
+http://shanghai.anjuke.com/sale/yangdong/b15,浦东,杨东#一室,8
+http://shanghai.anjuke.com/sale/yangdong/b17,浦东,杨东#二室,57
+http://shanghai.anjuke.com/sale/yangdong/b23,浦东,杨东#三室,71
+http://shanghai.anjuke.com/sale/yangdong/b24,浦东,杨东#四室,27
+http://shanghai.anjuke.com/sale/yangdong/b25,浦东,杨东#五室,7
+http://shanghai.anjuke.com/sale/yangdong/b26,浦东,杨东#五室以上,1
+http://shanghai.anjuke.com/sale/yuanshen/b15,浦东,源深#一室,19
+http://shanghai.anjuke.com/sale/yuanshen/b17,浦东,源深#二室,98
+http://shanghai.anjuke.com/sale/yuanshen/b24,浦东,源深#四室,32
+http://shanghai.anjuke.com/sale/yuanshen/b25,浦东,源深#五室,6
+http://shanghai.anjuke.com/sale/yuanshen/b26,浦东,源深#五室以上,2
+http://shanghai.anjuke.com/sale/yangjing/b15,浦东,洋泾#一室,29
+http://shanghai.anjuke.com/sale/yangjing/b23,浦东,洋泾#三室,92
+http://shanghai.anjuke.com/sale/yangjing/b24,浦东,洋泾#四室,6
+http://shanghai.anjuke.com/sale/yangjing/b25,浦东,洋泾#五室,2
+http://shanghai.anjuke.com/sale/yangjing/b26,浦东,洋泾#五室以上,2
+http://shanghai.anjuke.com/sale/zhangjiang/b15,浦东,张江#一室,14
+http://shanghai.anjuke.com/sale/zhangjiang/b17,浦东,张江#二室,87
+http://shanghai.anjuke.com/sale/zhangjiang/b23,浦东,张江#三室,69
+http://shanghai.anjuke.com/sale/zhangjiang/b24,浦东,张江#四室,56
+http://shanghai.anjuke.com/sale/zhangjiang/b25,浦东,张江#五室,60
+http://shanghai.anjuke.com/sale/zhangjiang/b26,浦东,张江#五室以上,26
+
+春申 : 410
+春申#一室 : 36
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+春申#四室 : 32
+春申#五室 : 24
+春申#五室以上 : 4
+古美罗阳 : 673
+古美罗阳#一室 : 59
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+古美罗阳#四室 : 31
+古美罗阳#五室 : 13
+古美罗阳#五室以上 : 4
+航华 : 105
+航华#一室 : 17
+航华#二室 : 62
+航华#三室 : 25
+航华#四室 : 3
+航华#五室 : 1
+input index:0 is beyond result size:0
+华漕 : 122
+华漕#一室 : 6
+华漕#二室 : 40
+华漕#三室 : 17
+华漕#四室 : 26
+华漕#五室 : 29
+华漕#五室以上 : 6
+静安新城 : 165
+静安新城#一室 : 25
+静安新城#二室 : 83
+静安新城#三室 : 46
+静安新城#四室 : 11
+静安新城#五室 : 2
+静安新城#五室以上 : 1
+金虹桥 : 242
+金虹桥#一室 : 11
+金虹桥#二室 : 73
+金虹桥#三室 : 81
+金虹桥#四室 : 43
+金虹桥#五室 : 30
+金虹桥#五室以上 : 6
+江川路 : 256
+江川路#一室 : 31
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+江川路#三室 : 52
+江川路#四室 : 25
+江川路#五室 : 4
+江川路#五室以上 : 1
+龙柏金汇 : 432
+龙柏金汇#一室 : 39
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+龙柏金汇#四室 : 50
+龙柏金汇#五室 : 17
+龙柏金汇#五室以上 : 9
+龙茗 : input index:0 is beyond result size:0
+0
+梅陇 : 82
+梅陇 : 82
+马桥 : 34
+马桥 : 34
+浦江 : 219
+浦江#一室 : 32
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+浦江#三室 : 40
+浦江#四室 : 15
+浦江#五室 : 7
+浦江#五室以上 : 3
+七宝 : 505
+七宝#一室 : 35
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+七宝#四室 : 49
+七宝#五室 : 17
+七宝#五室以上 : 3
+吴泾 : 32
+吴泾 : 32
+莘庄 : 590
+莘庄#一室 : 51
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+莘庄#四室 : 42
+莘庄#五室 : 19
+莘庄#五室以上 : 3
+颛桥 : 347
+颛桥#一室 : 28
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+颛桥#三室 : 64
+颛桥#四室 : 83
+颛桥#五室 : 51
+颛桥#五室以上 : 16
+http://shanghai.anjuke.com/sale/chunshen/b15,闵行,春申#一室,36
+http://shanghai.anjuke.com/sale/chunshen/b24,闵行,春申#四室,32
+http://shanghai.anjuke.com/sale/chunshen/b25,闵行,春申#五室,24
+http://shanghai.anjuke.com/sale/chunshen/b26,闵行,春申#五室以上,4
+http://shanghai.anjuke.com/sale/gumeiluoyang/b15,闵行,古美罗阳#一室,59
+http://shanghai.anjuke.com/sale/gumeiluoyang/b24,闵行,古美罗阳#四室,31
+http://shanghai.anjuke.com/sale/gumeiluoyang/b25,闵行,古美罗阳#五室,13
+http://shanghai.anjuke.com/sale/gumeiluoyang/b26,闵行,古美罗阳#五室以上,4
+http://shanghai.anjuke.com/sale/hanghua/b15,闵行,航华#一室,17
+http://shanghai.anjuke.com/sale/hanghua/b17,闵行,航华#二室,62
+http://shanghai.anjuke.com/sale/hanghua/b23,闵行,航华#三室,25
+http://shanghai.anjuke.com/sale/hanghua/b24,闵行,航华#四室,3
+http://shanghai.anjuke.com/sale/hanghua/b25,闵行,航华#五室,1
+http://shanghai.anjuke.com/sale/huacao/b15,闵行,华漕#一室,6
+http://shanghai.anjuke.com/sale/huacao/b17,闵行,华漕#二室,40
+http://shanghai.anjuke.com/sale/huacao/b23,闵行,华漕#三室,17
+http://shanghai.anjuke.com/sale/huacao/b24,闵行,华漕#四室,26
+http://shanghai.anjuke.com/sale/huacao/b25,闵行,华漕#五室,29
+http://shanghai.anjuke.com/sale/huacao/b26,闵行,华漕#五室以上,6
+http://shanghai.anjuke.com/sale/jinganxincheng/b15,闵行,静安新城#一室,25
+http://shanghai.anjuke.com/sale/jinganxincheng/b17,闵行,静安新城#二室,83
+http://shanghai.anjuke.com/sale/jinganxincheng/b23,闵行,静安新城#三室,46
+http://shanghai.anjuke.com/sale/jinganxincheng/b24,闵行,静安新城#四室,11
+http://shanghai.anjuke.com/sale/jinganxincheng/b25,闵行,静安新城#五室,2
+http://shanghai.anjuke.com/sale/jinganxincheng/b26,闵行,静安新城#五室以上,1
+http://shanghai.anjuke.com/sale/jinhongqiao/b15,闵行,金虹桥#一室,11
+http://shanghai.anjuke.com/sale/jinhongqiao/b17,闵行,金虹桥#二室,73
+http://shanghai.anjuke.com/sale/jinhongqiao/b23,闵行,金虹桥#三室,81
+http://shanghai.anjuke.com/sale/jinhongqiao/b24,闵行,金虹桥#四室,43
+http://shanghai.anjuke.com/sale/jinhongqiao/b25,闵行,金虹桥#五室,30
+http://shanghai.anjuke.com/sale/jinhongqiao/b26,闵行,金虹桥#五室以上,6
+http://shanghai.anjuke.com/sale/jiangchuanlu/b15,闵行,江川路#一室,31
+http://shanghai.anjuke.com/sale/jiangchuanlu/b23,闵行,江川路#三室,52
+http://shanghai.anjuke.com/sale/jiangchuanlu/b24,闵行,江川路#四室,25
+http://shanghai.anjuke.com/sale/jiangchuanlu/b25,闵行,江川路#五室,4
+http://shanghai.anjuke.com/sale/jiangchuanlu/b26,闵行,江川路#五室以上,1
+http://shanghai.anjuke.com/sale/longbaijinhui/b15,闵行,龙柏金汇#一室,39
+http://shanghai.anjuke.com/sale/longbaijinhui/b24,闵行,龙柏金汇#四室,50
+http://shanghai.anjuke.com/sale/longbaijinhui/b25,闵行,龙柏金汇#五室,17
+http://shanghai.anjuke.com/sale/longbaijinhui/b26,闵行,龙柏金汇#五室以上,9
+http://shanghai.anjuke.com/sale/meilong/,闵行,梅陇,82
+http://shanghai.anjuke.com/sale/maqiao/,闵行,马桥,34
+http://shanghai.anjuke.com/sale/pujiang/b15,闵行,浦江#一室,32
+http://shanghai.anjuke.com/sale/pujiang/b23,闵行,浦江#三室,40
+http://shanghai.anjuke.com/sale/pujiang/b24,闵行,浦江#四室,15
+http://shanghai.anjuke.com/sale/pujiang/b25,闵行,浦江#五室,7
+http://shanghai.anjuke.com/sale/pujiang/b26,闵行,浦江#五室以上,3
+http://shanghai.anjuke.com/sale/qibao/b15,闵行,七宝#一室,35
+http://shanghai.anjuke.com/sale/qibao/b24,闵行,七宝#四室,49
+http://shanghai.anjuke.com/sale/qibao/b25,闵行,七宝#五室,17
+http://shanghai.anjuke.com/sale/qibao/b26,闵行,七宝#五室以上,3
+http://shanghai.anjuke.com/sale/wujing/,闵行,吴泾,32
+http://shanghai.anjuke.com/sale/xinzhuang/b15,闵行,莘庄#一室,51
+http://shanghai.anjuke.com/sale/xinzhuang/b24,闵行,莘庄#四室,42
+http://shanghai.anjuke.com/sale/xinzhuang/b25,闵行,莘庄#五室,19
+http://shanghai.anjuke.com/sale/xinzhuang/b26,闵行,莘庄#五室以上,3
+http://shanghai.anjuke.com/sale/zhuanqiao/b15,闵行,颛桥#一室,28
+http://shanghai.anjuke.com/sale/zhuanqiao/b23,闵行,颛桥#三室,64
+http://shanghai.anjuke.com/sale/zhuanqiao/b24,闵行,颛桥#四室,83
+http://shanghai.anjuke.com/sale/zhuanqiao/b25,闵行,颛桥#五室,51
+http://shanghai.anjuke.com/sale/zhuanqiao/b26,闵行,颛桥#五室以上,16
+
+滨江 : 180
+滨江#一室 : 8
+滨江#二室 : 25
+滨江#三室 : 35
+滨江#四室 : 81
+滨江#五室 : 31
+滨江#五室以上 : 3
+长桥 : 118
+长桥#一室 : 27
+长桥#二室 : 68
+长桥#三室 : 18
+长桥#四室 : 4
+长桥#五室 : 2
+input index:0 is beyond result size:0
+复兴中路 : 37
+复兴中路 : 37
+淮海西路 : 24
+淮海西路 : 24
+华东理工 : 148
+华东理工#一室 : 39
+华东理工#二室 : 82
+华东理工#三室 : 27
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+华泾 : 99
+华泾 : 99
+湖南路 : 129
+湖南路#一室 : 12
+湖南路#二室 : 31
+湖南路#三室 : 32
+湖南路#四室 : 18
+湖南路#五室 : 12
+湖南路#五室以上 : 27
+康健 : 297
+康健#一室 : 44
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+康健#三室 : 84
+康健#四室 : 12
+康健#五室 : 7
+康健#五室以上 : 2
+龙华 : 158
+龙华#一室 : 22
+龙华#二室 : 95
+龙华#三室 : 33
+龙华#四室 : 7
+龙华#五室 : 2
+龙华#五室以上 : 1
+上海南站 : 65
+上海南站 : 65
+田林 : 152
+田林#一室 : 26
+田林#二室 : 86
+田林#三室 : 33
+田林#四室 : 5
+田林#五室 : 2
+田林#五室以上 : 1
+万体馆 : 178
+万体馆#一室 : 24
+万体馆#二室 : 79
+万体馆#三室 : 64
+万体馆#四室 : 9
+万体馆#五室 : 3
+万体馆#五室以上 : 1
+徐家汇 : 456
+徐家汇#一室 : 43
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+徐家汇#四室 : 43
+徐家汇#五室 : 13
+徐家汇#五室以上 : 9
+斜土路 : 132
+斜土路#一室 : 28
+斜土路#二室 : 62
+斜土路#三室 : 39
+斜土路#四室 : 4
+斜土路#五室 : 1
+斜土路#五室以上 : 1
+肇嘉浜路 : 153
+肇嘉浜路#一室 : 11
+肇嘉浜路#二室 : 54
+肇嘉浜路#三室 : 59
+肇嘉浜路#四室 : 25
+肇嘉浜路#五室 : 3
+肇嘉浜路#五室以上 : 4
+植物园 : 94
+植物园 : 94
+http://shanghai.anjuke.com/sale/binjiange/b15,徐汇,滨江#一室,8
+http://shanghai.anjuke.com/sale/binjiange/b17,徐汇,滨江#二室,25
+http://shanghai.anjuke.com/sale/binjiange/b23,徐汇,滨江#三室,35
+http://shanghai.anjuke.com/sale/binjiange/b24,徐汇,滨江#四室,81
+http://shanghai.anjuke.com/sale/binjiange/b25,徐汇,滨江#五室,31
+http://shanghai.anjuke.com/sale/binjiange/b26,徐汇,滨江#五室以上,3
+http://shanghai.anjuke.com/sale/changqiao/b15,徐汇,长桥#一室,27
+http://shanghai.anjuke.com/sale/changqiao/b17,徐汇,长桥#二室,68
+http://shanghai.anjuke.com/sale/changqiao/b23,徐汇,长桥#三室,18
+http://shanghai.anjuke.com/sale/changqiao/b24,徐汇,长桥#四室,4
+http://shanghai.anjuke.com/sale/changqiao/b25,徐汇,长桥#五室,2
+http://shanghai.anjuke.com/sale/fuxingzhonglu/,徐汇,复兴中路,37
+http://shanghai.anjuke.com/sale/huaihaixilu/,徐汇,淮海西路,24
+http://shanghai.anjuke.com/sale/huadongligong/b15,徐汇,华东理工#一室,39
+http://shanghai.anjuke.com/sale/huadongligong/b17,徐汇,华东理工#二室,82
+http://shanghai.anjuke.com/sale/huadongligong/b23,徐汇,华东理工#三室,27
+http://shanghai.anjuke.com/sale/huajing/,徐汇,华泾,99
+http://shanghai.anjuke.com/sale/hunanlub/b15,徐汇,湖南路#一室,12
+http://shanghai.anjuke.com/sale/hunanlub/b17,徐汇,湖南路#二室,31
+http://shanghai.anjuke.com/sale/hunanlub/b23,徐汇,湖南路#三室,32
+http://shanghai.anjuke.com/sale/hunanlub/b24,徐汇,湖南路#四室,18
+http://shanghai.anjuke.com/sale/hunanlub/b25,徐汇,湖南路#五室,12
+http://shanghai.anjuke.com/sale/hunanlub/b26,徐汇,湖南路#五室以上,27
+http://shanghai.anjuke.com/sale/kangjian/b15,徐汇,康健#一室,44
+http://shanghai.anjuke.com/sale/kangjian/b23,徐汇,康健#三室,84
+http://shanghai.anjuke.com/sale/kangjian/b24,徐汇,康健#四室,12
+http://shanghai.anjuke.com/sale/kangjian/b25,徐汇,康健#五室,7
+http://shanghai.anjuke.com/sale/kangjian/b26,徐汇,康健#五室以上,2
+http://shanghai.anjuke.com/sale/longhua/b15,徐汇,龙华#一室,22
+http://shanghai.anjuke.com/sale/longhua/b17,徐汇,龙华#二室,95
+http://shanghai.anjuke.com/sale/longhua/b23,徐汇,龙华#三室,33
+http://shanghai.anjuke.com/sale/longhua/b24,徐汇,龙华#四室,7
+http://shanghai.anjuke.com/sale/longhua/b25,徐汇,龙华#五室,2
+http://shanghai.anjuke.com/sale/longhua/b26,徐汇,龙华#五室以上,1
+http://shanghai.anjuke.com/sale/shanghainanzhan/,徐汇,上海南站,65
+http://shanghai.anjuke.com/sale/tianlin/b15,徐汇,田林#一室,26
+http://shanghai.anjuke.com/sale/tianlin/b17,徐汇,田林#二室,86
+http://shanghai.anjuke.com/sale/tianlin/b23,徐汇,田林#三室,33
+http://shanghai.anjuke.com/sale/tianlin/b24,徐汇,田林#四室,5
+http://shanghai.anjuke.com/sale/tianlin/b25,徐汇,田林#五室,2
+http://shanghai.anjuke.com/sale/tianlin/b26,徐汇,田林#五室以上,1
+http://shanghai.anjuke.com/sale/wantiguan/b15,徐汇,万体馆#一室,24
+http://shanghai.anjuke.com/sale/wantiguan/b17,徐汇,万体馆#二室,79
+http://shanghai.anjuke.com/sale/wantiguan/b23,徐汇,万体馆#三室,64
+http://shanghai.anjuke.com/sale/wantiguan/b24,徐汇,万体馆#四室,9
+http://shanghai.anjuke.com/sale/wantiguan/b25,徐汇,万体馆#五室,3
+http://shanghai.anjuke.com/sale/wantiguan/b26,徐汇,万体馆#五室以上,1
+http://shanghai.anjuke.com/sale/xujiahui/b15,徐汇,徐家汇#一室,43
+http://shanghai.anjuke.com/sale/xujiahui/b24,徐汇,徐家汇#四室,43
+http://shanghai.anjuke.com/sale/xujiahui/b25,徐汇,徐家汇#五室,13
+http://shanghai.anjuke.com/sale/xujiahui/b26,徐汇,徐家汇#五室以上,9
+http://shanghai.anjuke.com/sale/xietulu/b15,徐汇,斜土路#一室,28
+http://shanghai.anjuke.com/sale/xietulu/b17,徐汇,斜土路#二室,62
+http://shanghai.anjuke.com/sale/xietulu/b23,徐汇,斜土路#三室,39
+http://shanghai.anjuke.com/sale/xietulu/b24,徐汇,斜土路#四室,4
+http://shanghai.anjuke.com/sale/xietulu/b25,徐汇,斜土路#五室,1
+http://shanghai.anjuke.com/sale/xietulu/b26,徐汇,斜土路#五室以上,1
+http://shanghai.anjuke.com/sale/zhaojiabanglu/b15,徐汇,肇嘉浜路#一室,11
+http://shanghai.anjuke.com/sale/zhaojiabanglu/b17,徐汇,肇嘉浜路#二室,54
+http://shanghai.anjuke.com/sale/zhaojiabanglu/b23,徐汇,肇嘉浜路#三室,59
+http://shanghai.anjuke.com/sale/zhaojiabanglu/b24,徐汇,肇嘉浜路#四室,25
+http://shanghai.anjuke.com/sale/zhaojiabanglu/b25,徐汇,肇嘉浜路#五室,3
+http://shanghai.anjuke.com/sale/zhaojiabanglu/b26,徐汇,肇嘉浜路#五室以上,4
+http://shanghai.anjuke.com/sale/zhiwuyuan/,徐汇,植物园,94
+
+长寿路 : 303
+长寿路#一室 : 31
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+长寿路#四室 : 29
+长寿路#五室 : 13
+长寿路#五室以上 : 2
+长风 : 75
+长风 : 75
+曹杨 : 216
+曹杨#一室 : 46
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+曹杨#三室 : 40
+曹杨#四室 : 4
+曹杨#五室 : 3
+曹杨#五室以上 : 1
+长征 : 181
+长征#一室 : 12
+长征#二室 : 99
+长征#三室 : 57
+长征#四室 : 9
+长征#五室 : 5
+长征#五室以上 : 1
+光新 : 119
+光新#一室 : 21
+光新#二室 : 59
+光新#三室 : 35
+光新#四室 : 4
+光新#五室 : 1
+input index:0 is beyond result size:0
+甘泉宜川 : 153
+甘泉宜川#一室 : 48
+甘泉宜川#二室 : 92
+甘泉宜川#三室 : 13
+甘泉宜川#四室 : 1
+甘泉宜川#五室 : 1
+input index:0 is beyond result size:0
+桃浦 : 182
+桃浦#一室 : 33
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+桃浦#三室 : 35
+桃浦#四室 : 6
+桃浦#五室 : 3
+桃浦#五室以上 : 1
+武宁 : 238
+武宁#一室 : 26
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+武宁#三室 : 75
+武宁#四室 : 13
+武宁#五室 : 3
+武宁#五室以上 : 2
+万里 : 211
+万里#一室 : 24
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+万里#三室 : 49
+万里#四室 : 17
+万里#五室 : 8
+万里#五室以上 : 2
+中远两湾城 : 150
+中远两湾城#一室 : 23
+中远两湾城#二室 : 65
+中远两湾城#三室 : 45
+中远两湾城#四室 : 12
+中远两湾城#五室 : 6
+中远两湾城#五室以上 : 1
+真光 : 72
+真光 : 72
+真如 : 64
+真如 : 64
+http://shanghai.anjuke.com/sale/changshoulu/b15,普陀,长寿路#一室,31
+http://shanghai.anjuke.com/sale/changshoulu/b24,普陀,长寿路#四室,29
+http://shanghai.anjuke.com/sale/changshoulu/b25,普陀,长寿路#五室,13
+http://shanghai.anjuke.com/sale/changshoulu/b26,普陀,长寿路#五室以上,2
+http://shanghai.anjuke.com/sale/changfeng/,普陀,长风,75
+http://shanghai.anjuke.com/sale/caoyang/b15,普陀,曹杨#一室,46
+http://shanghai.anjuke.com/sale/caoyang/b23,普陀,曹杨#三室,40
+http://shanghai.anjuke.com/sale/caoyang/b24,普陀,曹杨#四室,4
+http://shanghai.anjuke.com/sale/caoyang/b25,普陀,曹杨#五室,3
+http://shanghai.anjuke.com/sale/caoyang/b26,普陀,曹杨#五室以上,1
+http://shanghai.anjuke.com/sale/changzheng/b15,普陀,长征#一室,12
+http://shanghai.anjuke.com/sale/changzheng/b17,普陀,长征#二室,99
+http://shanghai.anjuke.com/sale/changzheng/b23,普陀,长征#三室,57
+http://shanghai.anjuke.com/sale/changzheng/b24,普陀,长征#四室,9
+http://shanghai.anjuke.com/sale/changzheng/b25,普陀,长征#五室,5
+http://shanghai.anjuke.com/sale/changzheng/b26,普陀,长征#五室以上,1
+http://shanghai.anjuke.com/sale/guangxin/b15,普陀,光新#一室,21
+http://shanghai.anjuke.com/sale/guangxin/b17,普陀,光新#二室,59
+http://shanghai.anjuke.com/sale/guangxin/b23,普陀,光新#三室,35
+http://shanghai.anjuke.com/sale/guangxin/b24,普陀,光新#四室,4
+http://shanghai.anjuke.com/sale/guangxin/b25,普陀,光新#五室,1
+http://shanghai.anjuke.com/sale/ganquanyichuan/b15,普陀,甘泉宜川#一室,48
+http://shanghai.anjuke.com/sale/ganquanyichuan/b17,普陀,甘泉宜川#二室,92
+http://shanghai.anjuke.com/sale/ganquanyichuan/b23,普陀,甘泉宜川#三室,13
+http://shanghai.anjuke.com/sale/ganquanyichuan/b24,普陀,甘泉宜川#四室,1
+http://shanghai.anjuke.com/sale/ganquanyichuan/b25,普陀,甘泉宜川#五室,1
+http://shanghai.anjuke.com/sale/taopu/b15,普陀,桃浦#一室,33
+http://shanghai.anjuke.com/sale/taopu/b23,普陀,桃浦#三室,35
+http://shanghai.anjuke.com/sale/taopu/b24,普陀,桃浦#四室,6
+http://shanghai.anjuke.com/sale/taopu/b25,普陀,桃浦#五室,3
+http://shanghai.anjuke.com/sale/taopu/b26,普陀,桃浦#五室以上,1
+http://shanghai.anjuke.com/sale/wuning/b15,普陀,武宁#一室,26
+http://shanghai.anjuke.com/sale/wuning/b23,普陀,武宁#三室,75
+http://shanghai.anjuke.com/sale/wuning/b24,普陀,武宁#四室,13
+http://shanghai.anjuke.com/sale/wuning/b25,普陀,武宁#五室,3
+http://shanghai.anjuke.com/sale/wuning/b26,普陀,武宁#五室以上,2
+http://shanghai.anjuke.com/sale/wanli/b15,普陀,万里#一室,24
+http://shanghai.anjuke.com/sale/wanli/b23,普陀,万里#三室,49
+http://shanghai.anjuke.com/sale/wanli/b24,普陀,万里#四室,17
+http://shanghai.anjuke.com/sale/wanli/b25,普陀,万里#五室,8
+http://shanghai.anjuke.com/sale/wanli/b26,普陀,万里#五室以上,2
+http://shanghai.anjuke.com/sale/zhongyuanliangwancheng/b15,普陀,中远两湾城#一室,23
+http://shanghai.anjuke.com/sale/zhongyuanliangwancheng/b17,普陀,中远两湾城#二室,65
+http://shanghai.anjuke.com/sale/zhongyuanliangwancheng/b23,普陀,中远两湾城#三室,45
+http://shanghai.anjuke.com/sale/zhongyuanliangwancheng/b24,普陀,中远两湾城#四室,12
+http://shanghai.anjuke.com/sale/zhongyuanliangwancheng/b25,普陀,中远两湾城#五室,6
+http://shanghai.anjuke.com/sale/zhongyuanliangwancheng/b26,普陀,中远两湾城#五室以上,1
+http://shanghai.anjuke.com/sale/zhenguang/,普陀,真光,72
+http://shanghai.anjuke.com/sale/zhenru/,普陀,真如,64
+
+北新泾 : 249
+北新泾#一室 : 44
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+北新泾#三室 : 42
+北新泾#四室 : 22
+北新泾#五室 : 10
+北新泾#五室以上 : 2
+动物园 : 88
+动物园 : 88
+古北 : 256
+古北#一室 : 19
+古北#二室 : 72
+古北#三室 : 95
+古北#四室 : 53
+古北#五室 : 17
+古北#五室以上 : 2
+虹桥路 : 58
+虹桥路 : 58
+天山 : 380
+天山#一室 : 44
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+天山#四室 : 59
+天山#五室 : 9
+天山#五室以上 : 5
+新华路 : 345
+新华路#一室 : 26
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+新华路#四室 : 66
+新华路#五室 : 15
+新华路#五室以上 : 8
+仙霞 : 113
+仙霞#一室 : 11
+仙霞#二室 : 40
+仙霞#三室 : 33
+仙霞#四室 : 26
+仙霞#五室 : 4
+仙霞#五室以上 : 1
+中山公园 : 223
+中山公园#一室 : 33
+中山公园#二室 : 89
+中山公园#三室 : 73
+中山公园#四室 : 20
+中山公园#五室 : 5
+中山公园#五室以上 : 6
+镇宁路 : 76
+镇宁路 : 76
+http://shanghai.anjuke.com/sale/beixinjing/b15,长宁,北新泾#一室,44
+http://shanghai.anjuke.com/sale/beixinjing/b23,长宁,北新泾#三室,42
+http://shanghai.anjuke.com/sale/beixinjing/b24,长宁,北新泾#四室,22
+http://shanghai.anjuke.com/sale/beixinjing/b25,长宁,北新泾#五室,10
+http://shanghai.anjuke.com/sale/beixinjing/b26,长宁,北新泾#五室以上,2
+http://shanghai.anjuke.com/sale/dongwuyuan/,长宁,动物园,88
+http://shanghai.anjuke.com/sale/gubei/b15,长宁,古北#一室,19
+http://shanghai.anjuke.com/sale/gubei/b17,长宁,古北#二室,72
+http://shanghai.anjuke.com/sale/gubei/b23,长宁,古北#三室,95
+http://shanghai.anjuke.com/sale/gubei/b24,长宁,古北#四室,53
+http://shanghai.anjuke.com/sale/gubei/b25,长宁,古北#五室,17
+http://shanghai.anjuke.com/sale/gubei/b26,长宁,古北#五室以上,2
+http://shanghai.anjuke.com/sale/hongqiaolu/,长宁,虹桥路,58
+http://shanghai.anjuke.com/sale/tianshan/b15,长宁,天山#一室,44
+http://shanghai.anjuke.com/sale/tianshan/b24,长宁,天山#四室,59
+http://shanghai.anjuke.com/sale/tianshan/b25,长宁,天山#五室,9
+http://shanghai.anjuke.com/sale/tianshan/b26,长宁,天山#五室以上,5
+http://shanghai.anjuke.com/sale/xinhualu/b15,长宁,新华路#一室,26
+http://shanghai.anjuke.com/sale/xinhualu/b24,长宁,新华路#四室,66
+http://shanghai.anjuke.com/sale/xinhualu/b25,长宁,新华路#五室,15
+http://shanghai.anjuke.com/sale/xinhualu/b26,长宁,新华路#五室以上,8
+http://shanghai.anjuke.com/sale/xianxia/b15,长宁,仙霞#一室,11
+http://shanghai.anjuke.com/sale/xianxia/b17,长宁,仙霞#二室,40
+http://shanghai.anjuke.com/sale/xianxia/b23,长宁,仙霞#三室,33
+http://shanghai.anjuke.com/sale/xianxia/b24,长宁,仙霞#四室,26
+http://shanghai.anjuke.com/sale/xianxia/b25,长宁,仙霞#五室,4
+http://shanghai.anjuke.com/sale/xianxia/b26,长宁,仙霞#五室以上,1
+http://shanghai.anjuke.com/sale/zhongshangongyuan/b15,长宁,中山公园#一室,33
+http://shanghai.anjuke.com/sale/zhongshangongyuan/b17,长宁,中山公园#二室,89
+http://shanghai.anjuke.com/sale/zhongshangongyuan/b23,长宁,中山公园#三室,73
+http://shanghai.anjuke.com/sale/zhongshangongyuan/b24,长宁,中山公园#四室,20
+http://shanghai.anjuke.com/sale/zhongshangongyuan/b25,长宁,中山公园#五室,5
+http://shanghai.anjuke.com/sale/zhongshangongyuan/b26,长宁,中山公园#五室以上,6
+http://shanghai.anjuke.com/sale/zhenninglu/,长宁,镇宁路,76
+
+曹家渡 : 180
+曹家渡#一室 : 33
+曹家渡#二室 : 84
+曹家渡#三室 : 49
+曹家渡#四室 : 10
+曹家渡#五室 : 3
+曹家渡#五室以上 : 3
+静安寺 : 136
+静安寺#一室 : 32
+静安寺#二室 : 48
+静安寺#三室 : 31
+静安寺#四室 : 11
+静安寺#五室 : 9
+静安寺#五室以上 : 8
+江宁路 : 183
+江宁路#一室 : 32
+江宁路#二室 : 100
+江宁路#三室 : 41
+江宁路#四室 : 9
+江宁路#五室 : 3
+江宁路#五室以上 : 2
+南京西路 : 326
+南京西路#一室 : 42
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+南京西路#三室 : 100
+南京西路#四室 : 57
+南京西路#五室 : 17
+http://shanghai.anjuke.com/sale/caojiadu/b15,静安,曹家渡#一室,33
+http://shanghai.anjuke.com/sale/caojiadu/b17,静安,曹家渡#二室,84
+http://shanghai.anjuke.com/sale/caojiadu/b23,静安,曹家渡#三室,49
+http://shanghai.anjuke.com/sale/caojiadu/b24,静安,曹家渡#四室,10
+http://shanghai.anjuke.com/sale/caojiadu/b25,静安,曹家渡#五室,3
+http://shanghai.anjuke.com/sale/caojiadu/b26,静安,曹家渡#五室以上,3
+http://shanghai.anjuke.com/sale/jingansi/b15,静安,静安寺#一室,32
+http://shanghai.anjuke.com/sale/jingansi/b17,静安,静安寺#二室,48
+http://shanghai.anjuke.com/sale/jingansi/b23,静安,静安寺#三室,31
+http://shanghai.anjuke.com/sale/jingansi/b24,静安,静安寺#四室,11
+http://shanghai.anjuke.com/sale/jingansi/b25,静安,静安寺#五室,9
+http://shanghai.anjuke.com/sale/jingansi/b26,静安,静安寺#五室以上,8
+http://shanghai.anjuke.com/sale/jiangninglu/b15,静安,江宁路#一室,32
+http://shanghai.anjuke.com/sale/jiangninglu/b17,静安,江宁路#二室,100
+http://shanghai.anjuke.com/sale/jiangninglu/b23,静安,江宁路#三室,41
+http://shanghai.anjuke.com/sale/jiangninglu/b24,静安,江宁路#四室,9
+http://shanghai.anjuke.com/sale/jiangninglu/b25,静安,江宁路#五室,3
+http://shanghai.anjuke.com/sale/jiangninglu/b26,静安,江宁路#五室以上,2
+http://shanghai.anjuke.com/sale/nanjingxilu/b15,静安,南京西路#一室,42
+http://shanghai.anjuke.com/sale/nanjingxilu/b23,静安,南京西路#三室,100
+http://shanghai.anjuke.com/sale/nanjingxilu/b24,静安,南京西路#四室,57
+http://shanghai.anjuke.com/sale/nanjingxilu/b25,静安,南京西路#五室,17
+http://shanghai.anjuke.com/sale/nanjingxilu/b26,静安,南京西路#五室以上,8
+
+南京西路#五室以上 : 8
+董家渡 : 120
+董家渡#一室 : 22
+董家渡#二室 : 43
+董家渡#三室 : 30
+董家渡#四室 : 21
+董家渡#五室 : 5
+董家渡#五室以上 : 2
+黄浦滨江 : 127
+黄浦滨江#一室 : 6
+黄浦滨江#二室 : 29
+黄浦滨江#三室 : 43
+黄浦滨江#四室 : 42
+黄浦滨江#五室 : 8
+黄浦滨江#五室以上 : 3
+老西门 : 126
+老西门#一室 : 6
+老西门#二室 : 43
+老西门#三室 : 58
+老西门#四室 : 17
+老西门#五室 : 3
+老西门#五室以上 : 1
+南京东路 : 27
+南京东路 : 27
+蓬莱公园 : 165
+蓬莱公园#一室 : 20
+蓬莱公园#二室 : 80
+蓬莱公园#三室 : 61
+蓬莱公园#四室 : 4
+蓬莱公园#五室 : 1
+input index:0 is beyond result size:0
+人民广场 : 38
+人民广场 : 38
+豫园 : http://shanghai.anjuke.com/sale/dongjiadu/b15,黄浦,董家渡#一室,22
+http://shanghai.anjuke.com/sale/dongjiadu/b17,黄浦,董家渡#二室,43
+http://shanghai.anjuke.com/sale/dongjiadu/b23,黄浦,董家渡#三室,30
+http://shanghai.anjuke.com/sale/dongjiadu/b24,黄浦,董家渡#四室,21
+http://shanghai.anjuke.com/sale/dongjiadu/b25,黄浦,董家渡#五室,5
+http://shanghai.anjuke.com/sale/dongjiadu/b26,黄浦,董家渡#五室以上,2
+http://shanghai.anjuke.com/sale/huangpubinjiang/b15,黄浦,黄浦滨江#一室,6
+http://shanghai.anjuke.com/sale/huangpubinjiang/b17,黄浦,黄浦滨江#二室,29
+http://shanghai.anjuke.com/sale/huangpubinjiang/b23,黄浦,黄浦滨江#三室,43
+http://shanghai.anjuke.com/sale/huangpubinjiang/b24,黄浦,黄浦滨江#四室,42
+http://shanghai.anjuke.com/sale/huangpubinjiang/b25,黄浦,黄浦滨江#五室,8
+http://shanghai.anjuke.com/sale/huangpubinjiang/b26,黄浦,黄浦滨江#五室以上,3
+http://shanghai.anjuke.com/sale/laoximen/b15,黄浦,老西门#一室,6
+http://shanghai.anjuke.com/sale/laoximen/b17,黄浦,老西门#二室,43
+http://shanghai.anjuke.com/sale/laoximen/b23,黄浦,老西门#三室,58
+http://shanghai.anjuke.com/sale/laoximen/b24,黄浦,老西门#四室,17
+http://shanghai.anjuke.com/sale/laoximen/b25,黄浦,老西门#五室,3
+http://shanghai.anjuke.com/sale/laoximen/b26,黄浦,老西门#五室以上,1
+http://shanghai.anjuke.com/sale/nanjingdonglu/,黄浦,南京东路,27
+http://shanghai.anjuke.com/sale/penglaigongyuan/b15,黄浦,蓬莱公园#一室,20
+http://shanghai.anjuke.com/sale/penglaigongyuan/b17,黄浦,蓬莱公园#二室,80
+http://shanghai.anjuke.com/sale/penglaigongyuan/b23,黄浦,蓬莱公园#三室,61
+http://shanghai.anjuke.com/sale/penglaigongyuan/b24,黄浦,蓬莱公园#四室,4
+http://shanghai.anjuke.com/sale/penglaigongyuan/b25,黄浦,蓬莱公园#五室,1
+http://shanghai.anjuke.com/sale/renminguangchang/,黄浦,人民广场,38
+http://shanghai.anjuke.com/sale/yuyuan/,黄浦,豫园,63
+
+63
+豫园 : 63
+打浦桥 : 163
+打浦桥#一室 : 22
+打浦桥#二室 : 73
+打浦桥#三室 : 51
+打浦桥#四室 : 14
+打浦桥#五室 : 4
+打浦桥#五室以上 : 1
+复兴公园 : 29
+复兴公园 : 29
+淮海中路 : 48
+淮海中路 : 48
+世博滨江 : 16
+世博滨江 : 16
+五里桥 : 100
+五里桥 : 100
+新天地 : 117
+新天地#一室 : 7
+新天地#二室 : 30
+新天地#三室 : 41
+新天地#四室 : 33
+新天地#五室 : 6
+http://shanghai.anjuke.com/sale/dapuqiao/b15,卢湾,打浦桥#一室,22
+http://shanghai.anjuke.com/sale/dapuqiao/b17,卢湾,打浦桥#二室,73
+http://shanghai.anjuke.com/sale/dapuqiao/b23,卢湾,打浦桥#三室,51
+http://shanghai.anjuke.com/sale/dapuqiao/b24,卢湾,打浦桥#四室,14
+http://shanghai.anjuke.com/sale/dapuqiao/b25,卢湾,打浦桥#五室,4
+http://shanghai.anjuke.com/sale/dapuqiao/b26,卢湾,打浦桥#五室以上,1
+http://shanghai.anjuke.com/sale/fuxinggongyuan/,卢湾,复兴公园,29
+http://shanghai.anjuke.com/sale/huaihaizhonglu/,卢湾,淮海中路,48
+http://shanghai.anjuke.com/sale/shibobinjiang/,卢湾,世博滨江,16
+http://shanghai.anjuke.com/sale/wuliqiao/,卢湾,五里桥,100
+http://shanghai.anjuke.com/sale/xintiandi/b15,卢湾,新天地#一室,7
+http://shanghai.anjuke.com/sale/xintiandi/b17,卢湾,新天地#二室,30
+http://shanghai.anjuke.com/sale/xintiandi/b23,卢湾,新天地#三室,41
+http://shanghai.anjuke.com/sale/xintiandi/b24,卢湾,新天地#四室,33
+http://shanghai.anjuke.com/sale/xintiandi/b25,卢湾,新天地#五室,6
+http://shanghai.anjuke.com/sale/xintiandi/b26,卢湾,新天地#五室以上,2
+
+新天地#五室以上 : 2
+北外滩 : 92
+北外滩 : 92
+和平公园 : 33
+和平公园 : 33
+江湾镇 : 82
+江湾镇 : 82
+临平路 : 136
+临平路#一室 : 9
+临平路#二室 : 76
+临平路#三室 : 43
+临平路#四室 : 9
+临平路#五室 : 2
+临平路#五室以上 : 1
+鲁迅公园 : 91
+鲁迅公园 : 91
+凉城 : 155
+凉城#一室 : 24
+凉城#二室 : 97
+凉城#三室 : 32
+凉城#四室 : 3
+凉城#五室 : 1
+凉城#五室以上 : 1
+曲阳 : 151
+曲阳#一室 : 37
+曲阳#二室 : 84
+曲阳#三室 : 27
+曲阳#四室 : 2
+曲阳#五室 : 1
+曲阳#五室以上 : 1
+四川北路 : 64
+四川北路 : 64
+http://shanghai.anjuke.com/sale/beiwaitan/,虹口,北外滩,92
+http://shanghai.anjuke.com/sale/hepinggongyuan/,虹口,和平公园,33
+http://shanghai.anjuke.com/sale/jiangwanzhen/,虹口,江湾镇,82
+http://shanghai.anjuke.com/sale/linpinglu/b15,虹口,临平路#一室,9
+http://shanghai.anjuke.com/sale/linpinglu/b17,虹口,临平路#二室,76
+http://shanghai.anjuke.com/sale/linpinglu/b23,虹口,临平路#三室,43
+http://shanghai.anjuke.com/sale/linpinglu/b24,虹口,临平路#四室,9
+http://shanghai.anjuke.com/sale/linpinglu/b25,虹口,临平路#五室,2
+http://shanghai.anjuke.com/sale/linpinglu/b26,虹口,临平路#五室以上,1
+http://shanghai.anjuke.com/sale/luxungongyuan/,虹口,鲁迅公园,91
+http://shanghai.anjuke.com/sale/liangcheng/b15,虹口,凉城#一室,24
+http://shanghai.anjuke.com/sale/liangcheng/b17,虹口,凉城#二室,97
+http://shanghai.anjuke.com/sale/liangcheng/b23,虹口,凉城#三室,32
+http://shanghai.anjuke.com/sale/liangcheng/b24,虹口,凉城#四室,3
+http://shanghai.anjuke.com/sale/liangcheng/b25,虹口,凉城#五室,1
+http://shanghai.anjuke.com/sale/liangcheng/b26,虹口,凉城#五室以上,1
+http://shanghai.anjuke.com/sale/quyang/b15,虹口,曲阳#一室,37
+http://shanghai.anjuke.com/sale/quyang/b17,虹口,曲阳#二室,84
+http://shanghai.anjuke.com/sale/quyang/b23,虹口,曲阳#三室,27
+http://shanghai.anjuke.com/sale/quyang/b24,虹口,曲阳#四室,2
+http://shanghai.anjuke.com/sale/quyang/b25,虹口,曲阳#五室,1
+http://shanghai.anjuke.com/sale/quyang/b26,虹口,曲阳#五室以上,1
+http://shanghai.anjuke.com/sale/sichuanbeilu/,虹口,四川北路,64
+
+大宁绿地 : 203
+大宁绿地#一室 : 25
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+大宁绿地#三室 : 61
+大宁绿地#四室 : 6
+大宁绿地#五室 : 2
+大宁绿地#五室以上 : 1
+彭浦 : 230
+彭浦#一室 : 68
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+彭浦#三室 : 25
+彭浦#四室 : 3
+彭浦#五室 : 3
+彭浦#五室以上 : 1
+新客站 : 145
+新客站#一室 : 24
+新客站#二室 : 71
+新客站#三室 : 46
+新客站#四室 : 6
+新客站#五室 : 1
+input index:0 is beyond result size:0
+西藏北路 : 71
+西藏北路 : 71
+阳城永和 : 70
+阳城永和 : 70
+闸北公园 : 95
+闸北公园 : 95
+http://shanghai.anjuke.com/sale/daninglvdi/b15,闸北,大宁绿地#一室,25
+http://shanghai.anjuke.com/sale/daninglvdi/b23,闸北,大宁绿地#三室,61
+http://shanghai.anjuke.com/sale/daninglvdi/b24,闸北,大宁绿地#四室,6
+http://shanghai.anjuke.com/sale/daninglvdi/b25,闸北,大宁绿地#五室,2
+http://shanghai.anjuke.com/sale/daninglvdi/b26,闸北,大宁绿地#五室以上,1
+http://shanghai.anjuke.com/sale/pengpu/b15,闸北,彭浦#一室,68
+http://shanghai.anjuke.com/sale/pengpu/b23,闸北,彭浦#三室,25
+http://shanghai.anjuke.com/sale/pengpu/b24,闸北,彭浦#四室,3
+http://shanghai.anjuke.com/sale/pengpu/b25,闸北,彭浦#五室,3
+http://shanghai.anjuke.com/sale/pengpu/b26,闸北,彭浦#五室以上,1
+http://shanghai.anjuke.com/sale/xinkezhan/b15,闸北,新客站#一室,24
+http://shanghai.anjuke.com/sale/xinkezhan/b17,闸北,新客站#二室,71
+http://shanghai.anjuke.com/sale/xinkezhan/b23,闸北,新客站#三室,46
+http://shanghai.anjuke.com/sale/xinkezhan/b24,闸北,新客站#四室,6
+http://shanghai.anjuke.com/sale/xinkezhan/b25,闸北,新客站#五室,1
+http://shanghai.anjuke.com/sale/xizangbeilu/,闸北,西藏北路,71
+http://shanghai.anjuke.com/sale/yangchengyonghe/,闸北,阳城永和,70
+http://shanghai.anjuke.com/sale/zhabeigongyuan/,闸北,闸北公园,95
+
+鞍山 : 12
+鞍山 : 12
+东外滩 : 74
+东外滩 : 74
+黄兴公园 : 132
+黄兴公园#一室 : 22
+黄兴公园#二室 : 73
+黄兴公园#三室 : 34
+黄兴公园#四室 : 3
+黄兴公园#五室 : 2
+input index:0 is beyond result size:0
+控江路 : 142
+控江路#一室 : 28
+控江路#二室 : 76
+控江路#三室 : 37
+控江路#四室 : 2
+控江路#五室 : 1
+控江路#五室以上 : 1
+五角场 : 153
+五角场#一室 : 24
+五角场#二室 : 74
+五角场#三室 : 45
+五角场#四室 : 7
+五角场#五室 : 4
+五角场#五室以上 : 1
+新江湾城 : 222
+新江湾城#一室 : 10
+新江湾城#二室 : 72
+新江湾城#三室 : 87
+新江湾城#四室 : 37
+新江湾城#五室 : 17
+新江湾城#五室以上 : 2
+杨浦公园 : 38
+杨浦公园 : 38
+杨浦大桥 : 45
+杨浦大桥 : 45
+周家嘴路 : 163
+周家嘴路#一室 : 11
+周家嘴路#二室 : 92
+周家嘴路#三室 : 55
+周家嘴路#四室 : 6
+周家嘴路#五室 : 1
+周家嘴路#五室以上 : 1
+中原社区 : 168
+中原社区#一室 : 52
+中原社区#二室 : 95
+中原社区#三室 : 19
+中原社区#四室 : 3
+中原社区#五室 : 1
+中原社区#五室以上 : 1
+http://shanghai.anjuke.com/sale/anshan/,杨浦,鞍山,12
+http://shanghai.anjuke.com/sale/dongwaitan/,杨浦,东外滩,74
+http://shanghai.anjuke.com/sale/huangxinggongyuan/b15,杨浦,黄兴公园#一室,22
+http://shanghai.anjuke.com/sale/huangxinggongyuan/b17,杨浦,黄兴公园#二室,73
+http://shanghai.anjuke.com/sale/huangxinggongyuan/b23,杨浦,黄兴公园#三室,34
+http://shanghai.anjuke.com/sale/huangxinggongyuan/b24,杨浦,黄兴公园#四室,3
+http://shanghai.anjuke.com/sale/huangxinggongyuan/b25,杨浦,黄兴公园#五室,2
+http://shanghai.anjuke.com/sale/kongjianglu/b15,杨浦,控江路#一室,28
+http://shanghai.anjuke.com/sale/kongjianglu/b17,杨浦,控江路#二室,76
+http://shanghai.anjuke.com/sale/kongjianglu/b23,杨浦,控江路#三室,37
+http://shanghai.anjuke.com/sale/kongjianglu/b24,杨浦,控江路#四室,2
+http://shanghai.anjuke.com/sale/kongjianglu/b25,杨浦,控江路#五室,1
+http://shanghai.anjuke.com/sale/kongjianglu/b26,杨浦,控江路#五室以上,1
+http://shanghai.anjuke.com/sale/wujiaochang/b15,杨浦,五角场#一室,24
+http://shanghai.anjuke.com/sale/wujiaochang/b17,杨浦,五角场#二室,74
+http://shanghai.anjuke.com/sale/wujiaochang/b23,杨浦,五角场#三室,45
+http://shanghai.anjuke.com/sale/wujiaochang/b24,杨浦,五角场#四室,7
+http://shanghai.anjuke.com/sale/wujiaochang/b25,杨浦,五角场#五室,4
+http://shanghai.anjuke.com/sale/wujiaochang/b26,杨浦,五角场#五室以上,1
+http://shanghai.anjuke.com/sale/xinjiangwancheng/b15,杨浦,新江湾城#一室,10
+http://shanghai.anjuke.com/sale/xinjiangwancheng/b17,杨浦,新江湾城#二室,72
+http://shanghai.anjuke.com/sale/xinjiangwancheng/b23,杨浦,新江湾城#三室,87
+http://shanghai.anjuke.com/sale/xinjiangwancheng/b24,杨浦,新江湾城#四室,37
+http://shanghai.anjuke.com/sale/xinjiangwancheng/b25,杨浦,新江湾城#五室,17
+http://shanghai.anjuke.com/sale/xinjiangwancheng/b26,杨浦,新江湾城#五室以上,2
+http://shanghai.anjuke.com/sale/yangpugongyuan/,杨浦,杨浦公园,38
+http://shanghai.anjuke.com/sale/yangpudaqiao/,杨浦,杨浦大桥,45
+http://shanghai.anjuke.com/sale/zhoujiazuilu/b15,杨浦,周家嘴路#一室,11
+http://shanghai.anjuke.com/sale/zhoujiazuilu/b17,杨浦,周家嘴路#二室,92
+http://shanghai.anjuke.com/sale/zhoujiazuilu/b23,杨浦,周家嘴路#三室,55
+http://shanghai.anjuke.com/sale/zhoujiazuilu/b24,杨浦,周家嘴路#四室,6
+http://shanghai.anjuke.com/sale/zhoujiazuilu/b25,杨浦,周家嘴路#五室,1
+http://shanghai.anjuke.com/sale/zhoujiazuilu/b26,杨浦,周家嘴路#五室以上,1
+http://shanghai.anjuke.com/sale/zhongyuanshequ/b15,杨浦,中原社区#一室,52
+http://shanghai.anjuke.com/sale/zhongyuanshequ/b17,杨浦,中原社区#二室,95
+http://shanghai.anjuke.com/sale/zhongyuanshequ/b23,杨浦,中原社区#三室,19
+http://shanghai.anjuke.com/sale/zhongyuanshequ/b24,杨浦,中原社区#四室,3
+http://shanghai.anjuke.com/sale/zhongyuanshequ/b25,杨浦,中原社区#五室,1
+http://shanghai.anjuke.com/sale/zhongyuanshequ/b26,杨浦,中原社区#五室以上,1
+
+大场 : 6
+大场 : 6
+大华 : 395
+大华#一室 : 44
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+大华#三室 : 100
+大华#四室 : 33
+大华#五室 : 12
+大华#五室以上 : 2
+东城区 : 1
+东城区 : 1
+共康 : 141
+共康#一室 : 25
+共康#二室 : 83
+共康#三室 : 31
+共康#四室 : 2
+共康#五室 : 1
+共康#五室以上 : 1
+高境 : 89
+高境 : 89
+顾村 : 322
+顾村#一室 : 52
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+顾村#三室 : 58
+顾村#四室 : 17
+顾村#五室 : 9
+顾村#五室以上 : 2
+共富 : 75
+共富 : 75
+罗店 : 82
+罗店 : 82
+罗泾 : 9
+罗泾 : 9
+上大 : 175
+上大#一室 : 21
+上大#二室 : 82
+上大#三室 : 48
+上大#四室 : 19
+上大#五室 : 5
+上大#五室以上 : 2
+泗塘 : 23
+泗塘 : 23
+淞南 : 121
+淞南#一室 : 22
+淞南#二室 : 69
+淞南#三室 : 27
+淞南#四室 : 3
+淞南#五室 : 1
+淞南#五室以上 : 1
+淞宝 : 84
+淞宝 : 84
+通河 : 97
+通河 : 97
+月浦 : 93
+月浦 : 93
+杨行 : 105
+杨行#一室 : 5
+杨行#二室 : 53
+杨行#三室 : 32
+杨行#四室 : 10
+杨行#五室 : 7
+杨行#五室以上 : 1
+张庙 : http://shanghai.anjuke.com/sale/dachang/,宝山,大场,6
+http://shanghai.anjuke.com/sale/dahua/b15,宝山,大华#一室,44
+http://shanghai.anjuke.com/sale/dahua/b23,宝山,大华#三室,100
+http://shanghai.anjuke.com/sale/dahua/b24,宝山,大华#四室,33
+http://shanghai.anjuke.com/sale/dahua/b25,宝山,大华#五室,12
+http://shanghai.anjuke.com/sale/dahua/b26,宝山,大华#五室以上,2
+http://shanghai.anjuke.com/sale/dongchengqu/,宝山,东城区,1
+http://shanghai.anjuke.com/sale/gongkang/b15,宝山,共康#一室,25
+http://shanghai.anjuke.com/sale/gongkang/b17,宝山,共康#二室,83
+http://shanghai.anjuke.com/sale/gongkang/b23,宝山,共康#三室,31
+http://shanghai.anjuke.com/sale/gongkang/b24,宝山,共康#四室,2
+http://shanghai.anjuke.com/sale/gongkang/b25,宝山,共康#五室,1
+http://shanghai.anjuke.com/sale/gongkang/b26,宝山,共康#五室以上,1
+http://shanghai.anjuke.com/sale/gaojing/,宝山,高境,89
+http://shanghai.anjuke.com/sale/gucun/b15,宝山,顾村#一室,52
+http://shanghai.anjuke.com/sale/gucun/b23,宝山,顾村#三室,58
+http://shanghai.anjuke.com/sale/gucun/b24,宝山,顾村#四室,17
+http://shanghai.anjuke.com/sale/gucun/b25,宝山,顾村#五室,9
+http://shanghai.anjuke.com/sale/gucun/b26,宝山,顾村#五室以上,2
+http://shanghai.anjuke.com/sale/gongfu/,宝山,共富,75
+http://shanghai.anjuke.com/sale/luodian/,宝山,罗店,82
+http://shanghai.anjuke.com/sale/luojing/,宝山,罗泾,9
+http://shanghai.anjuke.com/sale/shangda/b15,宝山,上大#一室,21
+http://shanghai.anjuke.com/sale/shangda/b17,宝山,上大#二室,82
+http://shanghai.anjuke.com/sale/shangda/b23,宝山,上大#三室,48
+http://shanghai.anjuke.com/sale/shangda/b24,宝山,上大#四室,19
+http://shanghai.anjuke.com/sale/shangda/b25,宝山,上大#五室,5
+http://shanghai.anjuke.com/sale/shangda/b26,宝山,上大#五室以上,2
+http://shanghai.anjuke.com/sale/sitang/,宝山,泗塘,23
+http://shanghai.anjuke.com/sale/songnan/b15,宝山,淞南#一室,22
+http://shanghai.anjuke.com/sale/songnan/b17,宝山,淞南#二室,69
+http://shanghai.anjuke.com/sale/songnan/b23,宝山,淞南#三室,27
+http://shanghai.anjuke.com/sale/songnan/b24,宝山,淞南#四室,3
+http://shanghai.anjuke.com/sale/songnan/b25,宝山,淞南#五室,1
+http://shanghai.anjuke.com/sale/songnan/b26,宝山,淞南#五室以上,1
+http://shanghai.anjuke.com/sale/songbao/,宝山,淞宝,84
+http://shanghai.anjuke.com/sale/tonghea/,宝山,通河,97
+http://shanghai.anjuke.com/sale/yuepu/,宝山,月浦,93
+http://shanghai.anjuke.com/sale/yanghang/b15,宝山,杨行#一室,5
+http://shanghai.anjuke.com/sale/yanghang/b17,宝山,杨行#二室,53
+http://shanghai.anjuke.com/sale/yanghang/b23,宝山,杨行#三室,32
+http://shanghai.anjuke.com/sale/yanghang/b24,宝山,杨行#四室,10
+http://shanghai.anjuke.com/sale/yanghang/b25,宝山,杨行#五室,7
+http://shanghai.anjuke.com/sale/yanghang/b26,宝山,杨行#五室以上,1
+http://shanghai.anjuke.com/sale/zhangmiao/,宝山,张庙,7
+
+7
+张庙 : 7
+九亭 : 659
+九亭#一室 : 46
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+九亭#四室 : 94
+九亭#五室 : 41
+九亭#五室以上 : 4
+松江新城 : 270
+松江新城#一室 : 10
+松江新城#二室 : 69
+松江新城#三室 : 88
+松江新城#四室 : 72
+松江新城#五室 : 28
+松江新城#五室以上 : 5
+松江城区 : 66
+松江城区 : 66
+泗泾 : 278
+泗泾#一室 : 15
+泗泾#二室 : 76
+泗泾#三室 : 47
+泗泾#四室 : 70
+泗泾#五室 : 63
+泗泾#五室以上 : 9
+松江老城 : 40
+松江老城 : 40
+佘山 : 111
+佘山#一室 : 1
+佘山#二室 : 1
+佘山#三室 : 2
+佘山#四室 : 33
+佘山#五室 : 50
+佘山#五室以上 : 28
+松江大学城 : 212
+松江大学城#一室 : 33
+松江大学城#二室 : 84
+松江大学城#三室 : 65
+松江大学城#四室 : 24
+松江大学城#五室 : 6
+松江大学城#五室以上 : 3
+新桥 : 67
+新桥 : 67
+莘闵 : 320
+莘闵#一室 : 4
+莘闵#二室 : 56
+莘闵#三室 : 72
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+莘闵#五室 : 26
+莘闵#五室以上 : 3
+小昆山 : 2
+小昆山 : 2
+http://shanghai.anjuke.com/sale/jiuting/b15,松江,九亭#一室,46
+http://shanghai.anjuke.com/sale/jiuting/b24,松江,九亭#四室,94
+http://shanghai.anjuke.com/sale/jiuting/b25,松江,九亭#五室,41
+http://shanghai.anjuke.com/sale/jiuting/b26,松江,九亭#五室以上,4
+http://shanghai.anjuke.com/sale/songjiangxincheng/b15,松江,松江新城#一室,10
+http://shanghai.anjuke.com/sale/songjiangxincheng/b17,松江,松江新城#二室,69
+http://shanghai.anjuke.com/sale/songjiangxincheng/b23,松江,松江新城#三室,88
+http://shanghai.anjuke.com/sale/songjiangxincheng/b24,松江,松江新城#四室,72
+http://shanghai.anjuke.com/sale/songjiangxincheng/b25,松江,松江新城#五室,28
+http://shanghai.anjuke.com/sale/songjiangxincheng/b26,松江,松江新城#五室以上,5
+http://shanghai.anjuke.com/sale/songjiangchengqu/,松江,松江城区,66
+http://shanghai.anjuke.com/sale/sijing/b15,松江,泗泾#一室,15
+http://shanghai.anjuke.com/sale/sijing/b17,松江,泗泾#二室,76
+http://shanghai.anjuke.com/sale/sijing/b23,松江,泗泾#三室,47
+http://shanghai.anjuke.com/sale/sijing/b24,松江,泗泾#四室,70
+http://shanghai.anjuke.com/sale/sijing/b25,松江,泗泾#五室,63
+http://shanghai.anjuke.com/sale/sijing/b26,松江,泗泾#五室以上,9
+http://shanghai.anjuke.com/sale/songjianglaocheng/,松江,松江老城,40
+http://shanghai.anjuke.com/sale/sheshan/b15,松江,佘山#一室,1
+http://shanghai.anjuke.com/sale/sheshan/b17,松江,佘山#二室,1
+http://shanghai.anjuke.com/sale/sheshan/b23,松江,佘山#三室,2
+http://shanghai.anjuke.com/sale/sheshan/b24,松江,佘山#四室,33
+http://shanghai.anjuke.com/sale/sheshan/b25,松江,佘山#五室,50
+http://shanghai.anjuke.com/sale/sheshan/b26,松江,佘山#五室以上,28
+http://shanghai.anjuke.com/sale/songjiangdaxuecheng/b15,松江,松江大学城#一室,33
+http://shanghai.anjuke.com/sale/songjiangdaxuecheng/b17,松江,松江大学城#二室,84
+http://shanghai.anjuke.com/sale/songjiangdaxuecheng/b23,松江,松江大学城#三室,65
+http://shanghai.anjuke.com/sale/songjiangdaxuecheng/b24,松江,松江大学城#四室,24
+http://shanghai.anjuke.com/sale/songjiangdaxuecheng/b25,松江,松江大学城#五室,6
+http://shanghai.anjuke.com/sale/songjiangdaxuecheng/b26,松江,松江大学城#五室以上,3
+http://shanghai.anjuke.com/sale/xinqiao/,松江,新桥,67
+http://shanghai.anjuke.com/sale/xinmin/b15,松江,莘闵#一室,4
+http://shanghai.anjuke.com/sale/xinmin/b17,松江,莘闵#二室,56
+http://shanghai.anjuke.com/sale/xinmin/b23,松江,莘闵#三室,72
+http://shanghai.anjuke.com/sale/xinmin/b25,松江,莘闵#五室,26
+http://shanghai.anjuke.com/sale/xinmin/b26,松江,莘闵#五室以上,3
+http://shanghai.anjuke.com/sale/xiaokunshan/,松江,小昆山,2
+
+航头 : 83
+航头 : 83
+惠南 : 144
+惠南#一室 : 13
+惠南#二室 : 81
+惠南#三室 : 39
+惠南#四室 : 8
+惠南#五室 : 4
+惠南#五室以上 : 1
+康桥 : 304
+康桥#一室 : 24
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+康桥#三室 : 70
+康桥#四室 : 64
+康桥#五室 : 19
+康桥#五室以上 : 2
+临港新城 : 65
+临港新城 : 65
+新场 : 14
+新场 : 14
+周浦 : 441
+周浦#一室 : 58
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+周浦#三室 : 92
+周浦#四室 : 20
+周浦#五室 : 5
+周浦#五室以上 : 1
+祝桥 : 8
+祝桥 : 8
+http://shanghai.anjuke.com/sale/hangtou/,南汇,航头,83
+http://shanghai.anjuke.com/sale/huinan/b15,南汇,惠南#一室,13
+http://shanghai.anjuke.com/sale/huinan/b17,南汇,惠南#二室,81
+http://shanghai.anjuke.com/sale/huinan/b23,南汇,惠南#三室,39
+http://shanghai.anjuke.com/sale/huinan/b24,南汇,惠南#四室,8
+http://shanghai.anjuke.com/sale/huinan/b25,南汇,惠南#五室,4
+http://shanghai.anjuke.com/sale/huinan/b26,南汇,惠南#五室以上,1
+http://shanghai.anjuke.com/sale/kangqiao/b15,南汇,康桥#一室,24
+http://shanghai.anjuke.com/sale/kangqiao/b23,南汇,康桥#三室,70
+http://shanghai.anjuke.com/sale/kangqiao/b24,南汇,康桥#四室,64
+http://shanghai.anjuke.com/sale/kangqiao/b25,南汇,康桥#五室,19
+http://shanghai.anjuke.com/sale/kangqiao/b26,南汇,康桥#五室以上,2
+http://shanghai.anjuke.com/sale/lingangxincheng/,南汇,临港新城,65
+http://shanghai.anjuke.com/sale/xinchang/,南汇,新场,14
+http://shanghai.anjuke.com/sale/zhoupu/b15,南汇,周浦#一室,58
+http://shanghai.anjuke.com/sale/zhoupu/b23,南汇,周浦#三室,92
+http://shanghai.anjuke.com/sale/zhoupu/b24,南汇,周浦#四室,20
+http://shanghai.anjuke.com/sale/zhoupu/b25,南汇,周浦#五室,5
+http://shanghai.anjuke.com/sale/zhoupu/b26,南汇,周浦#五室以上,1
+http://shanghai.anjuke.com/sale/zhuqiao/,南汇,祝桥,8
+
+安亭 : 101
+安亭#一室 : 12
+安亭#二室 : 64
+安亭#三室 : 23
+安亭#四室 : 2
+安亭#五室 : 2
+安亭#五室以上 : 1
+丰庄 : 89
+丰庄 : 89
+嘉定城区 : 131
+嘉定城区#一室 : 15
+嘉定城区#二室 : 79
+嘉定城区#三室 : 30
+嘉定城区#四室 : 5
+嘉定城区#五室 : 3
+嘉定城区#五室以上 : 1
+江桥新城 : 253
+江桥新城#一室 : 52
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+江桥新城#三室 : 42
+江桥新城#四室 : 8
+江桥新城#五室 : 4
+江桥新城#五室以上 : 2
+嘉定镇 : 17
+嘉定镇 : 17
+菊园新区 : 17
+菊园新区 : 17
+南翔 : 167
+南翔#一室 : 17
+南翔#二室 : 73
+南翔#三室 : 45
+南翔#四室 : 20
+南翔#五室 : 10
+南翔#五室以上 : 3
+真新 : input index:0 is beyond result size:0
+0
+http://shanghai.anjuke.com/sale/anting/b15,嘉定,安亭#一室,12
+http://shanghai.anjuke.com/sale/anting/b17,嘉定,安亭#二室,64
+http://shanghai.anjuke.com/sale/anting/b23,嘉定,安亭#三室,23
+http://shanghai.anjuke.com/sale/anting/b24,嘉定,安亭#四室,2
+http://shanghai.anjuke.com/sale/anting/b25,嘉定,安亭#五室,2
+http://shanghai.anjuke.com/sale/anting/b26,嘉定,安亭#五室以上,1
+http://shanghai.anjuke.com/sale/fengzhuang/,嘉定,丰庄,89
+http://shanghai.anjuke.com/sale/jiadingchengqu/b15,嘉定,嘉定城区#一室,15
+http://shanghai.anjuke.com/sale/jiadingchengqu/b17,嘉定,嘉定城区#二室,79
+http://shanghai.anjuke.com/sale/jiadingchengqu/b23,嘉定,嘉定城区#三室,30
+http://shanghai.anjuke.com/sale/jiadingchengqu/b24,嘉定,嘉定城区#四室,5
+http://shanghai.anjuke.com/sale/jiadingchengqu/b25,嘉定,嘉定城区#五室,3
+http://shanghai.anjuke.com/sale/jiadingchengqu/b26,嘉定,嘉定城区#五室以上,1
+http://shanghai.anjuke.com/sale/jiangqiaoxincheng/b15,嘉定,江桥新城#一室,52
+http://shanghai.anjuke.com/sale/jiangqiaoxincheng/b23,嘉定,江桥新城#三室,42
+http://shanghai.anjuke.com/sale/jiangqiaoxincheng/b24,嘉定,江桥新城#四室,8
+http://shanghai.anjuke.com/sale/jiangqiaoxincheng/b25,嘉定,江桥新城#五室,4
+http://shanghai.anjuke.com/sale/jiangqiaoxincheng/b26,嘉定,江桥新城#五室以上,2
+http://shanghai.anjuke.com/sale/jiadingzhen/,嘉定,嘉定镇,17
+http://shanghai.anjuke.com/sale/juyuanxinqua/,嘉定,菊园新区,17
+http://shanghai.anjuke.com/sale/nanxiang/b15,嘉定,南翔#一室,17
+http://shanghai.anjuke.com/sale/nanxiang/b17,嘉定,南翔#二室,73
+http://shanghai.anjuke.com/sale/nanxiang/b23,嘉定,南翔#三室,45
+http://shanghai.anjuke.com/sale/nanxiang/b24,嘉定,南翔#四室,20
+http://shanghai.anjuke.com/sale/nanxiang/b25,嘉定,南翔#五室,10
+http://shanghai.anjuke.com/sale/nanxiang/b26,嘉定,南翔#五室以上,3
+
+白鹤 : 17
+白鹤 : 17
+重固 : 31
+重固 : 31
+青浦北部 : 7
+青浦北部 : 7
+青浦新城 : 66
+青浦新城 : 66
+徐泾 : 394
+徐泾#一室 : 6
+徐泾#二室 : 32
+徐泾#三室 : 36
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+徐泾#五室以上 : 13
+赵巷 : 139
+赵巷#一室 : 1
+赵巷#二室 : 1
+赵巷#三室 : 13
+赵巷#四室 : 71
+赵巷#五室 : 44
+赵巷#五室以上 : 11
+朱家角 : 12
+朱家角 : 12
+http://shanghai.anjuke.com/sale/baihe/,青浦,白鹤,17
+http://shanghai.anjuke.com/sale/chonggu/,青浦,重固,31
+http://shanghai.anjuke.com/sale/qingpubeibu/,青浦,青浦北部,7
+http://shanghai.anjuke.com/sale/qingpuxincheng/,青浦,青浦新城,66
+http://shanghai.anjuke.com/sale/xujing/b15,青浦,徐泾#一室,6
+http://shanghai.anjuke.com/sale/xujing/b17,青浦,徐泾#二室,32
+http://shanghai.anjuke.com/sale/xujing/b23,青浦,徐泾#三室,36
+http://shanghai.anjuke.com/sale/xujing/b26,青浦,徐泾#五室以上,13
+http://shanghai.anjuke.com/sale/zhaoxiang/b15,青浦,赵巷#一室,1
+http://shanghai.anjuke.com/sale/zhaoxiang/b17,青浦,赵巷#二室,1
+http://shanghai.anjuke.com/sale/zhaoxiang/b23,青浦,赵巷#三室,13
+http://shanghai.anjuke.com/sale/zhaoxiang/b24,青浦,赵巷#四室,71
+http://shanghai.anjuke.com/sale/zhaoxiang/b25,青浦,赵巷#五室,44
+http://shanghai.anjuke.com/sale/zhaoxiang/b26,青浦,赵巷#五室以上,11
+http://shanghai.anjuke.com/sale/zhujiajiao/,青浦,朱家角,12
+
+奉城 : 9
+奉城 : 9
+海湾旅游区 : 23
+海湾旅游区 : 23
+海湾 : 4
+海湾 : 4
+金汇 : 9
+金汇 : 9
+南桥 : 284
+南桥#一室 : 13
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+南桥#四室 : 18
+南桥#五室 : 7
+南桥#五室以上 : 2
+西渡 : 88
+西渡 : 88
+柘林 : 1
+柘林 : 1
+庄行 : 3
+庄行 : 3
+http://shanghai.anjuke.com/sale/fengcheng/,奉贤,奉城,9
+http://shanghai.anjuke.com/sale/haiwanlvyouqu/,奉贤,海湾旅游区,23
+http://shanghai.anjuke.com/sale/haiwana/,奉贤,海湾,4
+http://shanghai.anjuke.com/sale/jinhui/,奉贤,金汇,9
+http://shanghai.anjuke.com/sale/nanqiao/b15,奉贤,南桥#一室,13
+http://shanghai.anjuke.com/sale/nanqiao/b24,奉贤,南桥#四室,18
+http://shanghai.anjuke.com/sale/nanqiao/b25,奉贤,南桥#五室,7
+http://shanghai.anjuke.com/sale/nanqiao/b26,奉贤,南桥#五室以上,2
+http://shanghai.anjuke.com/sale/xidu/,奉贤,西渡,88
+http://shanghai.anjuke.com/sale/zhelin/,奉贤,柘林,1
+http://shanghai.anjuke.com/sale/zhuanghang/,奉贤,庄行,3
+
+漕泾 : input index:0 is beyond result size:0
+0
+枫泾 : 3
+枫泾 : 3
+金山中部 : 1
+金山中部 : 1
+金山新城 : 24
+金山新城 : 24
+石化 : 79
+石化 : 79
+亭林 : 1
+亭林 : 1
+朱泾 : http://shanghai.anjuke.com/sale/fengjing/,金山,枫泾,3
+http://shanghai.anjuke.com/sale/jinshanzhongbu/,金山,金山中部,1
+http://shanghai.anjuke.com/sale/jinshanxincheng/,金山,金山新城,24
+http://shanghai.anjuke.com/sale/shihua/,金山,石化,79
+http://shanghai.anjuke.com/sale/tinglin/,金山,亭林,1
+http://shanghai.anjuke.com/sale/zhujing/,金山,朱泾,12
+
+12
+朱泾 : 12
+堡镇 : 1
+堡镇 : 1
+崇明 : 3
+崇明 : 3
+崇明新城 : input index:0 is beyond result size:0
+0
+陈家镇 : 2
+陈家镇 : 2
+长兴岛 : input index:0 is beyond result size:0
+0
+崇明其他 : 6
+崇明其他 : 6
+横沙岛 : http://shanghai.anjuke.com/sale/baozhen/,崇明,堡镇,1
+http://shanghai.anjuke.com/sale/chongminga/,崇明,崇明,3
+http://shanghai.anjuke.com/sale/chenjiazhen/,崇明,陈家镇,2
+http://shanghai.anjuke.com/sale/chongmingqita/,崇明,崇明其他,6
+http://shanghai.anjuke.com/sale/hengshadao/,崇明,横沙岛,1
+
+1
+横沙岛 : 1
+嘉兴 : 6
+嘉兴 : 6
+昆山 : 90
+昆山 : 90
+苏州 : 13
+苏州 : 13
+http://shanghai.anjuke.com/sale/jiaxinga/,上海周边,嘉兴,6
+http://shanghai.anjuke.com/sale/kunshanc/,上海周边,昆山,90
+http://shanghai.anjuke.com/sale/suzhoub/,上海周边,苏州,13
+
+input index:0 is beyond result size:0
