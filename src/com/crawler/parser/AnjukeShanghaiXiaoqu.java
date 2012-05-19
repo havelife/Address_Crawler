@@ -7,28 +7,33 @@ import org.junit.Test;
 import com.crawler.util.FileUtil;
 import com.crawler.util.ParserUtil;
 
-public class AnjukeBeijingXiaoqu {
-	public static final String ALL_SINGLE_SUB_FILE_PATH = "./data/parser/Anjuke/AnjukeBeijingXiaoquAllSingleSub.txt";
-	public static final String XIAOQU_WHOLE_FILE_PATH = "./data/parser/Anjuke/AnjukeBeijingXiaoquWhole.txt";
-	public static final String SPLIT_REGEX = "$";
-	public static final String CITY = "北京";
+public class AnjukeShanghaiXiaoqu {
+	public static final String CITY_PINYING = "Shanghai";
+	public static final String TYPE_PINYING = "Xiaoqu";
+	public static final String SITE_NAME_PINYING = "Anjuke";
+	public static final String ALL_SINGLE_SUB_FILE_PATH = "./data/parser/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "AllSingleSub.txt";
+	public static final String XIAOQU_WHOLE_FILE_PATH = "./data/parser/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "Whole.txt";
+	public static final String CITY = "上海";
 	public static final String TYPE = "安居客-小区";
 	public static final String TYPE_SPAN = "#";
 	public static final String PREFIX_TAIL = "/W0QQpZ";
-	public static final String CREATE_BATCH_FILE_RESULT_PATH = "./data/batch/Anjuke/AnjukeBeijingXiaoquBatchCreateJobFilePrepare.txt";
+	public static final String CREATE_BATCH_FILE_RESULT_PATH = "./data/batch/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "BatchCreateJobFilePrepare.txt";
+	
+	public static final String WHOLE_URL = "http://shanghai.anjuke.com/community/";
+	public static final String WHOLE_SELECT_REGEX = "div[class=box boxline]";
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		new AnjukeBeijingXiaoqu().createBatchFile();  
+		new AnjukeShanghaiXiaoqu().xiaoquSubSingle("http://shanghai.anjuke.com/community/list/pudong,浦东");  
 	}
 	
 	/*
-	 * 北京安居客，小区，北京总的各个地域，（朝阳 海淀 丰台 等等）
+	 * 上海安居客，小区，上海总的各个地域，（浦东 闵行 徐汇 等等）
 	 * */
 	@Test
 	public void xiaoquWhole(){
-		Element elem = ParserUtil.parseUrlWithRegexAndResultIndex("http://beijing.anjuke.com/community/", "div[class=box boxline]", 0);
+		Element elem = ParserUtil.parseUrlWithRegexAndResultIndex(WHOLE_URL, WHOLE_SELECT_REGEX, 0);
 		Elements elements = ParserUtil.parseElementWithRegex(elem, "a");
 		StringBuffer sb = new StringBuffer();
 		for (Element element : elements){
@@ -43,7 +48,7 @@ public class AnjukeBeijingXiaoqu {
 	}
 	
 	/*
-	 * 北京安居客，小区， 某个单个小区，比如 单个的朝阳
+	 * 上海安居客，小区， 某个单个小区，比如 单个的浦东，把浦东下面的小区块都结合起来，就比如陆家嘴，川沙，唐镇
 	 * */
 
 	public String xiaoquSubSingle(String line){
@@ -60,7 +65,7 @@ public class AnjukeBeijingXiaoqu {
 	}
 	
 	/*
-	 * 北京安居客，小区，下面的分区块的信息，比如 朝阳下的 团结湖，燕莎等等
+	 * 上海安居客，小区，下面的分区块的信息，把浦东、闵行等下的所有小区块都汇总到一起
 	 * 
 	 * 这个方法是把所有的subSingle串起来的
 	 * */

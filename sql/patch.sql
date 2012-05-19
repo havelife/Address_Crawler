@@ -9,7 +9,7 @@ CREATE TABLE `page` (
   `time` timestamp NULL DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
   `jobid` int(5) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 
 
 CREATE TABLE `url` (
@@ -44,6 +44,12 @@ CREATE TABLE `log` (
   `comment` varchar(255) DEFAULT NULL,
   `operator` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 
 alter table page add index page_url_idx(`url`);
+
+alter table url add index url_url_idx(`url`);
+
+alter table page add index page_iscompleted_idx(`iscompleted`);
+
+alter table url add index url_iscompleted_idx(`iscompleted`);
