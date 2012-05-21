@@ -12,28 +12,49 @@ import com.crawler.util.ParserUtil;
 import com.crawler.vo.Pair;
 
 public class AnjukeGenericSecondhand {
-	public static String URL_SUBDOMAIN = "tianjin";
-	public static String CITY = "天津";
+	public static String URL_SUBDOMAIN; //= "tianjin";
+	public static String CITY; // = "天津";
 	
-	public static final String CITY_PINYING = URL_SUBDOMAIN.toUpperCase().charAt(0) + URL_SUBDOMAIN.substring(1);
-	public static final String URL_SUBCATEGORY = "sale";
-	public static final String TYPE = "安居客-二手房";
-	public static final String TYPE_PINYING = "Secondhand";
-	public static final String SITE_NAME_PINYING = "Anjuke";
-	public static final String WHOLE_URL = "http://" + URL_SUBDOMAIN + ".anjuke.com/" + URL_SUBCATEGORY + "/";
-	public static final String ALL_SINGLE_SUB_FILE_PATH = "./data/parser/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "AllSingleSub.txt";
-	public static final String SECONDHAND_WHOLE_FILE_PATH = "./data/parser/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "Whole.txt";
+	public final String CITY_PINYING;
+	public final String URL_SUBCATEGORY;
+	public final String TYPE;
+	public final String TYPE_PINYING;
+	public final String SITE_NAME_PINYING;
+	public final String WHOLE_URL;
+	public final String ALL_SINGLE_SUB_FILE_PATH;
+	public final String SECONDHAND_WHOLE_FILE_PATH;
 	
-	public static final String TYPE_SPAN = "#";
-	public static final String CREATE_BATCH_FILE_RESULT_PATH = "./data/batch/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "BatchCreateJobFilePrepare.txt";
-	public static final String CREATE_BATCH_FILE_RESULT_BAK_PATH = "./data/batch/" + SITE_NAME_PINYING + "/bak/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "BatchCreateJobFile";
+	public final String TYPE_SPAN;
+	public final String CREATE_BATCH_FILE_RESULT_PATH;
+	public final String CREATE_BATCH_FILE_RESULT_BAK_PATH;
 	
-	public static final String WHOLE_SELECT_REGEX = "div[id=apf_id_13_areacontainer]";
+	public final String WHOLE_SELECT_REGEX;
 	
 	public static ArrayList<Pair> roomNumbuerArrayList = new ArrayList<Pair>();
 	public static ArrayList<Pair> houseTypeArrayList = new ArrayList<Pair>();
 	public static ArrayList<Pair> areaSizeArrayList = new ArrayList<Pair>();
 	public static ArrayList<Pair> priceRangeArrayList = new ArrayList<Pair>();
+	
+	public AnjukeGenericSecondhand(String city, String subDomain){
+		CITY = city; // = "天津";
+		URL_SUBDOMAIN = subDomain; //= "tianjin";
+		
+		
+		CITY_PINYING = URL_SUBDOMAIN.toUpperCase().charAt(0) + URL_SUBDOMAIN.substring(1);
+		URL_SUBCATEGORY = "sale";
+		TYPE = "安居客-二手房";
+		TYPE_PINYING = "Secondhand";
+		SITE_NAME_PINYING = "Anjuke";
+		WHOLE_URL = "http://" + URL_SUBDOMAIN + ".anjuke.com/" + URL_SUBCATEGORY + "/";
+		ALL_SINGLE_SUB_FILE_PATH = "./data/parser/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "AllSingleSub.txt";
+		SECONDHAND_WHOLE_FILE_PATH = "./data/parser/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "Whole.txt";
+		
+		TYPE_SPAN = "#";
+		CREATE_BATCH_FILE_RESULT_PATH = "./data/batch/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "BatchCreateJobFilePrepare.txt";
+	    CREATE_BATCH_FILE_RESULT_BAK_PATH = "./data/batch/" + SITE_NAME_PINYING + "/bak/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "BatchCreateJobFile";
+		
+		WHOLE_SELECT_REGEX = "div[id=apf_id_13_areacontainer]";
+	}
 	
 	@Test
 	public void doAllProcessInOneFunction() {
@@ -462,7 +483,7 @@ public class AnjukeGenericSecondhand {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println(CITY_PINYING);
+		System.out.println();
 //		new AnjukeGenericSecondhand().createBatchFileAnjukeGuangzhouSecondhand();
 	}
 }
