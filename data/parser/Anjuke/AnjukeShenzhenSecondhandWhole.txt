@@ -1,0 +1,8 @@
+http://shenzhen.anjuke.com/sale/futian/,福田
+http://shenzhen.anjuke.com/sale/luohu/,罗湖
+http://shenzhen.anjuke.com/sale/nanshan/,南山
+http://shenzhen.anjuke.com/sale/yantian/,盐田
+http://shenzhen.anjuke.com/sale/baoan/,宝安
+http://shenzhen.anjuke.com/sale/longgang/,龙岗
+http://shenzhen.anjuke.com/sale/huizhoua/,惠州
+http://shenzhen.anjuke.com/sale/dongguanc/,东莞
