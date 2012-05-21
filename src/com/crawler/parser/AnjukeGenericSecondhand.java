@@ -397,81 +397,83 @@ public class AnjukeGenericSecondhand {
 		String[] lineArr = content.split("\n");
 		StringBuffer sb = new StringBuffer();
 		for(String line : lineArr){
-			String[] attrArr = line.split(",");
-			//form the attributes for the output file
-			String prefix = attrArr[0].trim();
-			String suffix = "";
-			String url = prefix;
-			//这里要分四种情况来拼接这个prefix和suffix
-			
-			//CASE 1
-			//http://beijing.anjuke.com/sale/anhuiqiao/
-			//http://beijing.anjuke.com/sale/anhuiqiao/p2
-			if (prefix.lastIndexOf("/") + 1 == prefix.length()) {
-				prefix += "p";
-				suffix = "";
+			if (!StringUtils.isBlank(line)){
+				String[] attrArr = line.split(",");
+				//form the attributes for the output file
+				String prefix = attrArr[0].trim();
+				String suffix = "";
+				String url = prefix;
+				//这里要分四种情况来拼接这个prefix和suffix
+				
+				//CASE 1
+				//http://beijing.anjuke.com/sale/anhuiqiao/
+				//http://beijing.anjuke.com/sale/anhuiqiao/p2
+				if (prefix.lastIndexOf("/") + 1 == prefix.length()) {
+					prefix += "p";
+					suffix = "";
+				}
+				//CASE 2
+				//http://beijing.anjuke.com/sale/aolinpikegongyuan/b24
+				//http://beijing.anjuke.com/sale/aolinpikegongyuan/b24-p2
+				else if (prefix.indexOf("a", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("b", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("m", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("t", prefix.lastIndexOf("/")) == -1) {  
+					prefix += "-p";
+					suffix = "";
+				}
+				//CASE 3
+				//http://beijing.anjuke.com/sale/beiyuan/b17-t7
+				//http://beijing.anjuke.com/sale/beiyuan/b17-p2-t7
+				else if (prefix.indexOf("a", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("b", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("m", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("t", prefix.lastIndexOf("/")) != -1) {
+					int idx = url.lastIndexOf("-");
+					prefix = url.substring(0, idx) + "-p";
+					suffix = url.substring(idx);
+				}
+				//CASE 4
+				//http://beijing.anjuke.com/sale/beiyuan/a15-b17-t9
+				//http://beijing.anjuke.com/sale/beiyuan/a15-b17-p2-t9
+				else if (prefix.indexOf("a", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("b", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("m", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("t", prefix.lastIndexOf("/")) != -1) {
+					int idx = url.lastIndexOf("-");
+					prefix = url.substring(0, idx) + "-p";
+					suffix = url.substring(idx);
+				}
+				//CASE 5
+				//http://beijing.anjuke.com/sale/chaoyanggongyuan/a19-b23-m23-t7
+				//http://beijing.anjuke.com/sale/chaoyanggongyuan/a19-b23-m23-p2-t7
+				else if (prefix.indexOf("a", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("b", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("m", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("t", prefix.lastIndexOf("/")) != -1) {
+					int idx = url.lastIndexOf("-");
+					prefix = url.substring(0, idx) + "-p";
+					suffix = url.substring(idx);
+				}
+				
+				
+				
+				int step = 1;
+				int startidx = 1;
+				int endidx = Integer.parseInt(attrArr[3].trim());
+				String category = CITY;
+				String type = TYPE + TYPE_SPAN + attrArr[1] + TYPE_SPAN + attrArr[2];
+				String domain = attrArr[0].trim();
+				
+				//form the final output line
+				sb.append(prefix);
+				sb.append(",");
+				sb.append(suffix);
+				sb.append(",");
+				sb.append(step);
+				sb.append(",");
+				sb.append(startidx);
+				sb.append(",");
+				sb.append(endidx);
+				sb.append(",");
+				sb.append(category);
+				sb.append(",");
+				sb.append(type);
+				sb.append(",");
+				sb.append(domain);
+				sb.append("\n");
+				
+				totalCount += endidx;
+				System.out.println(line);
 			}
-			//CASE 2
-			//http://beijing.anjuke.com/sale/aolinpikegongyuan/b24
-			//http://beijing.anjuke.com/sale/aolinpikegongyuan/b24-p2
-			else if (prefix.indexOf("a", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("b", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("m", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("t", prefix.lastIndexOf("/")) == -1) {  
-				prefix += "-p";
-				suffix = "";
-			}
-			//CASE 3
-			//http://beijing.anjuke.com/sale/beiyuan/b17-t7
-			//http://beijing.anjuke.com/sale/beiyuan/b17-p2-t7
-			else if (prefix.indexOf("a", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("b", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("m", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("t", prefix.lastIndexOf("/")) != -1) {
-				int idx = url.lastIndexOf("-");
-				prefix = url.substring(0, idx) + "-p";
-				suffix = url.substring(idx);
-			}
-			//CASE 4
-			//http://beijing.anjuke.com/sale/beiyuan/a15-b17-t9
-			//http://beijing.anjuke.com/sale/beiyuan/a15-b17-p2-t9
-			else if (prefix.indexOf("a", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("b", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("m", prefix.lastIndexOf("/")) == -1 && prefix.indexOf("t", prefix.lastIndexOf("/")) != -1) {
-				int idx = url.lastIndexOf("-");
-				prefix = url.substring(0, idx) + "-p";
-				suffix = url.substring(idx);
-			}
-			//CASE 5
-			//http://beijing.anjuke.com/sale/chaoyanggongyuan/a19-b23-m23-t7
-			//http://beijing.anjuke.com/sale/chaoyanggongyuan/a19-b23-m23-p2-t7
-			else if (prefix.indexOf("a", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("b", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("m", prefix.lastIndexOf("/")) != -1 && prefix.indexOf("t", prefix.lastIndexOf("/")) != -1) {
-				int idx = url.lastIndexOf("-");
-				prefix = url.substring(0, idx) + "-p";
-				suffix = url.substring(idx);
-			}
-			
-			
-			
-			int step = 1;
-			int startidx = 1;
-			int endidx = Integer.parseInt(attrArr[3].trim());
-			String category = CITY;
-			String type = TYPE + TYPE_SPAN + attrArr[1] + TYPE_SPAN + attrArr[2];
-			String domain = attrArr[0].trim();
-			
-			//form the final output line
-			sb.append(prefix);
-			sb.append(",");
-			sb.append(suffix);
-			sb.append(",");
-			sb.append(step);
-			sb.append(",");
-			sb.append(startidx);
-			sb.append(",");
-			sb.append(endidx);
-			sb.append(",");
-			sb.append(category);
-			sb.append(",");
-			sb.append(type);
-			sb.append(",");
-			sb.append(domain);
-			sb.append("\n");
-			
-			totalCount += endidx;
-			System.out.println(line);
 		}
 		System.out.println("##########" + totalCount);
 		FileUtil.writeStr2File(sb.toString(), CREATE_BATCH_FILE_RESULT_PATH);
