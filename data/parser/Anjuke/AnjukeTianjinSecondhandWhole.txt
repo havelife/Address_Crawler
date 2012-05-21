@@ -1,0 +1,14 @@
+http://tianjin.anjuke.com/sale/hepingc/,和平
+http://tianjin.anjuke.com/sale/hexi/,河西
+http://tianjin.anjuke.com/sale/nankai/,南开
+http://tianjin.anjuke.com/sale/hebei/,河北
+http://tianjin.anjuke.com/sale/hedong/,河东
+http://tianjin.anjuke.com/sale/hongqiaob/,红桥
+http://tianjin.anjuke.com/sale/xiqing/,西青
+http://tianjin.anjuke.com/sale/jinnan/,津南
+http://tianjin.anjuke.com/sale/dongli/,东丽
+http://tianjin.anjuke.com/sale/beichen/,北辰
+http://tianjin.anjuke.com/sale/qital/,其他
+http://tianjin.anjuke.com/sale/tanggu/,塘沽
+http://tianjin.anjuke.com/sale/kaifaquc/,开发区
+http://tianjin.anjuke.com/sale/dagang/,大港
