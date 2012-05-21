@@ -1,0 +1,7 @@
+http://zhenjiang.anjuke.com/sale/danyang/,丹阳市
+http://zhenjiang.anjuke.com/sale/jurong/,句容市
+http://zhenjiang.anjuke.com/sale/yangzhong/,扬中市
+http://zhenjiang.anjuke.com/sale/dantu/,丹徒区
+http://zhenjiang.anjuke.com/sale/jingkou/,京口区
+http://zhenjiang.anjuke.com/sale/runzhou/,润州区
+http://zhenjiang.anjuke.com/sale/zhenjiangxinqu/,镇江新区

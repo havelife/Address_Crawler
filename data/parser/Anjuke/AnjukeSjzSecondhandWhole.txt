@@ -1,0 +1,9 @@
+http://sjz.anjuke.com/sale/yuhuaf/,裕华
+http://sjz.anjuke.com/sale/changana/,长安
+http://sjz.anjuke.com/sale/qiaodong/,桥东
+http://sjz.anjuke.com/sale/qiaoxi/,桥西
+http://sjz.anjuke.com/sale/xinhuaf/,新华
+http://sjz.anjuke.com/sale/kaifaqui/,开发区
+http://sjz.anjuke.com/sale/zhengding/,正定
+http://sjz.anjuke.com/sale/luquanshi/,鹿泉市
+http://sjz.anjuke.com/sale/qitaquxian/,其他区县

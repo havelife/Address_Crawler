@@ -1,0 +1,11 @@
+http://weifang.anjuke.com/sale/dongyuana/,奎文,东苑,1
+http://weifang.anjuke.com/sale/taihualv/,奎文,泰华,1
+http://weifang.anjuke.com/sale/weiwan/,奎文,苇湾,1
+http://weifang.anjuke.com/sale/xinhualunao/,奎文,新华路,1
+http://weifang.anjuke.com/sale/yingyuannanlv/,奎文,樱园,1
+http://weifang.anjuke.com/sale/zaochunlu/,奎文,早春园,1
+http://weifang.anjuke.com/sale/zhongshangyu/,奎文,中上虞,1
+http://weifang.anjuke.com/sale/huochezhano/,潍城,火车站,1
+http://weifang.anjuke.com/sale/dongmingzhongxue/,高新技术开发区,东明中学,1
+http://weifang.anjuke.com/sale/fuhua/,高新技术开发区,富华,1
+http://weifang.anjuke.com/sale/xinshifu/,高新技术开发区,新市府,1

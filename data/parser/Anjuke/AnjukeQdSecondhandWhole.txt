@@ -1,0 +1,12 @@
+http://qd.anjuke.com/sale/chengyangqu/,城阳区
+http://qd.anjuke.com/sale/laoshanqu/,崂山区
+http://qd.anjuke.com/sale/shinanqu/,市南区
+http://qd.anjuke.com/sale/licangqu/,李沧区
+http://qd.anjuke.com/sale/shibeiqu/,市北区
+http://qd.anjuke.com/sale/huangdaoqu/,黄岛区
+http://qd.anjuke.com/sale/sifangqu/,四方区
+http://qd.anjuke.com/sale/jiaonanshi/,胶南市
+http://qd.anjuke.com/sale/jimoshi/,即墨市
+http://qd.anjuke.com/sale/laixishi/,莱西市
+http://qd.anjuke.com/sale/jiaozhoushi/,胶州市
+http://qd.anjuke.com/sale/pingdushi/,平度市

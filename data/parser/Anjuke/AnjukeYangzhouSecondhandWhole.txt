@@ -1,0 +1,8 @@
+http://yangzhou.anjuke.com/sale/hanjiangqu/,邗江区
+http://yangzhou.anjuke.com/sale/guanglingqu/,广陵区
+http://yangzhou.anjuke.com/sale/weiyangqu/,维扬区
+http://yangzhou.anjuke.com/sale/kaifaquo/,开发区
+http://yangzhou.anjuke.com/sale/jiangdulv/,江都市
+http://yangzhou.anjuke.com/sale/yizhengshi/,仪征市
+http://yangzhou.anjuke.com/sale/baoyingshi/,宝应市
+http://yangzhou.anjuke.com/sale/gaoyoushi/,高邮市

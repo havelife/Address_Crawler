@@ -1,0 +1,7 @@
+http://baoding.anjuke.com/sale/lianchinandajie/,南市区,莲池南大街,1
+http://baoding.anjuke.com/sale/tianweidonglu/,南市区,天威东路,1
+http://baoding.anjuke.com/sale/fuxingzhonglua/,北市区,复兴中路,1
+http://baoding.anjuke.com/sale/lianchibeidajie/,北市区,莲池北大街,1
+http://baoding.anjuke.com/sale/qiyidonglu/,北市区,七一东路,1
+http://baoding.anjuke.com/sale/tianweixilu/,新市区,天威西路,1
+http://baoding.anjuke.com/sale/yangguangbeidajie/,新市区,阳光北大街,1

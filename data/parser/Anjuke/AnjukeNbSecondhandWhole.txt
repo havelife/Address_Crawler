@@ -1,0 +1,11 @@
+http://nb.anjuke.com/sale/beilun/,北仑
+http://nb.anjuke.com/sale/cixi/,慈溪
+http://nb.anjuke.com/sale/fenghuab/,奉化
+http://nb.anjuke.com/sale/haishu/,海曙
+http://nb.anjuke.com/sale/jiangbeia/,江北
+http://nb.anjuke.com/sale/jiangdongc/,江东
+http://nb.anjuke.com/sale/yinzhou/,鄞州
+http://nb.anjuke.com/sale/zhenhai/,镇海
+http://nb.anjuke.com/sale/ninghaia/,宁海
+http://nb.anjuke.com/sale/xiangshana/,象山
+http://nb.anjuke.com/sale/yuyao/,余姚

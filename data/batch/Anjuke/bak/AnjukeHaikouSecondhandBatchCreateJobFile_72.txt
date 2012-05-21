@@ -1,0 +1,16 @@
+http://haikou.anjuke.com/sale/binhai/p,,1,1,4,海口,安居客-二手房#龙华#滨海,http://haikou.anjuke.com/sale/binhai/
+http://haikou.anjuke.com/sale/haiken/p,,1,1,6,海口,安居客-二手房#龙华#海垦,http://haikou.anjuke.com/sale/haiken/
+http://haikou.anjuke.com/sale/jinmao/p,,1,1,4,海口,安居客-二手房#龙华#金贸,http://haikou.anjuke.com/sale/jinmao/
+http://haikou.anjuke.com/sale/zhongshana/p,,1,1,4,海口,安居客-二手房#龙华#中山,http://haikou.anjuke.com/sale/zhongshana/
+http://haikou.anjuke.com/sale/bailong/p,,1,1,2,海口,安居客-二手房#美兰#白龙,http://haikou.anjuke.com/sale/bailong/
+http://haikou.anjuke.com/sale/haifu/p,,1,1,1,海口,安居客-二手房#美兰#海俯,http://haikou.anjuke.com/sale/haifu/
+http://haikou.anjuke.com/sale/haidiana/p,,1,1,24,海口,安居客-二手房#美兰#海甸,http://haikou.anjuke.com/sale/haidiana/
+http://haikou.anjuke.com/sale/lantian/p,,1,1,3,海口,安居客-二手房#美兰#蓝天,http://haikou.anjuke.com/sale/lantian/
+http://haikou.anjuke.com/sale/binhaixilu/p,,1,1,3,海口,安居客-二手房#秀英#滨海西路,http://haikou.anjuke.com/sale/binhaixilu/
+http://haikou.anjuke.com/sale/haixiuxilu/p,,1,1,3,海口,安居客-二手房#秀英#海秀西路,http://haikou.anjuke.com/sale/haixiuxilu/
+http://haikou.anjuke.com/sale/xiuyingdadao/p,,1,1,3,海口,安居客-二手房#秀英#秀英大道,http://haikou.anjuke.com/sale/xiuyingdadao/
+http://haikou.anjuke.com/sale/guoxingdadao/p,,1,1,3,海口,安居客-二手房#琼山#国兴大道,http://haikou.anjuke.com/sale/guoxingdadao/
+http://haikou.anjuke.com/sale/longkunnanlu/p,,1,1,2,海口,安居客-二手房#琼山#龙昆南路,http://haikou.anjuke.com/sale/longkunnanlu/
+http://haikou.anjuke.com/sale/qiongshandadao/p,,1,1,7,海口,安居客-二手房#琼山#琼山大道,http://haikou.anjuke.com/sale/qiongshandadao/
+http://haikou.anjuke.com/sale/sanyahedong/p,,1,1,2,海口,安居客-二手房#其他#三亚河东,http://haikou.anjuke.com/sale/sanyahedong/
+http://haikou.anjuke.com/sale/sanyahexi/p,,1,1,1,海口,安居客-二手房#其他#三亚河西,http://haikou.anjuke.com/sale/sanyahexi/

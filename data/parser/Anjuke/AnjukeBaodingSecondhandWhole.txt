@@ -1,0 +1,10 @@
+http://baoding.anjuke.com/sale/nanshia/,南市区
+http://baoding.anjuke.com/sale/beishigongjiaochezhao/,北市区
+http://baoding.anjuke.com/sale/xinshixinyuao/,新市区
+http://baoding.anjuke.com/sale/gaoxinyuanqub/,高新
+http://baoding.anjuke.com/sale/dingzhou/,定州市
+http://baoding.anjuke.com/sale/zhuozhoua/,涿州市
+http://baoding.anjuke.com/sale/anguo/,安国市
+http://baoding.anjuke.com/sale/mancheng/,满城
+http://baoding.anjuke.com/sale/qingyuanjif/,清苑
+http://baoding.anjuke.com/sale/gaobeidiana/,高碑店市

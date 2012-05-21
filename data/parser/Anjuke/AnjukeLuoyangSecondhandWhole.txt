@@ -1,0 +1,15 @@
+http://luoyang.anjuke.com/sale/xigongqu/,西工区
+http://luoyang.anjuke.com/sale/jianxiqu/,涧西区
+http://luoyang.anjuke.com/sale/luolongqu/,洛龙区
+http://luoyang.anjuke.com/sale/laochengqub/,老城区
+http://luoyang.anjuke.com/sale/chanhe/,瀍河区
+http://luoyang.anjuke.com/sale/jiliqu/,吉利区
+http://luoyang.anjuke.com/sale/yanshishi/,偃师市
+http://luoyang.anjuke.com/sale/luanchuanxian/,栾川县
+http://luoyang.anjuke.com/sale/mengjinxian/,孟津县
+http://luoyang.anjuke.com/sale/yichuanxian/,伊川县
+http://luoyang.anjuke.com/sale/yiyangxian/,宜阳县
+http://luoyang.anjuke.com/sale/xinanxian/,新安县
+http://luoyang.anjuke.com/sale/songxian/,嵩县
+http://luoyang.anjuke.com/sale/luoningxian/,洛宁县
+http://luoyang.anjuke.com/sale/ruyangxian/,汝阳县

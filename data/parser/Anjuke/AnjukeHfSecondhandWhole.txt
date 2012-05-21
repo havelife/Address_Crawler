@@ -1,0 +1,11 @@
+http://hf.anjuke.com/sale/luyangqu/,庐阳区
+http://hf.anjuke.com/sale/baohequ/,包河区
+http://hf.anjuke.com/sale/yaohaiqu/,瑶海区
+http://hf.anjuke.com/sale/shushanqu/,蜀山区
+http://hf.anjuke.com/sale/gaoxinqud/,高新区
+http://hf.anjuke.com/sale/jingkaiqub/,经开区
+http://hf.anjuke.com/sale/zhengwuqu/,政务区
+http://hf.anjuke.com/sale/binhuxinqu/,滨湖新区
+http://hf.anjuke.com/sale/xinzhanqu/,新站区
+http://hf.anjuke.com/sale/qitabt/,其他
+http://hf.anjuke.com/sale/chaohushi/,巢湖市

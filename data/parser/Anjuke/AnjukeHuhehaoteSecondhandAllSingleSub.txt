@@ -1,0 +1,15 @@
+http://huhehaote.anjuke.com/sale/chiyu/,赛罕,驰誉,1
+http://huhehaote.anjuke.com/sale/dongwayao/,赛罕,东瓦窑,1
+http://huhehaote.anjuke.com/sale/eerduosi/,赛罕,鄂尔多斯东街,1
+http://huhehaote.anjuke.com/sale/fengzhoulu/,赛罕,丰州路,1
+http://huhehaote.anjuke.com/sale/jindishangcheng/,赛罕,金帝商城,1
+http://huhehaote.anjuke.com/sale/saihanquzhengfu/,赛罕,赛罕区政府,1
+http://huhehaote.anjuke.com/sale/zhiwuyuanpianqv/,回民,植物园,1
+http://huhehaote.anjuke.com/sale/dazhao/,玉泉,大召,1
+http://huhehaote.anjuke.com/sale/nanchafang/,玉泉,南茶坊,1
+http://huhehaote.anjuke.com/sale/shiyangqiao/,玉泉,石羊桥,1
+http://huhehaote.anjuke.com/sale/wutasi/,玉泉,五塔寺,1
+http://huhehaote.anjuke.com/sale/bayishichang/,新城,八一市场,1
+http://huhehaote.anjuke.com/sale/guanghuajie/,新城,光华街,1
+http://huhehaote.anjuke.com/sale/gulouyiyuao/,新城,鼓楼,1
+http://huhehaote.anjuke.com/sale/haidonglu/,新城,海东路,1

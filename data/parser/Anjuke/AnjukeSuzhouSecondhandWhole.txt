@@ -1,0 +1,12 @@
+http://suzhou.anjuke.com/sale/yuanqu/,园区
+http://suzhou.anjuke.com/sale/xinqua/,新区
+http://suzhou.anjuke.com/sale/pingjianga/,平江
+http://suzhou.anjuke.com/sale/canglang/,沧浪
+http://suzhou.anjuke.com/sale/jinchang/,金阊
+http://suzhou.anjuke.com/sale/wuzhong/,吴中
+http://suzhou.anjuke.com/sale/xiangcheng/,相城
+http://suzhou.anjuke.com/sale/wujiang/,吴江
+http://suzhou.anjuke.com/sale/taicang/,太仓
+http://suzhou.anjuke.com/sale/changshua/,常熟
+http://suzhou.anjuke.com/sale/zhangjiagang/,张家港
+http://ks.anjuke.com/sale/,昆山

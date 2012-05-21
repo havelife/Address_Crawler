@@ -1,0 +1,12 @@
+http://xuzhou.anjuke.com/sale/quanshan/,泉山
+http://xuzhou.anjuke.com/sale/yunlongqu/,云龙区
+http://xuzhou.anjuke.com/sale/gulouqu/,鼓楼区
+http://xuzhou.anjuke.com/sale/tongshanqu/,铜山区
+http://xuzhou.anjuke.com/sale/jinshankaifaqu/,金山开发区
+http://xuzhou.anjuke.com/sale/xinchengquzhengfv/,新城区
+http://xuzhou.anjuke.com/sale/xinyishi/,新沂市
+http://xuzhou.anjuke.com/sale/pizhoushi/,邳州市
+http://xuzhou.anjuke.com/sale/peixian/,沛县
+http://xuzhou.anjuke.com/sale/fengxiana/,丰县
+http://xuzhou.anjuke.com/sale/suiningshi/,睢宁市
+http://xuzhou.anjuke.com/sale/jiawang/,贾汪

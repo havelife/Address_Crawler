@@ -1,0 +1,6 @@
+http://weihai.anjuke.com/sale/gaoqu/,高区
+http://weihai.anjuke.com/sale/huancuiqu/,环翠区
+http://weihai.anjuke.com/sale/jingqu/,经区
+http://weihai.anjuke.com/sale/rushanshi/,乳山市
+http://weihai.anjuke.com/sale/rongchengshi/,荣成市
+http://weihai.anjuke.com/sale/wendengshi/,文登市

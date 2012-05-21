@@ -1,0 +1,13 @@
+http://hangzhou.anjuke.com/sale/gongshu/,拱墅
+http://hangzhou.anjuke.com/sale/jianggan/,江干
+http://hangzhou.anjuke.com/sale/shangcheng/,上城
+http://hangzhou.anjuke.com/sale/xihu/,西湖
+http://hangzhou.anjuke.com/sale/xiacheng/,下城
+http://hangzhou.anjuke.com/sale/binjiangb/,滨江
+http://hangzhou.anjuke.com/sale/xiaoshan/,萧山
+http://hangzhou.anjuke.com/sale/yuhang/,余杭
+http://hangzhou.anjuke.com/sale/linan/,临安
+http://hangzhou.anjuke.com/sale/fuyang/,富阳
+http://hangzhou.anjuke.com/sale/jiande/,建德
+http://hangzhou.anjuke.com/sale/tonglu/,桐庐
+http://hangzhou.anjuke.com/sale/chunan/,淳安

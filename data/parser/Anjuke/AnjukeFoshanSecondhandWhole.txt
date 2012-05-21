@@ -1,0 +1,6 @@
+http://foshan.anjuke.com/sale/shundequ/,顺德区
+http://foshan.anjuke.com/sale/chanchengqu/,禅城区
+http://foshan.anjuke.com/sale/nanhaiqu/,南海区
+http://foshan.anjuke.com/sale/sanshuiqu/,三水区
+http://foshan.anjuke.com/sale/gaomingqu/,高明区
+http://guangzhou.anjuke.com/sale/,广佛同城

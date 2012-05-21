@@ -1,0 +1,11 @@
+http://sy.anjuke.com/sale/dadongqu/,大东区
+http://sy.anjuke.com/sale/hepingqu/,和平区
+http://sy.anjuke.com/sale/tiexiqu/,铁西区
+http://sy.anjuke.com/sale/donglingqu/,东陵区
+http://sy.anjuke.com/sale/hunnanxinqu/,浑南新区
+http://sy.anjuke.com/sale/huangguqu/,皇姑区
+http://sy.anjuke.com/sale/yuhongqu/,于洪区
+http://sy.anjuke.com/sale/shenhequ/,沈河区
+http://sy.anjuke.com/sale/sujiatun/,苏家屯
+http://sy.anjuke.com/sale/shenbeixinqu/,沈北新区
+http://sy.anjuke.com/sale/qitabk/,其他

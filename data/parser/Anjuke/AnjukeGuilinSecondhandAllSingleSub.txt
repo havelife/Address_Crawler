@@ -1,0 +1,11 @@
+http://guilin.anjuke.com/sale/jiashanb/,秀峰区,甲山,1
+http://guilin.anjuke.com/sale/beimen/,叠彩区,北门,2
+http://guilin.anjuke.com/sale/dafengshan/,象山区,大风山,1
+http://guilin.anjuke.com/sale/longchuanping/,象山区,龙船坪,1
+http://guilin.anjuke.com/sale/tiexitiyuchanh/,象山区,铁西,2
+http://guilin.anjuke.com/sale/wayao/,象山区,瓦窑,2
+http://guilin.anjuke.com/sale/xiangshand/,象山区,象山,1
+http://guilin.anjuke.com/sale/chuanshan/,七星区,穿山,1
+http://guilin.anjuke.com/sale/gaoxinqui/,七星区,高新区,1
+http://guilin.anjuke.com/sale/pingfeng/,七星区,屏风,1
+http://guilin.anjuke.com/sale/sanlidian/,七星区,三里店,1

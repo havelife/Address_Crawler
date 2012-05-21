@@ -1,0 +1,16 @@
+http://haikou.anjuke.com/sale/binhai/,龙华,滨海,4
+http://haikou.anjuke.com/sale/haiken/,龙华,海垦,6
+http://haikou.anjuke.com/sale/jinmao/,龙华,金贸,4
+http://haikou.anjuke.com/sale/zhongshana/,龙华,中山,4
+http://haikou.anjuke.com/sale/bailong/,美兰,白龙,2
+http://haikou.anjuke.com/sale/haifu/,美兰,海俯,1
+http://haikou.anjuke.com/sale/haidiana/,美兰,海甸,24
+http://haikou.anjuke.com/sale/lantian/,美兰,蓝天,3
+http://haikou.anjuke.com/sale/binhaixilu/,秀英,滨海西路,3
+http://haikou.anjuke.com/sale/haixiuxilu/,秀英,海秀西路,3
+http://haikou.anjuke.com/sale/xiuyingdadao/,秀英,秀英大道,3
+http://haikou.anjuke.com/sale/guoxingdadao/,琼山,国兴大道,3
+http://haikou.anjuke.com/sale/longkunnanlu/,琼山,龙昆南路,2
+http://haikou.anjuke.com/sale/qiongshandadao/,琼山,琼山大道,7
+http://haikou.anjuke.com/sale/sanyahedong/,其他,三亚河东,2
+http://haikou.anjuke.com/sale/sanyahexi/,其他,三亚河西,1

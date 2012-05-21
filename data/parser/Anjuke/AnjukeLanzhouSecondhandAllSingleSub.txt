@@ -1,0 +1,12 @@
+http://lanzhou.anjuke.com/sale/huangheshichang/,安宁,黄河市场,1
+http://lanzhou.anjuke.com/sale/peliguangchang/,安宁,培黎广场,1
+http://lanzhou.anjuke.com/sale/dongbuguangchang/,城关,东部市场,1
+http://lanzhou.anjuke.com/sale/dongfanghongguangchang/,城关,东方红广场,1
+http://lanzhou.anjuke.com/sale/huochezhanj/,城关,火车站,1
+http://lanzhou.anjuke.com/sale/huanghebei/,城关,黄河北,1
+http://lanzhou.anjuke.com/sale/panxuanlu/,城关,盘旋路,1
+http://lanzhou.anjuke.com/sale/wuquanguangchang/,城关,五泉广场,1
+http://lanzhou.anjuke.com/sale/xiguanshenzi/,城关,西关什字,1
+http://lanzhou.anjuke.com/sale/yantan/,城关,雁滩,2
+http://lanzhou.anjuke.com/sale/xiaoxihu/,七里河,小西湖,1
+http://lanzhou.anjuke.com/sale/xizhanh/,七里河,西站,1
