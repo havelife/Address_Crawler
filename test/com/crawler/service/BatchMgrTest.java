@@ -71,4 +71,33 @@ public class BatchMgrTest {
 	public void batchCreateJobTestAnjukeShanghaiSecondhand(){
 		batchMgr.batchCreateJobAndDownload("./data/batch/Anjuke/AnjukeShanghaiSecondhandBatchCreateJobFile.txt");
 	}
+	
+	/***********************************************************/
+	/*
+	 *安居客，深圳，二手房
+	 * */
+	@Test
+	public void batchCreateJobTestAnjukeShenzhenSecondhand(){
+		batchMgr.batchCreateJobAndDownload("./data/batch/Anjuke/AnjukeShenzhenSecondhandBatchCreateJobFile.txt");
+	}
+	
+	/***********************************************************/
+	/*
+	 *安居客，广州，二手房
+	 * */
+	@Test
+	public void batchCreateJobTestAnjukeGuangzhouSecondhand(){
+		batchMgr.batchCreateJobAndDownload("./data/batch/Anjuke/AnjukeGuangzhouSecondhandBatchCreateJobFile.txt");
+	}
+	
+	/***********************************************************/
+	/*
+	 *安居客，广州 and 深圳，二手房
+	 * */
+	@Test
+	public void batchCreateJobTestAnjukeGuangzhouAndShenzhenSecondhand(){
+		batchCreateJobTestAnjukeGuangzhouSecondhand();
+		batchCreateJobTestAnjukeShenzhenSecondhand();
+	}
+	
 }
