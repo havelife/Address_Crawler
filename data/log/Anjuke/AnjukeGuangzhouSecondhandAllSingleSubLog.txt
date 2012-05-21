@@ -1,0 +1,315 @@
+车陂 : 63
+车陂 : 63
+长湴 : 18
+长湴 : 18
+东圃 : 64
+东圃 : 64
+岗顶 : 13
+岗顶 : 13
+后天河北 : 51
+后天河北 : 51
+龙洞 : 20
+龙洞 : 20
+沙太 : 31
+沙太 : 31
+天河北 : 158
+天河北#一室 : 18
+天河北#二室 : 52
+天河北#三室 : 71
+天河北#四室 : 13
+天河北#五室 : 4
+天河北#五室以上 : 1
+天河北#roomNumbuerTotal:159, roomNumbuerOriginCount:158
+天河南 : 20
+天河南 : 20
+天河公园 : 89
+天河公园 : 89
+员村 : 69
+员村 : 69
+粤垦 : 36
+粤垦 : 36
+珠江新城 : 111
+珠江新城#一室 : 24
+珠江新城#二室 : 24
+珠江新城#三室 : 41
+珠江新城#四室 : 18
+珠江新城#五室 : 5
+珠江新城#五室以上 : 1
+珠江新城#roomNumbuerTotal:113, roomNumbuerOriginCount:111
+http://guangzhou.anjuke.com/sale/chebei/,天河,车陂,63
+http://guangzhou.anjuke.com/sale/changban/,天河,长湴,18
+http://guangzhou.anjuke.com/sale/dongpu/,天河,东圃,64
+http://guangzhou.anjuke.com/sale/gangding/,天河,岗顶,13
+http://guangzhou.anjuke.com/sale/houtianhebei/,天河,后天河北,51
+http://guangzhou.anjuke.com/sale/longdong/,天河,龙洞,20
+http://guangzhou.anjuke.com/sale/shatai/,天河,沙太,31
+http://guangzhou.anjuke.com/sale/tianhebei/b41,天河,天河北#一室,18
+http://guangzhou.anjuke.com/sale/tianhebei/b43,天河,天河北#二室,52
+http://guangzhou.anjuke.com/sale/tianhebei/b49,天河,天河北#三室,71
+http://guangzhou.anjuke.com/sale/tianhebei/b50,天河,天河北#四室,13
+http://guangzhou.anjuke.com/sale/tianhebei/b51,天河,天河北#五室,4
+http://guangzhou.anjuke.com/sale/tianhebei/b52,天河,天河北#五室以上,1
+http://guangzhou.anjuke.com/sale/tianhenan/,天河,天河南,20
+http://guangzhou.anjuke.com/sale/tianhegongyuan/,天河,天河公园,89
+http://guangzhou.anjuke.com/sale/yuancun/,天河,员村,69
+http://guangzhou.anjuke.com/sale/yueken/,天河,粤垦,36
+http://guangzhou.anjuke.com/sale/zhujiangxincheng/b41,天河,珠江新城#一室,24
+http://guangzhou.anjuke.com/sale/zhujiangxincheng/b43,天河,珠江新城#二室,24
+http://guangzhou.anjuke.com/sale/zhujiangxincheng/b49,天河,珠江新城#三室,41
+http://guangzhou.anjuke.com/sale/zhujiangxincheng/b50,天河,珠江新城#四室,18
+http://guangzhou.anjuke.com/sale/zhujiangxincheng/b51,天河,珠江新城#五室,5
+http://guangzhou.anjuke.com/sale/zhujiangxincheng/b52,天河,珠江新城#五室以上,1
+
+北京路 : 27
+北京路 : 27
+东风东 : 39
+东风东 : 39
+东山 : 49
+东山 : 49
+东川路 : 5
+东川路 : 5
+大沙头 : 3
+大沙头 : 3
+二沙岛 : 4
+二沙岛 : 4
+环市东 : 27
+环市东 : 27
+解放北 : 11
+解放北 : 11
+解放南 : 28
+解放南 : 28
+建设路 : 18
+建设路 : 18
+淘金 : 44
+淘金 : 44
+五羊新城 : 14
+五羊新城 : 14
+小北 : 15
+小北 : 15
+西门口 : 1
+http://guangzhou.anjuke.com/sale/beijinglu/,越秀,北京路,27
+http://guangzhou.anjuke.com/sale/dongfengdong/,越秀,东风东,39
+http://guangzhou.anjuke.com/sale/dongshan/,越秀,东山,49
+http://guangzhou.anjuke.com/sale/dongchuanlu/,越秀,东川路,5
+http://guangzhou.anjuke.com/sale/dashatou/,越秀,大沙头,3
+http://guangzhou.anjuke.com/sale/ershadao/,越秀,二沙岛,4
+http://guangzhou.anjuke.com/sale/huanshidonga/,越秀,环市东,27
+http://guangzhou.anjuke.com/sale/jiefangbei/,越秀,解放北,11
+http://guangzhou.anjuke.com/sale/jiefangnan/,越秀,解放南,28
+http://guangzhou.anjuke.com/sale/jianshelu/,越秀,建设路,18
+http://guangzhou.anjuke.com/sale/taojin/,越秀,淘金,44
+http://guangzhou.anjuke.com/sale/wuyangxincheng/,越秀,五羊新城,14
+http://guangzhou.anjuke.com/sale/xiaobei/,越秀,小北,15
+http://guangzhou.anjuke.com/sale/ximenkou/,越秀,西门口,1
+
+西门口 : 1
+陈家祠 : 19
+陈家祠 : 19
+东风西 : 12
+东风西 : 12
+芳村 : 97
+芳村 : 97
+环市西 : 13
+环市西 : 13
+黄沙 : 8
+黄沙 : 8
+窖口 : 5
+窖口 : 5
+南岸 : 17
+南岸 : 17
+西关 : 49
+西关 : 49
+中山八路 : 28
+中山八路 : 28
+http://guangzhou.anjuke.com/sale/chenjiaci/,荔湾,陈家祠,19
+http://guangzhou.anjuke.com/sale/dongfengxi/,荔湾,东风西,12
+http://guangzhou.anjuke.com/sale/fangcun/,荔湾,芳村,97
+http://guangzhou.anjuke.com/sale/huanshixi/,荔湾,环市西,13
+http://guangzhou.anjuke.com/sale/huangsha/,荔湾,黄沙,8
+http://guangzhou.anjuke.com/sale/jiaokou/,荔湾,窖口,5
+http://guangzhou.anjuke.com/sale/nanan/,荔湾,南岸,17
+http://guangzhou.anjuke.com/sale/xiguan/,荔湾,西关,49
+http://guangzhou.anjuke.com/sale/zhongshanbalu/,荔湾,中山八路,28
+
+宝岗 : 43
+宝岗 : 43
+滨江东 : 89
+滨江东 : 89
+赤岗 : 33
+赤岗 : 33
+昌岗路 : 26
+昌岗路 : 26
+东晓 : 48
+东晓 : 48
+广州大道南 : 41
+广州大道南 : 41
+工业大道北 : 53
+工业大道北 : 53
+工业大道南 : 59
+工业大道南 : 59
+江南西 : 31
+江南西 : 31
+江燕路 : 24
+江燕路 : 24
+南洲 : 69
+南洲 : 69
+前进路 : 28
+前进路 : 28
+新港西 : 66
+新港西 : 66
+http://guangzhou.anjuke.com/sale/baogang/,海珠,宝岗,43
+http://guangzhou.anjuke.com/sale/binjiangdong/,海珠,滨江东,89
+http://guangzhou.anjuke.com/sale/chigang/,海珠,赤岗,33
+http://guangzhou.anjuke.com/sale/changganglu/,海珠,昌岗路,26
+http://guangzhou.anjuke.com/sale/dongxiao/,海珠,东晓,48
+http://guangzhou.anjuke.com/sale/guangzhoudadaonan/,海珠,广州大道南,41
+http://guangzhou.anjuke.com/sale/gongyedadaobei/,海珠,工业大道北,53
+http://guangzhou.anjuke.com/sale/gongyedadaonan/,海珠,工业大道南,59
+http://guangzhou.anjuke.com/sale/jiangnanxi/,海珠,江南西,31
+http://guangzhou.anjuke.com/sale/jiangyanlu/,海珠,江燕路,24
+http://guangzhou.anjuke.com/sale/nanzhou/,海珠,南洲,69
+http://guangzhou.anjuke.com/sale/qianjinlu/,海珠,前进路,28
+http://guangzhou.anjuke.com/sale/xingangxi/,海珠,新港西,66
+
+白云大道 : 60
+白云大道 : 60
+桂花岗 : 3
+桂花岗 : 3
+广园路 : 32
+广园路 : 32
+黄石 : 41
+黄石 : 41
+机场路 : 69
+机场路 : 69
+金沙洲 : 41
+金沙洲 : 41
+罗冲围 : 27
+罗冲围 : 27
+南湖 : 13
+南湖 : 13
+三元里 : 17
+三元里 : 17
+同和 : 79
+同和 : 79
+同德围 : 27
+同德围 : 27
+新市 : 39
+新市 : 39
+http://guangzhou.anjuke.com/sale/baiyundadao/,白云,白云大道,60
+http://guangzhou.anjuke.com/sale/guihuagang/,白云,桂花岗,3
+http://guangzhou.anjuke.com/sale/guangyuanlua/,白云,广园路,32
+http://guangzhou.anjuke.com/sale/huangshi/,白云,黄石,41
+http://guangzhou.anjuke.com/sale/jichanglu/,白云,机场路,69
+http://guangzhou.anjuke.com/sale/jinshazhou/,白云,金沙洲,41
+http://guangzhou.anjuke.com/sale/luochongwei/,白云,罗冲围,27
+http://guangzhou.anjuke.com/sale/nanhuh/,白云,南湖,13
+http://guangzhou.anjuke.com/sale/sanyuanli/,白云,三元里,17
+http://guangzhou.anjuke.com/sale/tongheb/,白云,同和,79
+http://guangzhou.anjuke.com/sale/tongdewei/,白云,同德围,27
+http://guangzhou.anjuke.com/sale/xinshi/,白云,新市,39
+
+大石 : 63
+大石 : 63
+广州雅居乐花园 : 33
+广州雅居乐花园 : 33
+华南 : 77
+华南 : 77
+洛溪 : 74
+洛溪 : 74
+南浦 : 53
+南浦 : 53
+祈福 : 235
+祈福#一室 : 3
+祈福#二室 : 96
+祈福#三室 : 93
+祈福#四室 : 30
+祈福#五室 : 13
+祈福#五室以上 : 3
+祈福#roomNumbuerTotal:238, roomNumbuerOriginCount:235
+顺德碧桂园 : 60
+顺德碧桂园 : 60
+市桥西 : 6
+市桥西 : 6
+市桥北 : 28
+市桥北 : 28
+市桥南 : 43
+市桥南 : 43
+石基 : 18
+石基 : 18
+市桥东 : 22
+市桥东 : 22
+钟村 : 58
+钟村 : 58
+http://guangzhou.anjuke.com/sale/dashi/,番禺,大石,63
+http://guangzhou.anjuke.com/sale/guangzhouyajulehuayuan/,番禺,广州雅居乐花园,33
+http://guangzhou.anjuke.com/sale/huanan/,番禺,华南,77
+http://guangzhou.anjuke.com/sale/luoxi/,番禺,洛溪,74
+http://guangzhou.anjuke.com/sale/nanpu/,番禺,南浦,53
+http://guangzhou.anjuke.com/sale/qifu/b41,番禺,祈福#一室,3
+http://guangzhou.anjuke.com/sale/qifu/b43,番禺,祈福#二室,96
+http://guangzhou.anjuke.com/sale/qifu/b49,番禺,祈福#三室,93
+http://guangzhou.anjuke.com/sale/qifu/b50,番禺,祈福#四室,30
+http://guangzhou.anjuke.com/sale/qifu/b51,番禺,祈福#五室,13
+http://guangzhou.anjuke.com/sale/qifu/b52,番禺,祈福#五室以上,3
+http://guangzhou.anjuke.com/sale/shundebiguiyuan/,番禺,顺德碧桂园,60
+http://guangzhou.anjuke.com/sale/shiqiaoxi/,番禺,市桥西,6
+http://guangzhou.anjuke.com/sale/shiqiaobei/,番禺,市桥北,28
+http://guangzhou.anjuke.com/sale/shiqiaonan/,番禺,市桥南,43
+http://guangzhou.anjuke.com/sale/shijia/,番禺,石基,18
+http://guangzhou.anjuke.com/sale/shiqiaodong/,番禺,市桥东,22
+http://guangzhou.anjuke.com/sale/zhongcun/,番禺,钟村,58
+
+广园东 : 54
+广园东 : 54
+荔城 : 4
+荔城 : 4
+新塘 : 91
+新塘 : 91
+永和镇 : 8
+永和镇 : 8
+中新镇 : 1
+中新镇 : 1
+http://guangzhou.anjuke.com/sale/guangyuandong/,增城,广园东,54
+http://guangzhou.anjuke.com/sale/lichengc/,增城,荔城,4
+http://guangzhou.anjuke.com/sale/xintang/,增城,新塘,91
+http://guangzhou.anjuke.com/sale/yonghezhen/,增城,永和镇,8
+http://guangzhou.anjuke.com/sale/zhongxinzhen/,增城,中新镇,1
+
+旧区 : 86
+旧区 : 86
+清远 : 2
+清远 : 2
+狮岭 : 69
+狮岭 : 69
+新区 : 155
+新区#一室 : 3
+新区#二室 : 39
+新区#三室 : 99
+新区#四室 : 12
+新区#五室 : 4
+新区#五室以上 : 1
+新区#roomNumbuerTotal:158, roomNumbuerOriginCount:155
+http://guangzhou.anjuke.com/sale/jiuqu/,花都,旧区,86
+http://guangzhou.anjuke.com/sale/qingyuan/,花都,清远,2
+http://guangzhou.anjuke.com/sale/shiling/,花都,狮岭,69
+http://guangzhou.anjuke.com/sale/xinqu/b41,花都,新区#一室,3
+http://guangzhou.anjuke.com/sale/xinqu/b43,花都,新区#二室,39
+http://guangzhou.anjuke.com/sale/xinqu/b49,花都,新区#三室,99
+http://guangzhou.anjuke.com/sale/xinqu/b50,花都,新区#四室,12
+http://guangzhou.anjuke.com/sale/xinqu/b51,花都,新区#五室,4
+http://guangzhou.anjuke.com/sale/xinqu/b52,花都,新区#五室以上,1
+
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0
+开发东区 : 15
+开发东区 : 15
+开发西区 : 7
+开发西区 : 7
+萝岗 : 6
+萝岗 : 6
+http://guangzhou.anjuke.com/sale/kaifadongqu/,萝岗,开发东区,15
+http://guangzhou.anjuke.com/sale/kaifaxiqu/,萝岗,开发西区,7
+http://guangzhou.anjuke.com/sale/luoganga/,萝岗,萝岗,6
+
+input index:0 is beyond result size:0
+input index:0 is beyond result size:0

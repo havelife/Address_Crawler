@@ -1,0 +1,13 @@
+http://guangzhou.anjuke.com/sale/tianhe/,天河
+http://guangzhou.anjuke.com/sale/yuexiu/,越秀
+http://guangzhou.anjuke.com/sale/liwan/,荔湾
+http://guangzhou.anjuke.com/sale/haizhu/,海珠
+http://guangzhou.anjuke.com/sale/baiyun/,白云
+http://guangzhou.anjuke.com/sale/fanyu/,番禺
+http://guangzhou.anjuke.com/sale/zengcheng/,增城
+http://guangzhou.anjuke.com/sale/huadu/,花都
+http://guangzhou.anjuke.com/sale/huangpua/,黄埔
+http://guangzhou.anjuke.com/sale/nansha/,南沙
+http://guangzhou.anjuke.com/sale/luogang/,萝岗
+http://guangzhou.anjuke.com/sale/conghua/,从化
+http://foshan.anjuke.com/sale/,广佛同城
