@@ -1,0 +1,11 @@
+http://jilin.anjuke.com/sale/chuanying/,船营区
+http://jilin.anjuke.com/sale/changhuanglv/,昌邑区
+http://jilin.anjuke.com/sale/fengman/,丰满区
+http://jilin.anjuke.com/sale/longtanzhep/,龙潭区
+http://jilin.anjuke.com/sale/gaoxinyuanquc/,高新区
+http://jilin.anjuke.com/sale/jingkaiquc/,经开区
+http://jilin.anjuke.com/sale/yongjixian/,永吉县
+http://jilin.anjuke.com/sale/shulanshi/,舒兰市
+http://jilin.anjuke.com/sale/panshishi/,磐石市
+http://jilin.anjuke.com/sale/jiaoheshi/,蛟河市
+http://jilin.anjuke.com/sale/huadianshi/,桦甸市

@@ -20,7 +20,7 @@ public class ParserUtil {
 	public static Elements parseUrlWithRegex(String url, String regex){
 		try {
 
-			Document doc = Jsoup.connect(url).timeout(5000).get();
+			Document doc = Jsoup.connect(url).timeout(10000).get();
 			Elements elems = doc.select(regex);
 			return elems;
 		} catch (IOException e) {

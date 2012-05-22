@@ -1,0 +1,10 @@
+http://chongqing.anjuke.com/sale/yuzhong/,渝中
+http://chongqing.anjuke.com/sale/jiangbei/,江北
+http://chongqing.anjuke.com/sale/yubei/,渝北
+http://chongqing.anjuke.com/sale/nanana/,南岸
+http://chongqing.anjuke.com/sale/shapingba/,沙坪坝
+http://chongqing.anjuke.com/sale/jiulongpo/,九龙坡
+http://chongqing.anjuke.com/sale/dadukou/,大渡口
+http://chongqing.anjuke.com/sale/banan/,巴南
+http://chongqing.anjuke.com/sale/beibei/,北碚
+http://chongqing.anjuke.com/sale/qitak/,其他

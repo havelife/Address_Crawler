@@ -1,0 +1,12 @@
+http://yt.anjuke.com/sale/fushanqu/,福山区
+http://yt.anjuke.com/sale/kaifaquj/,开发区
+http://yt.anjuke.com/sale/longkoushi/,龙口市
+http://yt.anjuke.com/sale/laishanqu/,莱山区
+http://yt.anjuke.com/sale/zhifuqu/,芝罘区
+http://yt.anjuke.com/sale/zhaoyuanshi/,招远市
+http://yt.anjuke.com/sale/gaoxinquf/,高新区
+http://yt.anjuke.com/sale/laizhoushi/,莱州市
+http://yt.anjuke.com/sale/mupingqu/,牟平区
+http://yt.anjuke.com/sale/penglaishi/,蓬莱市
+http://yt.anjuke.com/sale/qixiashi/,栖霞市
+http://yt.anjuke.com/sale/haiyangshi/,海阳市

@@ -1,0 +1,11 @@
+http://heb.anjuke.com/sale/xinyanglu/,道里,新阳路,1
+http://heb.anjuke.com/sale/zhongyangdajie/,道里,中央大街,1
+http://heb.anjuke.com/sale/daxuechengi/,呼兰,大学城,1
+http://heb.anjuke.com/sale/hulana/,呼兰,呼兰,1
+http://heb.anjuke.com/sale/gongrenwenhuagong/,南岗,工人文化宫,1
+http://heb.anjuke.com/sale/jiaohuaguangchang/,南岗,教化广场,1
+http://heb.anjuke.com/sale/shida/,南岗,师大,1
+http://heb.anjuke.com/sale/xuefulua/,南岗,学府路,1
+http://heb.anjuke.com/sale/sixiangfang/,香坊,西香坊,1
+http://heb.anjuke.com/sale/xiangfanggongyuan/,香坊,香坊公园,1
+http://heb.anjuke.com/sale/acheng/,其他,阿城,1

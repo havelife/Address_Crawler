@@ -1,0 +1,14 @@
+http://yichang.anjuke.com/sale/yiling/,夷陵区
+http://yichang.anjuke.com/sale/xiling/,西陵区
+http://yichang.anjuke.com/sale/wujiagang/,伍家岗区
+http://yichang.anjuke.com/sale/dianjun/,点军区
+http://yichang.anjuke.com/sale/xiaoting/,猇亭区
+http://yichang.anjuke.com/sale/yidu/,宜都市
+http://yichang.anjuke.com/sale/dangyang/,当阳市
+http://yichang.anjuke.com/sale/zhijiangb/,枝江市
+http://yichang.anjuke.com/sale/dongshankaifaqu/,东山开发区
+http://yichang.anjuke.com/sale/yuananxian/,远安县
+http://yichang.anjuke.com/sale/xingshanxian/,兴山县
+http://yichang.anjuke.com/sale/ziguixian/,秭归县
+http://yichang.anjuke.com/sale/changyangtujiazu/,长阳土家族自治县
+http://yichang.anjuke.com/sale/wufengtujiazu/,五峰土家族自治县

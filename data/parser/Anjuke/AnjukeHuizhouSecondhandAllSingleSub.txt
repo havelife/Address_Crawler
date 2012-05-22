@@ -1,0 +1,12 @@
+http://huizhou.anjuke.com/sale/dongpinglv/,惠城区,东平,1
+http://huizhou.anjuke.com/sale/henanan/,惠城区,河南岸,1
+http://huizhou.anjuke.com/sale/jinshanhu/,惠城区,金山湖,1
+http://huizhou.anjuke.com/sale/longfeng/,惠城区,龙丰,1
+http://huizhou.anjuke.com/sale/maidi/,惠城区,麦地,1
+http://huizhou.anjuke.com/sale/nantanxiapu/,惠城区,南坛下埔,1
+http://huizhou.anjuke.com/sale/shangpai/,惠城区,上排,1
+http://huizhou.anjuke.com/sale/danshui/,惠阳区,淡水,2
+http://huizhou.anjuke.com/sale/aotou/,大亚湾区,澳头,1
+http://huizhou.anjuke.com/sale/xiqua/,大亚湾区,西区,1
+http://huizhou.anjuke.com/sale/zhongxinquc/,大亚湾区,中心区,1
+http://huizhou.anjuke.com/sale/dalingshao/,惠东县,大岭,1

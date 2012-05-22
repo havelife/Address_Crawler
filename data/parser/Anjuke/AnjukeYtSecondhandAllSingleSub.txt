@@ -1,0 +1,12 @@
+http://yt.anjuke.com/sale/fuhailu/,福山区,福海路,3
+http://yt.anjuke.com/sale/fushanqua/,福山区,福山区,1
+http://yt.anjuke.com/sale/songxialu/,福山区,松霞路,2
+http://yt.anjuke.com/sale/desheng/,开发区,德胜,1
+http://yt.anjuke.com/sale/huangheluyibei/,开发区,黄河路以北,1
+http://yt.anjuke.com/sale/kaifaquk/,开发区,开发区,1
+http://yt.anjuke.com/sale/tiandiguangchang/,开发区,天地广场,1
+http://yt.anjuke.com/sale/dujiaqu/,龙口市,度假区,1
+http://yt.anjuke.com/sale/chujia/,莱山区,初家,1
+http://yt.anjuke.com/sale/daxuechengh/,莱山区,大学城,1
+http://yt.anjuke.com/sale/yingchundajie/,莱山区,迎春大街,1
+http://yt.anjuke.com/sale/zhifuqua/,芝罘区,芝罘区,1

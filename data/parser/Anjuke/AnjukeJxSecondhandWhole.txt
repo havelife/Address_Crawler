@@ -1,0 +1,9 @@
+http://jx.anjuke.com/sale/jiashan/,嘉善
+http://jx.anjuke.com/sale/pinghub/,平湖
+http://jx.anjuke.com/sale/haiyan/,海盐
+http://jx.anjuke.com/sale/haining/,海宁
+http://jx.anjuke.com/sale/tongxiang/,桐乡
+http://jx.anjuke.com/sale/xiuzhou/,秀洲
+http://jx.anjuke.com/sale/nanhu/,南湖
+http://jx.anjuke.com/sale/shiqu/,市区
+http://jx.anjuke.com/sale/jingjikaifaquf/,经济开发区

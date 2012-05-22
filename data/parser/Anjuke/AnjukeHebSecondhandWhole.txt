@@ -1,0 +1,7 @@
+http://heb.anjuke.com/sale/daoli/,道里
+http://heb.anjuke.com/sale/daowai/,道外
+http://heb.anjuke.com/sale/hulan/,呼兰
+http://heb.anjuke.com/sale/nanganga/,南岗
+http://heb.anjuke.com/sale/songbei/,松北
+http://heb.anjuke.com/sale/xiangfang/,香坊
+http://heb.anjuke.com/sale/qitabx/,其他

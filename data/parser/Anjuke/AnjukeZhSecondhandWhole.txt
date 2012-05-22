@@ -1,0 +1,4 @@
+http://zh.anjuke.com/sale/doumen/,斗门
+http://zh.anjuke.com/sale/jinwan/,金湾
+http://zh.anjuke.com/sale/xiangzhou/,香洲
+http://zh.anjuke.com/sale/qitabu/,其他

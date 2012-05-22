@@ -1,0 +1,13 @@
+http://nanjing.anjuke.com/sale/jiangninga/,江宁
+http://nanjing.anjuke.com/sale/guloua/,鼓楼
+http://nanjing.anjuke.com/sale/baixia/,白下
+http://nanjing.anjuke.com/sale/xuanwub/,玄武
+http://nanjing.anjuke.com/sale/jianye/,建邺
+http://nanjing.anjuke.com/sale/qinhuai/,秦淮
+http://nanjing.anjuke.com/sale/xiaguan/,下关
+http://nanjing.anjuke.com/sale/yuhuatai/,雨花台
+http://nanjing.anjuke.com/sale/pukou/,浦口
+http://nanjing.anjuke.com/sale/qixia/,栖霞
+http://nanjing.anjuke.com/sale/liuhe/,六合
+http://nanjing.anjuke.com/sale/lishuia/,溧水
+http://nanjing.anjuke.com/sale/gaochun/,高淳

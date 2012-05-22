@@ -1,0 +1,9 @@
+http://nantong.anjuke.com/sale/chongchuan/,崇川
+http://nantong.anjuke.com/sale/gangzha/,港闸
+http://nantong.anjuke.com/sale/haimenshi/,海门市
+http://nantong.anjuke.com/sale/haianxian/,海安县
+http://nantong.anjuke.com/sale/kaifaqum/,开发区
+http://nantong.anjuke.com/sale/qidongshi/,启东市
+http://nantong.anjuke.com/sale/rugaoshi/,如皋市
+http://nantong.anjuke.com/sale/rudongxian/,如东县
+http://nantong.anjuke.com/sale/tongzhoubeiyuao/,通州

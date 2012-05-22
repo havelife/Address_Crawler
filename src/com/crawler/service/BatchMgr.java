@@ -29,6 +29,10 @@ public class BatchMgr {
 			System.out.println("start regex or end regex does not exist in batchCreateJob source file.");
 			return;
 		}
+		if (fileContent.equals("^\n$\n")) {
+			System.out.println("only contains start regex or end regex, nothing else exist in batchCreateJob source file.");
+			return;
+		}
 		//这里有额外的调整 起始点，1是因为substring函数本身特点，2是因为换行符遗留
 		fileContent = fileContent.substring(startIdx + 2, endIdx - 1);
 		String[] contentArr = fileContent.split(CrawlerConstants.BATCH_FILE_LINE_RETURN);

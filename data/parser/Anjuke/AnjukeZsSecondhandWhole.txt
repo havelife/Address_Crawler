@@ -1,0 +1,10 @@
+http://zs.anjuke.com/sale/dongqu/,东区
+http://zs.anjuke.com/sale/shiqiqu/,石岐区
+http://zs.anjuke.com/sale/xiaolanzhen/,小榄镇
+http://zs.anjuke.com/sale/huojuqu/,火炬区
+http://zs.anjuke.com/sale/xiqub/,西区
+http://zs.anjuke.com/sale/tanzhouzhena/,坦洲镇
+http://zs.anjuke.com/sale/gangkouzhena/,港口镇
+http://zs.anjuke.com/sale/nanqua/,南区
+http://zs.anjuke.com/sale/sanxiangzhena/,三乡镇
+http://zs.anjuke.com/sale/qitabv/,其他

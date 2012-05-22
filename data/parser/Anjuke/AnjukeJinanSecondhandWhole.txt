@@ -1,0 +1,11 @@
+http://jinan.anjuke.com/sale/shizhong/,市中
+http://jinan.anjuke.com/sale/lixia/,历下
+http://jinan.anjuke.com/sale/tianqiao/,天桥
+http://jinan.anjuke.com/sale/licheng/,历城
+http://jinan.anjuke.com/sale/gaoxind/,高新
+http://jinan.anjuke.com/sale/huaiyin/,槐荫
+http://jinan.anjuke.com/sale/changqingb/,长清
+http://jinan.anjuke.com/sale/zhangqiu/,章丘
+http://jinan.anjuke.com/sale/jiyang/,济阳
+http://jinan.anjuke.com/sale/shanghe/,商河
+http://jinan.anjuke.com/sale/pingyin/,平阴

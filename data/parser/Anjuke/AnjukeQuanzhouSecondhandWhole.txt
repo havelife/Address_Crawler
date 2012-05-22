@@ -1,0 +1,12 @@
+http://quanzhou.anjuke.com/sale/anxixian/,安溪县
+http://quanzhou.anjuke.com/sale/dehuaxian/,德化县
+http://quanzhou.anjuke.com/sale/fengzequ/,丰泽区
+http://quanzhou.anjuke.com/sale/huianxian/,惠安县
+http://quanzhou.anjuke.com/sale/jinjiangshi/,晋江市
+http://quanzhou.anjuke.com/sale/lichengqu/,鲤城区
+http://quanzhou.anjuke.com/sale/luojiangqu/,洛江区
+http://quanzhou.anjuke.com/sale/nananshi/,南安市
+http://quanzhou.anjuke.com/sale/quangangqu/,泉港区
+http://quanzhou.anjuke.com/sale/shishishi/,石狮市
+http://quanzhou.anjuke.com/sale/yongchunxian/,永春县
+http://quanzhou.anjuke.com/sale/qingmengkaifaqu/,清濛开发区

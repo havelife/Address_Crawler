@@ -1,0 +1,13 @@
+http://chengdu.anjuke.com/sale/wuhou/,武侯
+http://chengdu.anjuke.com/sale/jinjiang/,锦江
+http://chengdu.anjuke.com/sale/qingyang/,青羊
+http://chengdu.anjuke.com/sale/jinniu/,金牛
+http://chengdu.anjuke.com/sale/chenghua/,成华
+http://chengdu.anjuke.com/sale/gaoxin/,高新
+http://chengdu.anjuke.com/sale/longquanyi/,龙泉驿
+http://chengdu.anjuke.com/sale/shuangliu/,双流
+http://chengdu.anjuke.com/sale/xindu/,新都
+http://chengdu.anjuke.com/sale/wenjiang/,温江
+http://chengdu.anjuke.com/sale/dujiangyan/,都江堰
+http://chengdu.anjuke.com/sale/pixian/,郫县
+http://chengdu.anjuke.com/sale/zhoubianxianshi/,周边县市

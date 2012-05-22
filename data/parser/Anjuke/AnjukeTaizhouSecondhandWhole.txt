@@ -1,0 +1,10 @@
+http://taizhou.anjuke.com/sale/chengzhongqu/,城中区
+http://taizhou.anjuke.com/sale/chengdongqu/,城东区
+http://taizhou.anjuke.com/sale/chengnanqu/,城南区
+http://taizhou.anjuke.com/sale/chengxiqu/,城西区
+http://taizhou.anjuke.com/sale/chengbeiqu/,城北区
+http://taizhou.anjuke.com/sale/gaogangqu/,高港区
+http://taizhou.anjuke.com/sale/jingjiangshi/,靖江市
+http://taizhou.anjuke.com/sale/jiangyanshi/,姜堰市
+http://taizhou.anjuke.com/sale/taixingshi/,泰兴市
+http://taizhou.anjuke.com/sale/xinghuashi/,兴化市

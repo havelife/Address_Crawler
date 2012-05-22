@@ -1,0 +1,9 @@
+http://wuhan.anjuke.com/sale/jiangan/,江岸
+http://wuhan.anjuke.com/sale/jianghana/,江汉
+http://wuhan.anjuke.com/sale/wuchanga/,武昌
+http://wuhan.anjuke.com/sale/qiaokou/,硚口
+http://wuhan.anjuke.com/sale/hanyang/,汉阳
+http://wuhan.anjuke.com/sale/hongshana/,洪山
+http://wuhan.anjuke.com/sale/qingshan/,青山
+http://wuhan.anjuke.com/sale/dongxihu/,东西湖
+http://wuhan.anjuke.com/sale/qitao/,其他

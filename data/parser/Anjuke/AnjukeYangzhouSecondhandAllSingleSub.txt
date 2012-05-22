@@ -1,0 +1,13 @@
+http://yangzhou.anjuke.com/sale/darunfahanjiangdian/,邗江区,大润发邗江店,1
+http://yangzhou.anjuke.com/sale/hanjianggongyeyuan/,邗江区,邗江工业园,1
+http://yangzhou.anjuke.com/sale/jinghuacheng/,邗江区,京华城,1
+http://yangzhou.anjuke.com/sale/meiqixuexiao/,邗江区,美琪学校,1
+http://yangzhou.anjuke.com/sale/xiandaiguangchang/,邗江区,现代广场,1
+http://yangzhou.anjuke.com/sale/guanglingchanyeyuan/,广陵区,广陵产业园,1
+http://yangzhou.anjuke.com/sale/hehuachi/,广陵区,荷花池,1
+http://yangzhou.anjuke.com/sale/qujianggongyuan/,广陵区,曲江公园,1
+http://yangzhou.anjuke.com/sale/wenchangge/,广陵区,文昌阁,1
+http://yangzhou.anjuke.com/sale/caohe/,维扬区,漕河,1
+http://yangzhou.anjuke.com/sale/jiangyanggongyeyuan/,维扬区,江阳工业园,1
+http://yangzhou.anjuke.com/sale/shouxihu/,维扬区,瘦西湖,1
+http://yangzhou.anjuke.com/sale/oushang/,开发区,欧尚,1
