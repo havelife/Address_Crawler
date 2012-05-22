@@ -74,6 +74,15 @@ public class BatchMgrTest {
 	
 	/***********************************************************/
 	/*
+	 *安居客，上海，租房
+	 * */
+	@Test
+	public void batchCreateJobTestAnjukeShanghaiRent(){
+		batchMgr.batchCreateJobAndDownload("./data/batch/Anjuke/AnjukeShanghaiRentBatchCreateJobFile.txt");
+	}
+	
+	/***********************************************************/
+	/*
 	 *安居客，深圳，二手房
 	 * */
 	@Test
