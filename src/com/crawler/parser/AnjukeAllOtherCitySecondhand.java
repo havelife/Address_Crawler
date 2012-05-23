@@ -42,7 +42,6 @@ public class AnjukeAllOtherCitySecondhand {
 		FileUtil.writeStr2File(sb.toString(), ALL_OTHER_CITY_FILE_PATH, "utf-8");
 	}
 
-	@Test
 	public static void createAllOtherCityBatchJobFile(){
 		String content = FileUtil.getDataFile2StrKeepReturn(ALL_OTHER_CITY_FILE_PATH, "utf-8");
 		String[] lineArr = content.split("\n");
@@ -74,10 +73,49 @@ public class AnjukeAllOtherCitySecondhand {
 			System.out.println("/***************************************************************/");
 		}
 	}
+	
+	/*
+	 * 将前面产生的Prepare的BatchJob文件 添加上起始标志，并且重新生成新的文件，（不含Prepare的后缀了）
+	 * */
+	public static void createAllOtherCityBatchJobReadyFile(){
+		String content = FileUtil.getDataFile2StrKeepReturn(ALL_OTHER_CITY_FILE_PATH, "utf-8");
+		String[] lineArr = content.split("\n");
+		ArrayList<Pair> cityAndSubdomainList = new ArrayList<Pair>();
+		//提取所有的城市和子域名的对应关系
+		for (String line : lineArr ) {
+			String[] attrArr = line.split(",");
+			String href = attrArr[0];
+			String city = attrArr[1];
+			String subDomain = href.substring(href.lastIndexOf("/") + 1, href.indexOf(".", href.lastIndexOf("/")));
+			
+			Pair pair = new Pair();
+			pair.setKey(city);
+			pair.setValue(subDomain);
+			cityAndSubdomainList.add(pair);
+			System.out.println(city + " : " + subDomain);
+		}
+		System.out.println("/----------------------------------------------------------------/");
+		System.out.println("all cities and their subdomains extraction is completed!");
+		System.out.println("/----------------------------------------------------------------/");
+		
+		
+		for (Pair pair : cityAndSubdomainList) {
+			String URL_SUBDOMAIN = pair.getValue();
+			String CITY_PINYING = URL_SUBDOMAIN.toUpperCase().charAt(0) + URL_SUBDOMAIN.substring(1);
+			String BATCH_FILE_PREPARE_PATH = "./data/batch/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "BatchCreateJobFilePrepare.txt";
+			String BATCH_FILE_READY_PATH = "./data/batch/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "BatchCreateJobFile.txt";
+			
+			String fileContent = FileUtil.getDataFile2StrKeepReturn(BATCH_FILE_PREPARE_PATH, "utf-8");
+			fileContent = "^" + "\n" + fileContent + "$" + "\n";
+			FileUtil.writeStr2File(fileContent, BATCH_FILE_READY_PATH, "utf-8");
+			System.out.println(BATCH_FILE_READY_PATH + " is completed!");
+		}
+	}
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		createAllOtherCityBatchJobFile();
+		createAllOtherCityBatchJobReadyFile();
+		//createAllOtherCityBatchJobFile();
 	}
 }
