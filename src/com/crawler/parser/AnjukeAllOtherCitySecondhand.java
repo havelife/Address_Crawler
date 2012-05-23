@@ -19,6 +19,8 @@ public class AnjukeAllOtherCitySecondhand {
 	
 	public static final String ALL_OTHER_CITY_FILE_PATH = "./data/parser/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + "AllOtherCityWhole.txt";
 	public static final String TYPE_PINYING = "Secondhand";
+	
+	public static ArrayList<Pair> cityAndSubdomainList;
 
 	/*
 	 * http://www.anjuke.com/index/ 上的所有其它城市，（除去 北上广 还有深圳）
@@ -41,11 +43,12 @@ public class AnjukeAllOtherCitySecondhand {
 		System.out.println(sb.toString());
 		FileUtil.writeStr2File(sb.toString(), ALL_OTHER_CITY_FILE_PATH, "utf-8");
 	}
-
-	public static void createAllOtherCityBatchJobFile(){
+	
+	//提取所有的城市和子域名的对应关系
+	public static void initCityAndSubdomainList(){
 		String content = FileUtil.getDataFile2StrKeepReturn(ALL_OTHER_CITY_FILE_PATH, "utf-8");
 		String[] lineArr = content.split("\n");
-		ArrayList<Pair> cityAndSubdomainList = new ArrayList<Pair>();
+		cityAndSubdomainList = new ArrayList<Pair>();
 		//提取所有的城市和子域名的对应关系
 		for (String line : lineArr ) {
 			String[] attrArr = line.split(",");
@@ -62,7 +65,11 @@ public class AnjukeAllOtherCitySecondhand {
 		System.out.println("/----------------------------------------------------------------/");
 		System.out.println("all cities and their subdomains extraction is completed!");
 		System.out.println("/----------------------------------------------------------------/");
-		
+	}
+	
+	public static void createAllOtherCityBatchJobFile(){
+		//提取所有的城市和子域名的对应关系
+		initCityAndSubdomainList();
 		
 		//根据提取到的对应关系，进行所有城市的batchfile的创建
 		for (Pair pair : cityAndSubdomainList){
@@ -78,26 +85,8 @@ public class AnjukeAllOtherCitySecondhand {
 	 * 将前面产生的Prepare的BatchJob文件 添加上起始标志，并且重新生成新的文件，（不含Prepare的后缀了）
 	 * */
 	public static void createAllOtherCityBatchJobReadyFile(){
-		String content = FileUtil.getDataFile2StrKeepReturn(ALL_OTHER_CITY_FILE_PATH, "utf-8");
-		String[] lineArr = content.split("\n");
-		ArrayList<Pair> cityAndSubdomainList = new ArrayList<Pair>();
 		//提取所有的城市和子域名的对应关系
-		for (String line : lineArr ) {
-			String[] attrArr = line.split(",");
-			String href = attrArr[0];
-			String city = attrArr[1];
-			String subDomain = href.substring(href.lastIndexOf("/") + 1, href.indexOf(".", href.lastIndexOf("/")));
-			
-			Pair pair = new Pair();
-			pair.setKey(city);
-			pair.setValue(subDomain);
-			cityAndSubdomainList.add(pair);
-			System.out.println(city + " : " + subDomain);
-		}
-		System.out.println("/----------------------------------------------------------------/");
-		System.out.println("all cities and their subdomains extraction is completed!");
-		System.out.println("/----------------------------------------------------------------/");
-		
+		initCityAndSubdomainList();
 		
 		for (Pair pair : cityAndSubdomainList) {
 			String URL_SUBDOMAIN = pair.getValue();
@@ -111,11 +100,25 @@ public class AnjukeAllOtherCitySecondhand {
 			System.out.println(BATCH_FILE_READY_PATH + " is completed!");
 		}
 	}
+	
+	public static ArrayList<String> getBatchJobFilePath4AllOtherCitySecondhand(){
+		//提取所有的城市和子域名的对应关系
+		initCityAndSubdomainList();
+		ArrayList<String> filePathList = new ArrayList<String>();
+		for (Pair pair : cityAndSubdomainList) {
+			String URL_SUBDOMAIN = pair.getValue();
+			String CITY_PINYING = URL_SUBDOMAIN.toUpperCase().charAt(0) + URL_SUBDOMAIN.substring(1);
+			String BATCH_FILE_READY_PATH = "./data/batch/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "BatchCreateJobFile.txt";
+			filePathList.add(BATCH_FILE_READY_PATH);
+		}
+		return filePathList;
+	}
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		createAllOtherCityBatchJobReadyFile();
+		System.out.println(getBatchJobFilePath4AllOtherCitySecondhand());
+		//createAllOtherCityBatchJobReadyFile();
 		//createAllOtherCityBatchJobFile();
 	}
 }
