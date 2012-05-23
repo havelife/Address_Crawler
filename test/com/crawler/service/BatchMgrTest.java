@@ -1,9 +1,14 @@
 package com.crawler.service;
 
+import java.util.ArrayList;
+
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.crawler.parser.AnjukeAllOtherCitySecondhand;
+import com.crawler.util.ListUtil;
 
 public class BatchMgrTest {
 	private static ClassPathXmlApplicationContext ctx;
@@ -116,6 +121,23 @@ public class BatchMgrTest {
 	@Test
 	public void testEmpty(){
 		batchMgr.batchCreateJobAndDownload("./data/batch/Anjuke/Empty.txt");
+	}
+	
+	/***********************************************************/
+	/*
+	 *安居客，除了北、上、广、深的二手房
+	 * */
+	@Test
+	public void batchCreateJobTestAnjukeAllOtherCitySecondhand(){
+		ArrayList<String> filePathList = AnjukeAllOtherCitySecondhand.getBatchJobFilePath4AllOtherCitySecondhand();
+		if (ListUtil.isBlank(filePathList)) {
+			System.err.println("filePathList is empty!");
+			return;
+		}
+		for (String filePath : filePathList) {
+			batchMgr.batchCreateJobAndDownload(filePath);
+		}
+		System.out.println("batchCreateJobTestAnjukeAllOtherCitySecondhand completed!");
 	}
 	
 }

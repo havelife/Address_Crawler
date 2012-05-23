@@ -1,0 +1,17 @@
+^
+http://huhehaote.anjuke.com/sale/chiyu/p,,1,1,1,呼和浩特,安居客-二手房#赛罕#驰誉,http://huhehaote.anjuke.com/sale/chiyu/
+http://huhehaote.anjuke.com/sale/dongwayao/p,,1,1,1,呼和浩特,安居客-二手房#赛罕#东瓦窑,http://huhehaote.anjuke.com/sale/dongwayao/
+http://huhehaote.anjuke.com/sale/eerduosi/p,,1,1,1,呼和浩特,安居客-二手房#赛罕#鄂尔多斯东街,http://huhehaote.anjuke.com/sale/eerduosi/
+http://huhehaote.anjuke.com/sale/fengzhoulu/p,,1,1,1,呼和浩特,安居客-二手房#赛罕#丰州路,http://huhehaote.anjuke.com/sale/fengzhoulu/
+http://huhehaote.anjuke.com/sale/jindishangcheng/p,,1,1,1,呼和浩特,安居客-二手房#赛罕#金帝商城,http://huhehaote.anjuke.com/sale/jindishangcheng/
+http://huhehaote.anjuke.com/sale/saihanquzhengfu/p,,1,1,1,呼和浩特,安居客-二手房#赛罕#赛罕区政府,http://huhehaote.anjuke.com/sale/saihanquzhengfu/
+http://huhehaote.anjuke.com/sale/zhiwuyuanpianqv/p,,1,1,1,呼和浩特,安居客-二手房#回民#植物园,http://huhehaote.anjuke.com/sale/zhiwuyuanpianqv/
+http://huhehaote.anjuke.com/sale/dazhao/p,,1,1,1,呼和浩特,安居客-二手房#玉泉#大召,http://huhehaote.anjuke.com/sale/dazhao/
+http://huhehaote.anjuke.com/sale/nanchafang/p,,1,1,1,呼和浩特,安居客-二手房#玉泉#南茶坊,http://huhehaote.anjuke.com/sale/nanchafang/
+http://huhehaote.anjuke.com/sale/shiyangqiao/p,,1,1,1,呼和浩特,安居客-二手房#玉泉#石羊桥,http://huhehaote.anjuke.com/sale/shiyangqiao/
+http://huhehaote.anjuke.com/sale/wutasi/p,,1,1,1,呼和浩特,安居客-二手房#玉泉#五塔寺,http://huhehaote.anjuke.com/sale/wutasi/
+http://huhehaote.anjuke.com/sale/bayishichang/p,,1,1,1,呼和浩特,安居客-二手房#新城#八一市场,http://huhehaote.anjuke.com/sale/bayishichang/
+http://huhehaote.anjuke.com/sale/guanghuajie/p,,1,1,1,呼和浩特,安居客-二手房#新城#光华街,http://huhehaote.anjuke.com/sale/guanghuajie/
+http://huhehaote.anjuke.com/sale/gulouyiyuao/p,,1,1,1,呼和浩特,安居客-二手房#新城#鼓楼,http://huhehaote.anjuke.com/sale/gulouyiyuao/
+http://huhehaote.anjuke.com/sale/haidonglu/p,,1,1,1,呼和浩特,安居客-二手房#新城#海东路,http://huhehaote.anjuke.com/sale/haidonglu/
+$

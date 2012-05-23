@@ -1,0 +1,13 @@
+^
+http://heb.anjuke.com/sale/xinyanglu/p,,1,1,1,哈尔滨,安居客-二手房#道里#新阳路,http://heb.anjuke.com/sale/xinyanglu/
+http://heb.anjuke.com/sale/zhongyangdajie/p,,1,1,1,哈尔滨,安居客-二手房#道里#中央大街,http://heb.anjuke.com/sale/zhongyangdajie/
+http://heb.anjuke.com/sale/daxuechengi/p,,1,1,1,哈尔滨,安居客-二手房#呼兰#大学城,http://heb.anjuke.com/sale/daxuechengi/
+http://heb.anjuke.com/sale/hulana/p,,1,1,1,哈尔滨,安居客-二手房#呼兰#呼兰,http://heb.anjuke.com/sale/hulana/
+http://heb.anjuke.com/sale/gongrenwenhuagong/p,,1,1,1,哈尔滨,安居客-二手房#南岗#工人文化宫,http://heb.anjuke.com/sale/gongrenwenhuagong/
+http://heb.anjuke.com/sale/jiaohuaguangchang/p,,1,1,1,哈尔滨,安居客-二手房#南岗#教化广场,http://heb.anjuke.com/sale/jiaohuaguangchang/
+http://heb.anjuke.com/sale/shida/p,,1,1,1,哈尔滨,安居客-二手房#南岗#师大,http://heb.anjuke.com/sale/shida/
+http://heb.anjuke.com/sale/xuefulua/p,,1,1,1,哈尔滨,安居客-二手房#南岗#学府路,http://heb.anjuke.com/sale/xuefulua/
+http://heb.anjuke.com/sale/sixiangfang/p,,1,1,1,哈尔滨,安居客-二手房#香坊#西香坊,http://heb.anjuke.com/sale/sixiangfang/
+http://heb.anjuke.com/sale/xiangfanggongyuan/p,,1,1,1,哈尔滨,安居客-二手房#香坊#香坊公园,http://heb.anjuke.com/sale/xiangfanggongyuan/
+http://heb.anjuke.com/sale/acheng/p,,1,1,1,哈尔滨,安居客-二手房#其他#阿城,http://heb.anjuke.com/sale/acheng/
+$
