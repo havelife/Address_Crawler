@@ -1,0 +1,13 @@
+http://guilin.anjuke.com/rental/jiashanb/,秀峰区,甲山,1
+http://guilin.anjuke.com/rental/shizijiea/,秀峰区,十字街,1
+http://guilin.anjuke.com/rental/beimen/,叠彩区,北门,1
+http://guilin.anjuke.com/rental/ludi/,叠彩区,芦笛,1
+http://guilin.anjuke.com/rental/dafengshan/,象山区,大风山,1
+http://guilin.anjuke.com/rental/longchuanping/,象山区,龙船坪,1
+http://guilin.anjuke.com/rental/tiexitiyuchanh/,象山区,铁西,1
+http://guilin.anjuke.com/rental/wayao/,象山区,瓦窑,1
+http://guilin.anjuke.com/rental/xiangshand/,象山区,象山,1
+http://guilin.anjuke.com/rental/chuanshan/,七星区,穿山,1
+http://guilin.anjuke.com/rental/gaoxinqui/,七星区,高新区,1
+http://guilin.anjuke.com/rental/pingfeng/,七星区,屏风,1
+http://guilin.anjuke.com/rental/sanlidian/,七星区,三里店,1

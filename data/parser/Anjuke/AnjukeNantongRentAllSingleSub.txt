@@ -1,0 +1,12 @@
+http://nantong.anjuke.com/rental/chengdongbankuai/,崇川,城东版块,1
+http://nantong.anjuke.com/rental/chengnanbankuai/,崇川,城南版块,1
+http://nantong.anjuke.com/rental/chengxibankuai/,崇川,城西版块,1
+http://nantong.anjuke.com/rental/chengbeibankuai/,崇川,城北版块,1
+http://nantong.anjuke.com/rental/guanyinshanbankuai/,崇川,观音山版块,1
+http://nantong.anjuke.com/rental/langshanbankuai/,崇川,狼山版块,1
+http://nantong.anjuke.com/rental/shizhongxin/,崇川,市中心,1
+http://nantong.anjuke.com/rental/qitaxiangzhenaaa/,港闸,其他乡镇,1
+http://nantong.anjuke.com/rental/tangzhabankuai/,港闸,唐闸版块,1
+http://nantong.anjuke.com/rental/yongxingbankuai/,港闸,永兴版块,1
+http://nantong.anjuke.com/rental/xiaohaibankuai/,开发区,小海版块,1
+http://nantong.anjuke.com/rental/xiangzhenbankuai/,开发区,乡镇版块,1

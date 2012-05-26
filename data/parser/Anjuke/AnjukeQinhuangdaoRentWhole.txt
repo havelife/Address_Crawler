@@ -1,0 +1,7 @@
+http://qinhuangdao.anjuke.com/rental/haigang/,海港
+http://qinhuangdao.anjuke.com/rental/beidaihe/,北戴河
+http://qinhuangdao.anjuke.com/rental/funingxian/,抚宁县
+http://qinhuangdao.anjuke.com/rental/shanhaiguan/,山海关
+http://qinhuangdao.anjuke.com/rental/changlixian/,昌黎县
+http://qinhuangdao.anjuke.com/rental/lulongxian/,卢龙县
+http://qinhuangdao.anjuke.com/rental/qinglongxian/,青龙县

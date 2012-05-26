@@ -1,0 +1,11 @@
+http://baoding.anjuke.com/rental/lianchinandajie/p,,1,1,1,保定,安居客-租房#南市区#莲池南大街,http://baoding.anjuke.com/rental/lianchinandajie/
+http://baoding.anjuke.com/rental/tianweidonglu/p,,1,1,1,保定,安居客-租房#南市区#天威东路,http://baoding.anjuke.com/rental/tianweidonglu/
+http://baoding.anjuke.com/rental/dongfengdonglua/p,,1,1,1,保定,安居客-租房#北市区#东风东路,http://baoding.anjuke.com/rental/dongfengdonglua/
+http://baoding.anjuke.com/rental/fuxingzhonglua/p,,1,1,1,保定,安居客-租房#北市区#复兴中路,http://baoding.anjuke.com/rental/fuxingzhonglua/
+http://baoding.anjuke.com/rental/lianchibeidajie/p,,1,1,1,保定,安居客-租房#北市区#莲池北大街,http://baoding.anjuke.com/rental/lianchibeidajie/
+http://baoding.anjuke.com/rental/qiyidonglu/p,,1,1,1,保定,安居客-租房#北市区#七一东路,http://baoding.anjuke.com/rental/qiyidonglu/
+http://baoding.anjuke.com/rental/qiyixilu/p,,1,1,1,保定,安居客-租房#新市区#七一西路,http://baoding.anjuke.com/rental/qiyixilu/
+http://baoding.anjuke.com/rental/tianweixilu/p,,1,1,1,保定,安居客-租房#新市区#天威西路,http://baoding.anjuke.com/rental/tianweixilu/
+http://baoding.anjuke.com/rental/yangguangbeidajie/p,,1,1,1,保定,安居客-租房#新市区#阳光北大街,http://baoding.anjuke.com/rental/yangguangbeidajie/
+http://baoding.anjuke.com/rental/chaoyangbeidajie/p,,1,1,1,保定,安居客-租房#高新#朝阳北大街,http://baoding.anjuke.com/rental/chaoyangbeidajie/
+http://baoding.anjuke.com/rental/xueyuanjie/p,,1,1,1,保定,安居客-租房#高新#学院街,http://baoding.anjuke.com/rental/xueyuanjie/

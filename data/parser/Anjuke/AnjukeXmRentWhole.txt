@@ -1,0 +1,6 @@
+http://xm.anjuke.com/rental/siming/,思明
+http://xm.anjuke.com/rental/huli/,湖里
+http://xm.anjuke.com/rental/tongana/,同安
+http://xm.anjuke.com/rental/jimei/,集美
+http://xm.anjuke.com/rental/haicang/,海沧
+http://xm.anjuke.com/rental/qitabw/,其他

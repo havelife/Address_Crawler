@@ -1,0 +1,7 @@
+http://cs.anjuke.com/rental/yuelu/,岳麓
+http://cs.anjuke.com/rental/tianxin/,天心
+http://cs.anjuke.com/rental/yuhuah/,雨花
+http://cs.anjuke.com/rental/kaifu/,开福
+http://cs.anjuke.com/rental/furong/,芙蓉
+http://cs.anjuke.com/rental/xingsha/,星沙
+http://cs.anjuke.com/rental/zhoubianxianshic/,周边县市

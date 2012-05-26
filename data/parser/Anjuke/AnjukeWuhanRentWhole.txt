@@ -1,0 +1,9 @@
+http://wuhan.anjuke.com/rental/jiangan/,江岸
+http://wuhan.anjuke.com/rental/jianghana/,江汉
+http://wuhan.anjuke.com/rental/wuchanga/,武昌
+http://wuhan.anjuke.com/rental/qiaokou/,硚口
+http://wuhan.anjuke.com/rental/hanyang/,汉阳
+http://wuhan.anjuke.com/rental/hongshana/,洪山
+http://wuhan.anjuke.com/rental/qingshan/,青山
+http://wuhan.anjuke.com/rental/dongxihu/,东西湖
+http://wuhan.anjuke.com/rental/qitao/,其他

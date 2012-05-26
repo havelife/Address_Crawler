@@ -1,0 +1,5 @@
+http://haikou.anjuke.com/rental/longhuab/,龙华
+http://haikou.anjuke.com/rental/meilan/,美兰
+http://haikou.anjuke.com/rental/xiuying/,秀英
+http://haikou.anjuke.com/rental/qiongshan/,琼山
+http://haikou.anjuke.com/rental/qitaby/,其他

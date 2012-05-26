@@ -1,0 +1,10 @@
+http://chongqing.anjuke.com/rental/yuzhong/,渝中
+http://chongqing.anjuke.com/rental/jiangbei/,江北
+http://chongqing.anjuke.com/rental/yubei/,渝北
+http://chongqing.anjuke.com/rental/nanana/,南岸
+http://chongqing.anjuke.com/rental/shapingba/,沙坪坝
+http://chongqing.anjuke.com/rental/jiulongpo/,九龙坡
+http://chongqing.anjuke.com/rental/dadukou/,大渡口
+http://chongqing.anjuke.com/rental/banan/,巴南
+http://chongqing.anjuke.com/rental/beibei/,北碚
+http://chongqing.anjuke.com/rental/qitak/,其他

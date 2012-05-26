@@ -1,0 +1,7 @@
+http://fz.anjuke.com/rental/guloue/,鼓楼
+http://fz.anjuke.com/rental/taijiang/,台江
+http://fz.anjuke.com/rental/jinana/,晋安
+http://fz.anjuke.com/rental/cangshan/,仓山
+http://fz.anjuke.com/rental/mawei/,马尾
+http://fz.anjuke.com/rental/minhou/,闽侯
+http://fz.anjuke.com/rental/zhoubianxianshib/,周边县市

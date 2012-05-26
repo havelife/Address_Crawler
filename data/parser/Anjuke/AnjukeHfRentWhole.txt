@@ -1,0 +1,11 @@
+http://hf.anjuke.com/rental/luyangqu/,庐阳区
+http://hf.anjuke.com/rental/baohequ/,包河区
+http://hf.anjuke.com/rental/yaohaiqu/,瑶海区
+http://hf.anjuke.com/rental/shushanqu/,蜀山区
+http://hf.anjuke.com/rental/gaoxinqud/,高新区
+http://hf.anjuke.com/rental/jingkaiqub/,经开区
+http://hf.anjuke.com/rental/zhengwuqu/,政务区
+http://hf.anjuke.com/rental/binhuxinqu/,滨湖新区
+http://hf.anjuke.com/rental/xinzhanqu/,新站区
+http://hf.anjuke.com/rental/qitabt/,其他
+http://hf.anjuke.com/rental/chaohushi/,巢湖市

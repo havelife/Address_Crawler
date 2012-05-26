@@ -1,0 +1,12 @@
+http://xuzhou.anjuke.com/rental/quanshan/,泉山
+http://xuzhou.anjuke.com/rental/yunlongqu/,云龙区
+http://xuzhou.anjuke.com/rental/gulouqu/,鼓楼区
+http://xuzhou.anjuke.com/rental/tongshanqu/,铜山区
+http://xuzhou.anjuke.com/rental/jinshankaifaqu/,金山开发区
+http://xuzhou.anjuke.com/rental/xinchengquzhengfv/,新城区
+http://xuzhou.anjuke.com/rental/xinyishi/,新沂市
+http://xuzhou.anjuke.com/rental/pizhoushi/,邳州市
+http://xuzhou.anjuke.com/rental/peixian/,沛县
+http://xuzhou.anjuke.com/rental/fengxiana/,丰县
+http://xuzhou.anjuke.com/rental/suiningshi/,睢宁市
+http://xuzhou.anjuke.com/rental/jiawang/,贾汪

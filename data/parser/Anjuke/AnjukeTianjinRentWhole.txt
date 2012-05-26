@@ -1,0 +1,14 @@
+http://tianjin.anjuke.com/rental/hepingc/,和平
+http://tianjin.anjuke.com/rental/hexi/,河西
+http://tianjin.anjuke.com/rental/nankai/,南开
+http://tianjin.anjuke.com/rental/hebei/,河北
+http://tianjin.anjuke.com/rental/hedong/,河东
+http://tianjin.anjuke.com/rental/hongqiaob/,红桥
+http://tianjin.anjuke.com/rental/xiqing/,西青
+http://tianjin.anjuke.com/rental/jinnan/,津南
+http://tianjin.anjuke.com/rental/dongli/,东丽
+http://tianjin.anjuke.com/rental/beichen/,北辰
+http://tianjin.anjuke.com/rental/qital/,其他
+http://tianjin.anjuke.com/rental/tanggu/,塘沽
+http://tianjin.anjuke.com/rental/kaifaquc/,开发区
+http://tianjin.anjuke.com/rental/dagang/,大港

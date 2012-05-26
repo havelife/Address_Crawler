@@ -1,0 +1,9 @@
+http://nantong.anjuke.com/rental/chongchuan/,崇川
+http://nantong.anjuke.com/rental/gangzha/,港闸
+http://nantong.anjuke.com/rental/haimenshi/,海门市
+http://nantong.anjuke.com/rental/haianxian/,海安县
+http://nantong.anjuke.com/rental/kaifaqum/,开发区
+http://nantong.anjuke.com/rental/qidongshi/,启东市
+http://nantong.anjuke.com/rental/rugaoshi/,如皋市
+http://nantong.anjuke.com/rental/rudongxian/,如东县
+http://nantong.anjuke.com/rental/tongzhoubeiyuao/,通州

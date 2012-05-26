@@ -1,0 +1,13 @@
+http://hangzhou.anjuke.com/rental/gongshu/,拱墅
+http://hangzhou.anjuke.com/rental/jianggan/,江干
+http://hangzhou.anjuke.com/rental/shangcheng/,上城
+http://hangzhou.anjuke.com/rental/xihu/,西湖
+http://hangzhou.anjuke.com/rental/xiacheng/,下城
+http://hangzhou.anjuke.com/rental/binjiangb/,滨江
+http://hangzhou.anjuke.com/rental/xiaoshan/,萧山
+http://hangzhou.anjuke.com/rental/yuhang/,余杭
+http://hangzhou.anjuke.com/rental/linan/,临安
+http://hangzhou.anjuke.com/rental/fuyang/,富阳
+http://hangzhou.anjuke.com/rental/jiande/,建德
+http://hangzhou.anjuke.com/rental/tonglu/,桐庐
+http://hangzhou.anjuke.com/rental/chunan/,淳安

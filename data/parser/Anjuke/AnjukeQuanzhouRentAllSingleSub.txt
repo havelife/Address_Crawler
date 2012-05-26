@@ -1,0 +1,13 @@
+http://quanzhou.anjuke.com/rental/chengdongbankuaj/,丰泽区,城东,1
+http://quanzhou.anjuke.com/rental/donghailub/,丰泽区,东海,1
+http://quanzhou.anjuke.com/rental/donghuzhoubiao/,丰泽区,东湖,1
+http://quanzhou.anjuke.com/rental/fengzejiedao/,丰泽区,丰泽街道,1
+http://quanzhou.anjuke.com/rental/fengzeshangchang/,丰泽区,丰泽商城,1
+http://quanzhou.anjuke.com/rental/lizhonggongyequ/,丰泽区,鲤中工业区,1
+http://quanzhou.anjuke.com/rental/quanxiu/,丰泽区,泉秀,1
+http://quanzhou.anjuke.com/rental/yungugongyequ/,丰泽区,云谷工业区,1
+http://quanzhou.anjuke.com/rental/zhengfuguangchang/,丰泽区,政府广场,1
+http://quanzhou.anjuke.com/rental/baihuigouwuzhongxin/,鲤城区,百汇购物中心,1
+http://quanzhou.anjuke.com/rental/kaiyuanlv/,鲤城区,开元,1
+http://quanzhou.anjuke.com/rental/qiaonanpianqu/,鲤城区,桥南片区,1
+http://quanzhou.anjuke.com/rental/xihuzhoubiao/,鲤城区,西湖,1

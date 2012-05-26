@@ -1,0 +1,10 @@
+http://xa.anjuke.com/rental/chengbeic/,城北
+http://xa.anjuke.com/rental/chengnand/,城南
+http://xa.anjuke.com/rental/chengdong/,城东
+http://xa.anjuke.com/rental/chengxib/,城西
+http://xa.anjuke.com/rental/chengnei/,城内
+http://xa.anjuke.com/rental/gaoxini/,高新
+http://xa.anjuke.com/rental/changanb/,长安
+http://xa.anjuke.com/rental/zhoubianc/,周边
+http://xa.anjuke.com/rental/qujiangqu/,曲江区
+http://xa.anjuke.com/rental/chanba/,浐灞

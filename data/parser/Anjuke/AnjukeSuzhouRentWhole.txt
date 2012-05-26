@@ -1,0 +1,12 @@
+http://suzhou.anjuke.com/rental/yuanqu/,园区
+http://suzhou.anjuke.com/rental/xinqua/,新区
+http://suzhou.anjuke.com/rental/pingjianga/,平江
+http://suzhou.anjuke.com/rental/canglang/,沧浪
+http://suzhou.anjuke.com/rental/jinchang/,金阊
+http://suzhou.anjuke.com/rental/wuzhong/,吴中
+http://suzhou.anjuke.com/rental/xiangcheng/,相城
+http://suzhou.anjuke.com/rental/wujiang/,吴江
+http://suzhou.anjuke.com/rental/taicang/,太仓
+http://suzhou.anjuke.com/rental/changshua/,常熟
+http://suzhou.anjuke.com/rental/zhangjiagang/,张家港
+http://ks.anjuke.com/rental/,昆山

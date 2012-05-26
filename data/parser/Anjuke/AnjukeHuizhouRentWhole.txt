@@ -1,0 +1,7 @@
+http://huizhou.anjuke.com/rental/huichengqua/,惠城区
+http://huizhou.anjuke.com/rental/zhongkaiqua/,仲恺区
+http://huizhou.anjuke.com/rental/huiyangqua/,惠阳区
+http://huizhou.anjuke.com/rental/dayawanqua/,大亚湾区
+http://huizhou.anjuke.com/rental/boluoqu/,博罗区
+http://huizhou.anjuke.com/rental/huidongxiana/,惠东县
+http://huizhou.anjuke.com/rental/longmenxiana/,龙门县

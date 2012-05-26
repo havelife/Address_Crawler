@@ -1,0 +1,9 @@
+http://sjz.anjuke.com/rental/yuhuaf/,裕华
+http://sjz.anjuke.com/rental/changana/,长安
+http://sjz.anjuke.com/rental/qiaodong/,桥东
+http://sjz.anjuke.com/rental/qiaoxi/,桥西
+http://sjz.anjuke.com/rental/xinhuaf/,新华
+http://sjz.anjuke.com/rental/kaifaqui/,开发区
+http://sjz.anjuke.com/rental/zhengding/,正定
+http://sjz.anjuke.com/rental/luquanshi/,鹿泉市
+http://sjz.anjuke.com/rental/qitaquxian/,其他区县

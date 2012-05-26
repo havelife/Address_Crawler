@@ -1,0 +1,11 @@
+http://jilin.anjuke.com/rental/chuanying/,船营区
+http://jilin.anjuke.com/rental/changhuanglv/,昌邑区
+http://jilin.anjuke.com/rental/fengman/,丰满区
+http://jilin.anjuke.com/rental/longtanzhep/,龙潭区
+http://jilin.anjuke.com/rental/gaoxinyuanquc/,高新区
+http://jilin.anjuke.com/rental/jingkaiquc/,经开区
+http://jilin.anjuke.com/rental/yongjixian/,永吉县
+http://jilin.anjuke.com/rental/shulanshi/,舒兰市
+http://jilin.anjuke.com/rental/panshishi/,磐石市
+http://jilin.anjuke.com/rental/jiaoheshi/,蛟河市
+http://jilin.anjuke.com/rental/huadianshi/,桦甸市

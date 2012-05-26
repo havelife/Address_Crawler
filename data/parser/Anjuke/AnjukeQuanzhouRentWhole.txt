@@ -1,0 +1,12 @@
+http://quanzhou.anjuke.com/rental/anxixian/,安溪县
+http://quanzhou.anjuke.com/rental/dehuaxian/,德化县
+http://quanzhou.anjuke.com/rental/fengzequ/,丰泽区
+http://quanzhou.anjuke.com/rental/huianxian/,惠安县
+http://quanzhou.anjuke.com/rental/jinjiangshi/,晋江市
+http://quanzhou.anjuke.com/rental/lichengqu/,鲤城区
+http://quanzhou.anjuke.com/rental/luojiangqu/,洛江区
+http://quanzhou.anjuke.com/rental/nananshi/,南安市
+http://quanzhou.anjuke.com/rental/quangangqu/,泉港区
+http://quanzhou.anjuke.com/rental/shishishi/,石狮市
+http://quanzhou.anjuke.com/rental/yongchunxian/,永春县
+http://quanzhou.anjuke.com/rental/qingmengkaifaqu/,清濛开发区

@@ -1,0 +1,14 @@
+http://yichang.anjuke.com/rental/yiling/,夷陵区
+http://yichang.anjuke.com/rental/xiling/,西陵区
+http://yichang.anjuke.com/rental/wujiagang/,伍家岗区
+http://yichang.anjuke.com/rental/dianjun/,点军区
+http://yichang.anjuke.com/rental/xiaoting/,猇亭区
+http://yichang.anjuke.com/rental/yidu/,宜都市
+http://yichang.anjuke.com/rental/dangyang/,当阳市
+http://yichang.anjuke.com/rental/zhijiangb/,枝江市
+http://yichang.anjuke.com/rental/dongshankaifaqu/,东山开发区
+http://yichang.anjuke.com/rental/yuananxian/,远安县
+http://yichang.anjuke.com/rental/xingshanxian/,兴山县
+http://yichang.anjuke.com/rental/ziguixian/,秭归县
+http://yichang.anjuke.com/rental/changyangtujiazu/,长阳土家族自治县
+http://yichang.anjuke.com/rental/wufengtujiazu/,五峰土家族自治县

@@ -1,0 +1,11 @@
+http://baoding.anjuke.com/rental/lianchinandajie/,南市区,莲池南大街,1
+http://baoding.anjuke.com/rental/tianweidonglu/,南市区,天威东路,1
+http://baoding.anjuke.com/rental/dongfengdonglua/,北市区,东风东路,1
+http://baoding.anjuke.com/rental/fuxingzhonglua/,北市区,复兴中路,1
+http://baoding.anjuke.com/rental/lianchibeidajie/,北市区,莲池北大街,1
+http://baoding.anjuke.com/rental/qiyidonglu/,北市区,七一东路,1
+http://baoding.anjuke.com/rental/qiyixilu/,新市区,七一西路,1
+http://baoding.anjuke.com/rental/tianweixilu/,新市区,天威西路,1
+http://baoding.anjuke.com/rental/yangguangbeidajie/,新市区,阳光北大街,1
+http://baoding.anjuke.com/rental/chaoyangbeidajie/,高新,朝阳北大街,1
+http://baoding.anjuke.com/rental/xueyuanjie/,高新,学院街,1

@@ -1,0 +1,9 @@
+http://wuxi.anjuke.com/rental/chongan/,崇安
+http://wuxi.anjuke.com/rental/nanchang/,南长
+http://wuxi.anjuke.com/rental/beitanga/,北塘
+http://wuxi.anjuke.com/rental/xishand/,锡山
+http://wuxi.anjuke.com/rental/huishana/,惠山
+http://wuxi.anjuke.com/rental/binhu/,滨湖
+http://wuxi.anjuke.com/rental/xinqud/,新区
+http://wuxi.anjuke.com/rental/jiangyin/,江阴
+http://wuxi.anjuke.com/rental/yixinga/,宜兴

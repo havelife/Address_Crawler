@@ -1,0 +1,12 @@
+http://dalian.anjuke.com/rental/pulandiana/,普兰店
+http://dalian.anjuke.com/rental/xigang/,西岗
+http://dalian.anjuke.com/rental/zhongshane/,中山
+http://dalian.anjuke.com/rental/shahekou/,沙河口
+http://dalian.anjuke.com/rental/ganjingzi/,甘井子
+http://dalian.anjuke.com/rental/gaoxinyuanqua/,高新园区
+http://dalian.anjuke.com/rental/lvshunkou/,旅顺口
+http://dalian.anjuke.com/rental/jinzhou/,金州
+http://dalian.anjuke.com/rental/kaifaqug/,开发区
+http://dalian.anjuke.com/rental/qitan/,其他
+http://dalian.anjuke.com/rental/changxingdaoa/,长兴岛
+http://dalian.anjuke.com/rental/wafangdiana/,瓦房店

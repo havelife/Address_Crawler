@@ -1,0 +1,4 @@
+http://zh.anjuke.com/rental/doumen/,斗门
+http://zh.anjuke.com/rental/jinwan/,金湾
+http://zh.anjuke.com/rental/xiangzhou/,香洲
+http://zh.anjuke.com/rental/qitabu/,其他

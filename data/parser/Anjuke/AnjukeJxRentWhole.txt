@@ -1,0 +1,9 @@
+http://jx.anjuke.com/rental/jiashan/,嘉善
+http://jx.anjuke.com/rental/pinghub/,平湖
+http://jx.anjuke.com/rental/haiyan/,海盐
+http://jx.anjuke.com/rental/haining/,海宁
+http://jx.anjuke.com/rental/tongxiang/,桐乡
+http://jx.anjuke.com/rental/xiuzhou/,秀洲
+http://jx.anjuke.com/rental/nanhu/,南湖
+http://jx.anjuke.com/rental/shiqu/,市区
+http://jx.anjuke.com/rental/jingjikaifaquf/,经济开发区

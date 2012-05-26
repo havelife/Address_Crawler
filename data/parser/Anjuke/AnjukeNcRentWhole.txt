@@ -1,0 +1,10 @@
+http://nc.anjuke.com/rental/donghu/,东湖
+http://nc.anjuke.com/rental/xihub/,西湖
+http://nc.anjuke.com/rental/qingshanhua/,青山湖
+http://nc.anjuke.com/rental/qingyunpu/,青云谱
+http://nc.anjuke.com/rental/wanlia/,湾里
+http://nc.anjuke.com/rental/gaoxina/,高新
+http://nc.anjuke.com/rental/honggutan/,红谷滩
+http://nc.anjuke.com/rental/changbei/,昌北
+http://nc.anjuke.com/rental/xinjianxian/,新建县
+http://nc.anjuke.com/rental/nanchangxian/,南昌县

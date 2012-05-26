@@ -1,0 +1,10 @@
+http://zhengzhou.anjuke.com/rental/zhongmou/,中牟
+http://zhengzhou.anjuke.com/rental/zhongyuanb/,中原
+http://zhengzhou.anjuke.com/rental/jinshui/,金水
+http://zhengzhou.anjuke.com/rental/guanchenga/,管城
+http://zhengzhou.anjuke.com/rental/erqic/,二七
+http://zhengzhou.anjuke.com/rental/huiji/,惠济
+http://zhengzhou.anjuke.com/rental/zhengdongxinqu/,郑东新区
+http://zhengzhou.anjuke.com/rental/gaoxinqub/,高新区
+http://zhengzhou.anjuke.com/rental/jingjikaifaqu/,经济开发区
+http://zhengzhou.anjuke.com/rental/zhoubianxianshia/,周边县市

@@ -1,0 +1,13 @@
+http://nanjing.anjuke.com/rental/jiangninga/,江宁
+http://nanjing.anjuke.com/rental/guloua/,鼓楼
+http://nanjing.anjuke.com/rental/baixia/,白下
+http://nanjing.anjuke.com/rental/xuanwub/,玄武
+http://nanjing.anjuke.com/rental/jianye/,建邺
+http://nanjing.anjuke.com/rental/qinhuai/,秦淮
+http://nanjing.anjuke.com/rental/xiaguan/,下关
+http://nanjing.anjuke.com/rental/yuhuatai/,雨花台
+http://nanjing.anjuke.com/rental/pukou/,浦口
+http://nanjing.anjuke.com/rental/qixia/,栖霞
+http://nanjing.anjuke.com/rental/liuhe/,六合
+http://nanjing.anjuke.com/rental/lishuia/,溧水
+http://nanjing.anjuke.com/rental/gaochun/,高淳

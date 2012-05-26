@@ -1,0 +1,15 @@
+http://luoyang.anjuke.com/rental/wangchengguangchang/,西工区,王城广场,1
+http://luoyang.anjuke.com/rental/wangfujinga/,西工区,王府井,1
+http://luoyang.anjuke.com/rental/xigongqv/,西工区,西工,1
+http://luoyang.anjuke.com/rental/jianxiqv/,涧西区,涧西,1
+http://luoyang.anjuke.com/rental/shanghaishichang/,涧西区,上海市场,1
+http://luoyang.anjuke.com/rental/wandaguangchanga/,涧西区,万达广场,1
+http://luoyang.anjuke.com/rental/guanlin/,洛龙区,关林,1
+http://luoyang.anjuke.com/rental/luolongqv/,洛龙区,洛龙,1
+http://luoyang.anjuke.com/rental/yinyuepengquan/,洛龙区,音乐喷泉,1
+http://luoyang.anjuke.com/rental/beidajiec/,老城区,北大街,1
+http://luoyang.anjuke.com/rental/laochengxianh/,老城区,老城,1
+http://luoyang.anjuke.com/rental/chanhea/,瀍河区,瀍河,1
+http://luoyang.anjuke.com/rental/qiminglu/,瀍河区,启明路,1
+http://luoyang.anjuke.com/rental/dazhangshengdemei/,吉利区,大张盛德美,1
+http://luoyang.anjuke.com/rental/jiliqv/,吉利区,吉利,1

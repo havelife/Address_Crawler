@@ -1,0 +1,12 @@
+http://yt.anjuke.com/rental/fushanqu/,福山区
+http://yt.anjuke.com/rental/kaifaquj/,开发区
+http://yt.anjuke.com/rental/longkoushi/,龙口市
+http://yt.anjuke.com/rental/laishanqu/,莱山区
+http://yt.anjuke.com/rental/zhifuqu/,芝罘区
+http://yt.anjuke.com/rental/zhaoyuanshi/,招远市
+http://yt.anjuke.com/rental/gaoxinquf/,高新区
+http://yt.anjuke.com/rental/laizhoushi/,莱州市
+http://yt.anjuke.com/rental/mupingqu/,牟平区
+http://yt.anjuke.com/rental/penglaishi/,蓬莱市
+http://yt.anjuke.com/rental/qixiashi/,栖霞市
+http://yt.anjuke.com/rental/haiyangshi/,海阳市

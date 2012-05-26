@@ -1,0 +1,14 @@
+http://lanzhou.anjuke.com/rental/feijiaying/,安宁,费家营,1
+http://lanzhou.anjuke.com/rental/huangheshichang/,安宁,黄河市场,1
+http://lanzhou.anjuke.com/rental/peliguangchang/,安宁,培黎广场,1
+http://lanzhou.anjuke.com/rental/dongbuguangchang/,城关,东部市场,1
+http://lanzhou.anjuke.com/rental/dongfanghongguangchang/,城关,东方红广场,1
+http://lanzhou.anjuke.com/rental/huochezhanj/,城关,火车站,1
+http://lanzhou.anjuke.com/rental/huanghebei/,城关,黄河北,1
+http://lanzhou.anjuke.com/rental/jiuzhou/,城关,九州,1
+http://lanzhou.anjuke.com/rental/panxuanlu/,城关,盘旋路,1
+http://lanzhou.anjuke.com/rental/wuquanguangchang/,城关,五泉广场,1
+http://lanzhou.anjuke.com/rental/xiguanshenzi/,城关,西关什字,1
+http://lanzhou.anjuke.com/rental/yantan/,城关,雁滩,1
+http://lanzhou.anjuke.com/rental/xiaoxihu/,七里河,小西湖,1
+http://lanzhou.anjuke.com/rental/xizhanh/,七里河,西站,1

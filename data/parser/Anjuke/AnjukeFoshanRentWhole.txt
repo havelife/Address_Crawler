@@ -1,0 +1,6 @@
+http://foshan.anjuke.com/rental/shundequ/,顺德区
+http://foshan.anjuke.com/rental/chanchengqu/,禅城区
+http://foshan.anjuke.com/rental/nanhaiqu/,南海区
+http://foshan.anjuke.com/rental/sanshuiqu/,三水区
+http://foshan.anjuke.com/rental/gaomingqu/,高明区
+http://guangzhou.anjuke.com/rental/,广佛同城

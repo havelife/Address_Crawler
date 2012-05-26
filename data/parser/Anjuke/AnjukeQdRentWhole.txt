@@ -1,0 +1,12 @@
+http://qd.anjuke.com/rental/chengyangqu/,城阳区
+http://qd.anjuke.com/rental/laoshanqu/,崂山区
+http://qd.anjuke.com/rental/shinanqu/,市南区
+http://qd.anjuke.com/rental/licangqu/,李沧区
+http://qd.anjuke.com/rental/shibeiqu/,市北区
+http://qd.anjuke.com/rental/huangdaoqu/,黄岛区
+http://qd.anjuke.com/rental/sifangqu/,四方区
+http://qd.anjuke.com/rental/jiaonanshi/,胶南市
+http://qd.anjuke.com/rental/jimoshi/,即墨市
+http://qd.anjuke.com/rental/laixishi/,莱西市
+http://qd.anjuke.com/rental/jiaozhoushi/,胶州市
+http://qd.anjuke.com/rental/pingdushi/,平度市

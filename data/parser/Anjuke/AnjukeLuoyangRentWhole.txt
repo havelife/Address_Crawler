@@ -1,0 +1,15 @@
+http://luoyang.anjuke.com/rental/xigongqu/,西工区
+http://luoyang.anjuke.com/rental/jianxiqu/,涧西区
+http://luoyang.anjuke.com/rental/luolongqu/,洛龙区
+http://luoyang.anjuke.com/rental/laochengqub/,老城区
+http://luoyang.anjuke.com/rental/chanhe/,瀍河区
+http://luoyang.anjuke.com/rental/jiliqu/,吉利区
+http://luoyang.anjuke.com/rental/yanshishi/,偃师市
+http://luoyang.anjuke.com/rental/luanchuanxian/,栾川县
+http://luoyang.anjuke.com/rental/mengjinxian/,孟津县
+http://luoyang.anjuke.com/rental/yichuanxian/,伊川县
+http://luoyang.anjuke.com/rental/yiyangxian/,宜阳县
+http://luoyang.anjuke.com/rental/xinanxian/,新安县
+http://luoyang.anjuke.com/rental/songxian/,嵩县
+http://luoyang.anjuke.com/rental/luoningxian/,洛宁县
+http://luoyang.anjuke.com/rental/ruyangxian/,汝阳县

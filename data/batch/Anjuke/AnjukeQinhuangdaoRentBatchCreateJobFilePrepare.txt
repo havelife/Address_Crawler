@@ -1,0 +1,14 @@
+http://qinhuangdao.anjuke.com/rental/daonan/p,,1,1,1,秦皇岛,安居客-租房#海港#道南,http://qinhuangdao.anjuke.com/rental/daonan/
+http://qinhuangdao.anjuke.com/rental/huochezhank/p,,1,1,1,秦皇岛,安居客-租房#海港#火车站,http://qinhuangdao.anjuke.com/rental/huochezhank/
+http://qinhuangdao.anjuke.com/rental/hedongb/p,,1,1,1,秦皇岛,安居客-租房#海港#河东,http://qinhuangdao.anjuke.com/rental/hedongb/
+http://qinhuangdao.anjuke.com/rental/huandaogongyuan/p,,1,1,1,秦皇岛,安居客-租房#海港#环岛公园,http://qinhuangdao.anjuke.com/rental/huandaogongyuan/
+http://qinhuangdao.anjuke.com/rental/hepingdajie/p,,1,1,1,秦皇岛,安居客-租房#海港#和平大街,http://qinhuangdao.anjuke.com/rental/hepingdajie/
+http://qinhuangdao.anjuke.com/rental/kaifaqun/p,,1,1,1,秦皇岛,安居客-租房#海港#开发区,http://qinhuangdao.anjuke.com/rental/kaifaqun/
+http://qinhuangdao.anjuke.com/rental/renminguangchangb/p,,1,1,1,秦皇岛,安居客-租房#海港#人民广场,http://qinhuangdao.anjuke.com/rental/renminguangchangb/
+http://qinhuangdao.anjuke.com/rental/shisanyiyuan/p,,1,1,1,秦皇岛,安居客-租房#海港#市三医院,http://qinhuangdao.anjuke.com/rental/shisanyiyuan/
+http://qinhuangdao.anjuke.com/rental/taiyangcheng/p,,1,1,1,秦皇岛,安居客-租房#海港#太阳城,http://qinhuangdao.anjuke.com/rental/taiyangcheng/
+http://qinhuangdao.anjuke.com/rental/xiyuchang/p,,1,1,1,秦皇岛,安居客-租房#海港#西浴场,http://qinhuangdao.anjuke.com/rental/xiyuchang/
+http://qinhuangdao.anjuke.com/rental/aolinpikehuayuan/p,,1,1,1,秦皇岛,安居客-租房#北戴河#奥林匹克公园,http://qinhuangdao.anjuke.com/rental/aolinpikehuayuan/
+http://qinhuangdao.anjuke.com/rental/quzhengfupianqud/p,,1,1,1,秦皇岛,安居客-租房#北戴河#区政府,http://qinhuangdao.anjuke.com/rental/quzhengfupianqud/
+http://qinhuangdao.anjuke.com/rental/baihuodalou/p,,1,1,1,秦皇岛,安居客-租房#山海关#百货大楼,http://qinhuangdao.anjuke.com/rental/baihuodalou/
+http://qinhuangdao.anjuke.com/rental/laolongtou/p,,1,1,1,秦皇岛,安居客-租房#山海关#老龙头,http://qinhuangdao.anjuke.com/rental/laolongtou/

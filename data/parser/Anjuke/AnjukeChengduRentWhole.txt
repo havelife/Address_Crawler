@@ -1,0 +1,13 @@
+http://chengdu.anjuke.com/rental/wuhou/,武侯
+http://chengdu.anjuke.com/rental/jinjiang/,锦江
+http://chengdu.anjuke.com/rental/qingyang/,青羊
+http://chengdu.anjuke.com/rental/jinniu/,金牛
+http://chengdu.anjuke.com/rental/chenghua/,成华
+http://chengdu.anjuke.com/rental/gaoxin/,高新
+http://chengdu.anjuke.com/rental/longquanyi/,龙泉驿
+http://chengdu.anjuke.com/rental/shuangliu/,双流
+http://chengdu.anjuke.com/rental/xindu/,新都
+http://chengdu.anjuke.com/rental/wenjiang/,温江
+http://chengdu.anjuke.com/rental/dujiangyan/,都江堰
+http://chengdu.anjuke.com/rental/pixian/,郫县
+http://chengdu.anjuke.com/rental/zhoubianxianshi/,周边县市

@@ -1,0 +1,10 @@
+http://taizhou.anjuke.com/rental/chengzhongqu/,城中区
+http://taizhou.anjuke.com/rental/chengdongqu/,城东区
+http://taizhou.anjuke.com/rental/chengnanqu/,城南区
+http://taizhou.anjuke.com/rental/chengxiqu/,城西区
+http://taizhou.anjuke.com/rental/chengbeiqu/,城北区
+http://taizhou.anjuke.com/rental/gaogangqu/,高港区
+http://taizhou.anjuke.com/rental/jingjiangshi/,靖江市
+http://taizhou.anjuke.com/rental/jiangyanshi/,姜堰市
+http://taizhou.anjuke.com/rental/taixingshi/,泰兴市
+http://taizhou.anjuke.com/rental/xinghuashi/,兴化市

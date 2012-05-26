@@ -1,0 +1,6 @@
+http://weihai.anjuke.com/rental/gaoqu/,高区
+http://weihai.anjuke.com/rental/huancuiqu/,环翠区
+http://weihai.anjuke.com/rental/jingqu/,经区
+http://weihai.anjuke.com/rental/rushanshi/,乳山市
+http://weihai.anjuke.com/rental/rongchengshi/,荣成市
+http://weihai.anjuke.com/rental/wendengshi/,文登市

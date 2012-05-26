@@ -1,0 +1,8 @@
+http://yangzhou.anjuke.com/rental/hanjiangqu/,邗江区
+http://yangzhou.anjuke.com/rental/guanglingqu/,广陵区
+http://yangzhou.anjuke.com/rental/weiyangqu/,维扬区
+http://yangzhou.anjuke.com/rental/kaifaquo/,开发区
+http://yangzhou.anjuke.com/rental/jiangdulv/,江都市
+http://yangzhou.anjuke.com/rental/yizhengshi/,仪征市
+http://yangzhou.anjuke.com/rental/baoyingshi/,宝应市
+http://yangzhou.anjuke.com/rental/gaoyoushi/,高邮市

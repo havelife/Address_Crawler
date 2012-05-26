@@ -1,0 +1,14 @@
+http://qinhuangdao.anjuke.com/rental/daonan/,海港,道南,1
+http://qinhuangdao.anjuke.com/rental/huochezhank/,海港,火车站,1
+http://qinhuangdao.anjuke.com/rental/hedongb/,海港,河东,1
+http://qinhuangdao.anjuke.com/rental/huandaogongyuan/,海港,环岛公园,1
+http://qinhuangdao.anjuke.com/rental/hepingdajie/,海港,和平大街,1
+http://qinhuangdao.anjuke.com/rental/kaifaqun/,海港,开发区,1
+http://qinhuangdao.anjuke.com/rental/renminguangchangb/,海港,人民广场,1
+http://qinhuangdao.anjuke.com/rental/shisanyiyuan/,海港,市三医院,1
+http://qinhuangdao.anjuke.com/rental/taiyangcheng/,海港,太阳城,1
+http://qinhuangdao.anjuke.com/rental/xiyuchang/,海港,西浴场,1
+http://qinhuangdao.anjuke.com/rental/aolinpikehuayuan/,北戴河,奥林匹克公园,1
+http://qinhuangdao.anjuke.com/rental/quzhengfupianqud/,北戴河,区政府,1
+http://qinhuangdao.anjuke.com/rental/baihuodalou/,山海关,百货大楼,1
+http://qinhuangdao.anjuke.com/rental/laolongtou/,山海关,老龙头,1

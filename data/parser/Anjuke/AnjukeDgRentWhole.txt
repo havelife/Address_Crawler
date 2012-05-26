@@ -1,0 +1,10 @@
+http://dg.anjuke.com/rental/dongchengd/,东城
+http://dg.anjuke.com/rental/nanchenga/,南城
+http://dg.anjuke.com/rental/guanchengb/,莞城
+http://dg.anjuke.com/rental/wanjianga/,万江
+http://dg.anjuke.com/rental/humen/,虎门
+http://dg.anjuke.com/rental/changanc/,长安
+http://dg.anjuke.com/rental/zhangmutou/,樟木头
+http://dg.anjuke.com/rental/changpingb/,常平
+http://dg.anjuke.com/rental/qitabi/,其他
+http://dg.anjuke.com/rental/tangxia/,塘厦

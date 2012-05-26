@@ -1,0 +1,11 @@
+http://sy.anjuke.com/rental/dadongqu/,大东区
+http://sy.anjuke.com/rental/hepingqu/,和平区
+http://sy.anjuke.com/rental/tiexiqu/,铁西区
+http://sy.anjuke.com/rental/donglingqu/,东陵区
+http://sy.anjuke.com/rental/hunnanxinqu/,浑南新区
+http://sy.anjuke.com/rental/huangguqu/,皇姑区
+http://sy.anjuke.com/rental/yuhongqu/,于洪区
+http://sy.anjuke.com/rental/shenhequ/,沈河区
+http://sy.anjuke.com/rental/sujiatun/,苏家屯
+http://sy.anjuke.com/rental/shenbeixinqu/,沈北新区
+http://sy.anjuke.com/rental/qitabk/,其他

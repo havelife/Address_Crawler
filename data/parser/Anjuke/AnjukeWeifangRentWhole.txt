@@ -1,0 +1,15 @@
+http://weifang.anjuke.com/rental/kuiwen/,奎文
+http://weifang.anjuke.com/rental/weicheng/,潍城
+http://weifang.anjuke.com/rental/hanting/,寒亭
+http://weifang.anjuke.com/rental/fangzi/,坊子
+http://weifang.anjuke.com/rental/jingjikaifaquh/,经济开发区
+http://weifang.anjuke.com/rental/gaoxinjishukaifaqua/,高新技术开发区
+http://weifang.anjuke.com/rental/qingzhoushi/,青州市
+http://weifang.anjuke.com/rental/zhuchengshi/,诸城市
+http://weifang.anjuke.com/rental/shouguangshi/,寿光市
+http://weifang.anjuke.com/rental/anqiushi/,安丘市
+http://weifang.anjuke.com/rental/gaomishi/,高密市
+http://weifang.anjuke.com/rental/changhushi/,昌邑市
+http://weifang.anjuke.com/rental/linquxian/,临朐县
+http://weifang.anjuke.com/rental/changlexian/,昌乐县
+http://weifang.anjuke.com/rental/binhaijingjikaifaqu/,滨海经济开发区

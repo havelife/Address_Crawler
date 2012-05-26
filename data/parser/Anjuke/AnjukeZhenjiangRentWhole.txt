@@ -1,0 +1,7 @@
+http://zhenjiang.anjuke.com/rental/danyang/,丹阳市
+http://zhenjiang.anjuke.com/rental/jurong/,句容市
+http://zhenjiang.anjuke.com/rental/yangzhong/,扬中市
+http://zhenjiang.anjuke.com/rental/dantu/,丹徒区
+http://zhenjiang.anjuke.com/rental/jingkou/,京口区
+http://zhenjiang.anjuke.com/rental/runzhou/,润州区
+http://zhenjiang.anjuke.com/rental/zhenjiangxinqu/,镇江新区

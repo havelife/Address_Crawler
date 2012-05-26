@@ -1,0 +1,11 @@
+http://jinan.anjuke.com/rental/shizhong/,市中
+http://jinan.anjuke.com/rental/lixia/,历下
+http://jinan.anjuke.com/rental/tianqiao/,天桥
+http://jinan.anjuke.com/rental/licheng/,历城
+http://jinan.anjuke.com/rental/gaoxind/,高新
+http://jinan.anjuke.com/rental/huaiyin/,槐荫
+http://jinan.anjuke.com/rental/changqingb/,长清
+http://jinan.anjuke.com/rental/zhangqiu/,章丘
+http://jinan.anjuke.com/rental/jiyang/,济阳
+http://jinan.anjuke.com/rental/shanghe/,商河
+http://jinan.anjuke.com/rental/pingyin/,平阴

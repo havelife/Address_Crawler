@@ -1,0 +1,10 @@
+http://baoding.anjuke.com/rental/nanshia/,南市区
+http://baoding.anjuke.com/rental/beishigongjiaochezhao/,北市区
+http://baoding.anjuke.com/rental/xinshixinyuao/,新市区
+http://baoding.anjuke.com/rental/gaoxinyuanqub/,高新
+http://baoding.anjuke.com/rental/dingzhou/,定州市
+http://baoding.anjuke.com/rental/zhuozhoua/,涿州市
+http://baoding.anjuke.com/rental/anguo/,安国市
+http://baoding.anjuke.com/rental/mancheng/,满城
+http://baoding.anjuke.com/rental/qingyuanjif/,清苑
+http://baoding.anjuke.com/rental/gaobeidiana/,高碑店市

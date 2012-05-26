@@ -1,0 +1,10 @@
+http://langfang.anjuke.com/rental/anci/,安次
+http://langfang.anjuke.com/rental/guangyang/,广阳
+http://langfang.anjuke.com/rental/sanheyuao/,三河
+http://langfang.anjuke.com/rental/bazhou/,霸州
+http://langfang.anjuke.com/rental/xianghea/,香河
+http://langfang.anjuke.com/rental/yongqing/,永清
+http://langfang.anjuke.com/rental/guanzhuanh/,固安
+http://langfang.anjuke.com/rental/wenan/,文安
+http://langfang.anjuke.com/rental/dacheng/,大城
+http://langfang.anjuke.com/rental/dachanga/,大厂

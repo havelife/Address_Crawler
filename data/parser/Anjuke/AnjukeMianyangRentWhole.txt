@@ -1,0 +1,14 @@
+http://mianyang.anjuke.com/rental/fuchengmeo/,涪城区
+http://mianyang.anjuke.com/rental/youxian/,游仙区
+http://mianyang.anjuke.com/rental/santaizj/,三台县
+http://mianyang.anjuke.com/rental/yanting/,盐亭县
+http://mianyang.anjuke.com/rental/anxian/,安县
+http://mianyang.anjuke.com/rental/zitong/,梓潼县
+http://mianyang.anjuke.com/rental/beichuan/,北川县
+http://mianyang.anjuke.com/rental/pingwu/,平武县
+http://mianyang.anjuke.com/rental/jiangyou/,江油市
+http://mianyang.anjuke.com/rental/gaoxinquk/,高新区
+http://mianyang.anjuke.com/rental/kechuangyuanqu/,科创园区
+http://mianyang.anjuke.com/rental/jingkaique/,经开区
+http://mianyang.anjuke.com/rental/nongkequ/,农科区
+http://mianyang.anjuke.com/rental/xianhaiqu/,仙海区

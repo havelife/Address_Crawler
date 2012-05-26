@@ -1,0 +1,13 @@
+http://guangzhou.anjuke.com/rental/tianhe/,天河
+http://guangzhou.anjuke.com/rental/yuexiu/,越秀
+http://guangzhou.anjuke.com/rental/liwan/,荔湾
+http://guangzhou.anjuke.com/rental/haizhu/,海珠
+http://guangzhou.anjuke.com/rental/baiyun/,白云
+http://guangzhou.anjuke.com/rental/fanyu/,番禺
+http://guangzhou.anjuke.com/rental/zengcheng/,增城
+http://guangzhou.anjuke.com/rental/huadu/,花都
+http://guangzhou.anjuke.com/rental/huangpua/,黄埔
+http://guangzhou.anjuke.com/rental/nansha/,南沙
+http://guangzhou.anjuke.com/rental/luogang/,萝岗
+http://guangzhou.anjuke.com/rental/conghua/,从化
+http://foshan.anjuke.com/rental/,广佛同城
