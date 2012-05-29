@@ -34,6 +34,8 @@ http://nantong.anjuke.com,南通
 http://zhenjiang.anjuke.com,镇江
 http://taizhou.anjuke.com,泰州
 http://shaoxing.anjuke.com,绍兴
+http://shenzhen.anjuke.com,深圳
+http://guangzhou.anjuke.com,广州
 http://foshan.anjuke.com,佛山
 http://cs.anjuke.com,长沙
 http://dg.anjuke.com,东莞
