@@ -101,7 +101,7 @@ public class AnjukeAllOtherCityRent {
 		}
 	}
 	
-	public static ArrayList<String> getBatchJobFilePath4AllOtherCitySecondhand(){
+	public static ArrayList<String> getBatchJobFilePath4AllOtherCityRent(){
 		//提取所有的城市和子域名的对应关系
 		initCityAndSubdomainList();
 		ArrayList<String> filePathList = new ArrayList<String>();
@@ -117,6 +117,6 @@ public class AnjukeAllOtherCityRent {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		createAllOtherCityBatchJobFile();
+		createAllOtherCityBatchJobReadyFile();
 	}
 }

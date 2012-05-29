@@ -1,0 +1,8 @@
+http://shenzhen.anjuke.com/rental/futian/,福田
+http://shenzhen.anjuke.com/rental/luohu/,罗湖
+http://shenzhen.anjuke.com/rental/nanshan/,南山
+http://shenzhen.anjuke.com/rental/yantian/,盐田
+http://shenzhen.anjuke.com/rental/baoan/,宝安
+http://shenzhen.anjuke.com/rental/longgang/,龙岗
+http://shenzhen.anjuke.com/rental/huizhoua/,惠州
+http://shenzhen.anjuke.com/rental/dongguanc/,东莞

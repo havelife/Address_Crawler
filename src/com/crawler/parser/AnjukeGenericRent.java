@@ -485,8 +485,8 @@ public class AnjukeGenericRent {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		String city = "广州";
-		String subDomain = "guangzhou";
+		String city = "深圳";
+		String subDomain = "shenzhen";
 		AnjukeGenericRent rent = new AnjukeGenericRent(city, subDomain);
 		//rent.rentWhole();
 		rent.doAllProcessInOneFunction();

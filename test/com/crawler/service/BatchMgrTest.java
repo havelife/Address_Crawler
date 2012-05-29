@@ -7,6 +7,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import com.crawler.parser.AnjukeAllOtherCityRent;
 import com.crawler.parser.AnjukeAllOtherCitySecondhand;
 import com.crawler.util.ListUtil;
 
@@ -140,4 +141,20 @@ public class BatchMgrTest {
 		System.out.println("batchCreateJobTestAnjukeAllOtherCitySecondhand completed!");
 	}
 	
+	/***********************************************************/
+	/*
+	 *安居客，除了北京、上海的租房
+	 * */
+	@Test
+	public void batchCreateJobTestAnjukeAllOtherCityRent(){
+		ArrayList<String> filePathList = AnjukeAllOtherCityRent.getBatchJobFilePath4AllOtherCityRent();
+		if (ListUtil.isBlank(filePathList)) {
+			System.err.println("filePathList is empty!");
+			return;
+		}
+		for (String filePath : filePathList) {
+			batchMgr.batchCreateJobAndDownload(filePath);
+		}
+		System.out.println("batchCreateJobTestAnjukeAllOtherCitySecondhand completed!");
+	}
 }

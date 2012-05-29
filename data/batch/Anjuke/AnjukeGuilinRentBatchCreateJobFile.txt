@@ -1,0 +1,15 @@
+^
+http://guilin.anjuke.com/rental/jiashanb/p,,1,1,1,桂林,安居客-租房#秀峰区#甲山,http://guilin.anjuke.com/rental/jiashanb/
+http://guilin.anjuke.com/rental/shizijiea/p,,1,1,1,桂林,安居客-租房#秀峰区#十字街,http://guilin.anjuke.com/rental/shizijiea/
+http://guilin.anjuke.com/rental/beimen/p,,1,1,1,桂林,安居客-租房#叠彩区#北门,http://guilin.anjuke.com/rental/beimen/
+http://guilin.anjuke.com/rental/ludi/p,,1,1,1,桂林,安居客-租房#叠彩区#芦笛,http://guilin.anjuke.com/rental/ludi/
+http://guilin.anjuke.com/rental/dafengshan/p,,1,1,1,桂林,安居客-租房#象山区#大风山,http://guilin.anjuke.com/rental/dafengshan/
+http://guilin.anjuke.com/rental/longchuanping/p,,1,1,1,桂林,安居客-租房#象山区#龙船坪,http://guilin.anjuke.com/rental/longchuanping/
+http://guilin.anjuke.com/rental/tiexitiyuchanh/p,,1,1,1,桂林,安居客-租房#象山区#铁西,http://guilin.anjuke.com/rental/tiexitiyuchanh/
+http://guilin.anjuke.com/rental/wayao/p,,1,1,1,桂林,安居客-租房#象山区#瓦窑,http://guilin.anjuke.com/rental/wayao/
+http://guilin.anjuke.com/rental/xiangshand/p,,1,1,1,桂林,安居客-租房#象山区#象山,http://guilin.anjuke.com/rental/xiangshand/
+http://guilin.anjuke.com/rental/chuanshan/p,,1,1,1,桂林,安居客-租房#七星区#穿山,http://guilin.anjuke.com/rental/chuanshan/
+http://guilin.anjuke.com/rental/gaoxinqui/p,,1,1,1,桂林,安居客-租房#七星区#高新区,http://guilin.anjuke.com/rental/gaoxinqui/
+http://guilin.anjuke.com/rental/pingfeng/p,,1,1,1,桂林,安居客-租房#七星区#屏风,http://guilin.anjuke.com/rental/pingfeng/
+http://guilin.anjuke.com/rental/sanlidian/p,,1,1,1,桂林,安居客-租房#七星区#三里店,http://guilin.anjuke.com/rental/sanlidian/
+$

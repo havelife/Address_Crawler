@@ -1,0 +1,14 @@
+^
+http://nantong.anjuke.com/rental/chengdongbankuai/p,,1,1,1,南通,安居客-租房#崇川#城东版块,http://nantong.anjuke.com/rental/chengdongbankuai/
+http://nantong.anjuke.com/rental/chengnanbankuai/p,,1,1,1,南通,安居客-租房#崇川#城南版块,http://nantong.anjuke.com/rental/chengnanbankuai/
+http://nantong.anjuke.com/rental/chengxibankuai/p,,1,1,1,南通,安居客-租房#崇川#城西版块,http://nantong.anjuke.com/rental/chengxibankuai/
+http://nantong.anjuke.com/rental/chengbeibankuai/p,,1,1,1,南通,安居客-租房#崇川#城北版块,http://nantong.anjuke.com/rental/chengbeibankuai/
+http://nantong.anjuke.com/rental/guanyinshanbankuai/p,,1,1,1,南通,安居客-租房#崇川#观音山版块,http://nantong.anjuke.com/rental/guanyinshanbankuai/
+http://nantong.anjuke.com/rental/langshanbankuai/p,,1,1,1,南通,安居客-租房#崇川#狼山版块,http://nantong.anjuke.com/rental/langshanbankuai/
+http://nantong.anjuke.com/rental/shizhongxin/p,,1,1,1,南通,安居客-租房#崇川#市中心,http://nantong.anjuke.com/rental/shizhongxin/
+http://nantong.anjuke.com/rental/qitaxiangzhenaaa/p,,1,1,1,南通,安居客-租房#港闸#其他乡镇,http://nantong.anjuke.com/rental/qitaxiangzhenaaa/
+http://nantong.anjuke.com/rental/tangzhabankuai/p,,1,1,1,南通,安居客-租房#港闸#唐闸版块,http://nantong.anjuke.com/rental/tangzhabankuai/
+http://nantong.anjuke.com/rental/yongxingbankuai/p,,1,1,1,南通,安居客-租房#港闸#永兴版块,http://nantong.anjuke.com/rental/yongxingbankuai/
+http://nantong.anjuke.com/rental/xiaohaibankuai/p,,1,1,1,南通,安居客-租房#开发区#小海版块,http://nantong.anjuke.com/rental/xiaohaibankuai/
+http://nantong.anjuke.com/rental/xiangzhenbankuai/p,,1,1,1,南通,安居客-租房#开发区#乡镇版块,http://nantong.anjuke.com/rental/xiangzhenbankuai/
+$

@@ -1,0 +1,15 @@
+^
+http://quanzhou.anjuke.com/rental/chengdongbankuaj/p,,1,1,1,泉州,安居客-租房#丰泽区#城东,http://quanzhou.anjuke.com/rental/chengdongbankuaj/
+http://quanzhou.anjuke.com/rental/donghailub/p,,1,1,1,泉州,安居客-租房#丰泽区#东海,http://quanzhou.anjuke.com/rental/donghailub/
+http://quanzhou.anjuke.com/rental/donghuzhoubiao/p,,1,1,1,泉州,安居客-租房#丰泽区#东湖,http://quanzhou.anjuke.com/rental/donghuzhoubiao/
+http://quanzhou.anjuke.com/rental/fengzejiedao/p,,1,1,1,泉州,安居客-租房#丰泽区#丰泽街道,http://quanzhou.anjuke.com/rental/fengzejiedao/
+http://quanzhou.anjuke.com/rental/fengzeshangchang/p,,1,1,1,泉州,安居客-租房#丰泽区#丰泽商城,http://quanzhou.anjuke.com/rental/fengzeshangchang/
+http://quanzhou.anjuke.com/rental/lizhonggongyequ/p,,1,1,1,泉州,安居客-租房#丰泽区#鲤中工业区,http://quanzhou.anjuke.com/rental/lizhonggongyequ/
+http://quanzhou.anjuke.com/rental/quanxiu/p,,1,1,1,泉州,安居客-租房#丰泽区#泉秀,http://quanzhou.anjuke.com/rental/quanxiu/
+http://quanzhou.anjuke.com/rental/yungugongyequ/p,,1,1,1,泉州,安居客-租房#丰泽区#云谷工业区,http://quanzhou.anjuke.com/rental/yungugongyequ/
+http://quanzhou.anjuke.com/rental/zhengfuguangchang/p,,1,1,1,泉州,安居客-租房#丰泽区#政府广场,http://quanzhou.anjuke.com/rental/zhengfuguangchang/
+http://quanzhou.anjuke.com/rental/baihuigouwuzhongxin/p,,1,1,1,泉州,安居客-租房#鲤城区#百汇购物中心,http://quanzhou.anjuke.com/rental/baihuigouwuzhongxin/
+http://quanzhou.anjuke.com/rental/kaiyuanlv/p,,1,1,1,泉州,安居客-租房#鲤城区#开元,http://quanzhou.anjuke.com/rental/kaiyuanlv/
+http://quanzhou.anjuke.com/rental/qiaonanpianqu/p,,1,1,1,泉州,安居客-租房#鲤城区#桥南片区,http://quanzhou.anjuke.com/rental/qiaonanpianqu/
+http://quanzhou.anjuke.com/rental/xihuzhoubiao/p,,1,1,1,泉州,安居客-租房#鲤城区#西湖,http://quanzhou.anjuke.com/rental/xihuzhoubiao/
+$
