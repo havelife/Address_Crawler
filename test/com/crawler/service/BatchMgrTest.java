@@ -155,6 +155,6 @@ public class BatchMgrTest {
 		for (String filePath : filePathList) {
 			batchMgr.batchCreateJobAndDownload(filePath);
 		}
-		System.out.println("batchCreateJobTestAnjukeAllOtherCitySecondhand completed!");
+		System.out.println("batchCreateJobTestAnjukeAllOtherCityRent completed!");
 	}
 }
