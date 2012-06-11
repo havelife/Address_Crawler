@@ -8,49 +8,53 @@ import com.crawler.util.FileUtil;
 import com.crawler.util.ParserUtil;
 
 public class AnjukeGenericXiaoqu {
-	public static String CITY_PINYING = "Shenzhen";
-	public static String CITY = "深圳";
-	public static String XIAO_QU_URL_SUBDOMAIN = "shenzhen";
+	public static String CITY_PINYING;
+	public static String CITY;
+	public static String XIAO_QU_URL_SUBDOMAIN;
 	
 	public static final String WHOLE_SELECT_REGEX_1 = "div[class=box boxline]";
 	public static final String WHOLE_SELECT_REGEX_2 = "div[id=apf_id_10_areacontainer]";
 	public static final String SUB_SINGLE_SELECT_REGEX_1 = "div[class=box]";
 	public static final String SUB_SINGLE_SELECT_REGEX_2 = "div[id=apf_id_10_blockcontainer]";
 	
-	
-	
 	public static final String TYPE_PINYING = "Xiaoqu";
 	public static final String SITE_NAME_PINYING = "Anjuke";
-	public static final String ALL_SINGLE_SUB_FILE_PATH = "./data/parser/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "AllSingleSub.txt";
-	public static final String XIAOQU_WHOLE_FILE_PATH = "./data/parser/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "Whole.txt";
+	public String ALL_SINGLE_SUB_FILE_PATH;
+	public String XIAOQU_WHOLE_FILE_PATH;
 	public static final String TYPE = "安居客-小区";
 	public static final String TYPE_SPAN = "#";
-	public static final String CREATE_BATCH_FILE_RESULT_PATH = "./data/batch/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "BatchCreateJobFilePrepare.txt";
-	public static final String WHOLE_URL = "http://" + XIAO_QU_URL_SUBDOMAIN + ".anjuke.com/community/";
+	public String CREATE_BATCH_FILE_RESULT_PATH;
+	public String WHOLE_URL;
 	
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		//AnjukeGenericXiaoqu obj = new AnjukeGenericXiaoqu();
-		//obj.CITY = "";
-		//new AnjukeGenericXiaoqu().xiaoquSubSingle("http://shanghai.anjuke.com/sale/pudong/,浦东");
-		getPrefix("http://qd.anjuke.com/community/W0QQpZ1QQp1Z3646");
+		AnjukeGenericXiaoqu xiaoQu = new AnjukeGenericXiaoqu("青岛", "qd");
+		//xiaoQu.xiaoquWhole();
+		//xiaoQu.xiaoquSubSingle("http://qd.anjuke.com/community/W0QQpZ1QQp1Z3644,城阳区");
+		//xiaoQu.xiaoquSub();
+		
+		xiaoQu.doWholeProcessInOneFunction();
 	}
 	
 	public AnjukeGenericXiaoqu() {
 		super();
 	}
 	
-	/*
-	public AnjukeGenericXiaoqu(String city, String cityPinyin, String subDomain) {
+	public AnjukeGenericXiaoqu(String city, String subDomain) {
 		// TODO Auto-generated constructor stub
 		super();
 		this.CITY = city;
-		this.CITY_PINYING = cityPinyin;
 		this.XIAO_QU_URL_SUBDOMAIN = subDomain;
+		this.CITY_PINYING = XIAO_QU_URL_SUBDOMAIN.toUpperCase().charAt(0) + XIAO_QU_URL_SUBDOMAIN.substring(1);
+		
+		ALL_SINGLE_SUB_FILE_PATH = "./data/parser/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "AllSingleSub.txt";
+		XIAOQU_WHOLE_FILE_PATH = "./data/parser/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "Whole.txt";
+		CREATE_BATCH_FILE_RESULT_PATH = "./data/batch/" + SITE_NAME_PINYING + "/" + SITE_NAME_PINYING + CITY_PINYING + TYPE_PINYING + "BatchCreateJobFilePrepare.txt";
+		WHOLE_URL = "http://" + XIAO_QU_URL_SUBDOMAIN + ".anjuke.com/community/";
 	}
-	*/
+
 	
 	/*
 	 * 上海安居客，小区，上海总的各个地域，（浦东 闵行 徐汇 等等）
