@@ -11,7 +11,8 @@ public class PropertyUtil {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		printAll("application.properties");
+		//printAll("application.properties");
+		System.out.println(getValue("application.properties", "jdbc.username"));
 	}
 	
 	public static void loadPropertyFile(String propertiesFilePath){

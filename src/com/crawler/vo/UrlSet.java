@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import com.crawler.util.CrawlerConstants;
+import com.crawler.util.PropertyUtil;
 
 public class UrlSet {
 	private int count;
@@ -27,10 +28,18 @@ public class UrlSet {
 	}
 	
 	public void generateUrls(){
-		for(int i=0; i<=(endIdx-startIdx)/step; i++){
-			String url = prefix + (startIdx + i * step) + suffix;
-			data.put((startIdx + i * step), url);
+		if ("open".equals(PropertyUtil.getValue("application.properties", "deal.with.anjuke.xiaoqu.only.has.one.page")) && count == 1 && prefix.contains("anjuke.com")){
+			//是安居客，小区，并且页数为1页的情况
+			String url = prefix;
+			data.put((startIdx + 0 * step), url);
 			if(CrawlerConstants.IS_PRINT_GENERATE_URLS) System.out.println(url);
+		} else {
+			//不是（安居客，小区，并且页数为1页的情况）
+			for(int i=0; i<=(endIdx-startIdx)/step; i++){
+				String url = prefix + (startIdx + i * step) + suffix;
+				data.put((startIdx + i * step), url);
+				if(CrawlerConstants.IS_PRINT_GENERATE_URLS) System.out.println(url);
+			}
 		}
 	}
 	

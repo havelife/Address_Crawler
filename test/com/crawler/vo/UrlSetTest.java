@@ -11,4 +11,11 @@ public class UrlSetTest {
 		urlSet.generateUrls();
 		System.out.println(urlSet);
 	}
+	
+	@Test
+	public void generateUrls4AnjukeXiaoquOnlyOnePage(){
+		urlSet = new UrlSet("http://shenzhen.anjuke.com/community/", "http://shenzhen.anjuke.com/community/list/W0QQpZ1QQp1Z401QQp2Z2266", null, 1, 1, 1);
+		urlSet.generateUrls();
+		System.out.println(urlSet);
+	}
 }
