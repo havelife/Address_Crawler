@@ -6,6 +6,7 @@ import org.junit.Test;
 
 import com.crawler.util.FileUtil;
 import com.crawler.util.ParserUtil;
+import com.crawler.util.PropertyUtil;
 
 public class AnjukeGenericXiaoqu {
 	public static String CITY_PINYING;
@@ -32,10 +33,10 @@ public class AnjukeGenericXiaoqu {
 	public static void main(String[] args) {
 		AnjukeGenericXiaoqu xiaoQu = new AnjukeGenericXiaoqu("青岛", "qd");
 		//xiaoQu.xiaoquWhole();
-		//xiaoQu.xiaoquSubSingle("http://qd.anjuke.com/community/W0QQpZ1QQp1Z3644,城阳区");
+		System.out.println(xiaoQu.xiaoquSubSingle("http://sy.anjuke.com/community/W0QQpZ1QQp1Z4345,苏家屯"));
 		//xiaoQu.xiaoquSub();
 		
-		xiaoQu.doWholeProcessInOneFunction();
+//		xiaoQu.doAllProcessInOneFunction();
 	}
 	
 	public AnjukeGenericXiaoqu() {
@@ -93,7 +94,13 @@ public class AnjukeGenericXiaoqu {
 		String[] strArr = line.split(",");
 		String url = strArr[0];
 		String district = strArr[1];
-			
+		
+		//对于一些没有下一级菜单的，采用简单处理，直接跳过
+		//eg. http://dalian.anjuke.com/community/W0QQpZ1QQp1Z8344
+//		if (PropertyUtil.getValue("application.properties", "xiaoqu.sub.single.skip.urls").contains(url)) {
+//			return "";
+//		}
+		
 		Element elem = ParserUtil.parseUrlWithRegexAndResultIndex(url, SUB_SINGLE_SELECT_REGEX_1, 0);
 		if (elem == null) {
 			elem = ParserUtil.parseUrlWithRegexAndResultIndex(url, SUB_SINGLE_SELECT_REGEX_2, 0);
@@ -101,11 +108,27 @@ public class AnjukeGenericXiaoqu {
 		// 说明两种regex找下来都找不到
 		if (elem == null){
 			System.out.println("error in xiaoqu SubSingle, maybe the select regex is wrong. please check it.");
-			try {
-				throw new Exception("xiaoqu SubSingle select regex error");
-			} catch (Exception e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
+			
+			int count = getCount(url);
+			
+			if (count > 0){
+				//对于一些没有下一级菜单的，进行特别处理
+				//正常:http://qd.anjuke.com/community/W0QQpZ1QQp1Z3644QQp2Z3709,城阳区,流亭,6,http://qd.anjuke.com/community/W0QQp1Z3644QQp2Z3709QQpZ
+				//特别:http://qd.anjuke.com/community/W0QQpZ1QQp1Z3644QQp2Z3709,城阳区,城阳区,6,http://qd.anjuke.com/community/W0QQp1Z3644QQp2Z3709QQpZ
+				String prefix;
+				if (count == 1){
+					prefix = url;
+				} else {
+					prefix = getPrefix(url);
+				}
+				return url + "," + district + "," + district + "," + count + "," + prefix + "\n";
+			} else {
+				try {
+					throw new Exception("xiaoqu SubSingle select regex error");
+				} catch (Exception e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
 			}
 		}
 		Elements elements = ParserUtil.parseElementWithRegex(elem, "a");
@@ -249,7 +272,7 @@ public class AnjukeGenericXiaoqu {
 	}
 	
 	@Test
-	public void doWholeProcessInOneFunction(){
+	public void doAllProcessInOneFunction(){
 		//step1, 把一个城市的几个大的区划，下载下来。
 		xiaoquWhole();
 		//step2, 把各个大的区划下的小区，全部下载下来，合并成一个文件
