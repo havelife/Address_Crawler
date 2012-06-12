@@ -1,0 +1,15 @@
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7315QQp2Z7316,秀峰区,甲山,2,http://guilin.anjuke.com/community/W0QQp1Z7315QQp2Z7316QQpZ
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7315QQp2Z7317,秀峰区,十字街,3,http://guilin.anjuke.com/community/W0QQp1Z7315QQp2Z7317QQpZ
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7318QQp2Z7319,叠彩区,北门,5,http://guilin.anjuke.com/community/W0QQp1Z7318QQp2Z7319QQpZ
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7318QQp2Z7320,叠彩区,芦笛,1,http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7318QQp2Z7320
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7321QQp2Z7322,象山区,大风山,1,http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7321QQp2Z7322
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7321QQp2Z7323,象山区,龙船坪,2,http://guilin.anjuke.com/community/W0QQp1Z7321QQp2Z7323QQpZ
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7321QQp2Z7324,象山区,铁西,4,http://guilin.anjuke.com/community/W0QQp1Z7321QQp2Z7324QQpZ
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7321QQp2Z7325,象山区,瓦窑,3,http://guilin.anjuke.com/community/W0QQp1Z7321QQp2Z7325QQpZ
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7321QQp2Z7326,象山区,象山,3,http://guilin.anjuke.com/community/W0QQp1Z7321QQp2Z7326QQpZ
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7327QQp2Z7328,七星区,高新区,3,http://guilin.anjuke.com/community/W0QQp1Z7327QQp2Z7328QQpZ
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7327QQp2Z7329,七星区,三里店,3,http://guilin.anjuke.com/community/W0QQp1Z7327QQp2Z7329QQpZ
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7327QQp2Z7330,七星区,屏风,2,http://guilin.anjuke.com/community/W0QQp1Z7327QQp2Z7330QQpZ
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7327QQp2Z7331,七星区,穿山,3,http://guilin.anjuke.com/community/W0QQp1Z7327QQp2Z7331QQpZ
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7332,西域区,西域区,5,http://guilin.anjuke.com/community/W0QQp1Z7332QQpZ
+http://guilin.anjuke.com/community/W0QQpZ1QQp1Z7334,灵川,灵川,7,http://guilin.anjuke.com/community/W0QQp1Z7334QQpZ

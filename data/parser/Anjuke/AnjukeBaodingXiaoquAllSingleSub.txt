@@ -1,0 +1,17 @@
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7287QQp2Z7288,南市区,天威东路,5,http://baoding.anjuke.com/community/W0QQp1Z7287QQp2Z7288QQpZ
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7287QQp2Z7289,南市区,莲池南大街,6,http://baoding.anjuke.com/community/W0QQp1Z7287QQp2Z7289QQpZ
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7290QQp2Z7291,北市区,复兴中路,3,http://baoding.anjuke.com/community/W0QQp1Z7290QQp2Z7291QQpZ
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7290QQp2Z7292,北市区,七一东路,3,http://baoding.anjuke.com/community/W0QQp1Z7290QQp2Z7292QQpZ
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7290QQp2Z7293,北市区,莲池北大街,6,http://baoding.anjuke.com/community/W0QQp1Z7290QQp2Z7293QQpZ
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7290QQp2Z7294,北市区,东风东路,3,http://baoding.anjuke.com/community/W0QQp1Z7290QQp2Z7294QQpZ
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7295QQp2Z7296,新市区,天威西路,4,http://baoding.anjuke.com/community/W0QQp1Z7295QQp2Z7296QQpZ
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7295QQp2Z7297,新市区,七一西路,3,http://baoding.anjuke.com/community/W0QQp1Z7295QQp2Z7297QQpZ
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7295QQp2Z7298,新市区,阳光北大街,7,http://baoding.anjuke.com/community/W0QQp1Z7295QQp2Z7298QQpZ
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7299QQp2Z7300,高新,朝阳北大街,4,http://baoding.anjuke.com/community/W0QQp1Z7299QQp2Z7300QQpZ
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7299QQp2Z7301,高新,学院街,1,http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7299QQp2Z7301
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7302,定州市,定州市,1,http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7302
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7304,涿州市,涿州市,6,http://baoding.anjuke.com/community/W0QQp1Z7304QQpZ
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7306,安国市,安国市,1,http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7306
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7308,满城,满城,1,http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7308
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7310,清苑,清苑,1,http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7310
+http://baoding.anjuke.com/community/W0QQpZ1QQp1Z7312,高碑店市,高碑店市,2,http://baoding.anjuke.com/community/W0QQp1Z7312QQpZ

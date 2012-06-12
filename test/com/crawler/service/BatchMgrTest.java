@@ -9,6 +9,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.crawler.parser.AnjukeAllOtherCityRent;
 import com.crawler.parser.AnjukeAllOtherCitySecondhand;
+import com.crawler.parser.AnjukeAllOtherCityXiaoqu;
 import com.crawler.util.ListUtil;
 
 public class BatchMgrTest {
@@ -165,5 +166,22 @@ public class BatchMgrTest {
 	@Test
 	public void batchCreateJobTestAnjukeQdXiaoqu(){
 		batchMgr.batchCreateJobAndDownload("./data/batch/Anjuke/AnjukeQdXiaoquBatchCreateJobFile.txt");
+	}
+	
+	/***********************************************************/
+	/*
+	 *安居客，除了北京、上海、广州、青岛的租房
+	 * */
+	@Test
+	public void batchCreateJobTestAnjukeAllOtherCityXiaoqu(){
+		ArrayList<String> filePathList = AnjukeAllOtherCityXiaoqu.getBatchJobFilePath4AllOtherCityXiaoqu();
+		if (ListUtil.isBlank(filePathList)) {
+			System.err.println("filePathList is empty!");
+			return;
+		}
+		for (String filePath : filePathList) {
+			batchMgr.batchCreateJobAndDownload(filePath);
+		}
+		System.out.println("batchCreateJobTestAnjukeAllOtherCityXiaoqu completed!");
 	}
 }

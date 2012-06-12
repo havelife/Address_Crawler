@@ -119,7 +119,7 @@ public class AnjukeAllOtherCityXiaoqu {
 	 */
 	public static void main(String[] args) {
 //		initCityAndSubdomainList();
-		createAllOtherCityBatchJobFile();
-//		createAllOtherCityBatchJobReadyFile();
+//		createAllOtherCityBatchJobFile();
+		createAllOtherCityBatchJobReadyFile();
 	}
 }
