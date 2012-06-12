@@ -157,4 +157,13 @@ public class BatchMgrTest {
 		}
 		System.out.println("batchCreateJobTestAnjukeAllOtherCityRent completed!");
 	}
+	
+	/***********************************************************/
+	/*
+	 *安居客，青岛，小区
+	 * */
+	@Test
+	public void batchCreateJobTestAnjukeQdXiaoqu(){
+		batchMgr.batchCreateJobAndDownload("./data/batch/Anjuke/AnjukeQdXiaoquBatchCreateJobFile.txt");
+	}
 }
