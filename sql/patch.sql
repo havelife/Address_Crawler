@@ -72,4 +72,6 @@ CREATE TABLE `address` (
 PRIMARY KEY (`id`)
 );
 
+ALTER TABLE `address`
+MODIFY COLUMN `price`  varchar(50) NULL DEFAULT NULL AFTER `comment`;
 

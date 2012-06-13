@@ -22,7 +22,7 @@ public class Address implements Serializable{
 	private String city;
 	private String condition;
 	private String comment;
-	private int price;
+	private String price;
 	private String website;
 	private String type;
 	
@@ -76,10 +76,10 @@ public class Address implements Serializable{
 	public void setComment(String comment) {
 		this.comment = comment;
 	}
-	public int getPrice() {
+	public String getPrice() {
 		return price;
 	}
-	public void setPrice(int price) {
+	public void setPrice(String price) {
 		this.price = price;
 	}
 	public String getWebsite() {
