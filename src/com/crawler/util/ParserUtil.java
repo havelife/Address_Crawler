@@ -20,7 +20,6 @@ public class ParserUtil {
 
 	public static Elements parseUrlWithRegex(String url, String regex){
 		try {
-
 			Document doc = Jsoup.connect(url).timeout(TIME_OUT_PERIOD).get();
 			Elements elems = doc.select(regex);
 			return elems;
@@ -55,6 +54,25 @@ public class ParserUtil {
 			return null;
 		}
 		return elements.get(index);
+	}
+	
+	public static Elements parseHtmlStrWithRegex(String html, String regex){
+		Document doc = Jsoup.parse(html);
+		Elements elems = doc.select(regex);
+		return elems;
+	}
+	
+	public static Element parseHtmlStrWithRegexAndResultIndex(String html, String regex, int index){
+		Elements elems = parseHtmlStrWithRegex(html, regex);
+		if (elems == null){
+			System.out.println("null result for parseHtmlStrWithRegexAndResultIndex(), \nhtml:" + html +",\nregex:" + regex);
+			return null;
+		}
+		if (elems.size() < index + 1){
+			System.out.println("input index:" + index + " is beyond result size:" + elems.size());
+			return null;
+		}
+		return elems.get(index);
 	}
 	
 	/********************TEST**************************/
