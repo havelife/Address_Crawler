@@ -11,6 +11,7 @@ import org.jsoup.select.Elements;
 public class ParserUtil {
 	public static final int DivStartIndex = 1;
 	public static final int DivEndIndex = 25;
+	public static final int TIME_OUT_PERIOD = 10000;
 	public static void main(String[] args) {
 		Element elem = parseUrlWithRegexAndResultIndex("http://beijing.anjuke.com/community/", "div[class=box boxline]", 0);
 		Elements elements = parseElementWithRegex(elem, "a");
@@ -20,7 +21,7 @@ public class ParserUtil {
 	public static Elements parseUrlWithRegex(String url, String regex){
 		try {
 
-			Document doc = Jsoup.connect(url).timeout(10000).get();
+			Document doc = Jsoup.connect(url).timeout(TIME_OUT_PERIOD).get();
 			Elements elems = doc.select(regex);
 			return elems;
 		} catch (IOException e) {
