@@ -99,4 +99,12 @@ public class Job implements Serializable{
 	public void setCount(){
 		this.count = (this.endidx - this.startidx) / step + 1;
 	}
+	@Override
+	public String toString() {
+		return "Job [id=" + id + ", prefix=" + prefix + ", suffix=" + suffix
+				+ ", step=" + step + ", startidx=" + startidx + ", endidx="
+				+ endidx + ", category=" + category + ", type=" + type
+				+ ", domain=" + domain + ", count=" + count
+				+ ", completecount=" + completecount + "]";
+	}
 }

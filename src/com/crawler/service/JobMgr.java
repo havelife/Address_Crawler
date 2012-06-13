@@ -151,5 +151,12 @@ public class JobMgr {
 		}
 	}
 	
-
+	/*
+	 * 根据城市和类别返回所有的jobs
+	 * eg.北京, 安居客-二手房
+	 * */
+	public List<Job> getJobsByCityAndType(String city, String type){
+		return jobDao.getJobsByCityAndType(city, type);
+	}
+	
 }
