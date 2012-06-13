@@ -56,3 +56,20 @@ alter table url add index url_iscompleted_idx(`iscompleted`);
 
 alter table page add index page_jobid_idx(`jobid`);
 
+
+CREATE TABLE `address` (
+`id`  int(10) NOT NULL AUTO_INCREMENT ,
+`name`  varchar(255) NULL ,
+`addr`  varchar(255) NULL ,
+`community`  varchar(255) NULL ,
+`district`  varchar(255) NULL ,
+`city`  varchar(50) NULL ,
+`condition`  varchar(255) NULL ,
+`comment`  varchar(255) NULL ,
+`price`  int(10) NULL ,
+`website`  varchar(255) NULL ,
+`type`  varchar(100) NULL ,
+PRIMARY KEY (`id`)
+);
+
+
