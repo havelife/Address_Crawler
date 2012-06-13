@@ -40,6 +40,7 @@
 				<value>com.crawler.pojo.Log</value>
 				<value>com.crawler.pojo.Url</value>
 				<value>com.crawler.pojo.Job</value>
+				<value>com.crawler.pojo.Address</value>
 			</list>
 		</property>
 		<property name="hibernateProperties">
