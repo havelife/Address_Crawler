@@ -96,4 +96,12 @@ public class UrlDao extends GenericDao<Url, Long>{
 		}
 	}
 	
+	/* 
+	 *得到一个job的所有Url对象。 
+	 */
+	public List<Url> getUrlObjs4OneJob(Long jobid){
+		String hql = "from Url u where u.jobid = ?";
+		List<Url> resList = this.find(hql, jobid);
+		return resList;
+	}
 }

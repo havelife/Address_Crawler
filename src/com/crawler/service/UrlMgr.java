@@ -60,7 +60,18 @@ public class UrlMgr {
 		return resList;
 	}
 	
+	/*
+	 * 通过url来获取Url对象
+	 * 
+	 */
 	public Url getUrlObjByUrl(String url){
 		return urlDao.getUrlObjByUrl(url);
+	}
+	
+	/*
+	 * 获得一个job的所有Url对象
+	 * */
+	public List<Url> getUrlObjs4OneJob(Long jobid){
+		return urlDao.getUrlObjs4OneJob(jobid);
 	}
 }
