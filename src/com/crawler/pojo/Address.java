@@ -20,7 +20,7 @@ public class Address implements Serializable{
 	private String community;
 	private String district;
 	private String city;
-	private String condition;
+	private String houseCondition;
 	private String comment;
 	private String price;
 	private String website;
@@ -64,11 +64,11 @@ public class Address implements Serializable{
 	public void setCity(String city) {
 		this.city = city;
 	}
-	public String getCondition() {
-		return condition;
+	public String getHouseCondition() {
+		return houseCondition;
 	}
-	public void setCondition(String condition) {
-		this.condition = condition;
+	public void setHouseCondition(String houseCondition) {
+		this.houseCondition = houseCondition;
 	}
 	public String getComment() {
 		return comment;
@@ -98,7 +98,7 @@ public class Address implements Serializable{
 	public String toString() {
 		return "Address [id=" + id + ", name=" + name + ", addr=" + addr
 				+ ", community=" + community + ", district=" + district
-				+ ", city=" + city + ", condition=" + condition + ", comment="
+				+ ", city=" + city + ", condition=" + houseCondition + ", comment="
 				+ comment + ", price=" + price + ", website=" + website
 				+ ", type=" + type + "]";
 	}
