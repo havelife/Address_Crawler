@@ -66,12 +66,10 @@ CREATE TABLE `address` (
 `city`  varchar(50) NULL ,
 `condition`  varchar(255) NULL ,
 `comment`  varchar(255) NULL ,
-`price`  int(10) NULL ,
+`price`  varchar(50) NULL ,
 `website`  varchar(255) NULL ,
 `type`  varchar(100) NULL ,
 PRIMARY KEY (`id`)
 );
 
-ALTER TABLE `address`
-MODIFY COLUMN `price`  varchar(50) NULL DEFAULT NULL AFTER `comment`;
 
