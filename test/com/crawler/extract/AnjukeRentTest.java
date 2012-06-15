@@ -34,7 +34,23 @@ public class AnjukeRentTest {
 	 * 除去北京、上海, 解析剩下的租房信息，并且存入address表
 	 * */
 	@Test
-	public void extractAndSaveAllOtherCityTest(){
+	public void extractAndSaveAllOtherCityRentTest(){
 		anjukeRent.extractAndSaveAllOtherCity("安居客-租房", "北京", "上海");
+	}
+	
+	/*
+	 * 解析所有的二手房信息，并且存入address表
+	 * */
+	@Test
+	public void extractAndSaveAllOtherCitySecondhandTest(){
+		anjukeRent.extractAndSaveAllOtherCity("安居客-二手房");
+	}
+	
+	/*
+	 * 解析所有的小区信息，并且存入address表
+	 * */
+	@Test
+	public void extractAndSaveAllOtherCityCommunityTest(){
+		anjukeRent.extractAndSaveAllOtherCity("安居客-小区");
 	}
 }

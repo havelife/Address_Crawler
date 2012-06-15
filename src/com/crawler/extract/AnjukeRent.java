@@ -30,16 +30,21 @@ public class AnjukeRent {
 	private PageMgr pageMgr;
 	@Autowired
 	private AddressMgr addressMgr;
-	
+	//constants
 	public static final int MAX_ITEM_NUMBERS_IN_ONE_PAGE = 25;
+	public static final int MAX_ITEM_NUMBERS_IN_ONE_PAGE_ANJUKE_SHANGHAI_COMMUNITY = 10;
 	public static final String CONNECTOR_BETWEEN_WEBSITE_AND_TYPE = "-";
+	//variables
+	public static String PRINT_ANJUKE_RENT_EXTRACT_PROCESS = PropertyUtil.getValue("application.properties", "print.anjuke.rent.extract.process");
+	public static String EXTRACT_PROCESS_GET_ADDRESS_SAVE_TO_DB = PropertyUtil.getValue("application.properties", "extract.process.get.address.save.to.db");
 	
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		String html = FileUtil.getDataFile2Str("./data/extract/Anjuke/AnjukeBeijingRent.txt", "utf-8");
-		//getAddress(html, "", "", "", "", "");
+		String html = FileUtil.getDataFile2Str("./data/extract/Anjuke/AnjukeShanghaiCommunity.txt", "utf-8");
+		new AnjukeRent().getAddressAndSave4CommunityShanghai(html, "","","","","");
+		//extractAndSaveAllOtherCity("安居客-二手房", "北京"); //getAddressAndSave(html, "", "", "", "", "");
 	}
 	
 	/*
@@ -69,7 +74,7 @@ public class AnjukeRent {
 			String community = strArray[2];
 
 			//判断是否要打印中间的解析过程
-			if ("open".equals(PropertyUtil.getValue("application.properties", "print.anjuke.rent.extract.process"))) {
+			if ("open".equals(PRINT_ANJUKE_RENT_EXTRACT_PROCESS)) {
 				System.out.println("website:" + website);
 				System.out.println("houseType:" + houseType);
 				System.out.println("district:" + district);
@@ -83,14 +88,14 @@ public class AnjukeRent {
 			}
 			for (Url url : urlList) {
 				String html = pageMgr.getPageContentByPageUrl(url.getUrl());
-				getAddressAndSave(html, community, district, city, website, houseType);
+				getAddressAndSave4RentOrSecondhand(html, community, district, city, website, houseType);
 			}
 		}
 	}
 	
-	public void getAddressAndSave(String html, String community, String district, String city, String website, String houseType){
+	public void getAddressAndSave4RentOrSecondhand(String html, String community, String district, String city, String website, String houseType){
 		if (StringUtils.isBlank(html)){
-			System.err.println("input html is blank in getAddress()");
+			System.err.println("input html is blank in getAddressAndSave4RentOrSecondhand()");
 			return;
 		}
 				
@@ -122,7 +127,7 @@ public class AnjukeRent {
 			address.setType(houseType);
 			
 			//判断是否要打印中间的解析过程
-			if ("open".equals(PropertyUtil.getValue("application.properties", "print.anjuke.rent.extract.process"))) {
+			if ("open".equals(PRINT_ANJUKE_RENT_EXTRACT_PROCESS)) {
 				System.out.println(addrArray[0] + "#" + addrArray[1]);
 				System.out.println(conditionElem.text());
 				System.out.println(comment);
@@ -130,7 +135,116 @@ public class AnjukeRent {
 				System.out.println(address);
 			}
 			//存入数据库
-			addressMgr.save(address);
+			if ("open".equals(EXTRACT_PROCESS_GET_ADDRESS_SAVE_TO_DB)) {
+				addressMgr.save(address);
+			}
+		}
+	}
+	
+	public void getAddressAndSave4Community(String html, String community, String district, String city, String website, String houseType){
+		if (StringUtils.isBlank(html)){
+			System.err.println("input html is blank in getAddressAndSave4Community()");
+			return;
+		}
+				
+		for (int i=0; i < MAX_ITEM_NUMBERS_IN_ONE_PAGE; i++) {
+			int index = i * 2 + 13;
+			Element element = ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=apf_id_" + (index) + "]", 0);
+			//这页并没有25个数据项，所以没有了，就停止向下循环
+			if (element == null) {
+				break;
+			}
+			
+			Element titleElem = ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=comm_name_qt_apf_id_" + (index) + "]", 0);
+			
+			Element addrElem = ParserUtil.parseElementWithRegexAndResultIndex(element, "address", 0);
+			String[] addrArray = addrElem.text().split("\\s+  ");
+			Element conditionElem = ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=comm_sale_qt_apf_id_" + (index) + "]", 0);
+			String houseCondition = conditionElem.text();
+//			Element commentElem = ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=prop_name_qt_prop_" + (i + 1) + "]", 0);
+//			String comment = commentElem.text();
+//			Element priceElem = ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=prop_price_qt_prop_" + (i + 1) + "]", 0);
+//			String price = priceElem.text();
+
+			Address address = new Address();
+			address.setName(addrArray[0]);
+//			address.setAddr(addrArray[1]);
+			address.setCommunity(community);
+			address.setDistrict(district);
+			address.setCity(city);
+//			address.setHouseCondition(houseCondition);
+//			address.setComment(comment);
+//			address.setPrice(price);
+			address.setWebsite(website);
+			address.setType(houseType);
+			
+			//判断是否要打印中间的解析过程
+			if ("open".equals(PRINT_ANJUKE_RENT_EXTRACT_PROCESS)) {
+				System.out.println(addrElem.text());
+				System.out.println(titleElem.text());
+//				System.out.println(addrArray[0] + "#" + addrArray[1]);
+				System.out.println(conditionElem.text());
+//				System.out.println(comment);
+//				System.out.println(price);
+//				System.out.println(address);
+			}
+			//存入数据库
+			if ("open".equals(EXTRACT_PROCESS_GET_ADDRESS_SAVE_TO_DB)) {
+				addressMgr.save(address);
+			}
+		}
+	}
+	
+	public void getAddressAndSave4CommunityShanghai(String html, String community, String district, String city, String website, String houseType){
+		if (StringUtils.isBlank(html)){
+			System.err.println("input html is blank in getAddressAndSave4CommunityShanghai()");
+			return;
+		}
+				
+		for (int i=0; i < MAX_ITEM_NUMBERS_IN_ONE_PAGE_ANJUKE_SHANGHAI_COMMUNITY; i++) {
+			int index = i; //i * 2 + 13;
+			Element element = ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "div[id=apf_html_id_" + (index) + "]", 0);
+			//这页并没有25个数据项，所以没有了，就停止向下循环
+			if (element == null) {
+				break;
+			}
+			
+			Element titleElem = ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=comm_name_qt_apf_html_id_" + (index) + "]", 0);
+			Element addrElem = ParserUtil.parseElementWithRegexAndResultIndex(element, "address", 0);
+			String addrStr = addrElem.text().replace("地图", "").trim();
+			Element conditionElem = ParserUtil.parseElementWithRegexAndResultIndex(element, "p[class=date]", 0);//ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=comm_sale_qt_apf_id_" + (index) + "]", 0);
+			String houseCondition = conditionElem.text();
+			Element commentElem = ParserUtil.parseElementWithRegexAndResultIndex(element, "p[class=house]", 0);//ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=prop_name_qt_prop_" + (i + 1) + "]", 0);
+			String comment = commentElem.text();
+			Element priceElem = ParserUtil.parseElementWithRegexAndResultIndex(element, "div[class=price]", 0);//ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=prop_price_qt_prop_" + (i + 1) + "]", 0);
+			String price = priceElem.text();
+
+			Address address = new Address();
+			address.setName(titleElem.text());
+			address.setAddr(addrStr);
+			address.setCommunity(community);
+			address.setDistrict(district);
+			address.setCity(city);
+			address.setHouseCondition(houseCondition);
+			address.setComment(comment);
+			address.setPrice(price);
+			address.setWebsite(website);
+			address.setType(houseType);
+			
+			//判断是否要打印中间的解析过程
+			if ("open".equals(PRINT_ANJUKE_RENT_EXTRACT_PROCESS)) {
+				System.out.println("title:" + titleElem.text());
+				System.out.println("addr:" + addrStr);
+				System.out.println("condition:" + houseCondition);
+				System.out.println("comment:" + comment);
+				System.out.println("price:" + price);
+				System.out.println(address);
+				System.out.println();
+			}
+			//存入数据库
+			if ("open".equals(EXTRACT_PROCESS_GET_ADDRESS_SAVE_TO_DB)) {
+				addressMgr.save(address);
+			}
 		}
 	}
 	
@@ -148,6 +262,7 @@ public class AnjukeRent {
 			System.err.println("cityList is blank in extractAndSaveAllOtherCity()");
 			return;
 		}
+		System.out.println(cityList);
 		for (String city : cityList){
 			System.out.println("*****************start to work on:" + city + "#" + type);
 			extractAndSaveByCityAndType(city, type);
