@@ -159,4 +159,10 @@ public class JobMgr {
 		return jobDao.getJobsByCityAndType(city, type);
 	}
 	
+	/* 根据类别返回所有的城市
+	 * eg.安居客-二手房，返回：北京、上海...
+	 * */
+	public List<String> getAllCities4OneJobLimitedByType(String type){
+		return jobDao.getAllCities4OneJobLimitedByType(type);
+	}
 }

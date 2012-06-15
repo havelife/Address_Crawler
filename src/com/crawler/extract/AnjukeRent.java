@@ -7,6 +7,7 @@ import org.jsoup.nodes.Element;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import com.crawler.dao.JobDao;
 import com.crawler.pojo.Address;
 import com.crawler.pojo.Job;
 import com.crawler.pojo.Url;
@@ -130,6 +131,26 @@ public class AnjukeRent {
 			}
 			//存入数据库
 			addressMgr.save(address);
+		}
+	}
+	
+	/*
+	 * 排除一些城市（北京、上海）
+	 * 去下载解析，租房。
+	 * */
+	public void extractAndSaveAllOtherCity(String type, String... exceptCities){
+		List<String> cityList = jobMgr.getAllCities4OneJobLimitedByType(type);
+		for (String city : exceptCities) {
+			cityList.remove(city);
+		}
+		
+		if (ListUtil.isBlank(cityList)){
+			System.err.println("cityList is blank in extractAndSaveAllOtherCity()");
+			return;
+		}
+		for (String city : cityList){
+			System.out.println("*****************start to work on:" + city + "#" + type);
+			extractAndSaveByCityAndType(city, type);
 		}
 	}
 }
