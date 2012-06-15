@@ -88,6 +88,7 @@ public class AnjukeRent {
 			}
 			for (Url url : urlList) {
 				String html = pageMgr.getPageContentByPageUrl(url.getUrl());
+				System.out.println("url: " + url.getUrl());
 				getAddressAndSave4RentOrSecondhand(html, community, district, city, website, houseType);
 			}
 		}
@@ -115,8 +116,12 @@ public class AnjukeRent {
 			String price = priceElem.text();
 
 			Address address = new Address();
-			address.setName(addrArray[0]);
-			address.setAddr(addrArray[1]);
+			if (addrArray.length == 2) {
+				address.setName(addrArray[0]);
+				address.setAddr(addrArray[1]);
+			} else if (addrArray.length == 1){
+				address.setName(addrArray[0]);
+			}
 			address.setCommunity(community);
 			address.setDistrict(district);
 			address.setCity(city);
