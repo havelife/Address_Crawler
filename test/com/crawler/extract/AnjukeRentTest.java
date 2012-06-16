@@ -46,6 +46,11 @@ public class AnjukeRentTest {
 		anjukeRent.extractAndSaveAllOtherCity("安居客-二手房");
 	}
 	
+	@Test
+	public void extractAndSaveByCityAndTypeTest4DebugBeijingYayuncun(){
+//		anjukeRent.extractAndSaveByCityAndType("北京", "安居客-二手房#朝阳#亚运村#90-110平米#二室#普通住宅");
+//		anjukeRent.extractAndSaveByCityAndType("北京", "安居客-二手房#朝阳#亚运村#110-130平米#二室#普通住宅");
+	}
 	/*
 	 * 解析所有的小区信息，并且存入address表
 	 * */
