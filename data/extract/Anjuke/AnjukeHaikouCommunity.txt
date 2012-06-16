@@ -1,0 +1,1365 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="海口小区">
+<meta name="description" content="2012年06月最新海口房价走势，海量在线的海口小区租售房源信息，小区详情，周边配套，实景图，房型图，价格行情，小区点评一应俱全，为您选购海口二手房提供全方位参考。">
+<title>海口房价，海口房价信息，海口房价走势  - 安居客</title>
+		
+<link rel="stylesheet" rev="stylesheet" href="http://include.anjukestatic.com/anjuke/res/h/a487b8688265c1f2d7826722dce154c0.css" type="text/css">
+<script charset="utf-8" async="" src="http://cbjs.baidu.com/js/log.js"></script><script charset="utf-8" async="" src="http://cpro.baidu.com/cpro/ui/cc.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://include.anjukestatic.com/anjuke/res/h/8a6ccd6ee6fbbd3af24eec73c54d4913.js"></script>
+		
+<link rel="icon" href="http://pages.anjukestatic.com/favicon.ico" type="image/ico">
+<link rel="shortcut icon" href="http://pages.anjukestatic.com/favicon.ico">
+		
+		
+		<script type="text/javascript">
+var startTime = new Date().getTime();
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-1496856-1']);
+_gaq.push(['_setDomainName', '.anjuke.com']);
+_gaq.push(['_setAllowHash', false]);
+_gaq.push(['_addOrganic', 'soso', 'w']);
+_gaq.push(['_addOrganic', 'youdao', 'q']);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_setCampaignCookieTimeout', 86400000]);
+_gaq.push(['_setVisitorCookieTimeout', 7776000000]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['t2._setAccount','UA-1496856-33']);
+_gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script>function bust(){document.write='';window.top.location=window.self.location;setTimeout(function(){document.body.innerHTML='';},0);window.self.onload=function(evt){document.body.innerHTML='';};}if(window.top !== window.self){try{if (window.top.location.host){}else{bust();}}catch(ex){bust();}}</script>
+				<script type="text/javascript">
+var anjuke_web_global_InitTracker=function(city_id,city_cookie_name,guid_cookie_name,base_domain,cookie_path){
+	var expire=365*5;var guid=this.getCookie(guid_cookie_name);if(null==guid){
+		guid=this.createGuid();this.setCookie(guid_cookie_name,guid,expire,cookie_path,base_domain);
+	}
+	if(city_id!=this.getCookie(city_cookie_name)){
+		this.setCookie(city_cookie_name,city_id,expire,cookie_path,base_domain);
+	}
+	var session_cookie_name='sessid';var session_id=this.getCookie(session_cookie_name);if(null==session_id){
+		session_id=this.createGuid();this.setCookie(session_cookie_name,session_id,0,cookie_path,base_domain);
+	}this.setCookie('isp', 'true', expire, cookie_path, base_domain);
+};anjuke_web_global_InitTracker.prototype.createGuid=function(){
+	return(this.S4()+this.S4()+"-"+this.S4()+"-"+this.S4()+"-"+this.S4()+"-"+this.S4()+this.S4()+this.S4());
+};anjuke_web_global_InitTracker.prototype.S4=function(){
+	return(((1+Math.random())*0x10000)|0).toString(16).substring(1).toUpperCase();
+};anjuke_web_global_InitTracker.prototype.getCookie=function(check_name){
+	var a_all_cookies=document.cookie.split(';');var a_temp_cookie='';var cookie_name='';var cookie_value='';var b_cookie_found=false;for(i=0;i<a_all_cookies.length;i++){
+		a_temp_cookie=a_all_cookies[i].split('=');cookie_name=a_temp_cookie[0].replace(/^\s+|\s+$/g,'');if(cookie_name==check_name){
+			b_cookie_found=true;if(a_temp_cookie.length>1){
+				cookie_value=unescape(a_temp_cookie[1].replace(/^\s+|\s+$/g,''));
+			}
+			return cookie_value;break;
+		}
+		a_temp_cookie=null;cookie_name='';
+	}
+	if(!b_cookie_found){
+		return null;
+	}
+};anjuke_web_global_InitTracker.prototype.setCookie=function(name,value,expires,path,domain,secure){
+	var today=new Date();today.setTime(today.getTime());if(expires){
+		expires=expires*1000*60*60*24;
+	}
+	var expires_date=new Date(today.getTime()+(expires));document.cookie=name+"="+escape(value)+
+	((expires)?";expires="+expires_date.toGMTString():"")+
+	((path)?";path="+path:"")+
+	((domain)?";domain="+domain:"")+
+	((secure)?";secure":"");
+};
+new anjuke_web_global_InitTracker('49','ctid','aQQ_ajkguid','anjuke.com','/');
+
+</script>
+
+<script src="http://s.anjuke.com/st?p=Listing_Community_SearchPage&amp;h=http%3A%2F%2Fhaikou.anjuke.com%2Fcommunity%2F&amp;r=http%3A%2F%2Fhaikou.anjuke.com%2F&amp;site=anjuke&amp;guid=9D4BF7B1-3588-9E44-E3BA-AAA97B81010E&amp;ssid=67295AA2-818C-F490-81C5-399F189D186B&amp;uid=0&amp;t=1339744173520&amp;ctid=49&amp;luid=&amp;m=&amp;pn=Anjuke_Home_Community&amp;cp=%7B%7D" async=""></script></head>
+<body id=""><div class="SearchSuggestion" style="display: none; "></div><div class="SearchSuggestion" style="display: none; "></div>
+	<div id="container">
+    <div id="header">
+    	        <div class="top-nav">
+    <div class="top-nav-left">
+         
+    </div>    
+	<div class="login_nav">
+		<!--未登录  start-->
+    <ul class="toplogin_cont no_login" id="ajax_nologin_apf_id_6">
+        <li><a href="http://agent.anjuke.com/login/" class="myanjuke_store" rel="nofollow">中国网络经纪人</a></li>
+        <li class="ios rp20"><a href="http://pages.anjuke.com/app/anjuke/ios.html?from=top" class="login" rel="nofollow" style="color:#f60;">手机安居客</a></li>
+                <li class="weituo"><a href="http://my.anjuke.com/ownpbase?from=loginnav" class="weituoicon" target="_blank" rel="nofollow">我要卖房</a><code>|</code></li>
+        <li><a href="http://my.anjuke.com/marked/?from=header_false">选房单</a><code>|</code></li>
+        <li class="register_boxer"><a href="http://my.anjuke.com/register" class="register" rel="nofollow">注册</a><code>|</code></li>
+                <li><a href="http://my.anjuke.com/my/login?history=aHR0cDovL2hhaWtvdS5hbmp1a2UuY29tL2NvbW11bml0eS8=" class="login" rel="nofollow">请登录</a><code>|</code></li>   
+        <li>您好，</li>        
+    </ul>
+    <!--未登录  end-->
+    
+</div>
+</div>
+<div class="header_content clearfix">
+	<div class="header_logo"><a href="http://haikou.anjuke.com" title="安居客海口二手房">海口二手房</a></div>
+    <div class="slogan">专业二手房搜索引擎</div> 
+	<div class="header_city">
+		    <div class="cur_city">
+        <a href="javascript:;" id="switch_apf_id_7" class="select_icon"><span class="city">海口</span><span class="city_icon">选择城市</span></a>
+        <div id="city-panel" class="city_panel" style="display: none; ">
+        	<iframe frameborder="0" scrolling="no" style="width: 350px; height: 266px; "></iframe>
+        	        	<dl>
+            	<dt>华北东北</dt>
+                <dd>
+                	                	<a href="http://beijing.anjuke.com" rel="nofollow">北京</a>
+                	                	<a href="http://tianjin.anjuke.com" rel="nofollow">天津</a>
+                	                	<a href="http://dalian.anjuke.com" rel="nofollow">大连</a>
+                	                	<a href="http://sjz.anjuke.com" rel="nofollow">石家庄</a>
+                	                	<a href="http://heb.anjuke.com" rel="nofollow">哈尔滨</a>
+                	                	<a href="http://sy.anjuke.com" rel="nofollow">沈阳</a>
+                	                	<a href="http://ty.anjuke.com" rel="nofollow">太原</a>
+                	                	<a href="http://cc.anjuke.com" rel="nofollow">长春</a>
+                	                </dd>
+            </dl>
+                    	<dl>
+            	<dt>华东地区</dt>
+                <dd>
+                	                	<a href="http://shanghai.anjuke.com" rel="nofollow">上海</a>
+                	                	<a href="http://hangzhou.anjuke.com" rel="nofollow">杭州</a>
+                	                	<a href="http://suzhou.anjuke.com" rel="nofollow">苏州</a>
+                	                	<a href="http://nanjing.anjuke.com" rel="nofollow">南京</a>
+                	                	<a href="http://wuxi.anjuke.com" rel="nofollow">无锡</a>
+                	                	<a href="http://jinan.anjuke.com" rel="nofollow">济南</a>
+                	                	<a href="http://qd.anjuke.com" rel="nofollow">青岛</a>
+                	                	<a href="http://ks.anjuke.com" rel="nofollow">昆山</a>
+                	                	<a href="http://nb.anjuke.com" rel="nofollow">宁波</a>
+                	                	<a href="http://nc.anjuke.com" rel="nofollow">南昌</a>
+                	                	<a href="http://fz.anjuke.com" rel="nofollow">福州</a>
+                	                	<a href="http://hf.anjuke.com" rel="nofollow">合肥</a>
+                	                </dd>
+            </dl>
+                    	<dl>
+            	<dt>华南地区</dt>
+                <dd>
+                	                	<a href="http://shenzhen.anjuke.com" rel="nofollow">深圳</a>
+                	                	<a href="http://guangzhou.anjuke.com" rel="nofollow">广州</a>
+                	                	<a href="http://foshan.anjuke.com" rel="nofollow">佛山</a>
+                	                	<a href="http://cs.anjuke.com" rel="nofollow">长沙</a>
+                	                	<a href="http://dg.anjuke.com" rel="nofollow">东莞</a>
+                	                	<a href="http://haikou.anjuke.com" rel="nofollow">海口</a>
+                	                	<a href="http://zh.anjuke.com" rel="nofollow">珠海</a>
+                	                	<a href="http://zs.anjuke.com" rel="nofollow">中山</a>
+                	                	<a href="http://xm.anjuke.com" rel="nofollow">厦门</a>
+                	                </dd>
+            </dl>
+                    	<dl>
+            	<dt>中 西 部</dt>
+                <dd>
+                	                	<a href="http://chengdu.anjuke.com" rel="nofollow">成都</a>
+                	                	<a href="http://chongqing.anjuke.com" rel="nofollow">重庆</a>
+                	                	<a href="http://wuhan.anjuke.com" rel="nofollow">武汉</a>
+                	                	<a href="http://zhengzhou.anjuke.com" rel="nofollow">郑州</a>
+                	                	<a href="http://xa.anjuke.com" rel="nofollow">西安</a>
+                	                	<a href="http://km.anjuke.com" rel="nofollow">昆明</a>
+                	                	<a href="http://gy.anjuke.com" rel="nofollow">贵阳</a>
+                	                	<a href="http://lanzhou.anjuke.com" rel="nofollow">兰州</a>
+                	                	<a href="http://luoyang.anjuke.com" rel="nofollow">洛阳</a>
+                	                </dd>
+            </dl>
+                        <div class="blank"><a href="http://www.anjuke.com/index/">更多城市&gt;&gt;</a></div>
+        </div>
+    </div>
+	</div>
+	<div class="tabbar_content">
+	<div class="anjuke_tabbar">
+    	<ul>
+    	        	<li class="home">
+				<a href="http://haikou.anjuke.com/" title="海口房产" rel="nofollow"><span>首 页</span></a>
+                			</li>
+		        	<li class="sale">
+				<a href="http://haikou.anjuke.com/sale/" title="海口二手房"><span>二手房</span></a>
+                			</li>
+		        	<li class="rental">
+				<a href="http://haikou.anjuke.com/rental/" title="海口租房"><span>租 房</span></a>
+                			</li>
+		        	<li class="owner">
+				<a href="http://haikou.anjuke.com/owner/" title="海口卖房"><span>我要卖房</span></a>
+                			</li>
+		        	<li class="broker">
+				<a href="http://haikou.anjuke.com/tycoon/" title="海口经纪人"><span>经纪人</span></a>
+                			</li>
+		        	<li class="comm">
+				<a href="http://haikou.anjuke.com/community/" title="海口房价" class="selected"><span>小  区</span></a>
+                			</li>
+		        	<li class="question">
+				<a href="http://haikou.anjuke.com/ask" title="问 答"><span>问 答</span></a>
+                <em>新</em>			</li>
+				            <li class="forum">
+				<a href="http://haikou.bbs.anjuke.com/group/" title="社&nbsp;区"><span>社&nbsp;区</span></a>
+			</li>
+		        </ul>
+    </div>
+    
+    <!--爱房 好租 金铺 链接移到上面 此处删除  start-->
+	     	
+    <!--爱房 好租 金铺 链接移到上面 此处删除  end-->
+    
+    <span class="anjuke_tabbar_side"></span>
+</div>
+		</div>
+<div class="bg_line"></div>
+
+
+<div class="search-content">
+	<div class="search-box clearfix">
+	<form action="/search" id="apf_id_9_form" method="get">
+            <input type="hidden" value="1" name="rd">
+            <input type="hidden" value="3" id="search_type_apf_id_9" name="t">
+	    			    <input type="text" id="keyword_apf_id_9" value="请输入小区名或路名..." class="input_text" name="k" maxlength="100" autocomplete="off">
+	    <input type="submit" value="搜索" id="sbtn2_apf_id_9" class="input_button se_community">
+	</form>
+</div>
+    
+	<div class="found_home">
+	<a rel="nofollow" target="_blank" href="/map/sale/">地图找房</a>
+	</div>
+</div>
+
+    </div>
+    <div id="content">
+        <div class="community">
+    <div class="filter_container">
+        <div class="condition_links2 " id="panel_apf_id_10">
+        <div>
+        <div class="condition_title">区域：</div>
+        <div class="container" id="apf_id_10_areacontainer">
+                                        <strong>不限</strong>
+                                                	                <a href="http://haikou.anjuke.com/community/W0QQpZ1QQp1Z5056" title="龙华">龙华</a>
+                                                                	                <a href="http://haikou.anjuke.com/community/W0QQpZ1QQp1Z5057" title="美兰">美兰</a>
+                                                                	                <a href="http://haikou.anjuke.com/community/W0QQpZ1QQp1Z5058" title="秀英">秀英</a>
+                                                                	                <a href="http://haikou.anjuke.com/community/W0QQpZ1QQp1Z5059" title="琼山">琼山</a>
+                                                                	                <a href="http://haikou.anjuke.com/community/W0QQpZ1QQp1Z5060" title="其他">其他</a>
+                                                </div>
+    </div>
+    
+        
+            <div>
+        <div class="condition_title">房龄：</div>
+        <div class="container" id="apf_id_10_areacontainer">
+                                        <strong>不限</strong>
+                                                	                	<a href="http://haikou.anjuke.com/community/W0QQp22Z2" title="2年内" rel="nofollow">2年内</a>
+                                                                	                	<a href="http://haikou.anjuke.com/community/W0QQp22Z3" title="2-5年" rel="nofollow">2-5年</a>
+                                                                	                	<a href="http://haikou.anjuke.com/community/W0QQp22Z5" title="5-10年" rel="nofollow">5-10年</a>
+                                                                	                	<a href="http://haikou.anjuke.com/community/W0QQp22Z10" title="10年以上" rel="nofollow">10年以上</a>
+                                                </div>
+    </div>
+    
+            <div>
+        <div class="condition_title">类型：</div>
+        <div class="container" id="apf_id_10_areacontainer">
+                                        <strong>不限</strong>
+                                                	                	<a href="http://haikou.anjuke.com/community/W0QQpZ1QQp6Z9" title="普通住宅" rel="nofollow">普通住宅</a>
+                                                                	                	<a href="http://haikou.anjuke.com/community/W0QQpZ1QQp6Z2" title="别墅" rel="nofollow">别墅</a>
+                                                                	                	<a href="http://haikou.anjuke.com/community/W0QQpZ1QQp6Z71" title="酒店公寓" rel="nofollow">酒店公寓</a>
+                                                </div>
+    </div>
+    
+    </div>
+
+    </div>
+    <div class="new_result_bar">
+	    <div class="result_bar">
+	        <div class="local_search_nh">
+	            <form id="_search_form" action="http://haikou.anjuke.com/community/" method="get" class="keywordform">
+	                <input id="_kw" type="text" name="kw" class="kw" value="在结果中搜索" autocomplete="off">
+	                <input type="submit" value="搜索" class="search">
+                    <a href="http://haikou.anjuke.com/community/" id="commclearkw" class="clearkw">清空</a>
+	            </form>
+	        </div>
+	    </div>
+    	<ul>
+        <li class="asline"></li>
+        <li class="condlist_tip"><span>更多筛选：</span></li>
+        <li class="">
+        	<div id="" class="select_contents">
+                <a href="#" class="select">
+                <span class="select_item"><span class="txt">绿化率</span><span class="icon">&nbsp;</span></span>			
+                <!--[if IE 7]><!--></a><!--<![endif]-->
+                <!--[if IE 8]><!--><!--<![endif]-->
+                <!--[if !IE]>--><!--<![endif]-->
+                <!--[if lte IE 6]>
+                <iframe src="" style="position:absolute;visibility:inherit; top:0px; left:-1px; width:99px; height:105px;z-index:-1;opacity:.0;filter:alpha(opacity=0); -moz-opacity:0;"></iframe>
+                <table><tr><td><![endif]-->
+                <ul>
+                                        	<li class="selected"><a href="http://haikou.anjuke.com/community/" class="select_list" rel="nofollow">不限</a></li>
+                                        	<li class=""><a href="http://haikou.anjuke.com/community/W0QQp23Z30" class="select_list" rel="nofollow">高于30%</a></li>
+                                        	<li class=""><a href="http://haikou.anjuke.com/community/W0QQp23Z40" class="select_list" rel="nofollow">高于40%</a></li>
+                                        	<li class=""><a href="http://haikou.anjuke.com/community/W0QQp23Z50" class="select_list" rel="nofollow">高于50%</a></li>
+                                        	<li class=""><a href="http://haikou.anjuke.com/community/W0QQp23Z60" class="select_list" rel="nofollow">高于60%</a></li>
+                                   </ul>
+                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </div> 
+        
+        </li>
+    	            <li class="checkbox_content">
+                        	<input type="checkbox" value="http://haikou.anjuke.com/community/W0QQzpZ1" id="idcommhasprop" style="float:left;"><label for="idcommhasprop">只看有房源的小区</label>
+            </li>
+        </ul>
+    </div>
+    <div class="container list_container">
+        <div class="listing">
+            <div class="nh_tab_bar">
+                <div class="num">安居客找到<span>1612</span>&nbsp;个符合要求的小区</div>
+                <div class="pager"><div class="simple_multipage">
+
+            <div class="pagelink noprexpage">&nbsp;</div>
+    
+                        <div class="current">1/162</div>
+            
+            <div class="pagelink nextpage"><a href="http://haikou.anjuke.com/community/W0QQpZ2" title="下一页">下一页</a></div>
+    
+</div></div>
+                <div class="order_content">
+                	<label>排序：</label>
+                    <div id="selectorder_id">
+                        <a href="#" class="select"><span class="select_item"><span class="txt">默认排序</span><span class="icon">&nbsp;</span></span>			
+                        <!--[if IE 7]><!--></a><!--<![endif]-->
+                        <!--[if IE 8]><!--><!--<![endif]-->
+                        <!--[if !IE]>--><!--<![endif]-->
+                        <!--[if lte IE 6]>
+                        <iframe src="" style="position:absolute;visibility:inherit; top:0px; left:-1px; width:99px; height:105px;z-index:-1;opacity:.0;filter:alpha(opacity=0); -moz-opacity:0;"></iframe>
+                        <table><tr><td><![endif]-->
+                        <ul>
+                                                <li class=""><a href="http://haikou.anjuke.com/community/W0QQsZsQQstZ1" class="select_list" rel="nofollow">按出售房源数</a></li>
+                        <li class=""><a href="http://haikou.anjuke.com/community/W0QQsZrQQstZ1" class="select_list" rel="nofollow">按出租房源数</a></li>
+                        <li class=""><a href="http://haikou.anjuke.com/community/W0QQsZiQQstZ1" class="select_list" rel="nofollow">按图片数</a></li>
+	                                                                        </ul>
+                        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                    </div> 
+                    <a href="" class="price " rel="nofollow">均价</a>
+                    <a style="display:none;" href="" class="">涨跌</a>
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+            <div style="clear:both;"></div>
+                            	    <!-- table class="header" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td class="title">&nbsp;</td>
+            <td>小区信息</td>
+                    </tr>
+    </table -->
+                    <ol id="list_body">
+	                	                	
+    <li id="li_apf_id_13" class="">
+	<div class="property2" id="apf_id_13">
+	    <div class="photo">
+	        <a href="http://haikou.anjuke.com/community/view/362656" class="photo" title="荣域11139元/平米" alt="荣域11139元/平米" target="_blank"><img class="thumbnail" id="apf_id_14_a" src="http://pic1.ajkimg.com/display/45e3ed2495e9ba34184c391c1d06b1de/150x115.jpg" alt="荣域11139元/平米" width="150" height="113"></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a id="comm_name_qt_apf_id_13" href="http://haikou.anjuke.com/community/view/362656" target="_blank">荣域</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_13">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[美兰&nbsp;海甸]海甸岛海景路77号</span>
+				<a class="lookmap" target="_blank" href="http://haikou.anjuke.com/map/sale/#l1=20.07476&amp;l2=110.345711&amp;l3=18&amp;flag=1&amp;commname=荣域&amp;commid=362656" rel="nofollow">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2008年12月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_13">二手房
+	                		                <a href="http://haikou.anjuke.com/community/props/sale/362656" target="_blank" style="color: #335293;">(74)</a>
+		                            </span>
+            	        	        </p>
+
+	        <p class="commseries">
+	                        <a href=" http://haikou.anjuke.com/community/view/362656?from=communitylist" class="icons01" target="_blank" _soj="communitylist">小区详情</a>
+            	                    	<a href="http://haikou.anjuke.com/community/round/362656" class="icons02" target="_blank">生活配套</a>
+            	                                    <a href="http://haikou.anjuke.com/community/photos/b/362656" class="icons04" target="_blank">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    		   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_15" class="">
+	<div class="property2" id="apf_id_15">
+	    <div class="photo">
+	        <a href="http://haikou.anjuke.com/community/view/362574" class="photo" title="伊甸家园7891元/平米" alt="伊甸家园7891元/平米" target="_blank"><img class="thumbnail" id="apf_id_16_a" src="http://pic1.ajkimg.com/display/849d9b24507e159cad70aa938498bed4/150x115.jpg" alt="伊甸家园7891元/平米" width="150" height="113"></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a id="comm_name_qt_apf_id_15" href="http://haikou.anjuke.com/community/view/362574" target="_blank">伊甸家园</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_15">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[美兰&nbsp;海甸]海甸五西路</span>
+				<a class="lookmap" target="_blank" href="http://haikou.anjuke.com/map/sale/#l1=20.071217&amp;l2=110.327466&amp;l3=18&amp;flag=1&amp;commname=伊甸家园&amp;commid=362574" rel="nofollow">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2005年06月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_15">二手房
+	                		                <a href="http://haikou.anjuke.com/community/props/sale/362574" target="_blank" style="color: #335293;">(28)</a>
+		                            </span>
+            	        	        </p>
+
+	        <p class="commseries">
+	                        <a href=" http://haikou.anjuke.com/community/view/362574?from=communitylist" class="icons01" target="_blank" _soj="communitylist">小区详情</a>
+            	                    	<a href="http://haikou.anjuke.com/community/round/362574" class="icons02" target="_blank">生活配套</a>
+            	                                    <a href="http://haikou.anjuke.com/community/photos/b/362574" class="icons04" target="_blank">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    		   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_17" class="">
+	<div class="property2" id="apf_id_17">
+	    <div class="photo">
+	        <a href="http://haikou.anjuke.com/community/view/429334" class="photo" title="滨江海岸7804元/平米" alt="滨江海岸7804元/平米" target="_blank"><img class="thumbnail" id="apf_id_18_a" src="http://pic1.ajkimg.com/display/14d958c45a710126d5c765c1ece202bc/150x115.jpg" alt="滨江海岸7804元/平米" width="150" height="113"></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a id="comm_name_qt_apf_id_17" href="http://haikou.anjuke.com/community/view/429334" target="_blank">滨江海岸</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_17">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[美兰&nbsp;海甸]海口市海甸岛和平大桥东侧</span>
+				<a class="lookmap" target="_blank" href="http://haikou.anjuke.com/map/sale/#l1=20.051828&amp;l2=110.348437&amp;l3=18&amp;flag=1&amp;commname=滨江海岸&amp;commid=429334" rel="nofollow">地图</a>
+            </address>
+	                                                	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_17">二手房
+	                		                <a href="http://haikou.anjuke.com/community/props/sale/429334" target="_blank" style="color: #335293;">(27)</a>
+		                            </span>
+            	        	        </p>
+
+	        <p class="commseries">
+	                        <a href=" http://haikou.anjuke.com/community/view/429334?from=communitylist" class="icons01" target="_blank" _soj="communitylist">小区详情</a>
+            	                    	<a href="http://haikou.anjuke.com/community/round/429334" class="icons02" target="_blank">生活配套</a>
+            	                                    <a href="http://haikou.anjuke.com/community/photos/b/429334" class="icons04" target="_blank">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    		   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_19">
+	<div class="property2" id="apf_id_19">
+	    <div class="photo">
+	        <a href="http://haikou.anjuke.com/community/view/432698" class="photo" title="天伦誉海湾8266元/平米" alt="天伦誉海湾8266元/平米" target="_blank"><img class="thumbnail" id="apf_id_20_a" src="http://pages.anjukestatic.com/img/global/nopic_150x113.gif" alt="天伦誉海湾8266元/平米" width="150" height="113" style="background-image: url(http://pages.anjukestatic.com/js/lazierload-04/loading.gif); background-position: 50% 50%; background-repeat: no-repeat no-repeat; "></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a id="comm_name_qt_apf_id_19" href="http://haikou.anjuke.com/community/view/432698" target="_blank">天伦誉海湾</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_19">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[秀英&nbsp;滨海西路]海口西海岸西秀海滩永万路</span>
+				<a class="lookmap" target="_blank" href="http://haikou.anjuke.com/map/sale/#l1=20.022004&amp;l2=110.273032&amp;l3=18&amp;flag=1&amp;commname=天伦誉海湾&amp;commid=432698" rel="nofollow">地图</a>
+            </address>
+	                                                	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_19">二手房
+	                		                <a href="http://haikou.anjuke.com/community/props/sale/432698" target="_blank" style="color: #335293;">(26)</a>
+		                            </span>
+            	        	        </p>
+
+	        <p class="commseries">
+	                        <a href=" http://haikou.anjuke.com/community/view/432698?from=communitylist" class="icons01" target="_blank" _soj="communitylist">小区详情</a>
+            	                    	<a href="http://haikou.anjuke.com/community/round/432698" class="icons02" target="_blank">生活配套</a>
+            	                                    <a href="http://haikou.anjuke.com/community/photos/b/432698" class="icons04" target="_blank">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    		   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_21" class="">
+	<div class="property2" id="apf_id_21">
+	    <div class="photo">
+	        <a href="http://haikou.anjuke.com/community/view/363054" class="photo" title="金手指高尔夫温泉小镇5732元/平米" alt="金手指高尔夫温泉小镇5732元/平米" target="_blank"><img class="thumbnail" id="apf_id_22_a" src="http://pic1.ajkimg.com/display/64b8d38b0ccc8a44c50d1a0ed53f4309/150x115.jpg" alt="金手指高尔夫温泉小镇5732元/平米" width="150" height="113" style="background-image: url(http://pages.anjukestatic.com/js/lazierload-04/loading.gif); background-position: 50% 50%; background-repeat: no-repeat no-repeat; "></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a id="comm_name_qt_apf_id_21" href="http://haikou.anjuke.com/community/view/363054" target="_blank">金手指高尔夫温泉小镇</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_21">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[秀英&nbsp;秀英大道]西海岸盈滨半岛国际旅游度假区盈滨路</span>
+				<a class="lookmap" target="_blank" href="http://haikou.anjuke.com/map/sale/#l1=19.986292&amp;l2=110.149314&amp;l3=18&amp;flag=1&amp;commname=金手指高尔夫温泉小镇&amp;commid=363054" rel="nofollow">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2012年06月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_21">二手房
+	                		                <a href="http://haikou.anjuke.com/community/props/sale/363054" target="_blank" style="color: #335293;">(25)</a>
+		                            </span>
+            	        	        </p>
+
+	        <p class="commseries">
+	                        <a href=" http://haikou.anjuke.com/community/view/363054?from=communitylist" class="icons01" target="_blank" _soj="communitylist">小区详情</a>
+            	                    	<a href="http://haikou.anjuke.com/community/round/363054" class="icons02" target="_blank">生活配套</a>
+            	                                    <a href="http://haikou.anjuke.com/community/photos/b/363054" class="icons04" target="_blank">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    		   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_23" class="">
+	<div class="property2" id="apf_id_23">
+	    <div class="photo">
+	        <a href="http://haikou.anjuke.com/community/view/379165" class="photo" title="南国威尼斯城8292元/平米" alt="南国威尼斯城8292元/平米" target="_blank"><img class="thumbnail" id="apf_id_24_a" src="http://pic1.ajkimg.com/display/06c770f46cd0d026f56fa4d50c80b814/150x115.jpg" alt="南国威尼斯城8292元/平米" width="150" height="113" style="background-image: url(http://pages.anjukestatic.com/js/lazierload-04/loading.gif); background-position: 50% 50%; background-repeat: no-repeat no-repeat; "></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a id="comm_name_qt_apf_id_23" href="http://haikou.anjuke.com/community/view/379165" target="_blank">南国威尼斯城</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_23">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[琼山&nbsp;琼山大道]琼山区云龙镇</span>
+				<a class="lookmap" target="_blank" href="http://haikou.anjuke.com/map/sale/#l1=19.764013&amp;l2=110.410983&amp;l3=18&amp;flag=1&amp;commname=南国威尼斯城&amp;commid=379165" rel="nofollow">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2010年10月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_23">二手房
+	                		                <a href="http://haikou.anjuke.com/community/props/sale/379165" target="_blank" style="color: #335293;">(23)</a>
+		                            </span>
+            	        	        </p>
+
+	        <p class="commseries">
+	                        <a href=" http://haikou.anjuke.com/community/view/379165?from=communitylist" class="icons01" target="_blank" _soj="communitylist">小区详情</a>
+            	                    	<a href="http://haikou.anjuke.com/community/round/379165" class="icons02" target="_blank">生活配套</a>
+            	                                    <a href="http://haikou.anjuke.com/community/photos/b/379165" class="icons04" target="_blank">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    		   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_25" class="">
+	<div class="property2" id="apf_id_25">
+	    <div class="photo">
+	        <a href="http://haikou.anjuke.com/community/view/381989" class="photo" title="万恒城市花园6983元/平米" alt="万恒城市花园6983元/平米" target="_blank"><img class="thumbnail" id="apf_id_26_a" src="http://pic1.ajkimg.com/display/2a8feada28e7e98b14ed44a40004483f/150x115.jpg" alt="万恒城市花园6983元/平米" width="150" height="113" style="background-image: url(http://pages.anjukestatic.com/js/lazierload-04/loading.gif); background-position: 50% 50%; background-repeat: no-repeat no-repeat; "></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a id="comm_name_qt_apf_id_25" href="http://haikou.anjuke.com/community/view/381989" target="_blank">万恒城市花园</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_25">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[美兰&nbsp;海甸]海口美兰区海甸岛万恒路18号</span>
+				<a class="lookmap" target="_blank" href="http://haikou.anjuke.com/map/sale/#l1=20.071961&amp;l2=110.331566&amp;l3=18&amp;flag=1&amp;commname=万恒城市花园&amp;commid=381989" rel="nofollow">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2006年08月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_25">二手房
+	                		                <a href="http://haikou.anjuke.com/community/props/sale/381989" target="_blank" style="color: #335293;">(22)</a>
+		                            </span>
+            	        	        </p>
+
+	        <p class="commseries">
+	                        <a href=" http://haikou.anjuke.com/community/view/381989?from=communitylist" class="icons01" target="_blank" _soj="communitylist">小区详情</a>
+            	                    	<a href="http://haikou.anjuke.com/community/round/381989" class="icons02" target="_blank">生活配套</a>
+            	                                    <a href="http://haikou.anjuke.com/community/photos/b/381989" class="icons04" target="_blank">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    		   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_27" class="">
+	<div class="property2" id="apf_id_27">
+	    <div class="photo">
+	        <a href="http://haikou.anjuke.com/community/view/363137" class="photo" title="金山小区5500元/平米" alt="金山小区5500元/平米" target="_blank"><img class="thumbnail" id="apf_id_28_a" src="http://pic1.ajkimg.com/display/387133fab91addfee6002d67b754a95e/150x115.jpg" alt="金山小区5500元/平米" width="150" height="113" style="background-image: url(http://pages.anjukestatic.com/js/lazierload-04/loading.gif); background-position: 50% 50%; background-repeat: no-repeat no-repeat; "></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a id="comm_name_qt_apf_id_27" href="http://haikou.anjuke.com/community/view/363137" target="_blank">金山小区</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_27">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[秀英&nbsp;秀英大道]海垦路88号</span>
+				<a class="lookmap" target="_blank" href="http://haikou.anjuke.com/map/sale/#l1=20.007632&amp;l2=110.310923&amp;l3=18&amp;flag=1&amp;commname=金山小区&amp;commid=363137" rel="nofollow">地图</a>
+            </address>
+	                                                	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_27">二手房
+	                		                <a href="http://haikou.anjuke.com/community/props/sale/363137" target="_blank" style="color: #335293;">(21)</a>
+		                            </span>
+            	                        <span id="comm_rent_qt_apf_id_27">租房
+                			                <a href="http://haikou.anjuke.com/community/props/rent/363137" target="_blank" style="color: #335293;">(1)</a>
+		                            </span>
+            	        </p>
+
+	        <p class="commseries">
+	                        <a href=" http://haikou.anjuke.com/community/view/363137?from=communitylist" class="icons01" target="_blank" _soj="communitylist">小区详情</a>
+            	                    	<a href="http://haikou.anjuke.com/community/round/363137" class="icons02" target="_blank">生活配套</a>
+            	                                    <a href="http://haikou.anjuke.com/community/photos/b/363137" class="icons04" target="_blank">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    		   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_29" class="">
+	<div class="property2" id="apf_id_29">
+	    <div class="photo">
+	        <a href="http://haikou.anjuke.com/community/view/362573" class="photo" title="兆南绿岛家园8146元/平米" alt="兆南绿岛家园8146元/平米" target="_blank"><img class="thumbnail" id="apf_id_30_a" src="http://pic1.ajkimg.com/display/21aaec3f37c6f13ab5247e4ff56cd59b/150x115.jpg" alt="兆南绿岛家园8146元/平米" width="150" height="113" style="background-image: url(http://pages.anjukestatic.com/js/lazierload-04/loading.gif); background-position: 50% 50%; background-repeat: no-repeat no-repeat; "></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a id="comm_name_qt_apf_id_29" href="http://haikou.anjuke.com/community/view/362573" target="_blank">兆南绿岛家园</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_29">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[美兰&nbsp;海甸]海甸五西路42号</span>
+				<a class="lookmap" target="_blank" href="http://haikou.anjuke.com/map/sale/#l1=20.068528&amp;l2=110.32883&amp;l3=18&amp;flag=1&amp;commname=兆南绿岛家园&amp;commid=362573" rel="nofollow">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2005年01月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_29">二手房
+	                		                <a href="http://haikou.anjuke.com/community/props/sale/362573" target="_blank" style="color: #335293;">(20)</a>
+		                            </span>
+            	        	        </p>
+
+	        <p class="commseries">
+	                        <a href=" http://haikou.anjuke.com/community/view/362573?from=communitylist" class="icons01" target="_blank" _soj="communitylist">小区详情</a>
+            	                    	<a href="http://haikou.anjuke.com/community/round/362573" class="icons02" target="_blank">生活配套</a>
+            	                                    <a href="http://haikou.anjuke.com/community/photos/b/362573" class="icons04" target="_blank">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    		   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_31" class="">
+	<div class="property2" id="apf_id_31">
+	    <div class="photo">
+	        <a href="http://haikou.anjuke.com/community/view/362648" class="photo" title="世纪海岸9023元/平米" alt="世纪海岸9023元/平米" target="_blank"><img class="thumbnail" id="apf_id_32_a" src="http://pic1.ajkimg.com/display/d1e30d5f5081de335ac494c4767feb67/150x115.jpg" alt="世纪海岸9023元/平米" width="150" height="113" style="background-image: url(http://pages.anjukestatic.com/js/lazierload-04/loading.gif); background-position: 50% 50%; background-repeat: no-repeat no-repeat; "></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a id="comm_name_qt_apf_id_31" href="http://haikou.anjuke.com/community/view/362648" target="_blank">世纪海岸</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_31">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[美兰&nbsp;海甸]世纪大道3号</span>
+				<a class="lookmap" target="_blank" href="http://haikou.anjuke.com/map/sale/#l1=20.070523&amp;l2=110.326007&amp;l3=18&amp;flag=1&amp;commname=世纪海岸&amp;commid=362648" rel="nofollow">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2007年01月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_31">二手房
+	                		                <a href="http://haikou.anjuke.com/community/props/sale/362648" target="_blank" style="color: #335293;">(20)</a>
+		                            </span>
+            	        	        </p>
+
+	        <p class="commseries">
+	                        <a href=" http://haikou.anjuke.com/community/view/362648?from=communitylist" class="icons01" target="_blank" _soj="communitylist">小区详情</a>
+            	                    	<a href="http://haikou.anjuke.com/community/round/362648" class="icons02" target="_blank">生活配套</a>
+            	                                    <a href="http://haikou.anjuke.com/community/photos/b/362648" class="icons04" target="_blank">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    		   </div>
+	   </div>
+	  	                                </li></ol>
+                <div class="multi_page_div">
+                <div class="multipage">
+
+                        <span class="nolink prexpage"><img src="http://pages.anjukestatic.com/img/icon/arrow.left-10x10.gif">&nbsp;上一页</span>
+                                <span class="current">1</span>
+                                <a href="http://haikou.anjuke.com/community/W0QQpZ2"><span>2</span></a>
+                                <a href="http://haikou.anjuke.com/community/W0QQpZ3"><span>3</span></a>
+                                <a href="http://haikou.anjuke.com/community/W0QQpZ4"><span>4</span></a>
+                                <a href="http://haikou.anjuke.com/community/W0QQpZ5"><span>5</span></a>
+                                <a href="http://haikou.anjuke.com/community/W0QQpZ6"><span>6</span></a>
+                                <a href="http://haikou.anjuke.com/community/W0QQpZ7"><span>7</span></a>
+                                <a href="http://haikou.anjuke.com/community/W0QQpZ8"><span>8</span></a>
+                                <a href="http://haikou.anjuke.com/community/W0QQpZ9"><span>9</span></a>
+                                <a href="http://haikou.anjuke.com/community/W0QQpZ10"><span>10</span></a>
+                                <a href="http://haikou.anjuke.com/community/W0QQpZ2"><span class="nextpage">下一页 <img src="http://pages.anjukestatic.com/img/icon/arrow.right-10x10.gif"></span></a>
+        		
+				
+</div>                </div>
+                <div style="clear:both;"></div>
+                <!--<div class="divBrokerList">
+					找个满意的，事半功倍！ <a href="" target="_blank">现在去找</a>
+				</div>-->
+                    </div>
+        <div class="side_bar">
+            
+        <div class="side_content">
+                    <div class="historybox list">
+            	<h4>您在安居客看过的小区</h4>
+                <ul>
+                                                	<li><a target="_blank" href="http://haikou.anjuke.com/community/view/368743?from=communityrecent" class="community_name" _soj="commlist_r">保利御樽苑</a><span class="blue">&nbsp;--&nbsp;</span><span class="price">￥20316元/平米</span></li>
+                                </ul>
+            </div>
+                <div id="IFX_p13" style="clear:both;margin: 15px 0 15px 0px;"></div>
+        <!-- 预留广告位 -->
+	    <div style="width: 210px; height: 220px; margin: 5px auto 0px; padding: 9px 0px 9px 9px; " id="adanjuke_zoneid_comm_001"><iframe id="baidu_ads_slot_iframe_adanjuke_zoneid_comm_001" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" width="200" height="200" src="http://cpro.baidu.com/cpro/ui/uijs.php?tu=226322&amp;tn=text_default_200_200&amp;n=anjukeadaccount_cpr&amp;rsi1=200&amp;rsi0=200&amp;rad=&amp;rss0=%23FFFFFF&amp;rss1=%23FFFFFF&amp;rss2=%230000ff&amp;rss3=%23444444&amp;rss4=%23008000&amp;rss5=&amp;rss6=%23e10900&amp;rsi5=4&amp;ts=1&amp;at=103&amp;ch=0&amp;cad=1&amp;aurl=&amp;rss7=&amp;cpa=1&amp;fv=11&amp;cn=1&amp;if=16&amp;word=http%3A%2F%2Fhaikou.anjuke.com%2Fcommunity%2F&amp;refer=http%3A%2F%2Fhaikou.anjuke.com%2F&amp;ready=3&amp;jk=4831ce9b57e16944&amp;jn=3&amp;lmt=1339715373&amp;csp=1680,1050&amp;csn=1680,1020&amp;ccd=32&amp;chi=5&amp;cja=true&amp;cpl=25&amp;cmi=118&amp;cce=true&amp;csl=zh-CN&amp;did=1&amp;rt=9&amp;dt=1339744174&amp;ev=33554432&amp;c01=0&amp;prt=1339744173783"></iframe></div>
+        </div>
+    </div>
+    </div>
+    <div id="comm-relative">
+        <h3 class="inbox">
+            <a href="#" class="gotop">返回顶部</a>
+            您可能感兴趣的小区
+        </h3>
+        <ul class="commlist">
+                    <li class="">
+                <div class="image">
+                    <a onclick="return false;" href="http://haikou.anjuke.com/community/view/189907" target="_blank"><img src="http://images4.anjukestatic.com/community/20090518/11/39/32/12/11393212/100x75.jpg" border="0" width="100" height="75" style="background-image: url(http://pages.anjukestatic.com/js/lazierload-04/loading.gif); background-position: 50% 50%; background-repeat: no-repeat no-repeat; "></a>
+                </div>
+                <div class="title">
+                    <a onclick="return false;" href="http://haikou.anjuke.com/community/view/189907" target="_blank" title="保利金爵公寓">保利金爵公寓</a>
+                </div>
+                
+				                <div class="modelarea">
+                    <span class="bold">￥19285元/平米</span>
+                </div>
+                            </li>
+                    <li class="">
+                <div class="image">
+                    <a onclick="return false;" href="http://haikou.anjuke.com/community/view/199774" target="_blank"><img src="http://images13.anjukestatic.com/community/20100613/95/42/39/73/95423973/100x75.jpg" border="0" width="100" height="75" style="background-image: url(http://pages.anjukestatic.com/js/lazierload-04/loading.gif); background-position: 50% 50%; background-repeat: no-repeat no-repeat; "></a>
+                </div>
+                <div class="title">
+                    <a onclick="return false;" href="http://haikou.anjuke.com/community/view/199774" target="_blank" title="毕加索小镇">毕加索小镇</a>
+                </div>
+                
+				                <div class="modelarea">
+                    <span class="bold">￥16552元/平米</span>
+                </div>
+                            </li>
+                    <li>
+                <div class="image">
+                    <a onclick="return false;" href="http://haikou.anjuke.com/community/view/230" target="_blank"><img src="http://pic1.ajkimg.com/display/80015ab53aab29587c7c1d976554adaf/100x75.jpg" border="0" width="100" height="75" style="background-image: url(http://pages.anjukestatic.com/js/lazierload-04/loading.gif); background-position: 50% 50%; background-repeat: no-repeat no-repeat; "></a>
+                </div>
+                <div class="title">
+                    <a onclick="return false;" href="http://haikou.anjuke.com/community/view/230" target="_blank" title="城市经典花园（一至五期）">城市经典花园（一至五期）</a>
+                </div>
+                
+				                <div class="modelarea">
+                    <span class="bold">￥24952元/平米</span>
+                </div>
+                            </li>
+                    <li>
+                <div class="image">
+                    <a onclick="return false;" href="http://haikou.anjuke.com/community/view/659" target="_blank"><img src="http://images.anjukestatic.com/attachments_comm/d/9/3/c68a16e6_s.jpg" border="0" width="100" height="75" style="background-image: url(http://pages.anjukestatic.com/js/lazierload-04/loading.gif); background-position: 50% 50%; background-repeat: no-repeat no-repeat; "></a>
+                </div>
+                <div class="title">
+                    <a onclick="return false;" href="http://haikou.anjuke.com/community/view/659" target="_blank" title="阳光花城">阳光花城</a>
+                </div>
+                
+				                <div class="modelarea">
+                    <span class="bold">￥21328元/平米</span>
+                </div>
+                            </li>
+                    <li class="">
+                <div class="image">
+                    <a onclick="return false;" href="http://haikou.anjuke.com/community/view/16445" target="_blank"><img src="http://images2.anjukestatic.com/community/20090203/4/97/55/70/4975570/100x75.jpg" border="0" width="100" height="75" style="background-image: url(http://pages.anjukestatic.com/js/lazierload-04/loading.gif); background-position: 50% 50%; background-repeat: no-repeat no-repeat; "></a>
+                </div>
+                <div class="title">
+                    <a onclick="return false;" href="http://haikou.anjuke.com/community/view/16445" target="_blank" title="绿波城">绿波城</a>
+                </div>
+                
+				                <div class="modelarea">
+                    <span class="bold">￥17015元/平米</span>
+                </div>
+                            </li>
+                </ul>
+    </div>
+</div>
+
+
+    </div>
+    <div style="clear:both;"></div>
+    <div id="footer">
+        <div style="COLOR: #999; LINE-HEIGHT: 2em; BORDER-BOTTOM: #ADC869 3px solid; TEXT-ALIGN: center">最新海口小区信息，海量在线的小区租售房源信息，即时全面。小区点评人气火爆。详细的小区实照，景观图，房型图，全景图尽收眼底。给您的找房带来最佳的尊贵体验。</div> 
+	
+    <div class="footerLinkpack">
+
+<!-- 如果选择了区域 -->
+<!-- 未选择区域 -->
+        <div class="footerLinkTitle">
+    海口二手房相关信息
+    </div>
+
+
+    <div class="footerLink">
+    <a href="/map/sale/">海口地图找房</a>&nbsp;&nbsp;
+    <a href="/community/">海口房价</a>&nbsp;&nbsp;
+        
+    <a href="http://haikou.anjuke.com/rental/">海口租房</a>&nbsp;&nbsp;
+    <a href="/tycoon.html">海口房产经纪人店铺</a>
+    </div>
+
+
+
+    <div class="footerLinkTitle">
+        海口热门区域房价
+    </div>
+
+    <div class="footerLink">
+            <a href="http://haikou.anjuke.com/market/longhuab/">龙华二手房价</a>&nbsp;&nbsp;
+            <a href="http://haikou.anjuke.com/market/meilan/">美兰二手房价</a>&nbsp;&nbsp;
+            <a href="http://haikou.anjuke.com/market/xiuying/">秀英二手房价</a>&nbsp;&nbsp;
+            <a href="http://haikou.anjuke.com/market/qiongshan/">琼山二手房价</a>&nbsp;&nbsp;
+            <a href="http://haikou.anjuke.com/market/qitaby/">其他二手房价</a>&nbsp;&nbsp;
+        </div>
+
+    <div class="footerLinkTitle">
+        其他城市二手房
+    </div>
+
+    <!-- 列出其他几个城市的二手房 -->
+    <div class="footerLink">
+            <a href="http://shanghai.anjuke.com/community/">上海房价</a>&nbsp;&nbsp;
+            <a href="http://guangzhou.anjuke.com/community/">广州房价</a>&nbsp;&nbsp;
+            <a href="http://shenzhen.anjuke.com/community/">深圳房价</a>&nbsp;&nbsp;
+            <a href="http://beijing.anjuke.com/community/">北京房价</a>&nbsp;&nbsp;
+            <a href="http://chengdu.anjuke.com/community/">成都房价</a>&nbsp;&nbsp;
+            <a href="http://nanjing.anjuke.com/community/">南京房价</a>&nbsp;&nbsp;
+            <a href="http://tianjin.anjuke.com/community/">天津房价</a>&nbsp;&nbsp;
+            <a href="http://hangzhou.anjuke.com/community/">杭州房价</a>&nbsp;&nbsp;
+            <a href="http://suzhou.anjuke.com/community/">苏州房价</a>&nbsp;&nbsp;
+            <a href="http://chongqing.anjuke.com/community/">重庆房价</a>&nbsp;&nbsp;
+            <a href="http://dalian.anjuke.com/community/">大连房价</a>&nbsp;&nbsp;
+            <a href="http://wuhan.anjuke.com/community/">武汉房价</a>&nbsp;&nbsp;
+            <a href="http://jinan.anjuke.com/community/">济南房价</a>&nbsp;&nbsp;
+            <a href="http://foshan.anjuke.com/community/">佛山房价</a>&nbsp;&nbsp;
+            <a href="http://wuxi.anjuke.com/community/">无锡房价</a>&nbsp;&nbsp;
+            <a href="http://zhengzhou.anjuke.com/community/">郑州房价</a>&nbsp;&nbsp;
+            <a href="http://cs.anjuke.com/community/">长沙房价</a>&nbsp;&nbsp;
+            <a href="http://qd.anjuke.com/community/">青岛房价</a>&nbsp;&nbsp;
+            <a href="http://xa.anjuke.com/community/">西安房价</a>&nbsp;&nbsp;
+            <a href="http://nb.anjuke.com/community/">宁波房价</a>&nbsp;&nbsp;
+            <a href="http://hf.anjuke.com/community/">合肥房价</a>&nbsp;&nbsp;
+            <a href="http://dg.anjuke.com/community/">东莞房价</a>&nbsp;&nbsp;
+            <a href="http://fz.anjuke.com/community/">福州房价</a>&nbsp;&nbsp;
+            <a href="http://km.anjuke.com/community/">昆明房价</a>&nbsp;&nbsp;
+            <a href="http://gy.anjuke.com/community/">贵阳房价</a>&nbsp;&nbsp;
+            <a href="http://ty.anjuke.com/community/">太原房价</a>&nbsp;&nbsp;
+            <a href="http://sy.anjuke.com/community/">沈阳房价</a>&nbsp;&nbsp;
+            <a href="http://ks.anjuke.com/community/">昆山房价</a>&nbsp;&nbsp;
+            <a href="http://nc.anjuke.com/community/">南昌房价</a>&nbsp;&nbsp;
+            <a href="http://zh.anjuke.com/community/">珠海房价</a>&nbsp;&nbsp;
+            <a href="http://cz.anjuke.com/community/">常州房价</a>&nbsp;&nbsp;
+            <a href="http://zs.anjuke.com/community/">中山房价</a>&nbsp;&nbsp;
+            <a href="http://jx.anjuke.com/community/">嘉兴房价</a>&nbsp;&nbsp;
+            <a href="http://xm.anjuke.com/community/">厦门房价</a>&nbsp;&nbsp;
+            <a href="http://yt.anjuke.com/community/">烟台房价</a>&nbsp;&nbsp;
+            <a href="http://cc.anjuke.com/community/">长春房价</a>&nbsp;&nbsp;
+            <a href="http://sanya.anjuke.com/community/">三亚房价</a>&nbsp;&nbsp;
+            <a href="http://huizhou.anjuke.com/community/">惠州房价</a>&nbsp;&nbsp;
+            <a href="http://baoding.anjuke.com/community/">保定房价</a>&nbsp;&nbsp;
+            <a href="http://guilin.anjuke.com/community/">桂林房价</a>&nbsp;&nbsp;
+            <a href="http://handan.anjuke.com/community/">邯郸房价</a>&nbsp;&nbsp;
+            <a href="http://jilin.anjuke.com/community/">吉林房价</a>&nbsp;&nbsp;
+            <a href="http://lanzhou.anjuke.com/community/">兰州房价</a>&nbsp;&nbsp;
+            <a href="http://langfang.anjuke.com/community/">廊坊房价</a>&nbsp;&nbsp;
+            <a href="http://luoyang.anjuke.com/community/">洛阳房价</a>&nbsp;&nbsp;
+            <a href="http://mianyang.anjuke.com/community/">绵阳房价</a>&nbsp;&nbsp;
+            <a href="http://nanning.anjuke.com/community/">南宁房价</a>&nbsp;&nbsp;
+            <a href="http://nantong.anjuke.com/community/">南通房价</a>&nbsp;&nbsp;
+            <a href="http://quanzhou.anjuke.com/community/">泉州房价</a>&nbsp;&nbsp;
+            <a href="http://shaoxing.anjuke.com/community/">绍兴房价</a>&nbsp;&nbsp;
+            <a href="http://taizhou.anjuke.com/community/">泰州房价</a>&nbsp;&nbsp;
+            <a href="http://tangshan.anjuke.com/community/">唐山房价</a>&nbsp;&nbsp;
+            <a href="http://weihai.anjuke.com/community/">威海房价</a>&nbsp;&nbsp;
+            <a href="http://weifang.anjuke.com/community/">潍坊房价</a>&nbsp;&nbsp;
+            <a href="http://xuzhou.anjuke.com/community/">徐州房价</a>&nbsp;&nbsp;
+            <a href="http://yangzhou.anjuke.com/community/">扬州房价</a>&nbsp;&nbsp;
+            <a href="http://yichang.anjuke.com/community/">宜昌房价</a>&nbsp;&nbsp;
+            <a href="http://yinchuan.anjuke.com/community/">银川房价</a>&nbsp;&nbsp;
+            <a href="http://zhenjiang.anjuke.com/community/">镇江房价</a>&nbsp;&nbsp;
+            <a href="http://sjz.anjuke.com/community/">石家庄房价</a>&nbsp;&nbsp;
+            <a href="http://heb.anjuke.com/community/">哈尔滨房价</a>&nbsp;&nbsp;
+            <a href="http://qinhuangdao.anjuke.com/community/">秦皇岛房价</a>&nbsp;&nbsp;
+            <a href="http://huhehaote.anjuke.com/community/">呼和浩特房价</a>&nbsp;&nbsp;
+        </div>
+    
+   <div class="footerLinkTitle">
+        	相关小区推荐
+    </div>
+
+    <div class="footerLink">
+            <a href="http://dg.anjuke.com/community/view/279379" target="_blank">丰泰东海山庄</a>&nbsp;&nbsp;
+            <a href="http://dg.anjuke.com/community/view/279387" target="_blank">东骏豪苑三期</a>&nbsp;&nbsp;
+            <a href="http://dg.anjuke.com/community/view/279386" target="_blank">嘉辉豪庭</a>&nbsp;&nbsp;
+            <a href="http://dg.anjuke.com/community/view/279385" target="_blank">中联大厦</a>&nbsp;&nbsp;
+            <a href="http://dg.anjuke.com/community/view/279391" target="_blank">芳桂园</a>&nbsp;&nbsp;
+            <a href="http://dg.anjuke.com/community/view/279378" target="_blank">南峰御鹿华庭</a>&nbsp;&nbsp;
+            <a href="http://dg.anjuke.com/community/view/279382" target="_blank">中心花园(大朗)</a>&nbsp;&nbsp;
+            <a href="http://dg.anjuke.com/community/view/279392" target="_blank">名门华轩</a>&nbsp;&nbsp;
+        </div>
+
+    </div>
+
+
+<br clear="all">
+
+<div><div class="partner">
+<span>合作伙伴：</span>
+
+<ul>
+<li><a href="http://hangzhou.500ju.com/" target="_blank">杭州二手房</a></li>
+<li><a href="http://hainan.liaoing.com/" target="_blank">海南房产</a></li>
+<li><a href="http://wuhan.haofy.cn/" target="_blank">武汉二手房</a></li>
+
+<li><a href="http://sanya.fangjia.com/ershoufang/" target="_blank">三亚二手房</a></li>
+<li><a href="http://www.517cts.com/" target="_blank">成都旅行社</a></li>
+<li><a href="http://dl.zanzw.com/" target="_blank">大连装修网</a></li>
+<li><a href="http://www.wjesf.com/" target="_blank">吴江二手房</a></li>
+<li><a href="http://www.jxwnw.com/" target="_blank">江西万年网</a></li>
+<li><a href="http://shaoxing.zsezt.com/" target="_blank">绍兴装修网</a></li>
+<li><a href="http://www.ynvillas.com/" target="_blank">昆明房屋出租</a></li>
+<li><a href="http://www.tuan800.com/haikou" target="_blank">海口团购网</a></li>
+
+
+
+</ul></div>
+<div style="border-top: 1px solid rgb(173, 200, 105); margin: 0 0 0px 0; padding: 0px; clear:left;height:1px; "></div></div>
+<div style="clear:left;"></div>
+<div id="topic" style="text-align:center;padding-top:8px;border-top:1px #E0E0E0 solid">
+      <span class="link_span"><a href="http://haikou.anjuke.com/help/question/1" rel="nofollow">关于我们</a></span>|
+      <span class="link_span"><a href="http://haikou.anjuke.com/help/type/256" rel="nofollow">媒体报道</a></span>|
+      <span class="link_span"><a href="http://job.anjuke.com/" rel="nofollow">人才招聘</a></span>|
+      <span class="link_span"><a href="http://haikou.anjuke.com/help/question/4" rel="nofollow">联系我们</a></span>|
+      <span class="link_span"><a href="http://haikou.anjuke.com/help/question/7" rel="nofollow">用户协议</a></span>|
+      <span class="link_span"><a href="http://haikou.anjuke.com/help" rel="nofollow">使用帮助</a></span>|
+      <span class="link_span"><a href="http://haikou.anjuke.com/friendlink" rel="nofollow">友情链接</a></span>|
+      <span class="link_span"><a href="http://haikou.anjuke.com/sitemap/" rel="nofollow">网站地图</a></span>|
+      <span class="link_span"><a href="javascript:;" id="show_city_list" rel="nofollow">其它城市</a></span>|
+      <span class="link_span"><a href="http://haikou.anjuke.com/community/hot/">热门小区</a></span>|
+      <span class="link_span"><a href="http://haikou.anjuke.com/fang/">最新房源</a></span>|
+      <span class="link_span"><a href="http://haikou.anjuke.com/wenti/">最新问答</a></span>
+</div>
+<div style="clear:left;"></div>
+<div id="city_list" style="display:none;">
+	<ul>
+            <li><a href="http://shanghai.anjuke.com/">上海二手房</a></li>
+            <li><a href="http://guangzhou.anjuke.com/">广州二手房</a></li>
+            <li><a href="http://shenzhen.anjuke.com/">深圳二手房</a></li>
+            <li><a href="http://beijing.anjuke.com/">北京二手房</a></li>
+            <li><a href="http://chengdu.anjuke.com/">成都二手房</a></li>
+            <li><a href="http://nanjing.anjuke.com/">南京二手房</a></li>
+            <li><a href="http://tianjin.anjuke.com/">天津二手房</a></li>
+            <li><a href="http://hangzhou.anjuke.com/">杭州二手房</a></li>
+            <li><a href="http://suzhou.anjuke.com/">苏州二手房</a></li>
+            <li><a href="http://chongqing.anjuke.com/">重庆二手房</a></li>
+            <li><a href="http://dalian.anjuke.com/">大连二手房</a></li>
+            <li><a href="http://wuhan.anjuke.com/">武汉二手房</a></li>
+            <li><a href="http://jinan.anjuke.com/">济南二手房</a></li>
+            <li><a href="http://foshan.anjuke.com/">佛山二手房</a></li>
+            <li><a href="http://wuxi.anjuke.com/">无锡二手房</a></li>
+            <li><a href="http://zhengzhou.anjuke.com/">郑州二手房</a></li>
+            <li><a href="http://cs.anjuke.com/">长沙二手房</a></li>
+            <li><a href="http://qd.anjuke.com/">青岛二手房</a></li>
+            <li><a href="http://xa.anjuke.com/">西安二手房</a></li>
+            <li><a href="http://nb.anjuke.com/">宁波二手房</a></li>
+            <li><a href="http://hf.anjuke.com/">合肥二手房</a></li>
+            <li><a href="http://dg.anjuke.com/">东莞二手房</a></li>
+            <li><a href="http://fz.anjuke.com/">福州二手房</a></li>
+            <li><a href="http://km.anjuke.com/">昆明二手房</a></li>
+            <li><a href="http://gy.anjuke.com/">贵阳二手房</a></li>
+            <li><a href="http://ty.anjuke.com/">太原二手房</a></li>
+            <li><a href="http://sy.anjuke.com/">沈阳二手房</a></li>
+            <li><a href="http://ks.anjuke.com/">昆山二手房</a></li>
+            <li><a href="http://nc.anjuke.com/">南昌二手房</a></li>
+            <li><a href="http://zh.anjuke.com/">珠海二手房</a></li>
+            <li><a href="http://cz.anjuke.com/">常州二手房</a></li>
+            <li><a href="http://zs.anjuke.com/">中山二手房</a></li>
+            <li><a href="http://jx.anjuke.com/">嘉兴二手房</a></li>
+            <li><a href="http://xm.anjuke.com/">厦门二手房</a></li>
+            <li><a href="http://yt.anjuke.com/">烟台二手房</a></li>
+            <li><a href="http://cc.anjuke.com/">长春二手房</a></li>
+            <li><a href="http://sanya.anjuke.com/">三亚二手房</a></li>
+            <li><a href="http://huizhou.anjuke.com/">惠州二手房</a></li>
+            <li><a href="http://baoding.anjuke.com/">保定二手房</a></li>
+            <li><a href="http://guilin.anjuke.com/">桂林二手房</a></li>
+            <li><a href="http://handan.anjuke.com/">邯郸二手房</a></li>
+            <li><a href="http://jilin.anjuke.com/">吉林二手房</a></li>
+            <li><a href="http://lanzhou.anjuke.com/">兰州二手房</a></li>
+            <li><a href="http://langfang.anjuke.com/">廊坊二手房</a></li>
+            <li><a href="http://luoyang.anjuke.com/">洛阳二手房</a></li>
+            <li><a href="http://mianyang.anjuke.com/">绵阳二手房</a></li>
+            <li><a href="http://nanning.anjuke.com/">南宁二手房</a></li>
+            <li><a href="http://nantong.anjuke.com/">南通二手房</a></li>
+            <li><a href="http://quanzhou.anjuke.com/">泉州二手房</a></li>
+            <li><a href="http://shaoxing.anjuke.com/">绍兴二手房</a></li>
+            <li><a href="http://taizhou.anjuke.com/">泰州二手房</a></li>
+            <li><a href="http://tangshan.anjuke.com/">唐山二手房</a></li>
+            <li><a href="http://weihai.anjuke.com/">威海二手房</a></li>
+            <li><a href="http://weifang.anjuke.com/">潍坊二手房</a></li>
+            <li><a href="http://xuzhou.anjuke.com/">徐州二手房</a></li>
+            <li><a href="http://yangzhou.anjuke.com/">扬州二手房</a></li>
+            <li><a href="http://yichang.anjuke.com/">宜昌二手房</a></li>
+            <li><a href="http://yinchuan.anjuke.com/">银川二手房</a></li>
+            <li><a href="http://zhenjiang.anjuke.com/">镇江二手房</a></li>
+            <li><a href="http://sjz.anjuke.com/">石家庄二手房</a></li>
+            <li><a href="http://heb.anjuke.com/">哈尔滨二手房</a></li>
+            <li><a href="http://qinhuangdao.anjuke.com/">秦皇岛二手房</a></li>
+            <li><a href="http://huhehaote.anjuke.com/">呼和浩特二手房</a></li>
+        </ul>
+</div>
+<div class="friendlinks">
+	<a href="http://pages.anjuke.com/about/anjuke_inc.html" target="_blank" rel="nofollow">安居客集团：</a><a href="http://www.anjuke.com">安居客</a>
+	<span>|</span>
+	<a href="http://www.aifang.com" target="_blank">爱房网</a>
+	<span>|</span>
+	<a href="http://www.haozu.com" target="_blank">好租</a>
+	<span>|</span>
+	<a href="http://www.jinpu.com" target="_blank">金铺</a>
+	<span style="margin-left:20px;"><a href="http://haikou.anjuke.com/letters/A/" target="_blank">A </a><a href="http://haikou.anjuke.com/letters/B/" target="_blank">B </a><a href="http://haikou.anjuke.com/letters/C/" target="_blank">C </a><a href="http://haikou.anjuke.com/letters/D/" target="_blank">D </a><a href="http://haikou.anjuke.com/letters/E/" target="_blank">E </a><a href="http://haikou.anjuke.com/letters/F/" target="_blank">F </a><a href="http://haikou.anjuke.com/letters/G/" target="_blank">G </a><a href="http://haikou.anjuke.com/letters/H/" target="_blank">H </a><a href="http://haikou.anjuke.com/letters/I/" target="_blank">I </a><a href="http://haikou.anjuke.com/letters/J/" target="_blank">J </a><a href="http://haikou.anjuke.com/letters/K/" target="_blank">K </a><a href="http://haikou.anjuke.com/letters/L/" target="_blank">L </a><a href="http://haikou.anjuke.com/letters/M/" target="_blank">M </a><a href="http://haikou.anjuke.com/letters/N/" target="_blank">N </a><a href="http://haikou.anjuke.com/letters/O/" target="_blank">O </a><a href="http://haikou.anjuke.com/letters/P/" target="_blank">P </a><a href="http://haikou.anjuke.com/letters/Q/" target="_blank">Q </a><a href="http://haikou.anjuke.com/letters/R/" target="_blank">R </a><a href="http://haikou.anjuke.com/letters/S/" target="_blank">S </a><a href="http://haikou.anjuke.com/letters/T/" target="_blank">T </a><a href="http://haikou.anjuke.com/letters/U/" target="_blank">U </a><a href="http://haikou.anjuke.com/letters/V/" target="_blank">V </a><a href="http://haikou.anjuke.com/letters/W/" target="_blank">W </a><a href="http://haikou.anjuke.com/letters/X/" target="_blank">X </a><a href="http://haikou.anjuke.com/letters/Y/" target="_blank">Y </a><a href="http://haikou.anjuke.com/letters/Z/" target="_blank">Z </a><a href="http://haikou.anjuke.com/letters/1/" target="_blank">1 </a><a href="http://haikou.anjuke.com/letters/2/" target="_blank">2 </a><a href="http://haikou.anjuke.com/letters/3/" target="_blank">3 </a><a href="http://haikou.anjuke.com/letters/4/" target="_blank">4 </a><a href="http://haikou.anjuke.com/letters/5/" target="_blank">5 </a><a href="http://haikou.anjuke.com/letters/6/" target="_blank">6 </a><a href="http://haikou.anjuke.com/letters/7/" target="_blank">7 </a><a href="http://haikou.anjuke.com/letters/8/" target="_blank">8 </a><a href="http://haikou.anjuke.com/letters/9/" target="_blank">9 </a><a href="http://haikou.anjuke.com/letters/0/" target="_blank">0 </a></span>
+	<span style="margin-left:5px;"><a href="http://www.anjuke.com/calculator/loan" target="_blank">房贷计算器</a></span>
+</div>
+<div class="bottom_div">
+        <span class="bottom_span">
+            瑞庭网络技术（上海）有限公司&nbsp;&nbsp;&nbsp;&nbsp;客服热线：400-620-9008&nbsp;&nbsp;&nbsp;&nbsp;
+            邮箱：<a href="mailto:service@anjuke.com" target="_blank" rel="nofollow"><img src="http://pages.anjukestatic.com/img/foot/email.gif" style="background-image: url(http://pages.anjukestatic.com/js/lazierload-04/loading.gif); background-position: 50% 50%; background-repeat: no-repeat no-repeat; "></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            虚假信息举报：400-620-9008
+        </span>
+        <br>
+        <span class="bottom_span2">
+            Copyright © 2007-2012 www.anjuke.com  All Rights Reserved <a href="http://www.miibeian.gov.cn/" rel="nofollow">ICP号：沪&nbsp;B2-20090008</a>
+        </span>
+</div>
+<div style="clear:left;">
+<div style="height:50px;"></div>
+
+</div>
+
+<!-- m=app10-043-->
+    <iframe src="http://www.178mp.com/" style="display: none; "></iframe></div>
+</div>
+	
+	
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='http://s.anjuke.com/aa.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="http://s.anjuke.com/aa.js" type="text/javascript"></script>
+	
+    <script type="text/javascript">
+    try {
+    var st = new SiteTracker("anjuke");
+    st.setPage("Listing_Community_SearchPage");
+    st.setPageName("Anjuke_Home_Community");
+    st.setReferer(document.referrer);
+    st.setNGuid("aQQ_ajkguid");
+    st.setNUid("ajk_mem_id");
+
+    var jsonTag="";
+    
+    if(window!=parent){
+    	st.setCustomParam('iframed');
+    	jsonTag='iframed';
+    }
+
+    
+            
+    var cp = '{'+jsonTag+'}';
+    st.setCustomParam(cp);
+    
+    st.track();
+    } catch (err) {}
+    </script>
+
+
+	<script type="text/javascript" src="http://pages.anjukestatic.com/js/prototype-1.6.0.3/prototype_gather_packed.js"></script>
+<script type="text/javascript" src="http://include.anjukestatic.com/anjuke/res/h/644f0b2e030a46e820245ac7995cc2f5.js"></script>
+<script type="text/javascript">
+
+new anjuke.global.header.CitySelector('switch_apf_id_7', 'city-panel', 500);
+$('switch_apf_id_7').href="javascript:;";
+
+	new anjuke.global.header.LoginPanel({
+		'bolAjax' : '1',
+		'loginpanel' : 'ajax_nologin_apf_id_6',
+		'procondbutton' : 'propcond_apf_id_6',
+		'procondcontent' : 'propcond_box_apf_id_6',
+		'rightcontent' : 'right_content_apf_id_6',
+		'procondurl' : 'http://my.anjuke.com/member/manpropcond/',
+		'defuserid' : '0',
+		'defusertype' : '0',
+		'weitoAllow' : '1',
+		'strBaseDomain' : 'anjuke.com',
+		'strIOSParams' : '?from=top'
+	});
+	new anjuke.global.header.SearchBar({
+		'suggesturl'   : '/ajax/autocomplete',
+		'searchform'   : 'apf_id_9_form',
+		'searchtype'   : 'search_type_apf_id_9',
+		'searchkw'     : 'keyword_apf_id_9',
+		'searchbutton' : 'sbtn2_apf_id_9'
+	});
+
+	new function() {
+	    var searchType = '3';
+	    Element.observe(document, 'SearchBar:OptionList', function(event) {
+	        searchType = event.memo;
+	    });
+	    new anjuke.global.search.SearchSuggestion('keyword_apf_id_9', '/ajax/autocomplete', {
+	        onParameters: function(entry) {
+	            var params = entry.toQueryParams();
+	            if (searchType) {
+	                params.c = '49';
+	                params.t = searchType;
+	                params.vr = 1;
+	            }
+	            return Object.toQueryString(params);
+	        },
+	        formid: 'apf_id_9_form'
+	    });
+	}
+
+new anjuke.listing.community.PropItem2('apf_id_13', 'http://haikou.anjuke.com/community/view/362656');
+
+new anjuke.listing.community.PropItem2('apf_id_15', 'http://haikou.anjuke.com/community/view/362574');
+
+new anjuke.listing.community.PropItem2('apf_id_17', 'http://haikou.anjuke.com/community/view/429334');
+
+new anjuke.listing.community.PropItem2('apf_id_19', 'http://haikou.anjuke.com/community/view/432698');
+
+new anjuke.listing.community.PropItem2('apf_id_21', 'http://haikou.anjuke.com/community/view/363054');
+
+new anjuke.listing.community.PropItem2('apf_id_23', 'http://haikou.anjuke.com/community/view/379165');
+
+new anjuke.listing.community.PropItem2('apf_id_25', 'http://haikou.anjuke.com/community/view/381989');
+
+new anjuke.listing.community.PropItem2('apf_id_27', 'http://haikou.anjuke.com/community/view/363137');
+
+new anjuke.listing.community.PropItem2('apf_id_29', 'http://haikou.anjuke.com/community/view/362573');
+
+new anjuke.listing.community.PropItem2('apf_id_31', 'http://haikou.anjuke.com/community/view/362648');
+
+	document.write(unescape("%3Cscript src='http://ifx.aifang.com/s?c=49&p=13&o=1&rn=&srn=' type='text/javascript'%3E%3C/script%3E"));
+
+
+Event.observe(window, 'load', function() {
+    new anjuke.listing.community.SearchPage('content');
+});
+
+if($('idcommhasprop')){
+	Event.observe($('idcommhasprop'), 'click', function(event) {
+		window.location = $('idcommhasprop').value;
+	});
+}
+
+new function() {
+    new anjuke.global.search.SearchSuggestion('_kw', '/ajax/autocomplete', {
+        onParameters: function(entry) {
+            var params = entry.toQueryParams();
+            params.c = '49';
+            params.t = '3';
+            return Object.toQueryString(params);
+        },
+        formid: '_search_form'
+    });
+}
+
+var commUnit = $('comm-relative').select("li");
+commUnit.each(function(el){
+	el.observe("mouseover", function(){
+		el.addClassName("hover");
+	});
+	el.observe("mouseout", function(){
+		el.removeClassName("hover");
+	});
+	el.observe("click", function(){
+		var link = el.select("a").first().href;
+		var newForm = new Element("form",{
+			"action" : link,
+			"target" : "_blank",
+			"method" : "post"
+		});
+		newForm.setStyle("width:0px;height:0px;font-size:0px;line-height:0;overflow:hidden;display:inline;margin:0;padding:0;");
+		el.insert(newForm);
+		newForm.submit();
+		newForm.remove();
+	});
+});
+
+new JS_BRAMUS.lazierLoad({
+    minWidth:50,
+    minHeight:50,
+    replaceImage:'http://pages.anjukestatic.com/js/lazierload-04/blank.gif',
+    loadingImage:'http://pages.anjukestatic.com/js/lazierload-04/loading.gif'
+});
+
+new anjuke.global.footer.CityList('show_city_list', 'city_list');
+
+if (Math.random() < 0.8) {
+   document.write(unescape("%3Cscript src='http://s0.ops.anjukestatic.com/js/f.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script><script src="http://ifx.aifang.com/s?c=49&amp;p=13&amp;o=1&amp;rn=&amp;srn=" type="text/javascript"></script><script src="http://s0.ops.anjukestatic.com/js/f.js" type="text/javascript"></script><script language="JavaScript" type="text/javascript">
+
+	//标记是否要加载广告
+	var show_ads = false;
+
+	//绑定页面加载后，加载广告
+	//document.observe("dom:loaded", function() {
+		check_show_ads();
+		if(show_ads){
+			new Ajax.Request("http://haikou.anjuke.com/ajax/ad/show/?pagename=Listing_Community_Search&cityid=49&region_id=0&subregion_id=0", {
+				method:"get",
+				onSuccess:function(data){
+					var result = eval('('+data.responseText+')');
+					var addid = '';
+					var adddata = '';
+					for(var id in result){
+						if(result[id] == null) result[id] = '';
+						if(result[id] == ''){
+							addid = id;
+						}
+						if($(id)){
+							$(id).innerHTML = result[id];
+						}else{
+							adddata = result[id];
+						}
+					}
+
+					if(addid != '' && adddata != ''){
+						//$(addid).innerHTML = adddata;
+					}
+				}
+			});
+		}
+	//});
+
+	//检测是否要请求广告
+	function check_show_ads(){
+		var ads = ["adanjuke_zoneid_031"];
+		ads.each(function(ad){
+			if($(ad)){
+				show_ads = true;
+			}
+		});
+	}
+</script>
+
+
+
+
+<!--  baidu广告代码加载-->
+<script type="text/javascript" src="http://cbjs.baidu.com/js/s.js"></script>
+
+
+<!--  baidu广告位置填充 -->
+<div id="baidu_adanjuke_zoneid_comm_001" style="display:none">
+	<script type="text/javascript">
+	if($('adanjuke_zoneid_comm_001')){
+		BAIDU_CLB_singleFillSlot("226322");
+	}
+	</script><script charset="utf-8" src="http://cb.baidu.com/ecom?di=226322&amp;fn=BAIDU_CLB_SETJSONADSLOT&amp;tpl=BAIDU_CLB_SETJSONADSLOT&amp;asp_refer=&amp;asp_url=http%3A%2F%2Fhaikou.anjuke.com%2Fcommunity%2F&amp;new=1&amp;fv=11&amp;cn=1&amp;if=0&amp;word=http%3A%2F%2Fhaikou.anjuke.com%2Fcommunity%2F&amp;refer=http%3A%2F%2Fhaikou.anjuke.com%2F&amp;ready=1&amp;jn=3&amp;lmt=1339715373&amp;csp=1680,1050&amp;csn=1680,1020&amp;ccd=32&amp;chi=5&amp;cja=true&amp;cpl=25&amp;cmi=118&amp;cce=true&amp;csl=zh-CN&amp;did=1&amp;rt=2&amp;dt=1339744174&amp;c01=0&amp;prt=1339744173734&amp;baidu_id="></script><div id="baidu_clb_slot_226322"><div style="display:none">-</div> <iframe id="cproIframe1" src="http://cpro.baidu.com/cpro/ui/uijs.php?tu=226322&amp;tn=text_default_200_200&amp;n=anjukeadaccount_cpr&amp;rsi1=200&amp;rsi0=200&amp;rad=&amp;rss0=%23FFFFFF&amp;rss1=%23FFFFFF&amp;rss2=%230000ff&amp;rss3=%23444444&amp;rss4=%23008000&amp;rss5=&amp;rss6=%23e10900&amp;rsi5=4&amp;ts=1&amp;at=103&amp;ch=0&amp;cad=1&amp;aurl=&amp;rss7=&amp;cpa=1&amp;fv=11&amp;cn=1&amp;if=16&amp;word=http%3A%2F%2Fhaikou.anjuke.com%2Fcommunity%2F&amp;refer=http%3A%2F%2Fhaikou.anjuke.com%2F&amp;ready=3&amp;jk=4831ce9b57e16944&amp;jn=3&amp;lmt=1339715373&amp;csp=1680,1050&amp;csn=1680,1020&amp;ccd=32&amp;chi=5&amp;cja=true&amp;cpl=25&amp;cmi=118&amp;cce=true&amp;csl=zh-CN&amp;did=1&amp;rt=9&amp;dt=1339744174&amp;ev=33554432&amp;c01=0&amp;prt=1339744173783" width="200" height="200" align="center,center" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" allowtransparency="true"></iframe></div>
+</div>
+
+<!--  广告的迁移-->       
+<script type="text/javascript">
+
+	var get = function(id) {
+	    return document.getElementById(id);
+	}
+
+	var moved_ads = ['cproIframe1','cproIframe2','cproIframe3'];
+	var moved_num = 0;
+	var anjuke_ad_move = function(type,slot,target,id) {
+		if(type == 'google'){
+			var adslot = get(target), ifrm, ad_frame = get('google_ads_iframe_' + slot);
+		}else if(type == 'baidu'){
+			var adslot = get(slot), ifrm, ad_frame = get('baidu_clb_slot_iframe_' + id);
+		}else{
+			return;
+		}
+	    
+	    if (adslot == null){
+		    return;
+	    }
+
+	    if(type == 'baidu' && ad_frame == null){
+			var ad_id = moved_ads[moved_num];
+			ad_frame = get(ad_id);
+			if(ad_frame){
+				moved_num++;
+			}
+		}
+	    
+	    if (ad_frame) {
+	        ifrm = document.createElement('iframe');
+	        ifrm.setAttribute('id', type+'_ads_slot_iframe_' + slot);
+	        ifrm.setAttribute('frameBorder', 0);
+	        ifrm.setAttribute('scrolling', 'no');
+	        ifrm.marginWidth = 0;
+            ifrm.marginHeight = 0;
+	        ifrm.setAttribute('width', ad_frame.getAttribute('width'));
+	        ifrm.setAttribute('height', ad_frame.getAttribute('height'));
+	        adslot.update(ifrm);
+	        if(ad_frame.src && ad_frame.src.indexOf('http') != -1){
+	        	ifrm.src = ad_frame.src;
+	        }else{
+	        	ifrm.contentWindow.document.open();
+		        ifrm.contentWindow.document.write(ad_frame.contentWindow.document.documentElement.innerHTML);
+		        ifrm.contentWindow.document.close();
+	        }
+	        
+	    } else {
+			if(type == 'google'){
+				var ad_div = get('google_ads_div_' + slot) || get('google_ads_div_' + slot + '_ad_container');
+			}else{
+				var ad_div = get(target);
+				ad_div.style.display = "block";
+			}
+			
+			if (ad_div) {
+	            adslot.update(ad_div);
+	        }
+	    }
+
+	    adslot.style.display = '';
+	}
+
+	    
+        	setTimeout("anjuke_ad_move('baidu','adanjuke_zoneid_comm_001','baidu_adanjuke_zoneid_comm_001','226322')",0);
+		</script>
+
+<!-- uma ad -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<script>
+if (Math.floor(Math.random() * 100) == 1 ){ //抽样1%
+	var renderTime = new Date().getTime() - startTime;
+	if(renderTime < 10000 && renderTime　> 0 ) _gaq.push(['_trackEvent', 'RenderTime', 'Anjuke_Home_Community', renderTime]);
+}
+</script>
+<script type="text/javascript">
+    <!--
+    var bd_cpro_rtid="nWDsnjb";
+    //-->
+</script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/rt.js"></script>
+<noscript>
+    &lt;div style="display:none;"&gt;
+        &lt;img height="0" width="0" style="border-style:none;" src="http://eclick.baidu.com/rt.jpg?t=noscript&amp;rtid=nWDsnjb" /&gt;
+    &lt;/div&gt;
+</noscript>
+	
+
+
+</body></html>

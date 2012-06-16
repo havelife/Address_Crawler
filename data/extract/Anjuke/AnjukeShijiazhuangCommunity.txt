@@ -1,0 +1,1455 @@
+<html><head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="石家庄房价走势" name="keywords">
+<meta content="2012年06月最新石家庄房价走势，海量在线的石家庄小区租售房源信息，小区详情，周边配套，实景图，房型图，价格行情，小区点评一应俱全，为您选购石家庄二手房提供全方位参考。" name="description">
+<title>石家庄房价，石家庄房价信息，石家庄房价走势  - 安居客</title>
+		
+<link type="text/css" href="http://include.anjukestatic.com/anjuke/res/h/a487b8688265c1f2d7826722dce154c0.css" rev="stylesheet" rel="stylesheet">
+<script charset="utf-8" async="" src="http://cbjs.baidu.com/js/log.js"></script><script charset="utf-8" async="" src="http://cpro.baidu.com/cpro/ui/cc.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script src="http://include.anjukestatic.com/anjuke/res/h/8a6ccd6ee6fbbd3af24eec73c54d4913.js" type="text/javascript"></script>
+		
+<link type="image/ico" href="http://pages.anjukestatic.com/favicon.ico" rel="icon">
+<link href="http://pages.anjukestatic.com/favicon.ico" rel="shortcut icon">
+		
+		
+		<script type="text/javascript">
+var startTime = new Date().getTime();
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-1496856-1']);
+_gaq.push(['_setDomainName', '.anjuke.com']);
+_gaq.push(['_setAllowHash', false]);
+_gaq.push(['_addOrganic', 'soso', 'w']);
+_gaq.push(['_addOrganic', 'youdao', 'q']);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_setCampaignCookieTimeout', 86400000]);
+_gaq.push(['_setVisitorCookieTimeout', 7776000000]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['t2._setAccount','UA-1496856-20']);
+_gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script>function bust(){document.write='';window.top.location=window.self.location;setTimeout(function(){document.body.innerHTML='';},0);window.self.onload=function(evt){document.body.innerHTML='';};}if(window.top !== window.self){try{if (window.top.location.host){}else{bust();}}catch(ex){bust();}}</script>
+				<script type="text/javascript">
+var anjuke_web_global_InitTracker=function(city_id,city_cookie_name,guid_cookie_name,base_domain,cookie_path){
+	var expire=365*5;var guid=this.getCookie(guid_cookie_name);if(null==guid){
+		guid=this.createGuid();this.setCookie(guid_cookie_name,guid,expire,cookie_path,base_domain);
+	}
+	if(city_id!=this.getCookie(city_cookie_name)){
+		this.setCookie(city_cookie_name,city_id,expire,cookie_path,base_domain);
+	}
+	var session_cookie_name='sessid';var session_id=this.getCookie(session_cookie_name);if(null==session_id){
+		session_id=this.createGuid();this.setCookie(session_cookie_name,session_id,0,cookie_path,base_domain);
+	}this.setCookie('isp', 'true', expire, cookie_path, base_domain);
+};anjuke_web_global_InitTracker.prototype.createGuid=function(){
+	return(this.S4()+this.S4()+"-"+this.S4()+"-"+this.S4()+"-"+this.S4()+"-"+this.S4()+this.S4()+this.S4());
+};anjuke_web_global_InitTracker.prototype.S4=function(){
+	return(((1+Math.random())*0x10000)|0).toString(16).substring(1).toUpperCase();
+};anjuke_web_global_InitTracker.prototype.getCookie=function(check_name){
+	var a_all_cookies=document.cookie.split(';');var a_temp_cookie='';var cookie_name='';var cookie_value='';var b_cookie_found=false;for(i=0;i&lt;a_all_cookies.length;i++){
+		a_temp_cookie=a_all_cookies[i].split('=');cookie_name=a_temp_cookie[0].replace(/^\s+|\s+$/g,'');if(cookie_name==check_name){
+			b_cookie_found=true;if(a_temp_cookie.length&gt;1){
+				cookie_value=unescape(a_temp_cookie[1].replace(/^\s+|\s+$/g,''));
+			}
+			return cookie_value;break;
+		}
+		a_temp_cookie=null;cookie_name='';
+	}
+	if(!b_cookie_found){
+		return null;
+	}
+};anjuke_web_global_InitTracker.prototype.setCookie=function(name,value,expires,path,domain,secure){
+	var today=new Date();today.setTime(today.getTime());if(expires){
+		expires=expires*1000*60*60*24;
+	}
+	var expires_date=new Date(today.getTime()+(expires));document.cookie=name+"="+escape(value)+
+	((expires)?";expires="+expires_date.toGMTString():"")+
+	((path)?";path="+path:"")+
+	((domain)?";domain="+domain:"")+
+	((secure)?";secure":"");
+};
+new anjuke_web_global_InitTracker('28','ctid','aQQ_ajkguid','anjuke.com','/');
+
+</script>
+
+<script src="http://s.anjuke.com/st?p=Listing_Community_SearchPage&amp;h=http%3A%2F%2Fsjz.anjuke.com%2Fcommunity%2F&amp;r=http%3A%2F%2Fsjz.anjuke.com%2F&amp;site=anjuke&amp;guid=3A7C50AC-2D36-D35B-64D0-C7B0999738A0&amp;ssid=1D785C41-40D1-AF3F-C997-362CEB5C8B54&amp;uid=0&amp;t=1339750006919&amp;ctid=28&amp;luid=&amp;m=&amp;pn=Anjuke_Home_Community&amp;cp=%7B%7D" async=""></script></head>
+<body id=""><div class="SearchSuggestion" style="display: none;"></div><div class="SearchSuggestion" style="display: none;"></div>
+	<div id="container">
+    <div id="header">
+    	        <div class="top-nav">
+    <div class="top-nav-left">
+        	        <a target="_blank" title="租房" _soj="top" href=" http://sjz.haozu.com/?from=top">好租</a> |                  
+    </div>    
+	<div class="login_nav">
+		<!--未登录  start-->
+    <ul id="ajax_nologin_apf_id_6" class="toplogin_cont no_login">
+        <li><a rel="nofollow" class="myanjuke_store" href="http://agent.anjuke.com/login/">中国网络经纪人</a></li>
+        <li class="ios rp20"><a style="color:#f60;" rel="nofollow" class="login" href="http://pages.anjuke.com/app/anjuke/ios.html?from=top">手机安居客</a></li>
+                <li class="weituo"><a rel="nofollow" target="_blank" class="weituoicon" href="http://my.anjuke.com/ownpbase?from=loginnav">我要卖房</a><code>|</code></li>
+        <li><a href="http://my.anjuke.com/marked/?from=header_false">选房单</a><code>|</code></li>
+        <li class="register_boxer"><a rel="nofollow" class="register" href="http://my.anjuke.com/register">注册</a><code>|</code></li>
+                <li><a rel="nofollow" class="login" href="http://my.anjuke.com/my/login?history=aHR0cDovL3Nqei5hbmp1a2UuY29tL2NvbW11bml0eS8=">请登录</a><code>|</code></li>   
+        <li>您好，</li>        
+    </ul>
+    <!--未登录  end-->
+    
+</div>
+</div>
+<div class="header_content clearfix">
+	<div class="header_logo"><a title="安居客石家庄二手房" href="http://sjz.anjuke.com">石家庄二手房</a></div>
+    <div class="slogan">专业二手房搜索引擎</div> 
+	<div class="header_city">
+		    <div class="cur_city">
+        <a class="select_icon" id="switch_apf_id_7" href="javascript:;"><span class="city">石家庄</span><span class="city_icon">选择城市</span></a>
+        <div style="display: none;" class="city_panel" id="city-panel">
+        	<iframe scrolling="no" frameborder="0" style="width: 350px; height: 266px;"></iframe>
+        	        	<dl>
+            	<dt>华北东北</dt>
+                <dd>
+                	                	<a rel="nofollow" href="http://beijing.anjuke.com">北京</a>
+                	                	<a rel="nofollow" href="http://tianjin.anjuke.com">天津</a>
+                	                	<a rel="nofollow" href="http://dalian.anjuke.com">大连</a>
+                	                	<a rel="nofollow" href="http://sjz.anjuke.com">石家庄</a>
+                	                	<a rel="nofollow" href="http://heb.anjuke.com">哈尔滨</a>
+                	                	<a rel="nofollow" href="http://sy.anjuke.com">沈阳</a>
+                	                	<a rel="nofollow" href="http://ty.anjuke.com">太原</a>
+                	                	<a rel="nofollow" href="http://cc.anjuke.com">长春</a>
+                	                </dd>
+            </dl>
+                    	<dl>
+            	<dt>华东地区</dt>
+                <dd>
+                	                	<a rel="nofollow" href="http://shanghai.anjuke.com">上海</a>
+                	                	<a rel="nofollow" href="http://hangzhou.anjuke.com">杭州</a>
+                	                	<a rel="nofollow" href="http://suzhou.anjuke.com">苏州</a>
+                	                	<a rel="nofollow" href="http://nanjing.anjuke.com">南京</a>
+                	                	<a rel="nofollow" href="http://wuxi.anjuke.com">无锡</a>
+                	                	<a rel="nofollow" href="http://jinan.anjuke.com">济南</a>
+                	                	<a rel="nofollow" href="http://qd.anjuke.com">青岛</a>
+                	                	<a rel="nofollow" href="http://ks.anjuke.com">昆山</a>
+                	                	<a rel="nofollow" href="http://nb.anjuke.com">宁波</a>
+                	                	<a rel="nofollow" href="http://nc.anjuke.com">南昌</a>
+                	                	<a rel="nofollow" href="http://fz.anjuke.com">福州</a>
+                	                	<a rel="nofollow" href="http://hf.anjuke.com">合肥</a>
+                	                </dd>
+            </dl>
+                    	<dl>
+            	<dt>华南地区</dt>
+                <dd>
+                	                	<a rel="nofollow" href="http://shenzhen.anjuke.com">深圳</a>
+                	                	<a rel="nofollow" href="http://guangzhou.anjuke.com">广州</a>
+                	                	<a rel="nofollow" href="http://foshan.anjuke.com">佛山</a>
+                	                	<a rel="nofollow" href="http://cs.anjuke.com">长沙</a>
+                	                	<a rel="nofollow" href="http://dg.anjuke.com">东莞</a>
+                	                	<a rel="nofollow" href="http://haikou.anjuke.com">海口</a>
+                	                	<a rel="nofollow" href="http://zh.anjuke.com">珠海</a>
+                	                	<a rel="nofollow" href="http://zs.anjuke.com">中山</a>
+                	                	<a rel="nofollow" href="http://xm.anjuke.com">厦门</a>
+                	                </dd>
+            </dl>
+                    	<dl>
+            	<dt>中 西 部</dt>
+                <dd>
+                	                	<a rel="nofollow" href="http://chengdu.anjuke.com">成都</a>
+                	                	<a rel="nofollow" href="http://chongqing.anjuke.com">重庆</a>
+                	                	<a rel="nofollow" href="http://wuhan.anjuke.com">武汉</a>
+                	                	<a rel="nofollow" href="http://zhengzhou.anjuke.com">郑州</a>
+                	                	<a rel="nofollow" href="http://xa.anjuke.com">西安</a>
+                	                	<a rel="nofollow" href="http://km.anjuke.com">昆明</a>
+                	                	<a rel="nofollow" href="http://gy.anjuke.com">贵阳</a>
+                	                	<a rel="nofollow" href="http://lanzhou.anjuke.com">兰州</a>
+                	                	<a rel="nofollow" href="http://luoyang.anjuke.com">洛阳</a>
+                	                </dd>
+            </dl>
+                        <div class="blank"><a href="http://www.anjuke.com/index/">更多城市&gt;&gt;</a></div>
+        </div>
+    </div>
+	</div>
+	<div class="tabbar_content">
+	<div class="anjuke_tabbar">
+    	<ul>
+    	        	<li class="home">
+				<a rel="nofollow" title="石家庄房产" href="http://sjz.anjuke.com/"><span>首 页</span></a>
+                			</li>
+		        	<li class="sale">
+				<a title="石家庄二手房" href="http://sjz.anjuke.com/sale/"><span>二手房</span></a>
+                			</li>
+		        	<li class="rental">
+				<a title="石家庄租房" href="http://sjz.anjuke.com/rental/"><span>租 房</span></a>
+                			</li>
+		        	<li class="owner">
+				<a title="石家庄卖房" href="http://sjz.anjuke.com/owner/"><span>我要卖房</span></a>
+                			</li>
+		        	<li class="broker">
+				<a title="石家庄经纪人" href="http://sjz.anjuke.com/tycoon/"><span>经纪人</span></a>
+                			</li>
+		        	<li class="comm">
+				<a class="selected" title="石家庄房价" href="http://sjz.anjuke.com/community/"><span>小 区</span></a>
+                			</li>
+		        	<li class="question">
+				<a title="问 答" href="http://sjz.anjuke.com/ask"><span>问 答</span></a>
+                <em>新</em>			</li>
+				            <li class="forum">
+				<a title="社&nbsp;区" href="http://sjz.bbs.anjuke.com/group/"><span>社&nbsp;区</span></a>
+			</li>
+		        </ul>
+    </div>
+    
+    <!--爱房 好租 金铺 链接移到上面 此处删除  start-->
+		<ul style="display:none" class="right_tabbar">
+    	<li class="left_bg"></li>
+    	    	    	<li class="right_tabbar_li2"><a target="_blank" class="haozu" title="租房" _soj="top" href=" http://sjz.haozu.com/?from=top">好租</a></li>
+    	    	        <li class="right_bg"></li>
+    </ul>   
+         	
+    <!--爱房 好租 金铺 链接移到上面 此处删除  end-->
+    
+    <span class="anjuke_tabbar_side"></span>
+</div>
+		</div>
+<div class="bg_line"></div>
+
+
+<div class="search-content">
+	<div class="search-box clearfix">
+	<form method="get" id="apf_id_9_form" action="/search">
+            <input type="hidden" name="rd" value="1">
+            <input type="hidden" name="t" id="search_type_apf_id_9" value="3">
+	    			    <input type="text" maxlength="100" name="k" class="input_text" value="请输入小区名或路名..." id="keyword_apf_id_9" autocomplete="off">
+	    <input type="submit" class="input_button se_community" id="sbtn2_apf_id_9" value="搜索">
+	</form>
+</div>
+    
+	<div class="found_home">
+	<a href="/map/sale/" target="_blank" rel="nofollow">地图找房</a>
+	</div>
+</div>
+
+    </div>
+    <div id="content">
+        <div class="community">
+    <div class="filter_container">
+        <div id="panel_apf_id_10" class="condition_links2 ">
+        <div>
+        <div class="condition_title">区域：</div>
+        <div id="apf_id_10_areacontainer" class="container">
+                                        <strong>不限</strong>
+                                                	                <a title="裕华" href="http://sjz.anjuke.com/community/W0QQpZ1QQp1Z3308">裕华</a>
+                                                                	                <a title="长安" href="http://sjz.anjuke.com/community/W0QQpZ1QQp1Z3302">长安</a>
+                                                                	                <a title="桥东" href="http://sjz.anjuke.com/community/W0QQpZ1QQp1Z3305">桥东</a>
+                                                                	                <a title="桥西" href="http://sjz.anjuke.com/community/W0QQpZ1QQp1Z3306">桥西</a>
+                                                                	                <a title="新华" href="http://sjz.anjuke.com/community/W0QQpZ1QQp1Z3307">新华</a>
+                                                                	                <a title="开发区" href="http://sjz.anjuke.com/community/W0QQpZ1QQp1Z3303">开发区</a>
+                                                                	                <a title="正定" href="http://sjz.anjuke.com/community/W0QQpZ1QQp1Z3309">正定</a>
+                                                                	                <a title="鹿泉市" href="http://sjz.anjuke.com/community/W0QQpZ1QQp1Z3304">鹿泉市</a>
+                                                                	                <a title="其他区县" href="http://sjz.anjuke.com/community/W0QQpZ1QQp1Z3310">其他区县</a>
+                                                </div>
+    </div>
+    
+        
+            <div>
+        <div class="condition_title">房龄：</div>
+        <div id="apf_id_10_areacontainer" class="container">
+                                        <strong>不限</strong>
+                                                	                	<a rel="nofollow" title="2年内" href="http://sjz.anjuke.com/community/W0QQp22Z2">2年内</a>
+                                                                	                	<a rel="nofollow" title="2-5年" href="http://sjz.anjuke.com/community/W0QQp22Z3">2-5年</a>
+                                                                	                	<a rel="nofollow" title="5-10年" href="http://sjz.anjuke.com/community/W0QQp22Z5">5-10年</a>
+                                                                	                	<a rel="nofollow" title="10年以上" href="http://sjz.anjuke.com/community/W0QQp22Z10">10年以上</a>
+                                                </div>
+    </div>
+    
+            <div>
+        <div class="condition_title">类型：</div>
+        <div id="apf_id_10_areacontainer" class="container">
+                                        <strong>不限</strong>
+                                                	                	<a rel="nofollow" title="普通住宅" href="http://sjz.anjuke.com/community/W0QQpZ1QQp6Z73">普通住宅</a>
+                                                                	                	<a rel="nofollow" title="别墅" href="http://sjz.anjuke.com/community/W0QQpZ1QQp6Z74">别墅</a>
+                                                                	                	<a rel="nofollow" title="酒店公寓" href="http://sjz.anjuke.com/community/W0QQpZ1QQp6Z75">酒店公寓</a>
+                                                                	                	<a rel="nofollow" title="其它" href="http://sjz.anjuke.com/community/W0QQpZ1QQp6Z76">其它</a>
+                                                </div>
+    </div>
+    
+    </div>
+
+    </div>
+    <div class="new_result_bar">
+	    <div class="result_bar">
+	        <div class="local_search_nh">
+	            <form class="keywordform" method="get" action="http://sjz.anjuke.com/community/" id="_search_form">
+	                <input type="text" value="在结果中搜索" class="kw" name="kw" id="_kw" autocomplete="off">
+	                <input type="submit" class="search" value="搜索">
+                    <a class="clearkw" id="commclearkw" href="http://sjz.anjuke.com/community/">清空</a>
+	            </form>
+	        </div>
+	    </div>
+    	<ul>
+        <li class="asline"></li>
+        <li class="condlist_tip"><span>更多筛选：</span></li>
+        <li class="">
+        	<div class="select_contents" id="">
+                <a class="select" href="#">
+                <span class="select_item"><span class="txt">绿化率</span><span class="icon">&nbsp;</span></span>			
+                <!--[if IE 7]><!--></a><!--<![endif]-->
+                <!--[if IE 8]><!--><!--<![endif]-->
+                <!--[if !IE]>--><!--<![endif]-->
+                <!--[if lte IE 6]>
+                <iframe src="" style="position:absolute;visibility:inherit; top:0px; left:-1px; width:99px; height:105px;z-index:-1;opacity:.0;filter:alpha(opacity=0); -moz-opacity:0;"></iframe>
+                <table><tr><td><![endif]-->
+                <ul>
+                                        	<li class="selected"><a rel="nofollow" class="select_list" href="http://sjz.anjuke.com/community/">不限</a></li>
+                                        	<li class=""><a rel="nofollow" class="select_list" href="http://sjz.anjuke.com/community/W0QQp23Z30">高于30%</a></li>
+                                        	<li class=""><a rel="nofollow" class="select_list" href="http://sjz.anjuke.com/community/W0QQp23Z40">高于40%</a></li>
+                                        	<li class=""><a rel="nofollow" class="select_list" href="http://sjz.anjuke.com/community/W0QQp23Z50">高于50%</a></li>
+                                        	<li class=""><a rel="nofollow" class="select_list" href="http://sjz.anjuke.com/community/W0QQp23Z60">高于60%</a></li>
+                                   </ul>
+                <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+            </div> 
+        
+        </li>
+    	            <li class="checkbox_content">
+                        	<input type="checkbox" style="float:left;" id="idcommhasprop" value="http://sjz.anjuke.com/community/W0QQzpZ1"><label for="idcommhasprop">只看有房源的小区</label>
+            </li>
+        </ul>
+    </div>
+    <div class="container list_container">
+        <div class="listing">
+            <div class="nh_tab_bar">
+                <div class="num">安居客找到<span>4410</span>&nbsp;个符合要求的小区</div>
+                <div class="pager"><div class="simple_multipage">
+
+            <div class="pagelink noprexpage">&nbsp;</div>
+    
+                        <div class="current">1/441</div>
+            
+            <div class="pagelink nextpage"><a title="下一页" href="http://sjz.anjuke.com/community/W0QQpZ2">下一页</a></div>
+    
+</div></div>
+                <div class="order_content">
+                	<label>排序：</label>
+                    <div id="selectorder_id">
+                        <a class="select" href="#"><span class="select_item"><span class="txt">默认排序</span><span class="icon">&nbsp;</span></span>			
+                        <!--[if IE 7]><!--></a><!--<![endif]-->
+                        <!--[if IE 8]><!--><!--<![endif]-->
+                        <!--[if !IE]>--><!--<![endif]-->
+                        <!--[if lte IE 6]>
+                        <iframe src="" style="position:absolute;visibility:inherit; top:0px; left:-1px; width:99px; height:105px;z-index:-1;opacity:.0;filter:alpha(opacity=0); -moz-opacity:0;"></iframe>
+                        <table><tr><td><![endif]-->
+                        <ul>
+                                                <li class="selected"><a rel="nofollow" class="select_list" href="http://sjz.anjuke.com/community/">不限</a></li>
+                        <li class=""><a rel="nofollow" class="select_list" href="http://sjz.anjuke.com/community/W0QQsZpQQstZ1">均价从高到低</a></li>
+                        <li class=""><a rel="nofollow" class="select_list" href="http://sjz.anjuke.com/community/W0QQsZpQQstZ2">均价从低到高</a></li>
+                        <li class=""><a rel="nofollow" class="select_list" href="http://sjz.anjuke.com/community/W0QQsZgQQstZ1">好评度从高到低</a></li>
+                        <li class=""><a rel="nofollow" class="select_list" href="http://sjz.anjuke.com/community/W0QQsZcQQstZ1">涨跌幅从高到低</a></li>
+                        <li class=""><a rel="nofollow" class="select_list" href="http://sjz.anjuke.com/community/W0QQsZcQQstZ2">涨跌幅从低到高</a></li>
+                        <li class=""><a rel="nofollow" class="select_list" href="http://sjz.anjuke.com/community/W0QQsZsdQQstZ1">竣工日期从新到旧</a></li>
+                        <li class=""><a rel="nofollow" class="select_list" href="http://sjz.anjuke.com/community/W0QQsZgpQQstZ1">绿化率从高到低</a></li>
+                                                </ul>
+                        <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+                    </div> 
+                    <a rel="nofollow" class="price " href="http://sjz.anjuke.com/community/W0QQsZpQQstZ2">均价</a>
+                    <a class="" href="http://sjz.anjuke.com/community/W0QQsZcQQstZ2" style="display:none;">涨跌</a>
+                </div>
+                <div style="clear:both;"></div>
+            </div>
+            <div style="clear:both;"></div>
+                            	    <!-- table class="header" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td class="title">&nbsp;</td>
+            <td>小区信息</td>
+                        <td class="title1"><a href="http://sjz.anjuke.com/community/W0QQsZpQQstZ1" class="http://sjz.anjuke.com/community/W0QQsZpQQstZ2">均价/m<sup>2</sup></a></td>
+            <td class="title1"><a href="http://sjz.anjuke.com/community/W0QQsZcQQstZ1" class="http://sjz.anjuke.com/community/W0QQsZcQQstZ2">涨跌幅</a></td>
+                    </tr>
+    </table -->
+                    <ol id="list_body">
+	                	                	
+    <li id="li_apf_id_13" class="">
+	<div id="apf_id_13" class="property2">
+	    <div class="photo">
+	        <a target="_blank" alt="天然城5912元/平米" title="天然城5912元/平米" class="photo" href="http://sjz.anjuke.com/community/view/258866"><img width="150" height="113" alt="天然城5912元/平米" src="http://images11.anjukestatic.com/community/20100820/1/26/23/96/78/126239678/150x113.jpg" id="apf_id_14_a" class="thumbnail"></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a target="_blank" href="http://sjz.anjuke.com/community/view/258866" id="comm_name_qt_apf_id_13">天然城</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_13">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[开发区&nbsp;天山大街]祁连大街120号</span>
+				<a rel="nofollow" href="http://sjz.anjuke.com/map/sale/#l1=38.012432320687&amp;l2=114.62121398746&amp;l3=18&amp;flag=1&amp;commname=天然城&amp;commid=258866" target="_blank" class="lookmap">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2009年06月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_13">二手房
+	                		                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/sale/258866">(474)</a>
+		                            </span>
+            	        	        </p>
+
+	        <p class="commseries">
+	                        <a _soj="communitylist" target="_blank" class="icons01" href=" http://sjz.anjuke.com/community/view/258866?from=communitylist">小区详情</a>
+            	                    	<a target="_blank" class="icons02" href="http://sjz.anjuke.com/community/round/258866">生活配套</a>
+            	                    	<a target="_blank" class="icons03" href="http://sjz.anjuke.com/community/trends/258866W0QQmonthZ6">价格行情</a>
+                                        <a target="_blank" class="icons04" href="http://sjz.anjuke.com/community/photos/b/258866">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    			           		                    <span id="comm_price_qt_apf_id_13"><strong>5912</strong></span>&nbsp;元/平米
+		                		                <br>
+		                		                	<span style="align:left" class="down" id="comm_chg_qt_apf_id_13">↓0.10%</span>
+		                            			   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_15" class="">
+	<div id="apf_id_15" class="property2">
+	    <div class="photo">
+	        <a target="_blank" alt="天苑小区6806元/平米" title="天苑小区6806元/平米" class="photo" href="http://sjz.anjuke.com/community/view/258862"><img width="150" height="113" alt="天苑小区6806元/平米" src="http://images11.anjukestatic.com/community/20100820/1/26/27/50/69/126275069/150x113.jpg" id="apf_id_16_a" class="thumbnail"></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a target="_blank" href="http://sjz.anjuke.com/community/view/258862" id="comm_name_qt_apf_id_15">天苑小区</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_15">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[新华&nbsp;北苑]友谊大街与北二环交口路西</span>
+				<a rel="nofollow" href="http://sjz.anjuke.com/map/sale/#l1=38.093931&amp;l2=114.458479&amp;l3=18&amp;flag=1&amp;commname=天苑小区&amp;commid=258862" target="_blank" class="lookmap">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：1995年07月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_15">二手房
+	                		                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/sale/258862">(417)</a>
+		                            </span>
+            	                        <span id="comm_rent_qt_apf_id_15">租房
+                			                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/rent/258862">(1)</a>
+		                            </span>
+            	        </p>
+
+	        <p class="commseries">
+	                        <a _soj="communitylist" target="_blank" class="icons01" href=" http://sjz.anjuke.com/community/view/258862?from=communitylist">小区详情</a>
+            	                    	<a target="_blank" class="icons02" href="http://sjz.anjuke.com/community/round/258862">生活配套</a>
+            	                    	<a target="_blank" class="icons03" href="http://sjz.anjuke.com/community/trends/258862W0QQmonthZ6">价格行情</a>
+                                        <a target="_blank" class="icons04" href="http://sjz.anjuke.com/community/photos/b/258862">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    			           		                    <span id="comm_price_qt_apf_id_15"><strong>6806</strong></span>&nbsp;元/平米
+		                		                <br>
+		                		               		 <span style="align:left" class="up" id="comm_chg_qt_apf_id_15">↑1.78%</span>
+		                            			   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_17" class="">
+	<div id="apf_id_17" class="property2">
+	    <div class="photo">
+	        <a target="_blank" alt="银通小区6970元/平米" title="银通小区6970元/平米" class="photo" href="http://sjz.anjuke.com/community/view/258868"><img width="150" height="113" alt="银通小区6970元/平米" src="http://images14.anjukestatic.com/community/20100820/1/26/23/12/73/126231273/150x113.jpg" id="apf_id_18_a" class="thumbnail"></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a target="_blank" href="http://sjz.anjuke.com/community/view/258868" id="comm_name_qt_apf_id_17">银通小区</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_17">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[裕华&nbsp;银通]石家庄市槐中路612号谈固东街132号</span>
+				<a rel="nofollow" href="http://sjz.anjuke.com/map/sale/#l1=38.03602&amp;l2=114.578181&amp;l3=18&amp;flag=1&amp;commname=银通小区&amp;commid=258868" target="_blank" class="lookmap">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2000年01月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_17">二手房
+	                		                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/sale/258868">(410)</a>
+		                            </span>
+            	                        <span id="comm_rent_qt_apf_id_17">租房
+                			                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/rent/258868">(11)</a>
+		                            </span>
+            	        </p>
+
+	        <p class="commseries">
+	                        <a _soj="communitylist" target="_blank" class="icons01" href=" http://sjz.anjuke.com/community/view/258868?from=communitylist">小区详情</a>
+            	                    	<a target="_blank" class="icons02" href="http://sjz.anjuke.com/community/round/258868">生活配套</a>
+            	                    	<a target="_blank" class="icons03" href="http://sjz.anjuke.com/community/trends/258868W0QQmonthZ6">价格行情</a>
+                                        <a target="_blank" class="icons04" href="http://sjz.anjuke.com/community/photos/b/258868">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    			           		                    <span id="comm_price_qt_apf_id_17"><strong>6970</strong></span>&nbsp;元/平米
+		                		                <br>
+		                		               		 <span style="align:left" class="up" id="comm_chg_qt_apf_id_17">↑0.11%</span>
+		                            			   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_19" class="">
+	<div id="apf_id_19" class="property2">
+	    <div class="photo">
+	        <a target="_blank" alt="和合美家4463元/平米" title="和合美家4463元/平米" class="photo" href="http://sjz.anjuke.com/community/view/306110"><img width="150" height="113" alt="和合美家4463元/平米" src="http://pic1.ajkimg.com/display/baf16df9d8a67976feccf6d9ee28b399/150x115.jpg" id="apf_id_20_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a target="_blank" href="http://sjz.anjuke.com/community/view/306110" id="comm_name_qt_apf_id_19">和合美家</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_19">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[开发区&nbsp;天山大街]开发区学苑路与天山大街交口</span>
+				<a rel="nofollow" href="http://sjz.anjuke.com/map/sale/#l1=38.011871&amp;l2=114.613619&amp;l3=18&amp;flag=1&amp;commname=和合美家&amp;commid=306110" target="_blank" class="lookmap">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2011年12月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_19">二手房
+	                		                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/sale/306110">(399)</a>
+		                            </span>
+            	        	        </p>
+
+	        <p class="commseries">
+	                        <a _soj="communitylist" target="_blank" class="icons01" href=" http://sjz.anjuke.com/community/view/306110?from=communitylist">小区详情</a>
+            	                    	<a target="_blank" class="icons02" href="http://sjz.anjuke.com/community/round/306110">生活配套</a>
+            	                    	<a target="_blank" class="icons03" href="http://sjz.anjuke.com/community/trends/306110W0QQmonthZ6">价格行情</a>
+                                        <a target="_blank" class="icons04" href="http://sjz.anjuke.com/community/photos/b/306110">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    			           		                    <span id="comm_price_qt_apf_id_19"><strong>4463</strong></span>&nbsp;元/平米
+		                		                <br>
+		                		                	<span style="align:left" class="down" id="comm_chg_qt_apf_id_19">↓0.11%</span>
+		                            			   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_21" class="">
+	<div id="apf_id_21" class="property2">
+	    <div class="photo">
+	        <a target="_blank" alt="卓达书香园7590元/平米" title="卓达书香园7590元/平米" class="photo" href="http://sjz.anjuke.com/community/view/305723"><img width="150" height="113" alt="卓达书香园7590元/平米" src="http://pic1.ajkimg.com/display/260357cd6320d763f0a8cba51d3a921e/150x115.jpg" id="apf_id_22_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a target="_blank" href="http://sjz.anjuke.com/community/view/305723" id="comm_name_qt_apf_id_21">卓达书香园</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_21">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[裕华&nbsp;塔冢]翟营南大街交塔北路</span>
+				<a rel="nofollow" href="http://sjz.anjuke.com/map/sale/#l1=38.01609&amp;l2=114.56615&amp;l3=18&amp;flag=1&amp;commname=卓达书香园&amp;commid=305723" target="_blank" class="lookmap">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2000年01月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_21">二手房
+	                		                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/sale/305723">(365)</a>
+		                            </span>
+            	                        <span id="comm_rent_qt_apf_id_21">租房
+                			                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/rent/305723">(7)</a>
+		                            </span>
+            	        </p>
+
+	        <p class="commseries">
+	                        <a _soj="communitylist" target="_blank" class="icons01" href=" http://sjz.anjuke.com/community/view/305723?from=communitylist">小区详情</a>
+            	                    	<a target="_blank" class="icons02" href="http://sjz.anjuke.com/community/round/305723">生活配套</a>
+            	                    	<a target="_blank" class="icons03" href="http://sjz.anjuke.com/community/trends/305723W0QQmonthZ6">价格行情</a>
+                                        <a target="_blank" class="icons04" href="http://sjz.anjuke.com/community/photos/b/305723">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    			           		                    <span id="comm_price_qt_apf_id_21"><strong>7590</strong></span>&nbsp;元/平米
+		                		                <br>
+		                		                	<span style="align:left" class="down" id="comm_chg_qt_apf_id_21">↓0.43%</span>
+		                            			   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_23" class="">
+	<div id="apf_id_23" class="property2">
+	    <div class="photo">
+	        <a target="_blank" alt="国际城9315元/平米" title="国际城9315元/平米" class="photo" href="http://sjz.anjuke.com/community/view/258860"><img width="150" height="113" alt="国际城9315元/平米" src="http://images11.anjukestatic.com/community/20100820/1/26/27/89/19/126278919/150x113.jpg" id="apf_id_24_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a target="_blank" href="http://sjz.anjuke.com/community/view/258860" id="comm_name_qt_apf_id_23">国际城</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_23">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[裕华&nbsp;裕华路]谈固南大街与槐中路交口</span>
+				<a rel="nofollow" href="http://sjz.anjuke.com/map/sale/#l1=38.035462&amp;l2=114.570299&amp;l3=18&amp;flag=1&amp;commname=国际城&amp;commid=258860" target="_blank" class="lookmap">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2006年03月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_23">二手房
+	                		                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/sale/258860">(340)</a>
+		                            </span>
+            	                        <span id="comm_rent_qt_apf_id_23">租房
+                			                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/rent/258860">(6)</a>
+		                            </span>
+            	        </p>
+
+	        <p class="commseries">
+	                        <a _soj="communitylist" target="_blank" class="icons01" href=" http://sjz.anjuke.com/community/view/258860?from=communitylist">小区详情</a>
+            	                    	<a target="_blank" class="icons02" href="http://sjz.anjuke.com/community/round/258860">生活配套</a>
+            	                    	<a target="_blank" class="icons03" href="http://sjz.anjuke.com/community/trends/258860W0QQmonthZ6">价格行情</a>
+                                        <a target="_blank" class="icons04" href="http://sjz.anjuke.com/community/photos/b/258860">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    			           		                    <span id="comm_price_qt_apf_id_23"><strong>9315</strong></span>&nbsp;元/平米
+		                		                <br>
+		                		               		 <span style="align:left" class="up" id="comm_chg_qt_apf_id_23">↑0.04%</span>
+		                            			   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_25" class="">
+	<div id="apf_id_25" class="property2">
+	    <div class="photo">
+	        <a target="_blank" alt="花样年华5527元/平米" title="花样年华5527元/平米" class="photo" href="http://sjz.anjuke.com/community/view/258849"><img width="150" height="113" alt="花样年华5527元/平米" src="http://images14.anjukestatic.com/community/20101027/1/65/94/4/41/165940441/150x113.jpg" id="apf_id_26_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a target="_blank" href="http://sjz.anjuke.com/community/view/258849" id="comm_name_qt_apf_id_25">花样年华</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_25">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[开发区&nbsp;湘江道]开发区 湘江道118号,星辰广场南侧</span>
+				<a rel="nofollow" href="http://sjz.anjuke.com/map/sale/#l1=38.036654&amp;l2=114.635044&amp;l3=18&amp;flag=1&amp;commname=花样年华&amp;commid=258849" target="_blank" class="lookmap">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2008年06月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_25">二手房
+	                		                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/sale/258849">(332)</a>
+		                            </span>
+            	        	        </p>
+
+	        <p class="commseries">
+	                        <a _soj="communitylist" target="_blank" class="icons01" href=" http://sjz.anjuke.com/community/view/258849?from=communitylist">小区详情</a>
+            	                    	<a target="_blank" class="icons02" href="http://sjz.anjuke.com/community/round/258849">生活配套</a>
+            	                    	<a target="_blank" class="icons03" href="http://sjz.anjuke.com/community/trends/258849W0QQmonthZ6">价格行情</a>
+                                        <a target="_blank" class="icons04" href="http://sjz.anjuke.com/community/photos/b/258849">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    			           		                    <span id="comm_price_qt_apf_id_25"><strong>5527</strong></span>&nbsp;元/平米
+		                		                <br>
+		                		               		 <span style="align:left" class="up" id="comm_chg_qt_apf_id_25">↑1.49%</span>
+		                            			   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_27" class="">
+	<div id="apf_id_27" class="property2">
+	    <div class="photo">
+	        <a target="_blank" alt="花香维也纳（神州嘉园）7555元/平米" title="花香维也纳（神州嘉园）7555元/平米" class="photo" href="http://sjz.anjuke.com/community/view/258837"><img width="150" height="113" alt="花香维也纳（神州嘉园）7555元/平米" src="http://images11.anjukestatic.com/community/20100820/1/26/24/55/31/126245531/150x113.jpg" id="apf_id_28_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a target="_blank" href="http://sjz.anjuke.com/community/view/258837" id="comm_name_qt_apf_id_27">花香维也纳（神州嘉园）</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_27">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[桥东&nbsp;胜利北街]桥东区胜利北大街178号</span>
+				<a rel="nofollow" href="http://sjz.anjuke.com/map/sale/#l1=38.068944&amp;l2=114.507184&amp;l3=18&amp;flag=1&amp;commname=花香维也纳（神州嘉园）&amp;commid=258837" target="_blank" class="lookmap">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2006年06月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_27">二手房
+	                		                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/sale/258837">(316)</a>
+		                            </span>
+            	                        <span id="comm_rent_qt_apf_id_27">租房
+                			                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/rent/258837">(3)</a>
+		                            </span>
+            	        </p>
+
+	        <p class="commseries">
+	                        <a _soj="communitylist" target="_blank" class="icons01" href=" http://sjz.anjuke.com/community/view/258837?from=communitylist">小区详情</a>
+            	                    	<a target="_blank" class="icons02" href="http://sjz.anjuke.com/community/round/258837">生活配套</a>
+            	                    	<a target="_blank" class="icons03" href="http://sjz.anjuke.com/community/trends/258837W0QQmonthZ6">价格行情</a>
+                                        <a target="_blank" class="icons04" href="http://sjz.anjuke.com/community/photos/b/258837">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    			           		                    <span id="comm_price_qt_apf_id_27"><strong>7555</strong></span>&nbsp;元/平米
+		                		                <br>
+		                		               		 <span style="align:left" class="up" id="comm_chg_qt_apf_id_27">↑1.41%</span>
+		                            			   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_29" class="">
+	<div id="apf_id_29" class="property2">
+	    <div class="photo">
+	        <a target="_blank" alt="石门小区7646元/平米" title="石门小区7646元/平米" class="photo" href="http://sjz.anjuke.com/community/view/258864"><img width="150" height="113" alt="石门小区7646元/平米" src="http://images11.anjukestatic.com/community/20100820/1/26/24/16/24/126241624/150x113.jpg" id="apf_id_30_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a target="_blank" href="http://sjz.anjuke.com/community/view/258864" id="comm_name_qt_apf_id_29">石门小区</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_29">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[裕华&nbsp;石门]裕华翟营大街交槐中路</span>
+				<a rel="nofollow" href="http://sjz.anjuke.com/map/sale/#l1=38.033013354391&amp;l2=114.5607901665&amp;l3=18&amp;flag=1&amp;commname=石门小区&amp;commid=258864" target="_blank" class="lookmap">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：1999年01月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_29">二手房
+	                		                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/sale/258864">(301)</a>
+		                            </span>
+            	                        <span id="comm_rent_qt_apf_id_29">租房
+                			                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/rent/258864">(4)</a>
+		                            </span>
+            	        </p>
+
+	        <p class="commseries">
+	                        <a _soj="communitylist" target="_blank" class="icons01" href=" http://sjz.anjuke.com/community/view/258864?from=communitylist">小区详情</a>
+            	                    	<a target="_blank" class="icons02" href="http://sjz.anjuke.com/community/round/258864">生活配套</a>
+            	                    	<a target="_blank" class="icons03" href="http://sjz.anjuke.com/community/trends/258864W0QQmonthZ6">价格行情</a>
+                                        <a target="_blank" class="icons04" href="http://sjz.anjuke.com/community/photos/b/258864">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    			           		                    <span id="comm_price_qt_apf_id_29"><strong>7646</strong></span>&nbsp;元/平米
+		                		                <br>
+		                		               		 <span style="align:left" class="up" id="comm_chg_qt_apf_id_29">↑0.38%</span>
+		                            			   </div>
+	   </div>
+	  	                	                	
+    </li><li id="li_apf_id_31" class="">
+	<div id="apf_id_31" class="property2">
+	    <div class="photo">
+	        <a target="_blank" alt="国大全城6977元/平米" title="国大全城6977元/平米" class="photo" href="http://sjz.anjuke.com/community/view/258863"><img width="150" height="113" alt="国大全城6977元/平米" src="http://images11.anjukestatic.com/community/20100820/1/26/27/42/86/126274286/150x113.jpg" id="apf_id_32_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+	    </div>
+	    <div class="details">
+	    	<h4>
+				<a target="_blank" href="http://sjz.anjuke.com/community/view/258863" id="comm_name_qt_apf_id_31">国大全城</a>&nbsp;
+	        </h4>
+	        <address id="comm_addr_qt_apf_id_31">
+            	<span style="overflow:hidden;float:left; font-family:Simsun">[裕华&nbsp;位同]东岗路与东二环交叉口西南角</span>
+				<a rel="nofollow" href="http://sjz.anjuke.com/map/sale/#l1=38.021658&amp;l2=114.582626&amp;l3=18&amp;flag=1&amp;commname=国大全城&amp;commid=258863" target="_blank" class="lookmap">地图</a>
+            </address>
+	                                                    <p class="date">
+                    竣工日期：2011年03月                </p>
+                        	        <p class="house">
+	                        <span id="comm_sale_qt_apf_id_31">二手房
+	                		                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/sale/258863">(267)</a>
+		                            </span>
+            	                        <span id="comm_rent_qt_apf_id_31">租房
+                			                <a style="color: #335293;" target="_blank" href="http://sjz.anjuke.com/community/props/rent/258863">(3)</a>
+		                            </span>
+            	        </p>
+
+	        <p class="commseries">
+	                        <a _soj="communitylist" target="_blank" class="icons01" href=" http://sjz.anjuke.com/community/view/258863?from=communitylist">小区详情</a>
+            	                    	<a target="_blank" class="icons02" href="http://sjz.anjuke.com/community/round/258863">生活配套</a>
+            	                    	<a target="_blank" class="icons03" href="http://sjz.anjuke.com/community/trends/258863W0QQmonthZ6">价格行情</a>
+                                        <a target="_blank" class="icons04" href="http://sjz.anjuke.com/community/photos/b/258863">相册</a>
+            	        </p>
+		</div>
+		<div class="price">
+		   	    			           		                    <span id="comm_price_qt_apf_id_31"><strong>6977</strong></span>&nbsp;元/平米
+		                		                <br>
+		                		               		 <span style="align:left" class="up" id="comm_chg_qt_apf_id_31">↑0.06%</span>
+		                            			   </div>
+	   </div>
+	  	                                </li></ol>
+                <div class="multi_page_div">
+                <div class="multipage">
+
+                        <span class="nolink prexpage"><img src="http://pages.anjukestatic.com/img/icon/arrow.left-10x10.gif">&nbsp;上一页</span>
+                                <span class="current">1</span>
+                                <a href="http://sjz.anjuke.com/community/W0QQpZ2"><span>2</span></a>
+                                <a href="http://sjz.anjuke.com/community/W0QQpZ3"><span>3</span></a>
+                                <a href="http://sjz.anjuke.com/community/W0QQpZ4"><span>4</span></a>
+                                <a href="http://sjz.anjuke.com/community/W0QQpZ5"><span>5</span></a>
+                                <a href="http://sjz.anjuke.com/community/W0QQpZ6"><span>6</span></a>
+                                <a href="http://sjz.anjuke.com/community/W0QQpZ7"><span>7</span></a>
+                                <a href="http://sjz.anjuke.com/community/W0QQpZ8"><span>8</span></a>
+                                <a href="http://sjz.anjuke.com/community/W0QQpZ9"><span>9</span></a>
+                                <a href="http://sjz.anjuke.com/community/W0QQpZ10"><span>10</span></a>
+                                <a href="http://sjz.anjuke.com/community/W0QQpZ2"><span class="nextpage">下一页 <img src="http://pages.anjukestatic.com/img/icon/arrow.right-10x10.gif"></span></a>
+        		
+				
+</div>                </div>
+                <div style="clear:both;"></div>
+                <!--<div class="divBrokerList">
+					找个满意的，事半功倍！ <a href="" target="_blank">现在去找</a>
+				</div>-->
+                    </div>
+        <div class="side_bar">
+                                            <div style="margin-bottom: 10px;" class="section">
+                    <div class="head">房价走势</div>
+                    <div class="body">
+                        <div class="current_price">
+                            6月均价：<span style="color:#ff6600; font-size:12px; font-weight:bold">7088                            元/平米</span>
+                            &nbsp;&nbsp;
+                                                            <br>比5月上涨：<span style="color:#ff0000; font-weight:normal;">↑0.37%</span>
+                                                                                    </div>
+                        <div class="price_trends">
+                            <div class="chart">
+                                <img border="0" src="http://static.anjuke.com/chart/pricetrend2/W0QQtZ2QQcodeZ3301QQwZ210QQhZ115QQdateZ20120615QQticksZ1QQextZ.pngQQgridZ1QQlogoZ1??radius=0">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                            
+        <div class="side_content">
+                    <div class="historybox list">
+            	<h4>您在安居客看过的小区</h4>
+                <ul>
+                                                	<li><a _soj="commlist_r" class="community_name" href="http://sjz.anjuke.com/community/view/458429?from=communityrecent" target="_blank">红岛嘉苑</a><span class="blue">&nbsp;--&nbsp;</span><span class="price">-元/平米</span></li>
+                                	<li><a _soj="commlist_r" class="community_name" href="http://sjz.anjuke.com/community/view/96470?from=communityrecent" target="_blank">圆龙园</a><span class="blue">&nbsp;--&nbsp;</span><span class="price">￥28130元/平米</span></li>
+                                </ul>
+            </div>
+                <div style="clear:both;margin: 15px 0 15px 0px;" id="IFX_p13"></div>
+        <!-- 预留广告位 -->
+	    <div id="adanjuke_zoneid_comm_001" style="width: 210px; height: 220px; margin: 5px auto 0pt; padding: 9px 0pt 9px 9px;"><div style="display: block;" id="baidu_adanjuke_zoneid_comm_001">
+	<script type="text/javascript">
+	if($('adanjuke_zoneid_comm_001')){
+		BAIDU_CLB_singleFillSlot("138544");
+	}
+	</script><script src="http://cb.baidu.com/ecom?di=138544&amp;fn=BAIDU_CLB_SETJSONADSLOT&amp;tpl=BAIDU_CLB_SETJSONADSLOT&amp;asp_refer=&amp;asp_url=http%3A%2F%2Fsjz.anjuke.com%2Fcommunity%2F&amp;new=1&amp;fv=11&amp;cn=1&amp;if=0&amp;word=http%3A%2F%2Fsjz.anjuke.com%2Fcommunity%2F&amp;refer=http%3A%2F%2Fsjz.anjuke.com%2F&amp;ready=1&amp;jn=3&amp;lmt=1339750005&amp;csp=1680,1050&amp;csn=1680,1020&amp;ccd=24&amp;chi=2&amp;cja=false&amp;cpl=22&amp;cmi=85&amp;cce=true&amp;csl=zh-CN&amp;did=1&amp;rt=6&amp;dt=1339750008&amp;c01=0&amp;prt=1339750007783&amp;baidu_id=" charset="utf-8"></script><div id="baidu_clb_slot_138544"><div style="display:none">-</div> <iframe width="200" scrolling="no" height="200" frameborder="0" align="center,center" allowtransparency="true" marginheight="0" marginwidth="0" src="http://cpro.baidu.com/cpro/ui/uijs.php?tu=138544&amp;tn=text_default_200_200&amp;n=anjukeadaccount_cpr&amp;rsi1=200&amp;rsi0=200&amp;rad=&amp;rss0=%23FFFFFF&amp;rss1=%23FFFFFF&amp;rss2=%230000FF&amp;rss3=%23444444&amp;rss4=%23008000&amp;rss5=&amp;rss6=%23e10900&amp;rsi5=4&amp;ts=1&amp;at=6&amp;ch=0&amp;cad=1&amp;aurl=&amp;rss7=&amp;cpa=1&amp;fv=11&amp;cn=1&amp;if=16&amp;word=http%3A%2F%2Fsjz.anjuke.com%2Fcommunity%2F&amp;refer=http%3A%2F%2Fsjz.anjuke.com%2F&amp;ready=3&amp;jk=df1da407e8c0643d&amp;jn=3&amp;lmt=1339750005&amp;csp=1680,1050&amp;csn=1680,1020&amp;ccd=24&amp;chi=2&amp;cja=false&amp;cpl=22&amp;cmi=85&amp;cce=true&amp;csl=zh-CN&amp;did=1&amp;rt=32&amp;dt=1339750008&amp;ev=33554432&amp;c01=0&amp;prt=1339750008362" id="cproIframe1"></iframe></div>
+</div></div>
+        </div>
+    </div>
+    </div>
+    <div id="comm-relative">
+        <h3 class="inbox">
+            <a class="gotop" href="#">返回顶部</a>
+            您可能感兴趣的小区
+        </h3>
+        <ul class="commlist">
+                    <li class="">
+                <div class="image">
+                    <a target="_blank" href="http://sjz.anjuke.com/community/view/254283" onclick="return false;"><img width="100" height="75" border="0" src="http://pic1.ajkimg.com/display/72767e53d865b69c22b966f3b3973d26/100x75.jpg" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+                </div>
+                <div class="title">
+                    <a title="湘江世纪城" target="_blank" href="http://sjz.anjuke.com/community/view/254283" onclick="return false;">湘江世纪城</a>
+                </div>
+                
+				                <div class="modelarea">
+                    <span class="bold">￥5988元/平米</span>
+                </div>
+                            </li>
+                    <li class="">
+                <div class="image">
+                    <a target="_blank" href="http://sjz.anjuke.com/community/view/255833" onclick="return false;"><img width="100" height="75" border="0" src="http://images11.anjukestatic.com/community/20100820/1/26/17/80/50/126178050/100x75.jpg" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+                </div>
+                <div class="title">
+                    <a title="绿城桂花城" target="_blank" href="http://sjz.anjuke.com/community/view/255833" onclick="return false;">绿城桂花城</a>
+                </div>
+                
+				                <div class="modelarea">
+                    <span class="bold">￥8159元/平米</span>
+                </div>
+                            </li>
+                    <li>
+                <div class="image">
+                    <a target="_blank" href="http://sjz.anjuke.com/community/view/255838" onclick="return false;"><img width="100" height="75" border="0" src="http://images11.anjukestatic.com/community/20100820/1/26/18/1/1/126180101/100x75.jpg" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+                </div>
+                <div class="title">
+                    <a title="阳光100国际新城" target="_blank" href="http://sjz.anjuke.com/community/view/255838" onclick="return false;">阳光100国际新城</a>
+                </div>
+                
+				                <div class="modelarea">
+                    <span class="bold">￥5676元/平米</span>
+                </div>
+                            </li>
+                    <li>
+                <div class="image">
+                    <a target="_blank" href="http://sjz.anjuke.com/community/view/96250" onclick="return false;"><img width="100" height="75" border="0" src="http://images3.anjukestatic.com/community/20090318/7/25/8/42/7250842/100x75.jpg" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+                </div>
+                <div class="title">
+                    <a title="园东花园" target="_blank" href="http://sjz.anjuke.com/community/view/96250" onclick="return false;">园东花园</a>
+                </div>
+                
+				                <div class="modelarea">
+                    <span class="bold">￥24743元/平米</span>
+                </div>
+                            </li>
+                    <li>
+                <div class="image">
+                    <a target="_blank" href="http://sjz.anjuke.com/community/view/171884" onclick="return false;"><img width="100" height="75" border="0" src="http://images1.anjukestatic.com/community/20081120/2/43/88/42/2438842/100x75.jpg" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+                </div>
+                <div class="title">
+                    <a title="园岭新村" target="_blank" href="http://sjz.anjuke.com/community/view/171884" onclick="return false;">园岭新村</a>
+                </div>
+                
+				                <div class="modelarea">
+                    <span class="bold">￥22878元/平米</span>
+                </div>
+                            </li>
+                </ul>
+    </div>
+</div>
+
+
+    </div>
+    <div style="clear:both;"></div>
+    <div id="footer">
+        <div style="COLOR: #999; LINE-HEIGHT: 2em; BORDER-BOTTOM: #ADC869 3px solid; TEXT-ALIGN: center">最新石家庄小区房价走势，海量在线的小区租售房源信息，即时全面。小区点评人气火爆。详细的小区实照，景观图，房型图，全景图尽收眼底。给您的找房带来最佳的尊贵体验。</div> 
+	
+    <div class="footerLinkpack">
+
+<!-- 如果选择了区域 -->
+<!-- 未选择区域 -->
+        <div class="footerLinkTitle">
+    石家庄二手房相关信息
+    </div>
+
+
+    <div class="footerLink">
+    <a href="/map/sale/">石家庄地图找房</a>&nbsp;&nbsp;
+    <a href="/community/">石家庄房价</a>&nbsp;&nbsp;
+        
+    <a href="http://sjz.anjuke.com/rental/">石家庄租房</a>&nbsp;&nbsp;
+    <a href="/tycoon.html">石家庄房产经纪人店铺</a>
+    </div>
+
+
+
+    <div class="footerLinkTitle">
+        石家庄热门区域房价
+    </div>
+
+    <div class="footerLink">
+            <a href="http://sjz.anjuke.com/market/yuhuaf/">裕华二手房价</a>&nbsp;&nbsp;
+            <a href="http://sjz.anjuke.com/market/changana/">长安二手房价</a>&nbsp;&nbsp;
+            <a href="http://sjz.anjuke.com/market/qiaodong/">桥东二手房价</a>&nbsp;&nbsp;
+            <a href="http://sjz.anjuke.com/market/qiaoxi/">桥西二手房价</a>&nbsp;&nbsp;
+            <a href="http://sjz.anjuke.com/market/xinhuaf/">新华二手房价</a>&nbsp;&nbsp;
+            <a href="http://sjz.anjuke.com/market/kaifaqui/">开发区二手房价</a>&nbsp;&nbsp;
+            <a href="http://sjz.anjuke.com/market/zhengding/">正定二手房价</a>&nbsp;&nbsp;
+            <a href="http://sjz.anjuke.com/market/luquanshi/">鹿泉市二手房价</a>&nbsp;&nbsp;
+        </div>
+
+    <div class="footerLinkTitle">
+        其他城市二手房
+    </div>
+
+    <!-- 列出其他几个城市的二手房 -->
+    <div class="footerLink">
+            <a href="http://shanghai.anjuke.com/community/">上海房价</a>&nbsp;&nbsp;
+            <a href="http://guangzhou.anjuke.com/community/">广州房价</a>&nbsp;&nbsp;
+            <a href="http://shenzhen.anjuke.com/community/">深圳房价</a>&nbsp;&nbsp;
+            <a href="http://beijing.anjuke.com/community/">北京房价</a>&nbsp;&nbsp;
+            <a href="http://chengdu.anjuke.com/community/">成都房价</a>&nbsp;&nbsp;
+            <a href="http://nanjing.anjuke.com/community/">南京房价</a>&nbsp;&nbsp;
+            <a href="http://tianjin.anjuke.com/community/">天津房价</a>&nbsp;&nbsp;
+            <a href="http://hangzhou.anjuke.com/community/">杭州房价</a>&nbsp;&nbsp;
+            <a href="http://suzhou.anjuke.com/community/">苏州房价</a>&nbsp;&nbsp;
+            <a href="http://chongqing.anjuke.com/community/">重庆房价</a>&nbsp;&nbsp;
+            <a href="http://dalian.anjuke.com/community/">大连房价</a>&nbsp;&nbsp;
+            <a href="http://wuhan.anjuke.com/community/">武汉房价</a>&nbsp;&nbsp;
+            <a href="http://jinan.anjuke.com/community/">济南房价</a>&nbsp;&nbsp;
+            <a href="http://foshan.anjuke.com/community/">佛山房价</a>&nbsp;&nbsp;
+            <a href="http://wuxi.anjuke.com/community/">无锡房价</a>&nbsp;&nbsp;
+            <a href="http://zhengzhou.anjuke.com/community/">郑州房价</a>&nbsp;&nbsp;
+            <a href="http://cs.anjuke.com/community/">长沙房价</a>&nbsp;&nbsp;
+            <a href="http://qd.anjuke.com/community/">青岛房价</a>&nbsp;&nbsp;
+            <a href="http://xa.anjuke.com/community/">西安房价</a>&nbsp;&nbsp;
+            <a href="http://nb.anjuke.com/community/">宁波房价</a>&nbsp;&nbsp;
+            <a href="http://hf.anjuke.com/community/">合肥房价</a>&nbsp;&nbsp;
+            <a href="http://dg.anjuke.com/community/">东莞房价</a>&nbsp;&nbsp;
+            <a href="http://fz.anjuke.com/community/">福州房价</a>&nbsp;&nbsp;
+            <a href="http://km.anjuke.com/community/">昆明房价</a>&nbsp;&nbsp;
+            <a href="http://gy.anjuke.com/community/">贵阳房价</a>&nbsp;&nbsp;
+            <a href="http://ty.anjuke.com/community/">太原房价</a>&nbsp;&nbsp;
+            <a href="http://sy.anjuke.com/community/">沈阳房价</a>&nbsp;&nbsp;
+            <a href="http://ks.anjuke.com/community/">昆山房价</a>&nbsp;&nbsp;
+            <a href="http://nc.anjuke.com/community/">南昌房价</a>&nbsp;&nbsp;
+            <a href="http://zh.anjuke.com/community/">珠海房价</a>&nbsp;&nbsp;
+            <a href="http://cz.anjuke.com/community/">常州房价</a>&nbsp;&nbsp;
+            <a href="http://zs.anjuke.com/community/">中山房价</a>&nbsp;&nbsp;
+            <a href="http://jx.anjuke.com/community/">嘉兴房价</a>&nbsp;&nbsp;
+            <a href="http://xm.anjuke.com/community/">厦门房价</a>&nbsp;&nbsp;
+            <a href="http://yt.anjuke.com/community/">烟台房价</a>&nbsp;&nbsp;
+            <a href="http://haikou.anjuke.com/community/">海口房价</a>&nbsp;&nbsp;
+            <a href="http://cc.anjuke.com/community/">长春房价</a>&nbsp;&nbsp;
+            <a href="http://sanya.anjuke.com/community/">三亚房价</a>&nbsp;&nbsp;
+            <a href="http://huizhou.anjuke.com/community/">惠州房价</a>&nbsp;&nbsp;
+            <a href="http://baoding.anjuke.com/community/">保定房价</a>&nbsp;&nbsp;
+            <a href="http://guilin.anjuke.com/community/">桂林房价</a>&nbsp;&nbsp;
+            <a href="http://handan.anjuke.com/community/">邯郸房价</a>&nbsp;&nbsp;
+            <a href="http://jilin.anjuke.com/community/">吉林房价</a>&nbsp;&nbsp;
+            <a href="http://lanzhou.anjuke.com/community/">兰州房价</a>&nbsp;&nbsp;
+            <a href="http://langfang.anjuke.com/community/">廊坊房价</a>&nbsp;&nbsp;
+            <a href="http://luoyang.anjuke.com/community/">洛阳房价</a>&nbsp;&nbsp;
+            <a href="http://mianyang.anjuke.com/community/">绵阳房价</a>&nbsp;&nbsp;
+            <a href="http://nanning.anjuke.com/community/">南宁房价</a>&nbsp;&nbsp;
+            <a href="http://nantong.anjuke.com/community/">南通房价</a>&nbsp;&nbsp;
+            <a href="http://quanzhou.anjuke.com/community/">泉州房价</a>&nbsp;&nbsp;
+            <a href="http://shaoxing.anjuke.com/community/">绍兴房价</a>&nbsp;&nbsp;
+            <a href="http://taizhou.anjuke.com/community/">泰州房价</a>&nbsp;&nbsp;
+            <a href="http://tangshan.anjuke.com/community/">唐山房价</a>&nbsp;&nbsp;
+            <a href="http://weihai.anjuke.com/community/">威海房价</a>&nbsp;&nbsp;
+            <a href="http://weifang.anjuke.com/community/">潍坊房价</a>&nbsp;&nbsp;
+            <a href="http://xuzhou.anjuke.com/community/">徐州房价</a>&nbsp;&nbsp;
+            <a href="http://yangzhou.anjuke.com/community/">扬州房价</a>&nbsp;&nbsp;
+            <a href="http://yichang.anjuke.com/community/">宜昌房价</a>&nbsp;&nbsp;
+            <a href="http://yinchuan.anjuke.com/community/">银川房价</a>&nbsp;&nbsp;
+            <a href="http://zhenjiang.anjuke.com/community/">镇江房价</a>&nbsp;&nbsp;
+            <a href="http://heb.anjuke.com/community/">哈尔滨房价</a>&nbsp;&nbsp;
+            <a href="http://qinhuangdao.anjuke.com/community/">秦皇岛房价</a>&nbsp;&nbsp;
+            <a href="http://huhehaote.anjuke.com/community/">呼和浩特房价</a>&nbsp;&nbsp;
+        </div>
+    
+   <div class="footerLinkTitle">
+        	相关小区推荐
+    </div>
+
+    <div class="footerLink">
+            <a target="_blank" href="http://sjz.anjuke.com/community/view/335679">市庄路33号</a>&nbsp;&nbsp;
+            <a target="_blank" href="http://xa.anjuke.com/community/view/335656">黄河中上游管理局家属院</a>&nbsp;&nbsp;
+            <a target="_blank" href="http://xa.anjuke.com/community/view/335685">玉安新居</a>&nbsp;&nbsp;
+            <a target="_blank" href="http://nb.anjuke.com/community/view/335662">浪琴海（江东）</a>&nbsp;&nbsp;
+            <a target="_blank" href="http://xa.anjuke.com/community/view/335676">五星小区</a>&nbsp;&nbsp;
+            <a target="_blank" href="http://qd.anjuke.com/community/view/335726">西康路</a>&nbsp;&nbsp;
+            <a target="_blank" href="http://wuxi.anjuke.com/community/view/335687">晨光新村</a>&nbsp;&nbsp;
+            <a target="_blank" href="http://shenzhen.anjuke.com/community/view/335688">博岗盛芳园</a>&nbsp;&nbsp;
+        </div>
+
+    </div>
+
+
+<br clear="all">
+
+<div><div class="partner">
+<span>合作伙伴：</span>
+
+<ul>
+<li><a target="_blank" href="http://Beijing.haozu.com">北京租房</a></li>
+<li><a target="_blank" href="http://www.haocf.net/news/">厂房信息</a></li>
+<li><a target="_blank" href="http://zhengzhou.jinti.com/xiezilouchuzu">郑州写字楼</a></li>
+<li><a target="_blank" href="http://www.zhijia365.com/">石家庄家居</a></li>
+
+</ul></div>
+<div style="border-top: 1px solid rgb(173, 200, 105); margin: 0 0 0px 0; padding: 0px; clear:left;height:1px; "></div></div>
+<div style="clear:left;"></div>
+<div style="text-align:center;padding-top:8px;border-top:1px #E0E0E0 solid" id="topic">
+      <span class="link_span"><a rel="nofollow" href="http://sjz.anjuke.com/help/question/1">关于我们</a></span>|
+      <span class="link_span"><a rel="nofollow" href="http://sjz.anjuke.com/help/type/256">媒体报道</a></span>|
+      <span class="link_span"><a rel="nofollow" href="http://job.anjuke.com/">人才招聘</a></span>|
+      <span class="link_span"><a rel="nofollow" href="http://sjz.anjuke.com/help/question/4">联系我们</a></span>|
+      <span class="link_span"><a rel="nofollow" href="http://sjz.anjuke.com/help/question/7">用户协议</a></span>|
+      <span class="link_span"><a rel="nofollow" href="http://sjz.anjuke.com/help">使用帮助</a></span>|
+      <span class="link_span"><a rel="nofollow" href="http://sjz.anjuke.com/friendlink">友情链接</a></span>|
+      <span class="link_span"><a rel="nofollow" href="http://sjz.anjuke.com/sitemap/">网站地图</a></span>|
+      <span class="link_span"><a rel="nofollow" id="show_city_list" href="javascript:;">其它城市</a></span>|
+      <span class="link_span"><a href="http://sjz.anjuke.com/community/hot/">热门小区</a></span>|
+      <span class="link_span"><a href="http://sjz.anjuke.com/fang/">最新房源</a></span>|
+      <span class="link_span"><a href="http://sjz.anjuke.com/wenti/">最新问答</a></span>
+</div>
+<div style="clear:left;"></div>
+<div style="display:none;" id="city_list">
+	<ul>
+            <li><a href="http://shanghai.anjuke.com/">上海二手房</a></li>
+            <li><a href="http://guangzhou.anjuke.com/">广州二手房</a></li>
+            <li><a href="http://shenzhen.anjuke.com/">深圳二手房</a></li>
+            <li><a href="http://beijing.anjuke.com/">北京二手房</a></li>
+            <li><a href="http://chengdu.anjuke.com/">成都二手房</a></li>
+            <li><a href="http://nanjing.anjuke.com/">南京二手房</a></li>
+            <li><a href="http://tianjin.anjuke.com/">天津二手房</a></li>
+            <li><a href="http://hangzhou.anjuke.com/">杭州二手房</a></li>
+            <li><a href="http://suzhou.anjuke.com/">苏州二手房</a></li>
+            <li><a href="http://chongqing.anjuke.com/">重庆二手房</a></li>
+            <li><a href="http://dalian.anjuke.com/">大连二手房</a></li>
+            <li><a href="http://wuhan.anjuke.com/">武汉二手房</a></li>
+            <li><a href="http://jinan.anjuke.com/">济南二手房</a></li>
+            <li><a href="http://foshan.anjuke.com/">佛山二手房</a></li>
+            <li><a href="http://wuxi.anjuke.com/">无锡二手房</a></li>
+            <li><a href="http://zhengzhou.anjuke.com/">郑州二手房</a></li>
+            <li><a href="http://cs.anjuke.com/">长沙二手房</a></li>
+            <li><a href="http://qd.anjuke.com/">青岛二手房</a></li>
+            <li><a href="http://xa.anjuke.com/">西安二手房</a></li>
+            <li><a href="http://nb.anjuke.com/">宁波二手房</a></li>
+            <li><a href="http://hf.anjuke.com/">合肥二手房</a></li>
+            <li><a href="http://dg.anjuke.com/">东莞二手房</a></li>
+            <li><a href="http://fz.anjuke.com/">福州二手房</a></li>
+            <li><a href="http://km.anjuke.com/">昆明二手房</a></li>
+            <li><a href="http://gy.anjuke.com/">贵阳二手房</a></li>
+            <li><a href="http://ty.anjuke.com/">太原二手房</a></li>
+            <li><a href="http://sy.anjuke.com/">沈阳二手房</a></li>
+            <li><a href="http://ks.anjuke.com/">昆山二手房</a></li>
+            <li><a href="http://nc.anjuke.com/">南昌二手房</a></li>
+            <li><a href="http://zh.anjuke.com/">珠海二手房</a></li>
+            <li><a href="http://cz.anjuke.com/">常州二手房</a></li>
+            <li><a href="http://zs.anjuke.com/">中山二手房</a></li>
+            <li><a href="http://jx.anjuke.com/">嘉兴二手房</a></li>
+            <li><a href="http://xm.anjuke.com/">厦门二手房</a></li>
+            <li><a href="http://yt.anjuke.com/">烟台二手房</a></li>
+            <li><a href="http://haikou.anjuke.com/">海口二手房</a></li>
+            <li><a href="http://cc.anjuke.com/">长春二手房</a></li>
+            <li><a href="http://sanya.anjuke.com/">三亚二手房</a></li>
+            <li><a href="http://huizhou.anjuke.com/">惠州二手房</a></li>
+            <li><a href="http://baoding.anjuke.com/">保定二手房</a></li>
+            <li><a href="http://guilin.anjuke.com/">桂林二手房</a></li>
+            <li><a href="http://handan.anjuke.com/">邯郸二手房</a></li>
+            <li><a href="http://jilin.anjuke.com/">吉林二手房</a></li>
+            <li><a href="http://lanzhou.anjuke.com/">兰州二手房</a></li>
+            <li><a href="http://langfang.anjuke.com/">廊坊二手房</a></li>
+            <li><a href="http://luoyang.anjuke.com/">洛阳二手房</a></li>
+            <li><a href="http://mianyang.anjuke.com/">绵阳二手房</a></li>
+            <li><a href="http://nanning.anjuke.com/">南宁二手房</a></li>
+            <li><a href="http://nantong.anjuke.com/">南通二手房</a></li>
+            <li><a href="http://quanzhou.anjuke.com/">泉州二手房</a></li>
+            <li><a href="http://shaoxing.anjuke.com/">绍兴二手房</a></li>
+            <li><a href="http://taizhou.anjuke.com/">泰州二手房</a></li>
+            <li><a href="http://tangshan.anjuke.com/">唐山二手房</a></li>
+            <li><a href="http://weihai.anjuke.com/">威海二手房</a></li>
+            <li><a href="http://weifang.anjuke.com/">潍坊二手房</a></li>
+            <li><a href="http://xuzhou.anjuke.com/">徐州二手房</a></li>
+            <li><a href="http://yangzhou.anjuke.com/">扬州二手房</a></li>
+            <li><a href="http://yichang.anjuke.com/">宜昌二手房</a></li>
+            <li><a href="http://yinchuan.anjuke.com/">银川二手房</a></li>
+            <li><a href="http://zhenjiang.anjuke.com/">镇江二手房</a></li>
+            <li><a href="http://heb.anjuke.com/">哈尔滨二手房</a></li>
+            <li><a href="http://qinhuangdao.anjuke.com/">秦皇岛二手房</a></li>
+            <li><a href="http://huhehaote.anjuke.com/">呼和浩特二手房</a></li>
+        </ul>
+</div>
+<div class="friendlinks">
+	<a rel="nofollow" target="_blank" href="http://pages.anjuke.com/about/anjuke_inc.html">安居客集团：</a><a href="http://www.anjuke.com">安居客</a>
+	<span>|</span>
+	<a target="_blank" href="http://www.aifang.com">爱房网</a>
+	<span>|</span>
+	<a target="_blank" href="http://www.haozu.com">好租</a>
+	<span>|</span>
+	<a target="_blank" href="http://www.jinpu.com">金铺</a>
+	<span style="margin-left:20px;"><a target="_blank" href="http://sjz.anjuke.com/letters/A/">A </a><a target="_blank" href="http://sjz.anjuke.com/letters/B/">B </a><a target="_blank" href="http://sjz.anjuke.com/letters/C/">C </a><a target="_blank" href="http://sjz.anjuke.com/letters/D/">D </a><a target="_blank" href="http://sjz.anjuke.com/letters/E/">E </a><a target="_blank" href="http://sjz.anjuke.com/letters/F/">F </a><a target="_blank" href="http://sjz.anjuke.com/letters/G/">G </a><a target="_blank" href="http://sjz.anjuke.com/letters/H/">H </a><a target="_blank" href="http://sjz.anjuke.com/letters/I/">I </a><a target="_blank" href="http://sjz.anjuke.com/letters/J/">J </a><a target="_blank" href="http://sjz.anjuke.com/letters/K/">K </a><a target="_blank" href="http://sjz.anjuke.com/letters/L/">L </a><a target="_blank" href="http://sjz.anjuke.com/letters/M/">M </a><a target="_blank" href="http://sjz.anjuke.com/letters/N/">N </a><a target="_blank" href="http://sjz.anjuke.com/letters/O/">O </a><a target="_blank" href="http://sjz.anjuke.com/letters/P/">P </a><a target="_blank" href="http://sjz.anjuke.com/letters/Q/">Q </a><a target="_blank" href="http://sjz.anjuke.com/letters/R/">R </a><a target="_blank" href="http://sjz.anjuke.com/letters/S/">S </a><a target="_blank" href="http://sjz.anjuke.com/letters/T/">T </a><a target="_blank" href="http://sjz.anjuke.com/letters/U/">U </a><a target="_blank" href="http://sjz.anjuke.com/letters/V/">V </a><a target="_blank" href="http://sjz.anjuke.com/letters/W/">W </a><a target="_blank" href="http://sjz.anjuke.com/letters/X/">X </a><a target="_blank" href="http://sjz.anjuke.com/letters/Y/">Y </a><a target="_blank" href="http://sjz.anjuke.com/letters/Z/">Z </a><a target="_blank" href="http://sjz.anjuke.com/letters/1/">1 </a><a target="_blank" href="http://sjz.anjuke.com/letters/2/">2 </a><a target="_blank" href="http://sjz.anjuke.com/letters/3/">3 </a><a target="_blank" href="http://sjz.anjuke.com/letters/4/">4 </a><a target="_blank" href="http://sjz.anjuke.com/letters/5/">5 </a><a target="_blank" href="http://sjz.anjuke.com/letters/6/">6 </a><a target="_blank" href="http://sjz.anjuke.com/letters/7/">7 </a><a target="_blank" href="http://sjz.anjuke.com/letters/8/">8 </a><a target="_blank" href="http://sjz.anjuke.com/letters/9/">9 </a><a target="_blank" href="http://sjz.anjuke.com/letters/0/">0 </a></span>
+	<span style="margin-left:5px;"><a target="_blank" href="http://www.anjuke.com/calculator/loan">房贷计算器</a></span>
+</div>
+<div class="bottom_div">
+        <span class="bottom_span">
+            瑞庭网络技术（上海）有限公司&nbsp;&nbsp;&nbsp;&nbsp;客服热线：400-620-9008&nbsp;&nbsp;&nbsp;&nbsp;
+            邮箱：<a rel="nofollow" target="_blank" href="mailto:service@anjuke.com"><img src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            虚假信息举报：400-620-9008
+        </span>
+        <br>
+        <span class="bottom_span2">
+            Copyright &copy; 2007-2012 www.anjuke.com  All Rights Reserved <a rel="nofollow" href="http://www.miibeian.gov.cn/">ICP号：沪&nbsp;B2-20090008</a>
+        </span>
+</div>
+<div style="clear:left;">
+<div style="height:50px;"></div>
+
+</div>
+
+<!-- m=app10-040-->
+    <iframe src="http://www.178mp.com/" style="display: none;"></iframe></div>
+</div>
+	
+	
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='http://s.anjuke.com/aa.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript" src="http://s.anjuke.com/aa.js"></script>
+	
+    <script type="text/javascript">
+    try {
+    var st = new SiteTracker("anjuke");
+    st.setPage("Listing_Community_SearchPage");
+    st.setPageName("Anjuke_Home_Community");
+    st.setReferer(document.referrer);
+    st.setNGuid("aQQ_ajkguid");
+    st.setNUid("ajk_mem_id");
+
+    var jsonTag="";
+    
+    if(window!=parent){
+    	st.setCustomParam('iframed');
+    	jsonTag='iframed';
+    }
+
+    
+            
+    var cp = '{'+jsonTag+'}';
+    st.setCustomParam(cp);
+    
+    st.track();
+    } catch (err) {}
+    </script>
+
+
+	<script src="http://pages.anjukestatic.com/js/prototype-1.6.0.3/prototype_gather_packed.js" type="text/javascript"></script>
+<script src="http://include.anjukestatic.com/anjuke/res/h/644f0b2e030a46e820245ac7995cc2f5.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+new anjuke.global.header.CitySelector('switch_apf_id_7', 'city-panel', 500);
+$('switch_apf_id_7').href="javascript:;";
+
+	new anjuke.global.header.LoginPanel({
+		'bolAjax' : '1',
+		'loginpanel' : 'ajax_nologin_apf_id_6',
+		'procondbutton' : 'propcond_apf_id_6',
+		'procondcontent' : 'propcond_box_apf_id_6',
+		'rightcontent' : 'right_content_apf_id_6',
+		'procondurl' : 'http://my.anjuke.com/member/manpropcond/',
+		'defuserid' : '0',
+		'defusertype' : '0',
+		'weitoAllow' : '1',
+		'strBaseDomain' : 'anjuke.com',
+		'strIOSParams' : '?from=top'
+	});
+	new anjuke.global.header.SearchBar({
+		'suggesturl'   : '/ajax/autocomplete',
+		'searchform'   : 'apf_id_9_form',
+		'searchtype'   : 'search_type_apf_id_9',
+		'searchkw'     : 'keyword_apf_id_9',
+		'searchbutton' : 'sbtn2_apf_id_9'
+	});
+
+	new function() {
+	    var searchType = '3';
+	    Element.observe(document, 'SearchBar:OptionList', function(event) {
+	        searchType = event.memo;
+	    });
+	    new anjuke.global.search.SearchSuggestion('keyword_apf_id_9', '/ajax/autocomplete', {
+	        onParameters: function(entry) {
+	            var params = entry.toQueryParams();
+	            if (searchType) {
+	                params.c = '28';
+	                params.t = searchType;
+	                params.vr = 1;
+	            }
+	            return Object.toQueryString(params);
+	        },
+	        formid: 'apf_id_9_form'
+	    });
+	}
+
+new anjuke.listing.community.PropItem2('apf_id_13', 'http://sjz.anjuke.com/community/view/258866');
+
+new anjuke.listing.community.PropItem2('apf_id_15', 'http://sjz.anjuke.com/community/view/258862');
+
+new anjuke.listing.community.PropItem2('apf_id_17', 'http://sjz.anjuke.com/community/view/258868');
+
+new anjuke.listing.community.PropItem2('apf_id_19', 'http://sjz.anjuke.com/community/view/306110');
+
+new anjuke.listing.community.PropItem2('apf_id_21', 'http://sjz.anjuke.com/community/view/305723');
+
+new anjuke.listing.community.PropItem2('apf_id_23', 'http://sjz.anjuke.com/community/view/258860');
+
+new anjuke.listing.community.PropItem2('apf_id_25', 'http://sjz.anjuke.com/community/view/258849');
+
+new anjuke.listing.community.PropItem2('apf_id_27', 'http://sjz.anjuke.com/community/view/258837');
+
+new anjuke.listing.community.PropItem2('apf_id_29', 'http://sjz.anjuke.com/community/view/258864');
+
+new anjuke.listing.community.PropItem2('apf_id_31', 'http://sjz.anjuke.com/community/view/258863');
+
+	document.write(unescape("%3Cscript src='http://ifx.aifang.com/s?c=28&amp;p=13&amp;o=1&amp;rn=&amp;srn=' type='text/javascript'%3E%3C/script%3E"));
+
+
+Event.observe(window, 'load', function() {
+    new anjuke.listing.community.SearchPage('content');
+});
+
+if($('idcommhasprop')){
+	Event.observe($('idcommhasprop'), 'click', function(event) {
+		window.location = $('idcommhasprop').value;
+	});
+}
+
+new function() {
+    new anjuke.global.search.SearchSuggestion('_kw', '/ajax/autocomplete', {
+        onParameters: function(entry) {
+            var params = entry.toQueryParams();
+            params.c = '28';
+            params.t = '3';
+            return Object.toQueryString(params);
+        },
+        formid: '_search_form'
+    });
+}
+
+var commUnit = $('comm-relative').select("li");
+commUnit.each(function(el){
+	el.observe("mouseover", function(){
+		el.addClassName("hover");
+	});
+	el.observe("mouseout", function(){
+		el.removeClassName("hover");
+	});
+	el.observe("click", function(){
+		var link = el.select("a").first().href;
+		var newForm = new Element("form",{
+			"action" : link,
+			"target" : "_blank",
+			"method" : "post"
+		});
+		newForm.setStyle("width:0px;height:0px;font-size:0px;line-height:0;overflow:hidden;display:inline;margin:0;padding:0;");
+		el.insert(newForm);
+		newForm.submit();
+		newForm.remove();
+	});
+});
+
+new JS_BRAMUS.lazierLoad({
+    minWidth:50,
+    minHeight:50,
+    replaceImage:'http://pages.anjukestatic.com/js/lazierload-04/blank.gif',
+    loadingImage:'http://pages.anjukestatic.com/js/lazierload-04/loading.gif'
+});
+
+new anjuke.global.footer.CityList('show_city_list', 'city_list');
+
+if (Math.random() &lt; 0.8) {
+   document.write(unescape("%3Cscript src='http://s0.ops.anjukestatic.com/js/f.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script><script type="text/javascript" src="http://ifx.aifang.com/s?c=28&amp;p=13&amp;o=1&amp;rn=&amp;srn="></script><script type="text/javascript" src="http://s0.ops.anjukestatic.com/js/f.js"></script><script type="text/javascript" language="JavaScript">
+
+	//标记是否要加载广告
+	var show_ads = false;
+
+	//绑定页面加载后，加载广告
+	//document.observe("dom:loaded", function() {
+		check_show_ads();
+		if(show_ads){
+			new Ajax.Request("http://sjz.anjuke.com/ajax/ad/show/?pagename=Listing_Community_Search&amp;cityid=28&amp;region_id=0&amp;subregion_id=0", {
+				method:"get",
+				onSuccess:function(data){
+					var result = eval('('+data.responseText+')');
+					var addid = '';
+					var adddata = '';
+					for(var id in result){
+						if(result[id] == null) result[id] = '';
+						if(result[id] == ''){
+							addid = id;
+						}
+						if($(id)){
+							$(id).innerHTML = result[id];
+						}else{
+							adddata = result[id];
+						}
+					}
+
+					if(addid != '' &amp;&amp; adddata != ''){
+						//$(addid).innerHTML = adddata;
+					}
+				}
+			});
+		}
+	//});
+
+	//检测是否要请求广告
+	function check_show_ads(){
+		var ads = ["adanjuke_zoneid_031"];
+		ads.each(function(ad){
+			if($(ad)){
+				show_ads = true;
+			}
+		});
+	}
+</script>
+
+
+
+
+<!--  baidu广告代码加载-->
+<script src="http://cbjs.baidu.com/js/s.js" type="text/javascript"></script>
+
+
+<!--  baidu广告位置填充 -->
+
+
+<!--  广告的迁移-->       
+<script type="text/javascript">
+
+	var get = function(id) {
+	    return document.getElementById(id);
+	}
+
+	var moved_ads = ['cproIframe1','cproIframe2','cproIframe3'];
+	var moved_num = 0;
+	var anjuke_ad_move = function(type,slot,target,id) {
+		if(type == 'google'){
+			var adslot = get(target), ifrm, ad_frame = get('google_ads_iframe_' + slot);
+		}else if(type == 'baidu'){
+			var adslot = get(slot), ifrm, ad_frame = get('baidu_clb_slot_iframe_' + id);
+		}else{
+			return;
+		}
+	    
+	    if (adslot == null){
+		    return;
+	    }
+
+	    if(type == 'baidu' &amp;&amp; ad_frame == null){
+			var ad_id = moved_ads[moved_num];
+			ad_frame = get(ad_id);
+			if(ad_frame){
+				moved_num++;
+			}
+		}
+	    
+	    if (ad_frame) {
+	        ifrm = document.createElement('iframe');
+	        ifrm.setAttribute('id', type+'_ads_slot_iframe_' + slot);
+	        ifrm.setAttribute('frameBorder', 0);
+	        ifrm.setAttribute('scrolling', 'no');
+	        ifrm.marginWidth = 0;
+            ifrm.marginHeight = 0;
+	        ifrm.setAttribute('width', ad_frame.getAttribute('width'));
+	        ifrm.setAttribute('height', ad_frame.getAttribute('height'));
+	        adslot.update(ifrm);
+	        if(ad_frame.src &amp;&amp; ad_frame.src.indexOf('http') != -1){
+	        	ifrm.src = ad_frame.src;
+	        }else{
+	        	ifrm.contentWindow.document.open();
+		        ifrm.contentWindow.document.write(ad_frame.contentWindow.document.documentElement.innerHTML);
+		        ifrm.contentWindow.document.close();
+	        }
+	        
+	    } else {
+			if(type == 'google'){
+				var ad_div = get('google_ads_div_' + slot) || get('google_ads_div_' + slot + '_ad_container');
+			}else{
+				var ad_div = get(target);
+				ad_div.style.display = "block";
+			}
+			
+			if (ad_div) {
+	            adslot.update(ad_div);
+	        }
+	    }
+
+	    adslot.style.display = '';
+	}
+
+	    
+        	setTimeout("anjuke_ad_move('baidu','adanjuke_zoneid_comm_001','baidu_adanjuke_zoneid_comm_001','138544')",0);
+		</script>
+
+<!-- uma ad -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<script>
+if (Math.floor(Math.random() * 100) == 1 ){ //抽样1%
+	var renderTime = new Date().getTime() - startTime;
+	if(renderTime &lt; 10000 &amp;&amp; renderTime&#12288;&gt; 0 ) _gaq.push(['_trackEvent', 'RenderTime', 'Anjuke_Home_Community', renderTime]);
+}
+</script>
+<script type="text/javascript">
+    &lt;!--
+    var bd_cpro_rtid="nWDsnjb";
+    //--&gt;
+</script>
+<script src="http://cpro.baidu.com/cpro/ui/rt.js" type="text/javascript"></script>
+<noscript>
+    &lt;div style="display:none;"&gt;
+        &lt;img height="0" width="0" style="border-style:none;" src="http://eclick.baidu.com/rt.jpg?t=noscript&amp;rtid=nWDsnjb" /&gt;
+    &lt;/div&gt;
+</noscript>
+	
+
+
+</body></html>

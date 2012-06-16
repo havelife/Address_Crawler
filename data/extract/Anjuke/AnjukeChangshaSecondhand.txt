@@ -1,0 +1,2490 @@
+<html><head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<link href="/feed/sale/p8" title="Anjuke Feed" type="application/atom+xml" rel="alternate">
+<meta content="长沙二手房 | 长沙房产网第8页 - 长沙安居客房产" name="keywords">
+<meta content="2012年06月最新20197套二手房。专业房地产搜索引擎安居客帮您定位，选择，收藏，搜索各类出售房源，带来最佳二手房买卖体验" name="description">
+<title>长沙二手房 | 长沙房产网第8页 - 长沙安居客</title>
+		
+<link type="text/css" href="http://include.anjukestatic.com/anjuke/res/h/6208dc60b85b678c780267544280164f.css" rev="stylesheet" rel="stylesheet">
+<script charset="utf-8" async="" src="http://cbjs.baidu.com/js/log.js"></script><script charset="utf-8" async="" src="http://cpro.baidu.com/cpro/ui/cc.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script src="http://include.anjukestatic.com/anjuke/res/h/8a6ccd6ee6fbbd3af24eec73c54d4913.js" type="text/javascript"></script>
+		
+<link type="image/ico" href="http://pages.anjukestatic.com/favicon.ico" rel="icon">
+<link href="http://pages.anjukestatic.com/favicon.ico" rel="shortcut icon">
+		
+		
+		<script type="text/javascript">
+var startTime = new Date().getTime();
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-1496856-1']);
+_gaq.push(['_setDomainName', '.anjuke.com']);
+_gaq.push(['_setAllowHash', false]);
+_gaq.push(['_addOrganic', 'soso', 'w']);
+_gaq.push(['_addOrganic', 'youdao', 'q']);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_setCampaignCookieTimeout', 86400000]);
+_gaq.push(['_setVisitorCookieTimeout', 7776000000]);
+_gaq.push(['_trackPageview']);
+_gaq.push(['t2._setAccount','UA-1496856-19']);
+_gaq.push(['t2._trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script>function bust(){document.write='';window.top.location=window.self.location;setTimeout(function(){document.body.innerHTML='';},0);window.self.onload=function(evt){document.body.innerHTML='';};}if(window.top !== window.self){try{if (window.top.location.host){}else{bust();}}catch(ex){bust();}}</script>
+				<script type="text/javascript">
+var anjuke_web_global_InitTracker=function(city_id,city_cookie_name,guid_cookie_name,base_domain,cookie_path){
+	var expire=365*5;var guid=this.getCookie(guid_cookie_name);if(null==guid){
+		guid=this.createGuid();this.setCookie(guid_cookie_name,guid,expire,cookie_path,base_domain);
+	}
+	if(city_id!=this.getCookie(city_cookie_name)){
+		this.setCookie(city_cookie_name,city_id,expire,cookie_path,base_domain);
+	}
+	var session_cookie_name='sessid';var session_id=this.getCookie(session_cookie_name);if(null==session_id){
+		session_id=this.createGuid();this.setCookie(session_cookie_name,session_id,0,cookie_path,base_domain);
+	}this.setCookie('isp', 'true', expire, cookie_path, base_domain);
+};anjuke_web_global_InitTracker.prototype.createGuid=function(){
+	return(this.S4()+this.S4()+"-"+this.S4()+"-"+this.S4()+"-"+this.S4()+"-"+this.S4()+this.S4()+this.S4());
+};anjuke_web_global_InitTracker.prototype.S4=function(){
+	return(((1+Math.random())*0x10000)|0).toString(16).substring(1).toUpperCase();
+};anjuke_web_global_InitTracker.prototype.getCookie=function(check_name){
+	var a_all_cookies=document.cookie.split(';');var a_temp_cookie='';var cookie_name='';var cookie_value='';var b_cookie_found=false;for(i=0;i&lt;a_all_cookies.length;i++){
+		a_temp_cookie=a_all_cookies[i].split('=');cookie_name=a_temp_cookie[0].replace(/^\s+|\s+$/g,'');if(cookie_name==check_name){
+			b_cookie_found=true;if(a_temp_cookie.length&gt;1){
+				cookie_value=unescape(a_temp_cookie[1].replace(/^\s+|\s+$/g,''));
+			}
+			return cookie_value;break;
+		}
+		a_temp_cookie=null;cookie_name='';
+	}
+	if(!b_cookie_found){
+		return null;
+	}
+};anjuke_web_global_InitTracker.prototype.setCookie=function(name,value,expires,path,domain,secure){
+	var today=new Date();today.setTime(today.getTime());if(expires){
+		expires=expires*1000*60*60*24;
+	}
+	var expires_date=new Date(today.getTime()+(expires));document.cookie=name+"="+escape(value)+
+	((expires)?";expires="+expires_date.toGMTString():"")+
+	((path)?";path="+path:"")+
+	((domain)?";domain="+domain:"")+
+	((secure)?";secure":"");
+};
+new anjuke_web_global_InitTracker('27','ctid','aQQ_ajkguid','anjuke.com','/');
+
+</script>
+
+<script src="http://s.anjuke.com/st?p=Listing_Property_SearchSaleNewPage&amp;h=http%3A%2F%2Fcs.anjuke.com%2Fsale%2Fp8&amp;r=http%3A%2F%2Fcs.anjuke.com%2Fsale%2F&amp;site=anjuke&amp;guid=3A7C50AC-2D36-D35B-64D0-C7B0999738A0&amp;ssid=1D785C41-40D1-AF3F-C997-362CEB5C8B54&amp;uid=0&amp;t=1339742834578&amp;ctid=27&amp;luid=&amp;m=&amp;pn=Anjuke_Listing_Property&amp;cp=%7B%22found%22%3A%2220197%22%2C%22filter_search_type%22%3A%221%22%2C%22keyword_search_type%22%3A%22%22%2C%22school_id%22%3A%22%22%2C%22prop_expire%22%3A%220%22%7D" async=""></script></head>
+<body><div class="SearchSuggestion" style="display: none;"></div><div class="SearchSuggestion" style="display: none;"></div>
+	<div id="container">
+    <div id="header">
+    	        <div class="top-nav">
+    <div class="top-nav-left">
+        	<a target="_blank" title="新房" _soj="top" href=" http://cs.aifang.com/?from=top">爱房网</a> |         <a target="_blank" title="租房" _soj="top" href=" http://cs.haozu.com/?from=top">好租</a> |                  
+    </div>    
+	<div class="login_nav">
+		<!--未登录  start-->
+    <ul id="ajax_nologin_apf_id_6" class="toplogin_cont no_login">
+        <li><a rel="nofollow" class="myanjuke_store" href="http://agent.anjuke.com/login/">中国网络经纪人</a></li>
+        <li class="ios rp20"><a style="color:#f60;" rel="nofollow" class="login" href="http://pages.anjuke.com/app/anjuke/ios.html?from=top">手机安居客</a></li>
+                <li class="weituo"><a rel="nofollow" target="_blank" class="weituoicon" href="http://my.anjuke.com/ownpbase?from=loginnav">我要卖房</a><code>|</code></li>
+        <li><a href="http://my.anjuke.com/marked/?from=header_false">选房单</a><code>|</code></li>
+        <li class="register_boxer"><a rel="nofollow" class="register" href="http://my.anjuke.com/register">注册</a><code>|</code></li>
+                <li><a rel="nofollow" class="login" href="http://my.anjuke.com/my/login?history=aHR0cDovL2NzLmFuanVrZS5jb20vc2FsZS9wOA==">请登录</a><code>|</code></li>   
+        <li>您好，</li>        
+    </ul>
+    <!--未登录  end-->
+    
+</div>
+</div>
+<div class="header_content clearfix">
+	<div class="header_logo"><a title="安居客长沙二手房" href="http://cs.anjuke.com">长沙二手房</a></div>
+    <div class="slogan">专业二手房搜索引擎</div> 
+	<div class="header_city">
+		    <div class="cur_city">
+        <a class="select_icon" id="switch_apf_id_7" href="javascript:;"><span class="city">长沙</span><span class="city_icon">选择城市</span></a>
+        <div style="display: none;" class="city_panel" id="city-panel">
+        	<iframe scrolling="no" frameborder="0" style="width: 350px; height: 266px;"></iframe>
+        	        	<dl>
+            	<dt>华北东北</dt>
+                <dd>
+                	                	<a rel="nofollow" href="http://beijing.anjuke.com">北京</a>
+                	                	<a rel="nofollow" href="http://tianjin.anjuke.com">天津</a>
+                	                	<a rel="nofollow" href="http://dalian.anjuke.com">大连</a>
+                	                	<a rel="nofollow" href="http://sjz.anjuke.com">石家庄</a>
+                	                	<a rel="nofollow" href="http://heb.anjuke.com">哈尔滨</a>
+                	                	<a rel="nofollow" href="http://sy.anjuke.com">沈阳</a>
+                	                	<a rel="nofollow" href="http://ty.anjuke.com">太原</a>
+                	                	<a rel="nofollow" href="http://cc.anjuke.com">长春</a>
+                	                </dd>
+            </dl>
+                    	<dl>
+            	<dt>华东地区</dt>
+                <dd>
+                	                	<a rel="nofollow" href="http://shanghai.anjuke.com">上海</a>
+                	                	<a rel="nofollow" href="http://hangzhou.anjuke.com">杭州</a>
+                	                	<a rel="nofollow" href="http://suzhou.anjuke.com">苏州</a>
+                	                	<a rel="nofollow" href="http://nanjing.anjuke.com">南京</a>
+                	                	<a rel="nofollow" href="http://wuxi.anjuke.com">无锡</a>
+                	                	<a rel="nofollow" href="http://jinan.anjuke.com">济南</a>
+                	                	<a rel="nofollow" href="http://qd.anjuke.com">青岛</a>
+                	                	<a rel="nofollow" href="http://ks.anjuke.com">昆山</a>
+                	                	<a rel="nofollow" href="http://nb.anjuke.com">宁波</a>
+                	                	<a rel="nofollow" href="http://nc.anjuke.com">南昌</a>
+                	                	<a rel="nofollow" href="http://fz.anjuke.com">福州</a>
+                	                	<a rel="nofollow" href="http://hf.anjuke.com">合肥</a>
+                	                </dd>
+            </dl>
+                    	<dl>
+            	<dt>华南地区</dt>
+                <dd>
+                	                	<a rel="nofollow" href="http://shenzhen.anjuke.com">深圳</a>
+                	                	<a rel="nofollow" href="http://guangzhou.anjuke.com">广州</a>
+                	                	<a rel="nofollow" href="http://foshan.anjuke.com">佛山</a>
+                	                	<a rel="nofollow" href="http://cs.anjuke.com">长沙</a>
+                	                	<a rel="nofollow" href="http://dg.anjuke.com">东莞</a>
+                	                	<a rel="nofollow" href="http://haikou.anjuke.com">海口</a>
+                	                	<a rel="nofollow" href="http://zh.anjuke.com">珠海</a>
+                	                	<a rel="nofollow" href="http://zs.anjuke.com">中山</a>
+                	                	<a rel="nofollow" href="http://xm.anjuke.com">厦门</a>
+                	                </dd>
+            </dl>
+                    	<dl>
+            	<dt>中 西 部</dt>
+                <dd>
+                	                	<a rel="nofollow" href="http://chengdu.anjuke.com">成都</a>
+                	                	<a rel="nofollow" href="http://chongqing.anjuke.com">重庆</a>
+                	                	<a rel="nofollow" href="http://wuhan.anjuke.com">武汉</a>
+                	                	<a rel="nofollow" href="http://zhengzhou.anjuke.com">郑州</a>
+                	                	<a rel="nofollow" href="http://xa.anjuke.com">西安</a>
+                	                	<a rel="nofollow" href="http://km.anjuke.com">昆明</a>
+                	                	<a rel="nofollow" href="http://gy.anjuke.com">贵阳</a>
+                	                	<a rel="nofollow" href="http://lanzhou.anjuke.com">兰州</a>
+                	                	<a rel="nofollow" href="http://luoyang.anjuke.com">洛阳</a>
+                	                </dd>
+            </dl>
+                        <div class="blank"><a href="http://www.anjuke.com/index/">更多城市&gt;&gt;</a></div>
+        </div>
+    </div>
+	</div>
+	<div class="tabbar_content">
+	<div class="anjuke_tabbar">
+    	<ul>
+    	        	<li class="home">
+				<a rel="nofollow" title="长沙房产" href="http://cs.anjuke.com/"><span>首 页</span></a>
+                			</li>
+		        	<li class="sale">
+				<a class="selected" title="长沙二手房" href="http://cs.anjuke.com/sale/"><span>二手房</span></a>
+                			</li>
+		        	<li class="rental">
+				<a title="长沙租房" href="http://cs.anjuke.com/rental/"><span>租 房</span></a>
+                			</li>
+		        	<li class="owner">
+				<a title="长沙卖房" href="http://cs.anjuke.com/owner/"><span>我要卖房</span></a>
+                			</li>
+		        	<li class="broker">
+				<a title="长沙经纪人" href="http://cs.anjuke.com/tycoon/"><span>经纪人</span></a>
+                			</li>
+		        	<li class="comm">
+				<a title="长沙房价" href="http://cs.anjuke.com/community/"><span>小 区</span></a>
+                			</li>
+		        	<li class="question">
+				<a title="问 答" href="http://cs.anjuke.com/ask"><span>问 答</span></a>
+                <em>新</em>			</li>
+				            <li class="forum">
+				<a title="社&nbsp;区" href="http://cs.bbs.anjuke.com/group/"><span>社&nbsp;区</span></a>
+			</li>
+		        </ul>
+    </div>
+    
+    <!--爱房 好租 金铺 链接移到上面 此处删除  start-->
+		<ul style="display:none" class="right_tabbar">
+    	<li class="left_bg"></li>
+    	    	<li class="right_tabbar_li1"><a target="_blank" class="aifang" title="新房" _soj="top" href=" http://cs.aifang.com/?from=top">爱房网</a></li>
+    	    	    	<li class="right_tabbar_li2"><a target="_blank" class="haozu" title="租房" _soj="top" href=" http://cs.haozu.com/?from=top">好租</a></li>
+    	    	        <li class="right_bg"></li>
+    </ul>   
+         	
+    <!--爱房 好租 金铺 链接移到上面 此处删除  end-->
+    
+    <span class="anjuke_tabbar_side"></span>
+</div>
+		</div>
+<div class="bg_line"></div>
+
+
+<div class="search-content">
+	<div class="search-box clearfix">
+	<form method="get" id="apf_id_9_form" action="/search">
+            <input type="hidden" name="rd" value="1">
+            <input type="hidden" name="t" id="search_type_apf_id_9" value="1">
+	    			    <input type="text" maxlength="100" name="k" class="input_text" value="请输入房源特征,地点或小区名..." id="keyword_apf_id_9" autocomplete="off">
+	    <input type="submit" class="input_button se_house" id="sbtn2_apf_id_9" value="搜索">
+	</form>
+</div>
+    
+	<div class="found_home">
+	<a href="/map/sale/" target="_blank" rel="nofollow">地图找房</a>
+	</div>
+</div>
+
+    </div>
+    <div id="content">
+        
+<!-- 关键词提示-->
+
+
+	<!-- 找房条件 -->
+			<!-- start -->
+	
+  	<div id="fcksearch_apf_id_10" class="fcksearch">
+	<div class="findpropcond">
+		<form target="_self" method="post" id="propcondform" action="http://my.anjuke.com/member/savepropcond/"><div class="PropCond"><span class="title">上次的找房条件：</span><span class="title">[ 无 ]</span><div class="mysearchbox mysearchboxbg" id="mysearchbox"><a class="mysearchtitle" id="mysearchtitle" href="http://my.anjuke.com/member/manpropcond/">我的找房条件</a><div style="display:none;" class="mysearchlist" id="mysearchlist"><ul><div class="mysearchclear">您还没有保存过找房条件。</div><p align="right"><a href="http://my.anjuke.com/member/manpropcond/">更多&gt;&gt;</a></p></ul></div><div class="mysearchlistbg" id="mysearchlistbg"></div></div></div></form>
+	</div>
+  </div>
+<!-- end -->
+<input type="hidden" id="reg_apf_id_10">
+
+<div style="display:none" class="dialog" id="apf_id_12">
+<div class="view_prop_popup_fav" id="popup_apf_id_12">
+	<div class="my_member_marked_mm" id="msgbox_apf_id_12">
+	        <div class="border">
+	            <form method="post" action="" name="loginForm">
+	            <input type="hidden" value="1" name="loginpost">
+	            <input type="hidden" name="formhash">
+	            <input type="hidden" name="systemtime">
+	            <input type="hidden" value="1" name="remember">
+	            <input type="hidden" value="aHR0cDovL2FuanVrZS5jb20=" name="history">
+	            <div class="login">
+	                <div class="title"><span><strong>请先登录</strong></span> | <span onmouseout="javascript:this.className='layer';" onmouseover="javascript:this.className='layer_over';" class="layer" id="register2_apf_id_12">注册</span><span id="close_apf_id_12" class="close"><img border="0" src="http://pages.anjukestatic.com/img/reg/icon.close_8x9.gif"></span></div>
+	                <div class="line"></div>
+	                <div class="msg">
+	                	<div id="prompt_message_apf_id_12" class="red"></div>
+	                    <div>
+	                   	     <input type="text" onfocus="javascript:if(this.value=='用户名或邮箱地址')this.value='';this.className='my_login_logininput';" value="用户名或邮箱地址" id="username_apf_id_12" name="username_apf_id_12" class="my_login_logininput2">
+	                    	 <span id="check_username_apf_id_12"></span>
+	                    </div>
+	                    <div style="position:relative;">
+	                    	<label class="password_tip" id="password_tip_apf_id_12">请输入密码</label>
+		                    <input type="password" style="padding-left:2px;" id="password_apf_id_12" name="password_apf_id_12" title="密码" class="inputpwd">
+		                    <span id="check_pass_apf_id_12"><a target="_blank" href="/pass?type=forget">忘记密码？</a></span>
+	                    </div>
+	                    <div class="button"><input type="button" value="登 录" class="login_submit" id="submit_apf_id_12"> &nbsp; &nbsp; <span onmouseout="javascript:this.className='layer';" onmouseover="javascript:this.className='layer_over';" class="layer" id="register_apf_id_12">还没有安居客帐号?快速注册&gt;&gt;</span></div>
+	                    <div class="clear"></div>
+	                </div>
+	            </div>
+	            </form>
+	        </div>
+	</div>
+</div>
+
+</div>
+<div style="display:none" id="search_condition_box_apf_id_10" class="layer_box">
+    <div class="layer_cont">
+        <a id="close_apf_id_10" class="close" href="#">关闭</a>
+        <dl>
+            <dt><strong id="search_condition_msg_apf_id_10">Waiting ...</strong>&nbsp;<a id="search_condition_tip_apf_id_10" href="http://my.anjuke.com/member/manpropcond/" target="_blank">登录&gt;&gt;</a></dt>
+            <dd class="dd1"><!-- 浦东，洋泾，120-150万元，二室，复式 -->
+                            </dd>
+            <dd class="dd2">符合条件的新房源，安居客会通过邮件通知您。</dd>
+            <dd id="search_condition_close_apf_id_10" class="dd3"><a href="#">继续找房</a></dd>
+        </dl>           
+    </div>
+</div>
+
+
+		
+	<!-- 筛选条件--> 
+		
+
+<div class="fcklinks">
+<div style="height:8px;*height:10px;"><span></span></div>
+        <div id="panel_apf_id_13" class="condition_links2 condition_link2_def">
+            <div>
+            <div class="condition_title">区域：</div>
+            <div id="apf_id_13_areacontainer" class="container">
+                                                    <strong>不限</strong>
+                                                                    <a title="岳麓" href="http://cs.anjuke.com/sale/yuelu/">岳麓</a>
+                                                                    <a title="天心" href="http://cs.anjuke.com/sale/tianxin/">天心</a>
+                                                                    <a title="雨花" href="http://cs.anjuke.com/sale/yuhuah/">雨花</a>
+                                                                    <a title="开福" href="http://cs.anjuke.com/sale/kaifu/">开福</a>
+                                                                    <a title="芙蓉" href="http://cs.anjuke.com/sale/furong/">芙蓉</a>
+                                                                    <a title="星沙" href="http://cs.anjuke.com/sale/xingsha/">星沙</a>
+                                                                    <a title="周边县市" href="http://cs.anjuke.com/sale/zhoubianxianshic/">周边县市</a>
+                                            </div>
+        </div>	
+    			
+
+    
+    
+    
+    
+            <div>
+            <div class="condition_title">售价：</div>
+            	            <div class="containerprice">
+	            	<div style="float:left;margin-right:5px;">
+	                	                	                    <strong>不限</strong>
+	                	                	                	                    <a rel="nofollow" title="30万元以下" href="http://cs.anjuke.com/sale/m193">30万以下</a>
+	                	                	                	                    <a rel="nofollow" title="30-40万元" href="http://cs.anjuke.com/sale/m194">30-40万</a>
+	                	                	                	                    <a rel="nofollow" title="40-50万元" href="http://cs.anjuke.com/sale/m195">40-50万</a>
+	                	                	                	                    <a rel="nofollow" title="50-60万元" href="http://cs.anjuke.com/sale/m196">50-60万</a>
+	                	                	                	                    <a rel="nofollow" title="60-80万元" href="http://cs.anjuke.com/sale/m197">60-80万</a>
+	                	                	                	                    <a rel="nofollow" title="80-100万元" href="http://cs.anjuke.com/sale/m198">80-100万</a>
+	                	                	                	                    <a rel="nofollow" title="100-150万元" href="http://cs.anjuke.com/sale/m199">100-150万</a>
+	                	                	                	                    <a rel="nofollow" title="150-200万元" href="http://cs.anjuke.com/sale/m200">150-200万</a>
+	                	                	                	                    <a rel="nofollow" title="200万元以上" href="http://cs.anjuke.com/sale/m201">200万以上</a>
+	                	                	                </div>
+	                	                <div class="pricecond">
+						<form onsubmit="return pricerange.submit(0)" id="pr_form_apf_id_13" enctype="application/x-www-form-urlencoded" action="http://cs.anjuke.com/sale/">
+	                    	<input type="hidden" value="" id="kw_price_form" name="kw">
+							<input type="text" value="" autocomplete="off" id="from_price_apf_id_13" name="from_price"> - <input type="text" value="" autocomplete="off" id="to_price_apf_id_13" name="to_price">&nbsp;万
+							<input type="submit" value="确定" style="display:none" id="pricerange_search_apf_id_13" class="smit">
+						</form>
+					</div>
+	            </div>
+
+			                        </div>
+    
+                <div>
+            <div class="condition_title">面积：</div>
+            <div class="container">
+                                                    <strong>不限</strong>
+                                                                    <a rel="nofollow" title="50平米以下" href="http://cs.anjuke.com/sale/a289">50平米以下</a>
+                                                                    <a rel="nofollow" title="50-70平米" href="http://cs.anjuke.com/sale/a290">50-70平米</a>
+                                                                    <a rel="nofollow" title="70-90平米" href="http://cs.anjuke.com/sale/a291">70-90平米</a>
+                                                                    <a rel="nofollow" title="90-120平米" href="http://cs.anjuke.com/sale/a292">90-120平米</a>
+                                                                    <a rel="nofollow" title="120-150平米" href="http://cs.anjuke.com/sale/a293">120-150平米</a>
+                                                                    <a rel="nofollow" title="150-200平米" href="http://cs.anjuke.com/sale/a294">150-200平米</a>
+                                                                    <a rel="nofollow" title="200-300平米" href="http://cs.anjuke.com/sale/a295">200-300平米</a>
+                                                                    <a rel="nofollow" title="300平米以上" href="http://cs.anjuke.com/sale/a296">300平米以上</a>
+                                            </div>
+        </div>
+        
+                <div>
+            <div class="condition_title">房型：</div>
+                <div class="container">
+                                                                <strong>不限</strong>
+                                                                                    <a rel="nofollow" title="一室" href="http://cs.anjuke.com/sale/b176">一室</a>
+                                                                                    <a rel="nofollow" title="二室" href="http://cs.anjuke.com/sale/b177">二室</a>
+                                                                                    <a rel="nofollow" title="三室" href="http://cs.anjuke.com/sale/b178">三室</a>
+                                                                                    <a rel="nofollow" title="四室" href="http://cs.anjuke.com/sale/b179">四室</a>
+                                                                                    <a rel="nofollow" title="五室" href="http://cs.anjuke.com/sale/b180">五室</a>
+                                                                                    <a rel="nofollow" title="五室以上" href="http://cs.anjuke.com/sale/b181">五室以上</a>
+                                                        </div>
+            </div>
+        
+                <div>
+            <div class="condition_title">类型：</div>
+                <div class="container">
+                                                                <strong>不限</strong>
+                                                                                    <a rel="nofollow" title="普通住宅" href="http://cs.anjuke.com/sale/t69">普通住宅</a>
+                                                                                    <a rel="nofollow" title="别墅" href="http://cs.anjuke.com/sale/t70">别墅</a>
+                                                                                    <a rel="nofollow" title="酒店公寓" href="http://cs.anjuke.com/sale/t71">酒店公寓</a>
+                                                                                    <a rel="nofollow" title="其它" href="http://cs.anjuke.com/sale/t72">其它</a>
+                                                        </div>
+        </div>
+                    </div>
+<div class="condition_fake_352"></div>
+</div>
+		
+	<!-- 更多筛选条件-->
+	        	    <div style="z-index:99;" class="search-result2">
+    <div id="keywords" class="keywords352">
+           <form class="keywordform" id="ls_form_apf_id_14" enctype="application/x-www-form-urlencoded" action="http://cs.anjuke.com/sale/">
+                <input type="text" value="在结果中搜索" class="kw" id="resultkw" name="kw" maxlength="100" autocomplete="off">
+                <input type="submit" value="搜索" class="search"><a href="http://cs.anjuke.com/sale/p8" id="apf_id_14_clearup" class="clearkw clearkw2">清空</a>
+                <div title="删除关键字" id="float_clearkw"><a href="javascript:;">&nbsp;</a></div>
+            </form> 
+            <div class="asline"></div>
+            <div id="condmenu">
+				<ul class="condul">
+					<li class="condlist_tip"><span>更多筛选：</span></li>
+										<li id="condhouseage_id"><a href="javascript:void(0);"><span class="select_item"><span id="condhouseage_txt_id" class="txt">建造年代</span><span class="icon">&nbsp;</span></span><!--[if IE 7]><!--></a><!--<![endif]--><!--[if IE 8]><!--><!--<![endif]--><!--[if !IE]>--><!--<![endif]-->
+					<!--[if lte IE 6]>
+					<iframe src="" style="position:absolute;visibility:inherit; top:0px; left:-1px; width:102px; height:132px;z-index:-1;opacity:.0;filter:alpha(opacity=0); -moz-opacity:0;"></iframe>
+					<table><tr><td>
+					<![endif]-->
+						<ul>
+							<li class="selected"><a rel="nofollow" href="http://cs.anjuke.com/sale/">不限</a></li>
+														<li><a rel="nofollow" href="http://cs.anjuke.com/sale/y2">2010年以后</a></li>
+								                        							<li><a rel="nofollow" href="http://cs.anjuke.com/sale/y3">2005年以后</a></li>
+								                        							<li><a rel="nofollow" href="http://cs.anjuke.com/sale/y5">2000年以后</a></li>
+								                        							<li><a rel="nofollow" href="http://cs.anjuke.com/sale/y6">2000年以前</a></li>
+													</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+					</li>
+					<li id="condfloor_id"><a href="javascript:void(0);"><span class="select_item"><span id="condfloor_txt_id" class="txt">楼层</span><span class="icon">&nbsp;</span></span><!--[if IE 7]><!--></a><!--<![endif]--><!--[if IE 8]><!--><!--<![endif]--><!--[if !IE]>--><!--<![endif]-->
+					<!--[if lte IE 6]>
+					<iframe src="" style="position:absolute;visibility:inherit; top:0px; left:-1px; width:99px; height:105px;z-index:-1;opacity:.0;filter:alpha(opacity=0); -moz-opacity:0;"></iframe>
+					<table><tr><td>
+					<![endif]-->
+						<ul>
+							<li class="selected"><a rel="nofollow" href="http://cs.anjuke.com/sale/">不限</a></li>
+														<li><a rel="nofollow" href="http://cs.anjuke.com/sale/f6">6层以下</a></li>
+								                        							<li><a rel="nofollow" href="http://cs.anjuke.com/sale/f12">6-12层</a></li>
+								                        							<li><a rel="nofollow" href="http://cs.anjuke.com/sale/f13">12层以上</a></li>
+													</ul>
+					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+					</li>
+														</ul>
+			</div>
+			<div class="condmap">
+                </div>
+</div>
+</div>
+
+	    	
+<div class="main_container">
+    <div class="listleft">
+    	
+    
+
+
+
+	
+        <div class="search-result2 search-result4">
+<!--div class="relative-community"><code>相关小区：&nbsp;</code><a href="###">万科朗润园 </a><span>&nbsp;|&nbsp;</span><a href="###">康桥半岛（一至六期）</a><span>&nbsp;|&nbsp;</span><a href="###">东方伦敦广场</a><span>&nbsp;|&nbsp;</span><a href="###">和平小区（徐汇）</a><span>&nbsp;|&nbsp;</span><a href="###">金地格林世界</a><span>&nbsp;|&nbsp;</span><a href="###">沿海丽水馨庭</a><span>&nbsp;|&nbsp;</span><a href="###">和平小区（徐汇）</a><span>&nbsp;|&nbsp;</span><a href="###">和平小区</a><span>&nbsp;|&nbsp;</span><a href="###">和平小区</a><span>&nbsp;|&nbsp;</span><a href="###">和平小区（徐汇）</a>
+</div-->
+<div class="quicktabs">
+<ul>
+	    	        	        	    	<li class="slt"><span><a rel="nofollow" href="http://cs.anjuke.com/sale/">全部房源</a></span></li>
+	    	
+	    		        	        	    	<li><span><a style="padding:0px 15px;" rel="nofollow" href="http://cs.anjuke.com/sale/tg2">急售</a></span></li>
+	    	
+	    		        	        	    	<li><span><a style="padding:0px 15px;" rel="nofollow" href="http://cs.anjuke.com/sale/tg1">新推</a></span></li>
+	    	
+	    		        	        	    	<li><span><a style="padding:0px 15px;" rel="nofollow" href="http://cs.anjuke.com/sale/hq1">多图</a></span></li>
+	    	
+	    		        	        	    	<li><span><a style="padding:0px 15px;" rel="nofollow" href="http://cs.anjuke.com/sale/tg9">个人</a></span></li>
+	    	
+	    	   
+	    		    	<li class="map"><span class="map-ion"></span><span><a _soj="prop_list" target="_blank" href=" http://cs.anjuke.com/map/sale/?from=prop_list">地图模式</a></span></li>
+</ul>
+<div class="simple_m_p">
+<div class="simple_multipage">
+
+            <div onclick="window.location.href='http://cs.anjuke.com/sale/p7'" title="上一页" class="pagelink prexpage"><a href="http://cs.anjuke.com/sale/p7">&nbsp;</a></div>
+    
+                        <div class="current">8/808</div>
+            
+            <div class="pagelink nextpage"><a title="下一页" href="http://cs.anjuke.com/sale/p9">下一页</a></div>
+    
+</div></div>
+</div>
+            <div class="search_bottom">
+    	<div style="float:left;">
+		<div style="margin-top: 7px;" class="totalnum">安居客找到 <strong>20197</strong>套符合要求的房子</div>	
+	    <div class="quick_btn">
+        	        </div>
+</div>
+			<div class="sortby">
+	    	<span style="float:left; line-height:20px;line-height:24px\9;">排序：</span> 
+            	<div id="selectorder_id">
+            	                    <a class="select" href="javascript:void(0);"><span class="select_item"><span class="txt">默认排序</span><span class="icon">&nbsp;</span></span>			
+                    <!--[if IE 7]><!--></a><!--<![endif]-->
+                    <!--[if IE 8]><!--><!--<![endif]-->
+                    <!--[if !IE]>--><!--<![endif]-->
+                    <!--[if lte IE 6]>
+                    <iframe src="" style="position:absolute;visibility:inherit; top:0px; left:-1px; width:99px; height:105px;z-index:-1;opacity:.0;filter:alpha(opacity=0); -moz-opacity:0;"></iframe>
+                    <table><tr><td><![endif]-->
+                    <ul>
+                                    	<li class="selected"><a rel="nofollow" class="select_list" href="http://cs.anjuke.com/sale/">默认排序</a></li>
+                                        	<li><a rel="nofollow" class="select_list" href="http://cs.anjuke.com/sale/o1">面积从大到小</a></li>
+                                        	<li><a rel="nofollow" class="select_list" href="http://cs.anjuke.com/sale/o2">面积从小到大</a></li>
+                                        	<li><a rel="nofollow" class="select_list" href="http://cs.anjuke.com/sale/o3">总价从高到低</a></li>
+                                        	<li><a rel="nofollow" class="select_list" href="http://cs.anjuke.com/sale/o4">总价从低到高</a></li>
+                                        	<li><a class="select_list" href="http://cs.anjuke.com/sale/o5">发布时间从新到旧</a></li>
+                                        </ul>
+                    <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</div>
+            
+<a rel="nofollow" href="http://cs.anjuke.com/sale/o4">总价</a><a rel="nofollow" href="http://cs.anjuke.com/sale/o2">面积</a></div>		
+
+</div>
+    </div>
+
+    	
+       	       	<div style="margin:10px 0px 5px 15px"></div>
+       	        <div class="listing">
+                                            <ol id="list_body">
+                                                	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_1" class="">
+						<div id="prop_1" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="东塘电信宿舍二手房54.8万元" title="东塘电信宿舍二手房54.8万元" class="photo" href=" http://cs.anjuke.com/prop/view/111143127?from="><img width="100" height="75" alt="东塘电信宿舍二手房54.8万元" src="http://pic1.ajkimg.com/display/ebb29f0f2d75860dc16c2834647dff39/100x75.jpg" id="prop_1_a" class="thumbnail"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="东塘 电信局单位宿舍 高性价比 三房出售" href=" http://cs.anjuke.com/prop/view/111143127?from=" id="prop_name_qt_prop_1">东塘 电信局单位宿舍 高性价比 三房出售</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		东塘电信宿舍						        							        &nbsp;&nbsp;劳动中路</address>
+						        <p id="prop_detail_qt_prop_1">
+						            3室2厅，90.00平米，单价：6088元，楼层：3/6，建造年代：2001						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            周燕芳						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_1">
+						    						        <strong>54.8</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_111143127" class="advlogo">					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_2" class="">
+						<div id="prop_2" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="湘楚家园二手房51.8万元" title="湘楚家园二手房51.8万元" class="photo" href=" http://cs.anjuke.com/prop/view/116070135?from="><img width="100" height="75" alt="湘楚家园二手房51.8万元" src="http://pic1.ajkimg.com/display/03a817ce9fdf1c46b96121023cf0519c/100x75.jpg" id="prop_2_a" class="thumbnail"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="广电 世界之窗旁 星沙汽配城对面湘楚家园最稀缺的错层三房急售" href=" http://cs.anjuke.com/prop/view/116070135?from=" id="prop_name_qt_prop_2">广电 世界之窗旁 星沙汽配城对面湘楚家园最稀缺的错层三房急售</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		湘楚家园						        							        &nbsp;&nbsp;长沙经济开发区锦绣路星沙汽配城内</address>
+						        <p id="prop_detail_qt_prop_2">
+						            3室2厅，128.00平米，单价：4046元，楼层：9/18，建造年代：2008						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            张健						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_2">
+						    						        <strong>51.8</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_116070135" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_3">
+						<div id="prop_3" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="湘江世纪城融江苑,映江苑,瑞江苑,临江苑,贯江苑,豪江苑,聚江苑,鸿江苑,达江苑,望江苑,星江苑,赏江苑,咏江苑,悦江苑二手房136万元" title="湘江世纪城融江苑,映江苑,瑞江苑,临江苑,贯江苑,豪江苑,聚江苑,鸿江苑,达江苑,望江苑,星江苑,赏江苑,咏江苑,悦江苑二手房136万元" class="photo" href=" http://cs.anjuke.com/prop/view/112845590?from="><img width="100" height="75" alt="湘江世纪城融江苑,映江苑,瑞江苑,临江苑,贯江苑,豪江苑,聚江苑,鸿江苑,达江苑,望江苑,星江苑,赏江苑,咏江苑,悦江苑二手房136万元" src="http://pic1.ajkimg.com/display/9bdab5e4996f682b29f2b54dcc09dd53/100x75.jpg" id="prop_3_a" class="thumbnail"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="180度纵览湘江美景 世纪城江景大四房 7800元/平" href=" http://cs.anjuke.com/prop/view/112845590?from=" id="prop_name_qt_prop_3">180度纵览湘江美景 世纪城江景大四房 7800元/平</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		湘江世纪城融江苑,映江苑,瑞江苑,临江苑,贯江苑,豪江苑,聚江苑,鸿江苑,达江苑,望江苑,星江苑,赏江苑,咏江苑,悦江苑						        							        &nbsp;&nbsp;福区政府西侧（临湘江）</address>
+						        <p id="prop_detail_qt_prop_3">
+						            4室2厅，173.80平米，单价：7825元，楼层：10/28，建造年代：2008						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            李龙						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_3">
+						    						        <strong>136</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_112845590" class="advlogo">					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_4">
+						<div id="prop_4" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="愿景山水湾二手房40.8万元" title="愿景山水湾二手房40.8万元" class="photo" href=" http://cs.anjuke.com/prop/view/114315111?from="><img width="100" height="75" alt="愿景山水湾二手房40.8万元" src="http://pic1.ajkimg.com/display/438e6e8e89282cf9431babbe56502b8c/100x75.jpg" id="prop_4_a" class="thumbnail"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="山水湾正规实用小三房 得房率高 一梯两户 带双阳台 南北通透" href=" http://cs.anjuke.com/prop/view/114315111?from=" id="prop_name_qt_prop_4">山水湾正规实用小三房 得房率高 一梯两户 带双阳台 南北通透</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		愿景山水湾						        							        &nbsp;&nbsp;万家丽北路68号</address>
+						        <p id="prop_detail_qt_prop_4">
+						            3室2厅，90.00平米，单价：4533元，楼层：2/6，建造年代：2010						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            李容						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_4">
+						    						        <strong>40.8</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_114315111" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_5">
+						<div id="prop_5" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="阳光100国际新城阳光100，阳光100新城，阳光一百二手房22万元" title="阳光100国际新城阳光100，阳光100新城，阳光一百二手房22万元" class="photo" href=" http://cs.anjuke.com/prop/view/113638092?from="><img width="100" height="75" alt="阳光100国际新城阳光100，阳光100新城，阳光一百二手房22万元" src="http://pic1.ajkimg.com/display/b7aeed1da5972af60cd36c63e104ec8f/100x75.jpg" id="prop_5_a" class="thumbnail"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="阳光100蕞具投资价值的房子" href=" http://cs.anjuke.com/prop/view/113638092?from=" id="prop_name_qt_prop_5">阳光100蕞具投资价值的房子</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		阳光100国际新城阳光100，阳光100新城，阳光一百						        							        &nbsp;&nbsp;猴子石大桥西头北侧</address>
+						        <p id="prop_detail_qt_prop_5">
+						            1室1厅，36.00平米，单价：6111元，楼层：3/7，建造年代：2007						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            朱如意						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_5">
+						    						        <strong>22</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_113638092" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_6">
+						<div id="prop_6" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="长沙玫瑰园二手房45.8万元" title="长沙玫瑰园二手房45.8万元" class="photo" href=" http://cs.anjuke.com/prop/view/114351092?from="><img width="100" height="75" alt="长沙玫瑰园二手房45.8万元" src="http://pic1.ajkimg.com/display/51fd4f786043313fce60c6afd2962943/100x75.jpg" id="prop_6_a" class="thumbnail"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="滨水新城核心板块，未来的CBD，小区绿化程度高，居家投资首选" href=" http://cs.anjuke.com/prop/view/114351092?from=" id="prop_name_qt_prop_6">滨水新城核心板块，未来的CBD，小区绿化程度高，居家投资首选</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		长沙玫瑰园						        							        &nbsp;&nbsp;金星大道第三标段208号</address>
+						        <p id="prop_detail_qt_prop_6">
+						            3室2厅，111.00平米，单价：4126元，楼层：8/12，建造年代：2007						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            金杰						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_6">
+						    						        <strong>45.8</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_114351092" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_7">
+						<div id="prop_7" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="中南汽车世界小区二手房40万元" title="中南汽车世界小区二手房40万元" class="photo" href=" http://cs.anjuke.com/prop/view/114003849?from="><img width="100" height="75" alt="中南汽车世界小区二手房40万元" src="http://pic1.ajkimg.com/display/b463b702b02c7ac205576b774d31e29b/100x75.jpg" id="prop_7_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="投资地带，簇拥小学旁，40万买精装两房！拎包即住！" href=" http://cs.anjuke.com/prop/view/114003849?from=" id="prop_name_qt_prop_7">投资地带，簇拥小学旁，40万买精装两房！拎包即住！</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		中南汽车世界小区						        							        &nbsp;&nbsp;卫星路137号</address>
+						        <p id="prop_detail_qt_prop_7">
+						            2室2厅，88.00平米，单价：4545元，楼层：3/6，建造年代：2003						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            肖艳						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_7">
+						    						        <strong>40</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_114003849" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_8">
+						<div id="prop_8" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="恒大绿洲（一至三期）恒大绿洲二手房86万元" title="恒大绿洲（一至三期）恒大绿洲二手房86万元" class="photo" href=" http://cs.anjuke.com/prop/view/110635758?from="><img width="100" height="75" alt="恒大绿洲（一至三期）恒大绿洲二手房86万元" src="http://pic1.ajkimg.com/display/b1cdc4fb1ce5db2b8efbb6ba20d6b6a1/100x75.jpg" id="prop_8_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="品质决定生活，精装三房，超低价现房出售，武广核心，升值无限！" href=" http://cs.anjuke.com/prop/view/110635758?from=" id="prop_name_qt_prop_8">品质决定生活，精装三房，超低价现房出售，武广核心，升值无限！</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		恒大绿洲（一至三期）恒大绿洲						        							        &nbsp;&nbsp;劳动东路820号</address>
+						        <p id="prop_detail_qt_prop_8">
+						            3室2厅，120.00平米，单价：7166元，楼层：28/32，建造年代：2012						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            段新闻						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_8">
+						    						        <strong>86</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_110635758" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_9">
+						<div id="prop_9" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="官塘村二手房21.6万元" title="官塘村二手房21.6万元" class="photo" href=" http://cs.anjuke.com/prop/view/110662849?from="><img width="100" height="75" alt="官塘村二手房21.6万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_9_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="赤岗冲红花坡 绝对1房1厅 稀有出售 21.6万市中心哪里找" href=" http://cs.anjuke.com/prop/view/110662849?from=" id="prop_name_qt_prop_9">赤岗冲红花坡 绝对1房1厅 稀有出售 21.6万市中心哪里找</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		官塘村						        							        &nbsp;&nbsp;茶园坡</address>
+						        <p id="prop_detail_qt_prop_9">
+						            1室1厅，33.00平米，单价：6545元，楼层：3/7，建造年代：1994						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            汪盟						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_9">
+						    						        <strong>21.6</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_110662849" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_10">
+						<div id="prop_10" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="湘涂小区二手房50.8万元" title="湘涂小区二手房50.8万元" class="photo" href=" http://cs.anjuke.com/prop/view/110681701?from="><img width="100" height="75" alt="湘涂小区二手房50.8万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_10_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="南北通透，两卧客厅全南，户型非常棒，有户型为证！！" href=" http://cs.anjuke.com/prop/view/110681701?from=" id="prop_name_qt_prop_10">南北通透，两卧客厅全南，户型非常棒，有户型为证！！</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		湘涂小区						        							        &nbsp;&nbsp;胜利街26</address>
+						        <p id="prop_detail_qt_prop_10">
+						            2室2厅，89.00平米，单价：5707元，楼层：5/7，建造年代：2000						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            于海林						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_10">
+						    						        <strong>50.8</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_110681701" class="advlogo">					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_11">
+						<div id="prop_11" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="时代倾城二手房66.5万元" title="时代倾城二手房66.5万元" class="photo" href=" http://cs.anjuke.com/prop/view/116709770?from="><img width="100" height="75" alt="时代倾城二手房66.5万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_11_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="正地铁口 精装修 时代倾城 开盘在即 优惠多多" href=" http://cs.anjuke.com/prop/view/116709770?from=" id="prop_name_qt_prop_11">正地铁口 精装修 时代倾城 开盘在即 优惠多多</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		时代倾城						        							        &nbsp;&nbsp;金星北路与银星路交汇处</address>
+						        <p id="prop_detail_qt_prop_11">
+						            3室2厅，117.00平米，单价：5683元，楼层：22/32，建造年代：2012						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            阮仕丹						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_11">
+						    						        <strong>66.5</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_116709770" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_12">
+						<div id="prop_12" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="尚都花园城二手房62.8万元" title="尚都花园城二手房62.8万元" class="photo" href=" http://cs.anjuke.com/prop/view/114920260?from="><img width="100" height="75" alt="尚都花园城二手房62.8万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_12_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="没有经典的房源标题，只有优质的房源。毛坯价买装修房，为你打造" href=" http://cs.anjuke.com/prop/view/114920260?from=" id="prop_name_qt_prop_12">没有经典的房源标题，只有优质的房源。毛坯价买装修房，为你打造</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		尚都花园城						        							        &nbsp;&nbsp;向阳路2号</address>
+						        <p id="prop_detail_qt_prop_12">
+						            3室2厅，118.00平米，单价：5322元，楼层：16/23，建造年代：2008						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            段桂雄						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_12">
+						    						        <strong>62.8</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_114920260" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_13">
+						<div id="prop_13" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="华润凤凰城凤凰城二手房45万元" title="华润凤凰城凤凰城二手房45万元" class="photo" href=" http://cs.anjuke.com/prop/view/113658212?from="><img width="100" height="75" alt="华润凤凰城凤凰城二手房45万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_13_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="佐佑地产100%真实房源。高档社区。" href=" http://cs.anjuke.com/prop/view/113658212?from=" id="prop_name_qt_prop_13">佐佑地产100%真实房源。高档社区。</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		华润凤凰城凤凰城						        							        &nbsp;&nbsp;星沙大道188号</address>
+						        <p id="prop_detail_qt_prop_13">
+						            2室2厅，82.00平米，单价：5487元，楼层：10/17，建造年代：2009						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            董智森						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_13">
+						    						        <strong>45</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_113658212" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_14">
+						<div id="prop_14" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="雍景园二手房100万元" title="雍景园二手房100万元" class="photo" href=" http://cs.anjuke.com/prop/view/113249833?from="><img width="100" height="75" alt="雍景园二手房100万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_14_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="烈士公园附近的   高档楼盘   精装修出售" href=" http://cs.anjuke.com/prop/view/113249833?from=" id="prop_name_qt_prop_14">烈士公园附近的   高档楼盘   精装修出售</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		雍景园						        							        &nbsp;&nbsp;车站北路与展览馆路交汇处</address>
+						        <p id="prop_detail_qt_prop_14">
+						            3室2厅，136.00平米，单价：7352元，楼层：4/12，建造年代：2003						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            陈小丹						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_14">
+						    						        <strong>100</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_113249833" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_15">
+						<div id="prop_15" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="新楚麓山才苑二手房66.5万元" title="新楚麓山才苑二手房66.5万元" class="photo" href=" http://cs.anjuke.com/prop/view/115639024?from="><img width="100" height="75" alt="新楚麓山才苑二手房66.5万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_15_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="观岳麓 麓山国际旁 荣湾镇中心地带 隧道口  等您来接收" href=" http://cs.anjuke.com/prop/view/115639024?from=" id="prop_name_qt_prop_15">观岳麓 麓山国际旁 荣湾镇中心地带 隧道口  等您来接收</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		新楚麓山才苑						        							        &nbsp;&nbsp;白沙液街84、85号</address>
+						        <p id="prop_detail_qt_prop_15">
+						            2室2厅，89.00平米，单价：7471元，楼层：13/15，建造年代：2008						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            文蓓						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_15">
+						    						        <strong>66.5</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						            <img alt="急推" title="急推" src="http://pages.anjukestatic.com/img/icon/tag_hot_32x32.gif">
+						        						    </div>
+					    </div>
+					    <div id="advlogo_115639024" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_16">
+						<div id="prop_16" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="华润凤凰城凤凰城二手房45万元" title="华润凤凰城凤凰城二手房45万元" class="photo" href=" http://cs.anjuke.com/prop/view/115442294?from="><img width="100" height="75" alt="华润凤凰城凤凰城二手房45万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_16_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="(免佣 费用全包) I am here 凤凰城" href=" http://cs.anjuke.com/prop/view/115442294?from=" id="prop_name_qt_prop_16">(免佣 费用全包) I am here 凤凰城</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		华润凤凰城凤凰城						        							        &nbsp;&nbsp;星沙大道188号</address>
+						        <p id="prop_detail_qt_prop_16">
+						            2室2厅，84.00平米，单价：5357元，楼层：8/18，建造年代：2010						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            杨林						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_16">
+						    						        <strong>45</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_115442294" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_17">
+						<div id="prop_17" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="BOBO天下城二手房90万元" title="BOBO天下城二手房90万元" class="photo" href=" http://cs.anjuke.com/prop/view/116520234?from="><img width="100" height="75" alt="BOBO天下城二手房90万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_17_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="芙蓉南路 地铁口 电大对面 bobo天下城 3房 便宜出售" href=" http://cs.anjuke.com/prop/view/116520234?from=" id="prop_name_qt_prop_17">芙蓉南路 地铁口 电大对面 bobo天下城 3房 便宜出售</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		BOBO天下城						        							        &nbsp;&nbsp;芙蓉南路368号</address>
+						        <p id="prop_detail_qt_prop_17">
+						            3室2厅，143.00平米，单价：6293元，楼层：5/26，建造年代：2008						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            彭康						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_17">
+						    						        <strong>90</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_116520234" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_18">
+						<div id="prop_18" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="BOBO天下城二手房90万元" title="BOBO天下城二手房90万元" class="photo" href=" http://cs.anjuke.com/prop/view/116544551?from="><img width="100" height="75" alt="BOBO天下城二手房90万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_18_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="芙蓉南路 地铁口 bobo天下城 3房 无营业税 房东急卖" href=" http://cs.anjuke.com/prop/view/116544551?from=" id="prop_name_qt_prop_18">芙蓉南路 地铁口 bobo天下城 3房 无营业税 房东急卖</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		BOBO天下城						        							        &nbsp;&nbsp;芙蓉南路368号</address>
+						        <p id="prop_detail_qt_prop_18">
+						            3室2厅，143.00平米，单价：6293元，楼层：5/30，建造年代：2008						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            彭康						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_18">
+						    						        <strong>90</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_116544551" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_19">
+						<div id="prop_19" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="绿城桂花城绿城桂花城二手房81万元" title="绿城桂花城绿城桂花城二手房81万元" class="photo" href=" http://cs.anjuke.com/prop/view/114599398?from="><img width="100" height="75" alt="绿城桂花城绿城桂花城二手房81万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_19_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="中间位置 单价便宜 南北通透 学区房" href=" http://cs.anjuke.com/prop/view/114599398?from=" id="prop_name_qt_prop_19">中间位置 单价便宜 南北通透 学区房</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		绿城桂花城绿城桂花城						        							        &nbsp;&nbsp;长沙大道508号</address>
+						        <p id="prop_detail_qt_prop_19">
+						            2室2厅，106.00平米，单价：7641元，楼层：5/7，建造年代：2008						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            何赛						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_19">
+						    						        <strong>81</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_114599398" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_20">
+						<div id="prop_20" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="时代倾城二手房46.8万元" title="时代倾城二手房46.8万元" class="photo" href=" http://cs.anjuke.com/prop/view/112343890?from="><img width="100" height="75" alt="时代倾城二手房46.8万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_20_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="地铁口 豪华装 带师大附中指标 双景观湖景房 团购招募中！" href=" http://cs.anjuke.com/prop/view/112343890?from=" id="prop_name_qt_prop_20">地铁口 豪华装 带师大附中指标 双景观湖景房 团购招募中！</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		时代倾城						        							        &nbsp;&nbsp;金星北路与银星路交汇处</address>
+						        <p id="prop_detail_qt_prop_20">
+						            2室2厅，84.00平米，单价：5571元，楼层：12/36，建造年代：2011						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            魏青阳						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_20">
+						    						        <strong>46.8</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_112343890" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_21">
+						<div id="prop_21" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="泰时新雅园二手房88万元" title="泰时新雅园二手房88万元" class="photo" href=" http://cs.anjuke.com/prop/view/113998072?from="><img width="100" height="75" alt="泰时新雅园二手房88万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_21_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="超低价！超低价！抄底价！抄底价！市中心地铁口4房88万！" href=" http://cs.anjuke.com/prop/view/113998072?from=" id="prop_name_qt_prop_21">超低价！超低价！抄底价！抄底价！市中心地铁口4房88万！</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		泰时新雅园						        							        &nbsp;&nbsp;湘湖路8号</address>
+						        <p id="prop_detail_qt_prop_21">
+						            4室2厅，150.00平米，单价：5866元，楼层：2/8，建造年代：2004						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            王波						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_21">
+						    						        <strong>88</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_113998072" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_22">
+						<div id="prop_22" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="新民小区二手房48万元" title="新民小区二手房48万元" class="photo" href=" http://cs.anjuke.com/prop/view/116357316?from="><img width="100" height="75" alt="新民小区二手房48万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_22_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="荣湾镇商圈，附大附中，附小《新民小区》南北通秀，两房变四房！" href=" http://cs.anjuke.com/prop/view/116357316?from=" id="prop_name_qt_prop_22">荣湾镇商圈，附大附中，附小《新民小区》南北通秀，两房变四房！</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		新民小区						        							        &nbsp;&nbsp;新民路</address>
+						        <p id="prop_detail_qt_prop_22">
+						            4室1厅，71.00平米，单价：6760元，楼层：4/6，建造年代：1998						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            贺湘来						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_22">
+						    						        <strong>48</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_116357316" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_23">
+						<div id="prop_23" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="华润凤凰城凤凰城二手房56.8万元" title="华润凤凰城凤凰城二手房56.8万元" class="photo" href=" http://cs.anjuke.com/prop/view/113784874?from="><img width="100" height="75" alt="华润凤凰城凤凰城二手房56.8万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_23_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="佐佑地产100%真实房源  送一房 经典房源" href=" http://cs.anjuke.com/prop/view/113784874?from=" id="prop_name_qt_prop_23">佐佑地产100%真实房源  送一房 经典房源</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		华润凤凰城凤凰城						        							        &nbsp;&nbsp;星沙大道188号</address>
+						        <p id="prop_detail_qt_prop_23">
+						            3室2厅，108.00平米，单价：5259元，楼层：2/34，建造年代：2010						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            邓铁						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_23">
+						    						        <strong>56.8</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_113784874" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_24">
+						<div id="prop_24" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="红树湾小区红树湾二手房58万元" title="红树湾小区红树湾二手房58万元" class="photo" href=" http://cs.anjuke.com/prop/view/116072356?from="><img width="100" height="75" alt="红树湾小区红树湾二手房58万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_24_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="超正户型 装修房126平方58发发万" href=" http://cs.anjuke.com/prop/view/116072356?from=" id="prop_name_qt_prop_24">超正户型 装修房126平方58发发万</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		红树湾小区红树湾						        							        &nbsp;&nbsp; 星沙万家丽北路与湘龙路交汇处东北角</address>
+						        <p id="prop_detail_qt_prop_24">
+						            3室2厅，126.00平米，单价：4603元，楼层：4/17，建造年代：2009						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            沈平						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_24">
+						    						        <strong>58</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_116072356" class="advlogo">
+					</div>
+            		</li>
+					            	                        	            	            		<li style="cursor:pointer" title="点击查看详情" id="li_prop_25">
+						<div id="prop_25" class="property2">
+						    <div class="photo">
+																								<a _soj="" target="_blank" alt="湘江世纪城融江苑,映江苑,瑞江苑,临江苑,贯江苑,豪江苑,聚江苑,鸿江苑,达江苑,望江苑,星江苑,赏江苑,咏江苑,悦江苑二手房55万元" title="湘江世纪城融江苑,映江苑,瑞江苑,临江苑,贯江苑,豪江苑,聚江苑,鸿江苑,达江苑,望江苑,星江苑,赏江苑,咏江苑,悦江苑二手房55万元" class="photo" href=" http://cs.anjuke.com/prop/view/113547119?from="><img width="100" height="75" alt="湘江世纪城融江苑,映江苑,瑞江苑,临江苑,贯江苑,豪江苑,聚江苑,鸿江苑,达江苑,望江苑,星江苑,赏江苑,咏江苑,悦江苑二手房55万元" src="http://pages.anjukestatic.com/js/lazierload-04/blank.gif" id="prop_25_a" class="thumbnail" style="background-image: url(&quot;http://pages.anjukestatic.com/js/lazierload-04/loading.gif&quot;); background-position: 50% 50%; background-repeat: no-repeat;"></a>
+								   
+							</div>
+						    <div class="details">
+						        <h4>						            <a _soj="" target="_blank" title="湘江世纪城总价55万的小三房:不卖 没理由" href=" http://cs.anjuke.com/prop/view/113547119?from=" id="prop_name_qt_prop_25">湘江世纪城总价55万的小三房:不卖 没理由</a>
+						            <img align="absmiddle" src="http://pages.anjukestatic.com/img/subway/icon-more-28x16.gif">						            						        </h4>
+						        <address>
+						        							        		湘江世纪城融江苑,映江苑,瑞江苑,临江苑,贯江苑,豪江苑,聚江苑,鸿江苑,达江苑,望江苑,星江苑,赏江苑,咏江苑,悦江苑						        							        &nbsp;&nbsp;福区政府西侧（临湘江）</address>
+						        <p id="prop_detail_qt_prop_25">
+						            3室2厅，88.00平米，单价：6250元，楼层：16/33，建造年代：2010						        </p>
+
+                                
+						        						        <p class="broker">
+						            						            肖仙明						            						            						        </p>
+						         
+						    </div>
+						    <div class="price" id="prop_price_qt_prop_25">
+						    						        <strong>55</strong> 万
+						    						    </div>
+						    <div class="tags">
+						        						        	&nbsp;
+						        						    </div>
+					    </div>
+					    <div id="advlogo_113547119" class="advlogo">					</div>
+            		</li>
+					            	                        </ol>
+			<div style="position:relative;" id="IFX_p16">         <div title="点击查看详情" style="width:720px;background:#fffcf7;border-bottom: 1px dashed #f8cfa5;margin:0;padding:0;">         <a style="display:block;text-decoration:none; position:relative;padding: 11px 0 12px 10px;width: 710px;" target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Ffangyuan%2F2012920.html%3Fifx%3Dp16a0c27r0m0">            <span style="display:table-cell;display:inline-block;zoom:1;vertical-align: top; padding-top: 4px;width: 120px;cursor:pointer;">            <img width="100" height="75" src="http://b.pic1.ajkimg.com/display/aifang/556a4c7aeff3fa29343b436a8440de58/141x108c.jpg">            </span>            <span style="display:table-cell;display: inline-block;zoom: 1;vertical-align: top; width: 390px;font-size: 14px;line-height: 1.4em;_padding-top: 4px;cursor:pointer;">            <span style="text-decoration: underline; font-size:14px;color:#0041d9;font-weight:700;display:block;vertical-align: baseline;cursor:pointer;">                景观三房楼距大，公摊小，视野超级好            </span>                 <span style="font-style: normal;margin-top: 4px;height: 1.4em;overflow: hidden;display:block;color:#333;vertical-align: baseline;font-size:12px;cursor:pointer;">                     蝴蝶谷  8602 东升路42号（原星沙物流中心）                 </span>                 <span style="color:#333;vertical-align: baseline;display:block;font-size:12px;cursor:pointer;">                                     3室2厅2卫，                                      129.65平米，单价：4319元，                      楼层：                                              6/34，毛坯                                      </span>                 <span style="color:gray;vertical-align: baseline;margin-top:6px;display:block;font-size:12px;cursor:pointer;">                     开发商发布                 </span>             </span>             <span style="display: table-cell;display: inline-block;zoom: 1;vertical-align: top;width: 90px;font-family: Tahoma,Arial;color: #EB6100;text-align: center;padding-top: 30px;font-size:12px;cursor:pointer;">                 <span style="font-size:18px;font-weight:700;cursor:pointer;">                     56.00                 </span>                 <span> 万 </span>             </span>             <span style="display:inline-block;position:absolute;right:0;top:0;color:#999;font-size:13px;padding-right:11px;padding-top:5px;cursor:pointer;">                 爱房推广             </span>         </a>     </div>          <div title="点击查看详情" style="width:720px;background:#fffcf7;border-bottom: 1px dashed #f8cfa5;margin:0;padding:0;">         <a style="display:block;text-decoration:none; position:relative;padding: 11px 0 12px 10px;width: 710px;" target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Ffangyuan%2F2100997.html%3Fifx%3Dp16a0c27r0m0">            <span style="display:table-cell;display:inline-block;zoom:1;vertical-align: top; padding-top: 4px;width: 120px;cursor:pointer;">            <img width="100" height="75" src="http://c.pic1.ajkimg.com/display/aifang/b6efc2e59eedcc99a23c1ec6886938d6/141x108c.jpg">            </span>            <span style="display:table-cell;display: inline-block;zoom: 1;vertical-align: top; width: 390px;font-size: 14px;line-height: 1.4em;_padding-top: 4px;cursor:pointer;">            <span style="text-decoration: underline; font-size:14px;color:#0041d9;font-weight:700;display:block;vertical-align: baseline;cursor:pointer;">                绝佳地段朝南精装小户，燃气入户，地暖到家，超大阳台半面积赠送            </span>                 <span style="font-style: normal;margin-top: 4px;height: 1.4em;overflow: hidden;display:block;color:#333;vertical-align: baseline;font-size:12px;cursor:pointer;">                     东塘瑞府  瑞府1344 韶山北路641号(原湖南广播电视学校)                 </span>                 <span style="color:#333;vertical-align: baseline;display:block;font-size:12px;cursor:pointer;">                                     1室1厅1卫，                                      44.1平米，单价：11111元，                      楼层：                                              13/33，精装修                                      </span>                 <span style="color:gray;vertical-align: baseline;margin-top:6px;display:block;font-size:12px;cursor:pointer;">                     开发商发布                 </span>             </span>             <span style="display: table-cell;display: inline-block;zoom: 1;vertical-align: top;width: 90px;font-family: Tahoma,Arial;color: #EB6100;text-align: center;padding-top: 30px;font-size:12px;cursor:pointer;">                 <span style="font-size:18px;font-weight:700;cursor:pointer;">                     49.00                 </span>                 <span> 万 </span>             </span>             <span style="display:inline-block;position:absolute;right:0;top:0;color:#999;font-size:13px;padding-right:11px;padding-top:5px;cursor:pointer;">                 爱房推广             </span>         </a>     </div>     </div>
+            	        <div class="multipage-div">
+		        <div class="contain">
+		        			        	<div class="multipage">
+
+                        <a href="http://cs.anjuke.com/sale/p7"><span class="prexpage"><img src="http://pages.anjukestatic.com/img/icon/arrow.left-10x10.gif">&nbsp;上一页</span></a>
+                                <a href="http://cs.anjuke.com/sale/p4"><span>4</span></a>
+                                <a href="http://cs.anjuke.com/sale/p5"><span>5</span></a>
+                                <a href="http://cs.anjuke.com/sale/p6"><span>6</span></a>
+                                <a href="http://cs.anjuke.com/sale/p7"><span>7</span></a>
+                                <span class="current">8</span>
+                                <a href="http://cs.anjuke.com/sale/p9"><span>9</span></a>
+                                <a href="http://cs.anjuke.com/sale/p10"><span>10</span></a>
+                                <a href="http://cs.anjuke.com/sale/p11"><span>11</span></a>
+                                <a href="http://cs.anjuke.com/sale/p12"><span>12</span></a>
+                                <a href="http://cs.anjuke.com/sale/p13"><span>13</span></a>
+                                <a href="http://cs.anjuke.com/sale/p9"><span class="nextpage">下一页 <img src="http://pages.anjukestatic.com/img/icon/arrow.right-10x10.gif"></span></a>
+        		
+				
+</div>		        			        </div>
+		        <div class="result">安居客找到  <b>20197</b> 套符合要求的房子</div>
+        	</div>
+        	<div class="divBrokerList">
+								找个满意的经纪人，事半功倍！ <a target="_blank" href="http://cs.anjuke.com/tycoon/">现在去找</a>
+							</div>
+                </div>
+            </div>
+    <div class="listright">
+
+        
+                <!-- 手机广告-->
+        <div style="clear:both;" class="ajkmobile-sale-listr">
+	    	<a target="_blank" _soj="list" href=" http://pages.anjuke.com/app/anjuke/ios.html?from=list">
+<img src="http://pages.anjukestatic.com/img/mobile/p5881_sale_mobile3.png">
+</a>	    </div>
+        
+        <!-- 好盘房源-->
+        <div style="display: none;" id="hpprops_block"></div>
+    
+        <!-- 看过的房子-->
+        
+<div id="recent_propertys_apf_id_19"></div>
+
+        
+        <!-- 合作伙伴-->
+        <div id="apf_id_20"><div style="margin-bottom:10px;">
+<div class="listing_ad">
+    <div class="title">安居客合作伙伴</div>
+    <div class="images">
+                        <div><a rel="”nofollow”" target="_blank" class="link" href="http://stats.anjuke.com/v2/l/ac?u=http%3A%2F%2Fcs.anjuke.com%2Fcompany.php%3Fcompanyid%3D15364&amp;i=15248"><img width="200" height="100" src="http://pic1.ajkimg.com/display/origin/455db8d4f8ac3e890b91a091f55b4510/200x100.jpg"></a>
+            </div>
+                </div>
+</div>
+</div>
+</div>
+    
+        <!-- 房产问答-->
+        <div style="border:none" class="compassbox"> </div>
+<div class="compassbox">
+	<h3 style="font-size:14px">有房产问题吗？</h3>
+	<div style="color:#666;margin:5px 10px;">立即提问，5分钟内房产专家为您解答</div>
+	<form id="frm_question" method="post" action="">
+	  	<textarea style="margin:0px 10px;width:207px;border:solid 1px;border-left-color:#959595;border-top-color:#959595;border-right-color:#bababa;border-bottom-color:#bababa;" nullvalue="请完整输入您的问题" class="text_area notxt" id="question_title" name="question_title"></textarea>
+	    <div style="text-align:right;padding:0px 10px 8px 0px;margin-top:8px;">
+	    	<input type="button" style="border:0px;margin:0px;padding:0px;width:84px; height:30px; background-image:url(http://pages.anjukestatic.com/img/ask/salelist_btn2.gif);" value="" id="submit_btn" class="submit_btn">
+	    	<input type="hidden" value="http://my.anjuke.com/ask/new/" id="hidAskURL">
+	    </div>
+	</form>
+</div>
+
+
+        <!-- 配置内容 -->
+	    <div>
+
+			<div style="min-height: 200px; margin-top: 15px; padding: 16px; border: 1px solid rgb(185, 203, 151); background-color: rgb(244, 251, 226);" id="adanjuke_zoneid_proplist_002"><iframe width="200" scrolling="no" height="200" frameborder="0" id="baidu_ads_slot_iframe_adanjuke_zoneid_proplist_002" marginwidth="0" marginheight="0" src="http://cpro.baidu.com/cpro/ui/uijs.php?tu=127018&amp;tn=text_default_200_200&amp;n=anjukeadaccount_cpr&amp;rsi1=200&amp;rsi0=200&amp;rad=&amp;rss0=%23FFFFFF&amp;rss1=%23FFFFFF&amp;rss2=%230000FF&amp;rss3=%23444444&amp;rss4=%23008000&amp;rss5=&amp;rss6=%23e10900&amp;rsi5=4&amp;ts=1&amp;at=6&amp;ch=0&amp;cad=1&amp;aurl=&amp;rss7=&amp;cpa=1&amp;fv=11&amp;cn=1&amp;if=16&amp;word=http%3A%2F%2Fcs.anjuke.com%2Fsale%2Fp8&amp;refer=http%3A%2F%2Fcs.anjuke.com%2Fsale%2F&amp;ready=1&amp;jk=ffb1321afe695607&amp;jn=3&amp;lmt=1339742832&amp;csp=1680,1050&amp;csn=1680,1020&amp;ccd=24&amp;chi=12&amp;cja=false&amp;cpl=22&amp;cmi=85&amp;cce=true&amp;csl=zh-CN&amp;did=1&amp;rt=13&amp;dt=1339742836&amp;ev=33554432&amp;c01=0&amp;prt=1339742835589"></iframe></div>
+	
+<div class="compassbox">
+  <h3 style="font-size:14px"><span style="float: right; font-size: 12px; font-weight: normal; margin-right: 10px;"><a target="_blank" href="http://www.anjuke.com/v2/ask">更多&gt;&gt;</a></span>热门房产问答</h3>
+
+    <!--从这里开始修改-->
+  <ul>
+    <li><a target="_blank" href="http://my.anjuke.com/ask/view/718392">无力还贷可否赔偿后退房，未交房？</a></li>
+    <li><a target="_blank" href="http://shanghai.anjuke.com/ask"><font color="red">房产政策问题，专家在线解答</font></a></li>
+    <li><a target="blank" href="http://my.anjuke.com/ask/view/493084">二手房交易基本流程？</a></li>
+    <li><a target="_blank" href="http://my.anjuke.com/ask/view/694779">未成年人拥有的房产能否过户？</a></li>
+    <li><a target="_blank" href="http://my.anjuke.com/consult/apply"><font color="red">【安居客问答】招募房产贷款顾问中</font></a></li>
+    <li><a target="blank" href="http://my.anjuke.com/ask/view/694290">一个房产两套产证拆迁后问题</a></li>
+    <li><a target="_blank" href="http://my.anjuke.com/ask/view/720345">房产公证给婆婆有效吗？</a></li>
+    <li><a target="_blank" href="http://my.anjuke.com/ask/view/703817">企业过户给个人如何操作？</a></li>  </ul>
+  <!--结束修改-->
+  <div class="dibox"></div>
+</div><div style="border:none" class="compassbox">
+</div>
+
+<div class="compassbox">
+<h3 style="font-size:14px"><span style="float: right; font-size: 12px; font-weight: normal; margin-right: 10px;"><a target="_blank" href="http://bbs.anjuke.com/group/">更多&gt;&gt;</a></span>社区热门话题</h3>
+
+<ul>
+
+<li><a target="_blank" href="http://bbs.anjuke.com/group/topic/1918141"><font color="red">找房日记：宣泄找房酸甜苦辣的地方</font></a></li>
+
+<li><a target="_blank" href="http://bbs.anjuke.com/group/topic/1931666">贺午之未、Canwen获活动周最佳</a></li>
+
+<li><a target="_blank" href="http://bbs.anjuke.com/group/43/topic/1335712">大胆预测：2012年4-5月房价将止跌</a></li>	
+
+<li><a target="_blank" href="http://bbs.anjuke.com/group/43/topic/1528737">分析一下某些人鼓吹的所谓日光盘</a></li>
+
+<li><a target="_blank" href="http://bbs.anjuke.com/group/43/topic/1403948">盼望房价下跌的人，老是痴人做梦</a></li>
+	
+<li><a target="_blank" href="http://bbs.anjuke.com/group/43/topic/1529713"><font color="red">小道消息，关于房产税，必须看！</font></a></li>  
+
+<li><a target="blank" href="http://bbs.anjuke.com/group/43/topic/1366792">房价跌了，请看房地产成交数据</a></li>
+
+
+<li><a target="_blank" href="http://bbs.anjuke.com/group/43/topic/1353917">房价下跌的苦果为什么要房奴来背</a></li>
+
+
+</ul><div class="dibox"></div></div>
+			<div style="min-height: 200px; margin-top: 15px; padding: 16px; border: 1px solid rgb(185, 203, 151); background-color: rgb(244, 251, 226);" id="adanjuke_zoneid_proplist_003"><iframe width="200" scrolling="no" height="200" frameborder="0" id="baidu_ads_slot_iframe_adanjuke_zoneid_proplist_003" marginwidth="0" marginheight="0"></iframe></div>
+	
+</div>        <div class="clear"></div>
+</div>
+
+
+<div style="clear:both"></div>
+        <div style="clear:both;margin: 15px 0 15px 0px;" id="IFX_p9"><div style="border:1px solid #e6e6e6;border-radius:5px;background:#f6f6f6;padding:0 0 5px 0;width:970px; ">    <div style="font-weight:700;padding:14px 0 5px 21px;font-size:14px;">        您可能感兴趣的新房:    </div>    <div style="padding:0 0 0 21px;">        <div style="width:189px;float:left;overflow:hidden;">                <div style="width:150px; height:190px;text-align:center;">                    <div style="width:149px;height:116px;margin:0 auto;border:1px solid #c3c3c3;overflow:hidden;position:relative;">                                                    <div style="width:52px;height:21px;position:absolute;right:4px;top:4px;"></div>                                                <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F238260.html%3Fifx%3Dp9a0c27r0m0">                            <img width="141" height="108" style="border:4px solid #fff;width:141px; height:108px;" src="http://c.pic1.ajkimg.com/display/aifang/fae888b28bc1fcfb376dd9c9c65120e5/141x108c.jpg" alt="">                        </a>                    </div>                    <div style="font-size:14px;line-height:22px;height:22px;overflow:hidden;"><a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F238260.html%3Fifx%3Dp9a0c27r0m0">鸿基橄榄君庭</a></div>                    <div style="font-size:12px;line-height:20px;height:20px;overflow:hidden;color:#f06100;font-weight:700;">7300元/平米                    </div>                    <div style="font-size:12px;line-height:20px;height:20px;overflow:hidden;"><a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F238260.html%3Fifx%3Dp9a0c27r0m0#ditu">地图</a> - <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F238260.html%3Fifx%3Dp9a0c27r0m0#huxing">户型图</a> - <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F238260.html%3Fifx%3Dp9a0c27r0m0#xiangce">相册</a></div>                </div>        </div>        <div style="width:189px;float:left;overflow:hidden;">                <div style="width:150px; height:190px;text-align:center;">                    <div style="width:149px;height:116px;margin:0 auto;border:1px solid #c3c3c3;overflow:hidden;position:relative;">                                                    <div style="width:56px;height:20px;position:absolute;right:4px;top:4px;background:url(http://pages.aifcdn.com/img/afglobal/ajkad/1/dz.png);"></div>                                                <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F237994.html%3Fifx%3Dp9a0c27r0m0">                            <img width="141" height="108" style="border:4px solid #fff;width:141px; height:108px;" src="http://b.pic1.ajkimg.com/display/aifang/534ed547689083c9a73c9ac691f7678f/141x108c.jpg" alt="">                        </a>                    </div>                    <div style="font-size:14px;line-height:22px;height:22px;overflow:hidden;"><a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F237994.html%3Fifx%3Dp9a0c27r0m0">恒大城</a></div>                    <div style="font-size:12px;line-height:20px;height:20px;overflow:hidden;color:#f06100;font-weight:700;">5380元/平米                    </div>                    <div style="font-size:12px;line-height:20px;height:20px;overflow:hidden;"><a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F237994.html%3Fifx%3Dp9a0c27r0m0#ditu">地图</a> - <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F237994.html%3Fifx%3Dp9a0c27r0m0#huxing">户型图</a> - <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F237994.html%3Fifx%3Dp9a0c27r0m0#xiangce">相册</a></div>                </div>        </div>        <div style="width:189px;float:left;overflow:hidden;">                <div style="width:150px; height:190px;text-align:center;">                    <div style="width:149px;height:116px;margin:0 auto;border:1px solid #c3c3c3;overflow:hidden;position:relative;">                                                    <div style="width:52px;height:21px;position:absolute;right:4px;top:4px;"></div>                                                <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F240591.html%3Fifx%3Dp9a0c27r0m0">                            <img width="141" height="108" style="border:4px solid #fff;width:141px; height:108px;" src="http://d.pic1.ajkimg.com/display/aifang/7c9a8c5de5ebd0ca7b2326f96fc3e5f2/141x108c.jpg" alt="">                        </a>                    </div>                    <div style="font-size:14px;line-height:22px;height:22px;overflow:hidden;"><a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F240591.html%3Fifx%3Dp9a0c27r0m0">芙蓉国里</a></div>                    <div style="font-size:12px;line-height:20px;height:20px;overflow:hidden;color:#f06100;font-weight:700;">3680元/平米                    </div>                    <div style="font-size:12px;line-height:20px;height:20px;overflow:hidden;"><a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F240591.html%3Fifx%3Dp9a0c27r0m0#ditu">地图</a> - <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F240591.html%3Fifx%3Dp9a0c27r0m0#huxing">户型图</a> - <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F240591.html%3Fifx%3Dp9a0c27r0m0#xiangce">相册</a></div>                </div>        </div>        <div style="width:189px;float:left;overflow:hidden;">                <div style="width:150px; height:190px;text-align:center;">                    <div style="width:149px;height:116px;margin:0 auto;border:1px solid #c3c3c3;overflow:hidden;position:relative;">                                                    <div style="width:56px;height:20px;position:absolute;right:4px;top:4px;background:url(http://pages.aifcdn.com/img/afglobal/ajkad/1/kp.png);"></div>                                                <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F245156.html%3Fifx%3Dp9a0c27r0m0">                            <img width="141" height="108" style="border:4px solid #fff;width:141px; height:108px;" src="http://b.pic1.ajkimg.com/display/aifang/50e717cd4691806b3d6c1a82e6ea7bf2/141x108c.jpg" alt="">                        </a>                    </div>                    <div style="font-size:14px;line-height:22px;height:22px;overflow:hidden;"><a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F245156.html%3Fifx%3Dp9a0c27r0m0">京投银泰环球村</a></div>                    <div style="font-size:12px;line-height:20px;height:20px;overflow:hidden;color:#f06100;font-weight:700;">4900元/平米                    </div>                    <div style="font-size:12px;line-height:20px;height:20px;overflow:hidden;"><a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F245156.html%3Fifx%3Dp9a0c27r0m0#ditu">地图</a> - <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F245156.html%3Fifx%3Dp9a0c27r0m0#huxing">户型图</a> - <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F245156.html%3Fifx%3Dp9a0c27r0m0#xiangce">相册</a></div>                </div>        </div>        <div style="width:189px;float:left;overflow:hidden;">                <div style="width:150px; height:190px;text-align:center;">                    <div style="width:149px;height:116px;margin:0 auto;border:1px solid #c3c3c3;overflow:hidden;position:relative;">                                                    <div style="width:56px;height:20px;position:absolute;right:4px;top:4px;background:url(http://pages.aifcdn.com/img/afglobal/ajkad/1/dz.png);"></div>                                                <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F238039.html%3Fifx%3Dp9a0c27r0m0">                            <img width="141" height="108" style="border:4px solid #fff;width:141px; height:108px;" src="http://b.pic1.ajkimg.com/display/aifang/54795ce88205bd84da3769eb556719a4/141x108c.jpg" alt="">                        </a>                    </div>                    <div style="font-size:14px;line-height:22px;height:22px;overflow:hidden;"><a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F238039.html%3Fifx%3Dp9a0c27r0m0">蝴蝶谷</a></div>                    <div style="font-size:12px;line-height:20px;height:20px;overflow:hidden;color:#f06100;font-weight:700;">4150元/平米                    </div>                    <div style="font-size:12px;line-height:20px;height:20px;overflow:hidden;"><a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F238039.html%3Fifx%3Dp9a0c27r0m0#ditu">地图</a> - <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F238039.html%3Fifx%3Dp9a0c27r0m0#huxing">户型图</a> - <a target="_blank" href="http://ifx.aifang.com/c?a=0&amp;u=http%3A%2F%2Fcs.aifang.com%2Floupan%2F238039.html%3Fifx%3Dp9a0c27r0m0#xiangce">相册</a></div>                </div>        </div>        <div style="clear:both;font-size:0.1em;"></div>    </div></div></div>
+</div>
+<script defer="" type="text/javascript" id="aifang_ad_loading" src="http://ifx.aifang.com/s?p=16&amp;c=27&amp;o=1"></script>
+
+    </div>
+    <div style="clear:both;"></div>
+    <div id="footer">
+        <div style="COLOR: #999; LINE-HEIGHT: 2em; BORDER-BOTTOM: #ADC869 3px solid; TEXT-ALIGN: center">安居客长沙二手房房产网,即时发布最新的长沙二手房相关房源和价格行情,每日提供数万条真实有效的长沙二手房转让/出售和交易信息。</div> 
+    <div class="footerLinkpack">
+
+<!-- 如果选择了区域 -->
+<!-- 未选择区域 -->
+        <div class="footerLinkTitle">
+    长沙二手房相关信息
+    </div>
+
+
+    <div class="footerLink">
+    <a href="/map/sale/">长沙地图找房</a>&nbsp;&nbsp;
+    <a href="/community/">长沙房价</a>&nbsp;&nbsp;
+            <a href="http://cs.aifang.com">长沙新房</a>&nbsp;&nbsp;
+        
+    <a target="_blank" href="http://cs.anjuke.com/rental/">长沙租房</a>&nbsp;&nbsp;
+    <a href="/tycoon/">长沙房产经纪人店铺</a>
+    
+        </div>
+
+
+
+    <div class="footerLinkTitle">
+        长沙热门区域二手房
+    </div>
+
+    <div class="footerLink">
+            <a href="http://cs.anjuke.com/sale/yuelu/">岳麓二手房</a>&nbsp;&nbsp;
+            <a href="http://cs.anjuke.com/sale/tianxin/">天心二手房</a>&nbsp;&nbsp;
+            <a href="http://cs.anjuke.com/sale/yuhuah/">雨花二手房</a>&nbsp;&nbsp;
+            <a href="http://cs.anjuke.com/sale/kaifu/">开福二手房</a>&nbsp;&nbsp;
+            <a href="http://cs.anjuke.com/sale/furong/">芙蓉二手房</a>&nbsp;&nbsp;
+            <a href="http://cs.anjuke.com/sale/xingsha/">星沙二手房</a>&nbsp;&nbsp;
+            <a href="http://cs.anjuke.com/sale/zhoubianxianshic/">周边县市二手房</a>&nbsp;&nbsp;
+        </div>
+
+    <div class="footerLinkTitle">
+        其他城市二手房
+    </div>
+
+    <!-- 列出其他几个城市的二手房 -->
+    <div class="footerLink">
+            <a href="http://shanghai.anjuke.com/sale/">上海二手房</a>&nbsp;&nbsp;
+            <a href="http://guangzhou.anjuke.com/sale/">广州二手房</a>&nbsp;&nbsp;
+            <a href="http://shenzhen.anjuke.com/sale/">深圳二手房</a>&nbsp;&nbsp;
+            <a href="http://beijing.anjuke.com/sale/">北京二手房</a>&nbsp;&nbsp;
+            <a href="http://chengdu.anjuke.com/sale/">成都二手房</a>&nbsp;&nbsp;
+            <a href="http://nanjing.anjuke.com/sale/">南京二手房</a>&nbsp;&nbsp;
+            <a href="http://tianjin.anjuke.com/sale/">天津二手房</a>&nbsp;&nbsp;
+                        <div style="display:none" id="cities">
+                                <a href="http://suzhou.anjuke.com/sale/">苏州二手房</a>&nbsp;&nbsp;
+                                <a href="http://chongqing.anjuke.com/sale/">重庆二手房</a>&nbsp;&nbsp;
+                                <a href="http://dalian.anjuke.com/sale/">大连二手房</a>&nbsp;&nbsp;
+                                <a href="http://wuhan.anjuke.com/sale/">武汉二手房</a>&nbsp;&nbsp;
+                                <a href="http://jinan.anjuke.com/sale/">济南二手房</a>&nbsp;&nbsp;
+                                <a href="http://foshan.anjuke.com/sale/">佛山二手房</a>&nbsp;&nbsp;
+                                <a href="http://wuxi.anjuke.com/sale/">无锡二手房</a>&nbsp;&nbsp;
+                                <a href="http://zhengzhou.anjuke.com/sale/">郑州二手房</a>&nbsp;&nbsp;
+                                <a href="http://qd.anjuke.com/sale/">青岛二手房</a>&nbsp;&nbsp;
+                                <a href="http://xa.anjuke.com/sale/">西安二手房</a>&nbsp;&nbsp;
+                                <a href="http://nb.anjuke.com/sale/">宁波二手房</a>&nbsp;&nbsp;
+                                <a href="http://hf.anjuke.com/sale/">合肥二手房</a>&nbsp;&nbsp;
+                                <a href="http://dg.anjuke.com/sale/">东莞二手房</a>&nbsp;&nbsp;
+                                <a href="http://fz.anjuke.com/sale/">福州二手房</a>&nbsp;&nbsp;
+                                <a href="http://km.anjuke.com/sale/">昆明二手房</a>&nbsp;&nbsp;
+                                <a href="http://gy.anjuke.com/sale/">贵阳二手房</a>&nbsp;&nbsp;
+                                <a href="http://ty.anjuke.com/sale/">太原二手房</a>&nbsp;&nbsp;
+                                <a href="http://sy.anjuke.com/sale/">沈阳二手房</a>&nbsp;&nbsp;
+                                <a href="http://ks.anjuke.com/sale/">昆山二手房</a>&nbsp;&nbsp;
+                                <a href="http://nc.anjuke.com/sale/">南昌二手房</a>&nbsp;&nbsp;
+                                <a href="http://zh.anjuke.com/sale/">珠海二手房</a>&nbsp;&nbsp;
+                                <a href="http://cz.anjuke.com/sale/">常州二手房</a>&nbsp;&nbsp;
+                                <a href="http://zs.anjuke.com/sale/">中山二手房</a>&nbsp;&nbsp;
+                                <a href="http://jx.anjuke.com/sale/">嘉兴二手房</a>&nbsp;&nbsp;
+                                <a href="http://xm.anjuke.com/sale/">厦门二手房</a>&nbsp;&nbsp;
+                                <a href="http://yt.anjuke.com/sale/">烟台二手房</a>&nbsp;&nbsp;
+                                <a href="http://haikou.anjuke.com/sale/">海口二手房</a>&nbsp;&nbsp;
+                                <a href="http://cc.anjuke.com/sale/">长春二手房</a>&nbsp;&nbsp;
+                                <a href="http://sanya.anjuke.com/sale/">三亚二手房</a>&nbsp;&nbsp;
+                                <a href="http://huizhou.anjuke.com/sale/">惠州二手房</a>&nbsp;&nbsp;
+                                <a href="http://baoding.anjuke.com/sale/">保定二手房</a>&nbsp;&nbsp;
+                                <a href="http://guilin.anjuke.com/sale/">桂林二手房</a>&nbsp;&nbsp;
+                                <a href="http://handan.anjuke.com/sale/">邯郸二手房</a>&nbsp;&nbsp;
+                                <a href="http://jilin.anjuke.com/sale/">吉林二手房</a>&nbsp;&nbsp;
+                                <a href="http://lanzhou.anjuke.com/sale/">兰州二手房</a>&nbsp;&nbsp;
+                                <a href="http://langfang.anjuke.com/sale/">廊坊二手房</a>&nbsp;&nbsp;
+                                <a href="http://luoyang.anjuke.com/sale/">洛阳二手房</a>&nbsp;&nbsp;
+                                <a href="http://mianyang.anjuke.com/sale/">绵阳二手房</a>&nbsp;&nbsp;
+                                <a href="http://nanning.anjuke.com/sale/">南宁二手房</a>&nbsp;&nbsp;
+                                <a href="http://nantong.anjuke.com/sale/">南通二手房</a>&nbsp;&nbsp;
+                                <a href="http://quanzhou.anjuke.com/sale/">泉州二手房</a>&nbsp;&nbsp;
+                                <a href="http://shaoxing.anjuke.com/sale/">绍兴二手房</a>&nbsp;&nbsp;
+                                <a href="http://taizhou.anjuke.com/sale/">泰州二手房</a>&nbsp;&nbsp;
+                                <a href="http://tangshan.anjuke.com/sale/">唐山二手房</a>&nbsp;&nbsp;
+                                <a href="http://weihai.anjuke.com/sale/">威海二手房</a>&nbsp;&nbsp;
+                                <a href="http://weifang.anjuke.com/sale/">潍坊二手房</a>&nbsp;&nbsp;
+                                <a href="http://xuzhou.anjuke.com/sale/">徐州二手房</a>&nbsp;&nbsp;
+                                <a href="http://yangzhou.anjuke.com/sale/">扬州二手房</a>&nbsp;&nbsp;
+                                <a href="http://yichang.anjuke.com/sale/">宜昌二手房</a>&nbsp;&nbsp;
+                                <a href="http://yinchuan.anjuke.com/sale/">银川二手房</a>&nbsp;&nbsp;
+                                <a href="http://zhenjiang.anjuke.com/sale/">镇江二手房</a>&nbsp;&nbsp;
+                                <a href="http://sjz.anjuke.com/sale/">石家庄二手房</a>&nbsp;&nbsp;
+                                <a href="http://heb.anjuke.com/sale/">哈尔滨二手房</a>&nbsp;&nbsp;
+                                <a href="http://qinhuangdao.anjuke.com/sale/">秦皇岛二手房</a>&nbsp;&nbsp;
+                                <a href="http://huhehaote.anjuke.com/sale/">呼和浩特二手房</a>&nbsp;&nbsp;
+                </div>
+            <a style="display:inline;" class="showcitymore" id="showcitymore" href="javascript:void(0);">更多城市二手房</a>
+            <a style="display:none;" class="hiddencitymore" id="hiddencitymore" href="javascript:void(0);">收起更多城市列表</a>
+    </div>
+   <div class="footerLinkTitle">
+        	相关小区推荐
+    </div>
+
+    <div class="footerLink">
+            <a target="_blank" href="http://shanghai.anjuke.com/community/view/2454">栖山苑</a>&nbsp;&nbsp;
+            <a target="_blank" href="http://shanghai.anjuke.com/community/view/2472">光启公寓</a>&nbsp;&nbsp;
+            <a target="_blank" href="http://shanghai.anjuke.com/community/view/2476">龙恒路260弄</a>&nbsp;&nbsp;
+            <a target="_blank" href="http://shanghai.anjuke.com/community/view/2446">江宁路936弄</a>&nbsp;&nbsp;
+            <a target="_blank" href="http://shanghai.anjuke.com/community/view/2450">龙华路968弄</a>&nbsp;&nbsp;
+            <a target="_blank" href="http://shanghai.anjuke.com/community/view/2464">天钥桥路1121弄</a>&nbsp;&nbsp;
+            <a target="_blank" href="http://shanghai.anjuke.com/community/view/2451">龙华路2373弄</a>&nbsp;&nbsp;
+            <a target="_blank" href="http://shanghai.anjuke.com/community/view/2473">优化小区</a>&nbsp;&nbsp;
+        </div>
+
+    </div>
+
+<br clear="all">
+
+<div></div>
+<div style="clear:left;"></div>
+<div style="text-align:center;padding-top:8px;border-top:1px #E0E0E0 solid" id="topic">
+      <span class="link_span"><a rel="nofollow" href="http://cs.anjuke.com/help/question/1">关于我们</a></span>|
+      <span class="link_span"><a rel="nofollow" href="http://cs.anjuke.com/help/type/256">媒体报道</a></span>|
+      <span class="link_span"><a rel="nofollow" href="http://job.anjuke.com/">人才招聘</a></span>|
+      <span class="link_span"><a rel="nofollow" href="http://cs.anjuke.com/help/question/4">联系我们</a></span>|
+      <span class="link_span"><a rel="nofollow" href="http://cs.anjuke.com/help/question/7">用户协议</a></span>|
+      <span class="link_span"><a rel="nofollow" href="http://cs.anjuke.com/help">使用帮助</a></span>|
+      <span class="link_span"><a rel="nofollow" href="http://cs.anjuke.com/friendlink">友情链接</a></span>|
+      <span class="link_span"><a rel="nofollow" href="http://cs.anjuke.com/sitemap/">网站地图</a></span>|
+      <span class="link_span"><a rel="nofollow" id="show_city_list" href="javascript:;">其它城市</a></span>|
+      <span class="link_span"><a href="http://cs.anjuke.com/community/hot/">热门小区</a></span>|
+      <span class="link_span"><a href="http://cs.anjuke.com/fang/">最新房源</a></span>|
+      <span class="link_span"><a href="http://cs.anjuke.com/wenti/">最新问答</a></span>
+</div>
+<div style="clear:left;"></div>
+<div style="display:none;" id="city_list">
+	<ul>
+            <li><a href="http://shanghai.anjuke.com/">上海二手房</a></li>
+            <li><a href="http://guangzhou.anjuke.com/">广州二手房</a></li>
+            <li><a href="http://shenzhen.anjuke.com/">深圳二手房</a></li>
+            <li><a href="http://beijing.anjuke.com/">北京二手房</a></li>
+            <li><a href="http://chengdu.anjuke.com/">成都二手房</a></li>
+            <li><a href="http://nanjing.anjuke.com/">南京二手房</a></li>
+            <li><a href="http://tianjin.anjuke.com/">天津二手房</a></li>
+            <li><a href="http://hangzhou.anjuke.com/">杭州二手房</a></li>
+            <li><a href="http://suzhou.anjuke.com/">苏州二手房</a></li>
+            <li><a href="http://chongqing.anjuke.com/">重庆二手房</a></li>
+            <li><a href="http://dalian.anjuke.com/">大连二手房</a></li>
+            <li><a href="http://wuhan.anjuke.com/">武汉二手房</a></li>
+            <li><a href="http://jinan.anjuke.com/">济南二手房</a></li>
+            <li><a href="http://foshan.anjuke.com/">佛山二手房</a></li>
+            <li><a href="http://wuxi.anjuke.com/">无锡二手房</a></li>
+            <li><a href="http://zhengzhou.anjuke.com/">郑州二手房</a></li>
+            <li><a href="http://qd.anjuke.com/">青岛二手房</a></li>
+            <li><a href="http://xa.anjuke.com/">西安二手房</a></li>
+            <li><a href="http://nb.anjuke.com/">宁波二手房</a></li>
+            <li><a href="http://hf.anjuke.com/">合肥二手房</a></li>
+            <li><a href="http://dg.anjuke.com/">东莞二手房</a></li>
+            <li><a href="http://fz.anjuke.com/">福州二手房</a></li>
+            <li><a href="http://km.anjuke.com/">昆明二手房</a></li>
+            <li><a href="http://gy.anjuke.com/">贵阳二手房</a></li>
+            <li><a href="http://ty.anjuke.com/">太原二手房</a></li>
+            <li><a href="http://sy.anjuke.com/">沈阳二手房</a></li>
+            <li><a href="http://ks.anjuke.com/">昆山二手房</a></li>
+            <li><a href="http://nc.anjuke.com/">南昌二手房</a></li>
+            <li><a href="http://zh.anjuke.com/">珠海二手房</a></li>
+            <li><a href="http://cz.anjuke.com/">常州二手房</a></li>
+            <li><a href="http://zs.anjuke.com/">中山二手房</a></li>
+            <li><a href="http://jx.anjuke.com/">嘉兴二手房</a></li>
+            <li><a href="http://xm.anjuke.com/">厦门二手房</a></li>
+            <li><a href="http://yt.anjuke.com/">烟台二手房</a></li>
+            <li><a href="http://haikou.anjuke.com/">海口二手房</a></li>
+            <li><a href="http://cc.anjuke.com/">长春二手房</a></li>
+            <li><a href="http://sanya.anjuke.com/">三亚二手房</a></li>
+            <li><a href="http://huizhou.anjuke.com/">惠州二手房</a></li>
+            <li><a href="http://baoding.anjuke.com/">保定二手房</a></li>
+            <li><a href="http://guilin.anjuke.com/">桂林二手房</a></li>
+            <li><a href="http://handan.anjuke.com/">邯郸二手房</a></li>
+            <li><a href="http://jilin.anjuke.com/">吉林二手房</a></li>
+            <li><a href="http://lanzhou.anjuke.com/">兰州二手房</a></li>
+            <li><a href="http://langfang.anjuke.com/">廊坊二手房</a></li>
+            <li><a href="http://luoyang.anjuke.com/">洛阳二手房</a></li>
+            <li><a href="http://mianyang.anjuke.com/">绵阳二手房</a></li>
+            <li><a href="http://nanning.anjuke.com/">南宁二手房</a></li>
+            <li><a href="http://nantong.anjuke.com/">南通二手房</a></li>
+            <li><a href="http://quanzhou.anjuke.com/">泉州二手房</a></li>
+            <li><a href="http://shaoxing.anjuke.com/">绍兴二手房</a></li>
+            <li><a href="http://taizhou.anjuke.com/">泰州二手房</a></li>
+            <li><a href="http://tangshan.anjuke.com/">唐山二手房</a></li>
+            <li><a href="http://weihai.anjuke.com/">威海二手房</a></li>
+            <li><a href="http://weifang.anjuke.com/">潍坊二手房</a></li>
+            <li><a href="http://xuzhou.anjuke.com/">徐州二手房</a></li>
+            <li><a href="http://yangzhou.anjuke.com/">扬州二手房</a></li>
+            <li><a href="http://yichang.anjuke.com/">宜昌二手房</a></li>
+            <li><a href="http://yinchuan.anjuke.com/">银川二手房</a></li>
+            <li><a href="http://zhenjiang.anjuke.com/">镇江二手房</a></li>
+            <li><a href="http://sjz.anjuke.com/">石家庄二手房</a></li>
+            <li><a href="http://heb.anjuke.com/">哈尔滨二手房</a></li>
+            <li><a href="http://qinhuangdao.anjuke.com/">秦皇岛二手房</a></li>
+            <li><a href="http://huhehaote.anjuke.com/">呼和浩特二手房</a></li>
+        </ul>
+</div>
+<div class="friendlinks">
+	<a rel="nofollow" target="_blank" href="http://pages.anjuke.com/about/anjuke_inc.html">安居客集团：</a><a href="http://www.anjuke.com">安居客</a>
+	<span>|</span>
+	<a target="_blank" href="http://www.aifang.com">爱房网</a>
+	<span>|</span>
+	<a target="_blank" href="http://www.haozu.com">好租</a>		
+        <span>|</span>
+        <a target="_blank" href="http://www.jinpu.com">金铺</a>
+	<span style="margin-left:20px;"><a target="_blank" href="http://cs.anjuke.com/letters/A/">A </a><a target="_blank" href="http://cs.anjuke.com/letters/B/">B </a><a target="_blank" href="http://cs.anjuke.com/letters/C/">C </a><a target="_blank" href="http://cs.anjuke.com/letters/D/">D </a><a target="_blank" href="http://cs.anjuke.com/letters/E/">E </a><a target="_blank" href="http://cs.anjuke.com/letters/F/">F </a><a target="_blank" href="http://cs.anjuke.com/letters/G/">G </a><a target="_blank" href="http://cs.anjuke.com/letters/H/">H </a><a target="_blank" href="http://cs.anjuke.com/letters/I/">I </a><a target="_blank" href="http://cs.anjuke.com/letters/J/">J </a><a target="_blank" href="http://cs.anjuke.com/letters/K/">K </a><a target="_blank" href="http://cs.anjuke.com/letters/L/">L </a><a target="_blank" href="http://cs.anjuke.com/letters/M/">M </a><a target="_blank" href="http://cs.anjuke.com/letters/N/">N </a><a target="_blank" href="http://cs.anjuke.com/letters/O/">O </a><a target="_blank" href="http://cs.anjuke.com/letters/P/">P </a><a target="_blank" href="http://cs.anjuke.com/letters/Q/">Q </a><a target="_blank" href="http://cs.anjuke.com/letters/R/">R </a><a target="_blank" href="http://cs.anjuke.com/letters/S/">S </a><a target="_blank" href="http://cs.anjuke.com/letters/T/">T </a><a target="_blank" href="http://cs.anjuke.com/letters/U/">U </a><a target="_blank" href="http://cs.anjuke.com/letters/V/">V </a><a target="_blank" href="http://cs.anjuke.com/letters/W/">W </a><a target="_blank" href="http://cs.anjuke.com/letters/X/">X </a><a target="_blank" href="http://cs.anjuke.com/letters/Y/">Y </a><a target="_blank" href="http://cs.anjuke.com/letters/Z/">Z </a><a target="_blank" href="http://cs.anjuke.com/letters/1/">1 </a><a target="_blank" href="http://cs.anjuke.com/letters/2/">2 </a><a target="_blank" href="http://cs.anjuke.com/letters/3/">3 </a><a target="_blank" href="http://cs.anjuke.com/letters/4/">4 </a><a target="_blank" href="http://cs.anjuke.com/letters/5/">5 </a><a target="_blank" href="http://cs.anjuke.com/letters/6/">6 </a><a target="_blank" href="http://cs.anjuke.com/letters/7/">7 </a><a target="_blank" href="http://cs.anjuke.com/letters/8/">8 </a><a target="_blank" href="http://cs.anjuke.com/letters/9/">9 </a><a target="_blank" href="http://cs.anjuke.com/letters/0/">0 </a></span>
+	<span style="margin-left:5px;"><a target="_blank" href="http://www.anjuke.com/calculator/loan">房贷计算器</a></span>
+</div>
+<div class="bottom_div">
+        <span class="bottom_span">
+            瑞庭网络技术（上海）有限公司&nbsp;&nbsp;&nbsp;&nbsp;客服热线：400-620-9008&nbsp;&nbsp;&nbsp;&nbsp;
+            邮箱：<a rel="nofollow" target="_blank" href="mailto:service@anjuke.com"><img src="http://pages.anjukestatic.com/img/foot/email.gif"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            虚假信息举报：400-620-9008
+        </span>
+        <br>
+        <span class="bottom_span2">
+            Copyright &copy; 2007-2012 www.anjuke.com  All Rights Reserved <a rel="nofollow" href="http://www.miibeian.gov.cn/">ICP号：沪&nbsp;B2-20090008</a>
+        </span>
+</div>
+<div style="clear:left;">
+<div style="height:50px;"></div>
+
+</div>
+
+<!-- m=app10-015-->
+    </div>
+</div>
+	
+	
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='http://s.anjuke.com/aa.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript" src="http://s.anjuke.com/aa.js"></script>
+	
+    <script type="text/javascript">
+    try {
+    var st = new SiteTracker("anjuke");
+    st.setPage("Listing_Property_SearchSaleNewPage");
+    st.setPageName("Anjuke_Listing_Property");
+    st.setReferer(document.referrer);
+    st.setNGuid("aQQ_ajkguid");
+    st.setNUid("ajk_mem_id");
+
+    var jsonTag="";
+    
+    if(window!=parent){
+    	st.setCustomParam('iframed');
+    	jsonTag='iframed';
+    }
+
+    jsonTag+='"found":"20197","filter_search_type":"1","keyword_search_type":"","school_id":"","prop_expire":"0"';
+                try{
+    var strCookie=document.cookie; 
+    var arrCookie=strCookie.split("; "); 
+    var userId; 
+    for(var i=0;i&lt;arrCookie.length;i++){ 
+        var arr=arrCookie[i].split("="); 
+        if("ajk_member_id"==arr[0]){ 
+        userId=arr[1]; 
+        break; 
+        } 
+    } 
+    }catch(ex){userId='';}
+    jsonTag=jsonTag.replace("USERIDJS",userId);
+			
+    var cp = '{'+jsonTag+'}';
+    st.setCustomParam(cp);
+    
+    st.track();
+    } catch (err) {}
+    </script>
+
+
+	<script src="http://pages.anjukestatic.com/js/prototype-1.6.0.3/prototype_gather_packed.js" type="text/javascript"></script>
+<script src="http://include.anjukestatic.com/anjuke/res/h/8806fc88371293a6e7054ea727d371ea.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+new anjuke.global.header.CitySelector('switch_apf_id_7', 'city-panel', 500);
+$('switch_apf_id_7').href="javascript:;";
+
+	new anjuke.global.header.LoginPanel({
+		'bolAjax' : '1',
+		'loginpanel' : 'ajax_nologin_apf_id_6',
+		'procondbutton' : 'propcond_apf_id_6',
+		'procondcontent' : 'propcond_box_apf_id_6',
+		'rightcontent' : 'right_content_apf_id_6',
+		'procondurl' : 'http://my.anjuke.com/member/manpropcond/',
+		'defuserid' : '0',
+		'defusertype' : '0',
+		'weitoAllow' : '1',
+		'strBaseDomain' : 'anjuke.com',
+		'strIOSParams' : '?from=top'
+	});
+	new anjuke.global.header.SearchBar({
+		'suggesturl'   : '/ajax/autocomplete',
+		'searchform'   : 'apf_id_9_form',
+		'searchtype'   : 'search_type_apf_id_9',
+		'searchkw'     : 'keyword_apf_id_9',
+		'searchbutton' : 'sbtn2_apf_id_9'
+	});
+
+	new function() {
+	    var searchType = '1';
+	    Element.observe(document, 'SearchBar:OptionList', function(event) {
+	        searchType = event.memo;
+	    });
+	    new anjuke.global.search.SearchSuggestion('keyword_apf_id_9', '/ajax/autocomplete', {
+	        onParameters: function(entry) {
+	            var params = entry.toQueryParams();
+	            if (searchType) {
+	                params.c = '27';
+	                params.t = searchType;
+	                params.vr = 1;
+	            }
+	            return Object.toQueryString(params);
+	        },
+	        formid: 'apf_id_9_form'
+	    });
+	}
+
+Event.observe(window,'load',function(){
+	window.regconfirm = new View_Property_Popup_Register('apf_id_11','popup_apf_id_11');
+    setCloseButtonClick('popup_apf_id_11',window.regconfirm);
+    
+    Event.observe('reg_apf_id_10', 'click', function(event) {
+        window.regconfirm.handleCallBack = function(){
+        	eval('propCondSubscribe();');
+        }
+        window.regconfirm.clearForm();
+        window.regconfirm.show();
+        window.regconfirm.rebuildIframe();
+    });
+
+    //点击登录按钮时触发的事件
+    Event.observe('my_register_submit', 'click', function(event) {
+    	window.regconfirm.register();
+    });
+
+    Event.observe('user_login', 'click', function(event) {
+    	window.confirm.show();;
+    	window.regconfirm.hide();
+    });
+    Event.observe('user_login_2', 'click', function(event) {
+    	window.confirm.show();;
+    	window.regconfirm.hide();
+    });
+});
+
+//传递当前登陆框的componentId给外面的component使用
+var initTriggerFn = function(event){
+	var handleResponse = function(transport){
+		var rst = transport.responseJSON;
+		if(rst.userid&gt;0){
+				try{eval('propCondSubscribe();');}catch(ex){alert(ex);}
+					}else{
+    window.confirm = new My_Popup_Login('apf_id_12','popup_apf_id_12');
+    window.confirm.handleCallBack = function(){
+	        			eval('propCondSubscribe();');
+    		    };
+		    confirm.show();
+    if( window.regconfirm) {
+        window.regconfirm.handleCallBack = function(){
+            eval('propCondSubscribe();');
+    		    	}
+    }
+}
+	};
+
+    new Ajax.Request("/ajax/loginbox",{method:"get",parameters:{r:Math.random(),cklogin:1},onSuccess:handleResponse});
+    event.stop();
+    //return false;
+}
+var trigger_id = 'subscribe';
+if(trigger_id.indexOf(',')&gt;0){
+	//多个触发器
+	var trigger_id_arr = trigger_id.split(',');
+	for(var i=0; i&lt;trigger_id_arr.length; i++){
+		Event.observe(trigger_id_arr[i], 'click', initTriggerFn);
+	}
+}else{
+	//单个触发器
+	if($(trigger_id)!=null){
+		Event.observe(trigger_id, 'click', initTriggerFn);
+	}
+}
+
+//点击关闭时触发的事件
+Event.observe('close_apf_id_12', 'click', function(event) {
+	if("" != ''){
+		eval('');
+	}else{
+		return;
+	}
+});
+
+//点击登录按钮时触发的事件
+Event.observe('submit_apf_id_12', 'click', function(event) {
+	confirm.login('username_apf_id_12','password_apf_id_12','apf_id_12');
+});
+Event.observe('password_apf_id_12', 'focus', function(event) {
+	var tip = document.getElementById("password_tip_apf_id_12");
+	if(tip &amp;&amp; tip.innerHTML=='请输入密码') {
+		$("password_tip_apf_id_12").remove();
+	}
+});
+Event.observe('password_tip_apf_id_12', 'mouseover', function(event) {
+	$('password_tip_apf_id_12').setStyle({cursor:'text'});
+});
+Event.observe('password_tip_apf_id_12', 'mousedown', function(event) {
+	var tip = document.getElementById("password_tip_apf_id_12");
+	if(tip &amp;&amp; tip.innerHTML=='请输入密码') {
+		$("password_tip_apf_id_12").remove();
+	}
+	document.getElementById("password_apf_id_12").focus();
+
+});
+Event.observe('register_apf_id_12', 'click', function(event) {
+	   window.confirm.hide();
+	   window.regconfirm.clearForm();
+	   window.regconfirm.show();
+	   window.regconfirm.addIframe();
+	   setCloseButtonClick('popup_apf_id_17',window.regconfirm);
+});
+Event.observe('register2_apf_id_12', 'click', function(event) {
+	   window.confirm.hide();
+	   window.regconfirm.clearForm();
+	   window.regconfirm.show();
+	   window.regconfirm.addIframe();
+	   setCloseButtonClick('popup_apf_id_17',window.regconfirm);
+});
+
+&lt;!--
+try{
+$('close_apf_id_10').observe('click',function(event){
+	$('search_condition_box_apf_id_10').hide();
+});
+$('search_condition_close_apf_id_10').observe('click',function(event){
+	$('search_condition_box_apf_id_10').hide();
+});
+var propCondSubscribe = function(){
+	var response = function(result){
+		if(0==result.responseText){
+			$('search_condition_msg_apf_id_10').innerHTML='成功保存了找房条件！';
+			$('search_condition_tip_apf_id_10').innerHTML='去看看保存的找房条件&amp;gt;&amp;gt;';
+		}else if(2==result.responseText){
+			$('search_condition_msg_apf_id_10').innerHTML='您还未登录！请登录后再保存。';
+			$('search_condition_tip_apf_id_10').innerHTML='登录&amp;gt;&amp;gt;';
+		}else{
+			$('search_condition_msg_apf_id_10').innerHTML='您已经保存过这个条件啦！';
+			$('search_condition_tip_apf_id_10').innerHTML='去看看保存的找房条件&amp;gt;&amp;gt;';
+		}
+	}.bind(this);
+	var params = Form.serialize($('propcondform'))+"&amp;r="+Math.random();
+	var options = {method:"get",onSuccess:response,parameters:params};//{"act":"save"}
+	new Ajax.Request("/aw/ajax/propcond?act=save",options);
+	$('search_condition_box_apf_id_10').show();
+}
+
+new function(){
+	var response = function(result){
+		;
+	}.bind(this);
+	var options = {method:"get",onSuccess:response,parameters:{'r':Math.random()}};
+	new Ajax.Request("/cookie/p8",options);
+};
+}catch(ex){;}
+
+//我的找房条件事件绑定
+var myserchfun = function(){
+	var mysearchbox = $('mysearchbox'),
+	mysearchlist = $('mysearchlist'),
+	mysearchlistbg = $('mysearchlistbg');
+	if(mysearchbox){
+	Event.observe(mysearchbox,'mouseover',function(){
+		this.setStyle({backgroundImage:''});
+		this.removeClassName('mysearchboxbg');
+		mysearchlist.setStyle({display:''});
+		mysearchlistbg.setStyle({display:'block'});
+	});
+	var mouseout = document.attachEvent ? 'mouseleave' : 'mouseout';
+	Event.observe(mysearchbox,mouseout,function(){
+		this.addClassName('mysearchboxbg');
+		mysearchlist.hide();
+		mysearchlistbg.hide();
+	});
+	}
+};
+myserchfun();
+
+//我的找房条件
+var build_mypropcond = function(data,is_all){
+
+	var is_all = is_all?1:0;
+	var arrMyPropCond = [];
+	var strMyPropCondUrl = 'http://my.anjuke.com/member/manpropcond/';
+
+	if(is_all){
+		
+		arrMyPropCond.push('&lt;div id="mysearchbox" class="mysearchbox mysearchboxbg"&gt;');
+		arrMyPropCond.push('&lt;a href="'+strMyPropCondUrl+'" id="mysearchtitle" class="mysearchtitle"&gt;我的找房条件&lt;/a&gt;');
+		arrMyPropCond.push('&lt;div id="mysearchlist" class="mysearchlist" style="display:none;"&gt;&lt;ul&gt;');
+		if(data.length){
+			arrMyPropCond.push('&lt;ul&gt;');
+			for(var i=0;i&lt;data.length;i++){
+				arrMyPropCond.push('&lt;li&gt;&lt;a href="'+data[i].UrlString+'"&gt;'+data[i].SearchContent+'&lt;/a&gt;&lt;/li&gt;');
+            }
+			arrMyPropCond.push('&lt;/ul&gt;');
+		}else{
+			arrMyPropCond.push('&lt;div class="mysearchclear"&gt;您还没有保存过找房条件。&lt;/div&gt;');
+		}
+		arrMyPropCond.push('&lt;p align="right"&gt;&lt;a href="'+strMyPropCondUrl+'"&gt;更多&amp;gt;&amp;gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;');
+		arrMyPropCond.push('&lt;div id="mysearchlistbg" class="mysearchlistbg"&gt;&lt;/div&gt;&lt;/div&gt;');
+	}else{
+		if(data.length){
+			arrMyPropCond.push('&lt;ul&gt;');
+			for(var i=0;i&lt;data.length;i++){
+				arrMyPropCond.push('&lt;li&gt;&lt;a href="'+data[i].UrlString+'"&gt;'+data[i].SearchContent+'&lt;/a&gt;&lt;/li&gt;');
+            }
+			arrMyPropCond.push('&lt;/ul&gt;');
+		}else{
+			arrMyPropCond.push('&lt;div class="mysearchclear"&gt;您还没有保存过找房条件。&lt;/div&gt;');
+		}
+		arrMyPropCond.push('&lt;p align="right"&gt;&lt;a href="'+strMyPropCondUrl+'"&gt;更多&amp;gt;&amp;gt;&lt;/a&gt;&lt;/p&gt;');
+	}
+
+	return arrMyPropCond.join('');
+} 
+
+//--&gt;
+
+&lt;!--
+new function(){
+	var response = function(result){
+		try{
+			var response = eval('('+result.responseText+')');
+			var strMyPropCond = build_mypropcond(response.mypropcond,1);
+			if(!response.prop_condition.content){
+				strHtml='&lt;div class="PropCond" &gt;&lt;span class="title"&gt;上次的找房条件：&lt;/span&gt;&lt;span class="title"&gt;[ 无 ]&lt;/span&gt;'+strMyPropCond+'&lt;/div&gt;';
+			}else{
+				
+				//找房条件
+				var arrPropCond = [];
+
+				arrPropCond.push('&lt;div class="PropCond" &gt;&lt;span class="title"&gt;上次的找房条件：&lt;/span&gt;');
+				arrPropCond.push('&lt;a href="'+response.recent_propcond.url+'" class="specialchars"&gt;[ '+response.recent_propcond.title.escapeHTML()+' ]&lt;/a&gt;');
+				arrPropCond.push('&lt;a class="subscribe" href="#" id="subscribe"&gt;&lt;span class="propcondicon"&gt;&amp;nbsp;&lt;/span&gt;&lt;span class="savepropcond-ion"&gt;订阅该找房条件&lt;/span&gt;&lt;/a&gt;');
+				arrPropCond.push(strMyPropCond);
+
+				if(response.prop_condition.content){
+				for(var k in response.prop_condition.content){
+					arrPropCond.push('&lt;input name="text_'+k+'" type="hidden" value="'+response.prop_condition.content[k].escapeHTML()+'" /&gt;');
+				}
+				}
+
+				arrPropCond.push('&lt;input type="hidden" name="params" value="'+response.json_condition.escapeHTML()+'" /&gt;');
+                    arrPropCond.push('&lt;input type="hidden" name="tradetype" value="1" /&gt;');
+				arrPropCond.push('&lt;input type="hidden" name="submittype" value="1"/&gt;&lt;/div&gt;');
+				strHtml = arrPropCond.join('');
+			}
+			
+			document.getElementById('propcondform').innerHTML = strHtml;
+			myserchfun();
+			
+			$('close_apf_id_10').observe('click',function(event){
+				$('search_condition_box_apf_id_10').hide();
+			});
+			$('search_condition_close_apf_id_10').observe('click',function(event){
+				$('search_condition_box_apf_id_10').hide();
+			});
+			
+			try{
+				$('subscribe').observe('click', function(event){
+					var response = function(result){
+						if(0==result.responseText){
+							$('search_condition_msg_apf_id_10').innerHTML='成功保存了找房条件！';
+							$('search_condition_tip_apf_id_10').innerHTML='去看看保存的找房条件&amp;gt;&amp;gt;';
+						}else if(2==result.responseText){
+							$('search_condition_msg_apf_id_10').innerHTML='您还未登录！请登录后再保存。';
+							$('search_condition_tip_apf_id_10').innerHTML='登录&amp;gt;&amp;gt;';
+						}else{
+							$('search_condition_msg_apf_id_10').innerHTML='您已经保存过这个条件啦！';
+							$('search_condition_tip_apf_id_10').innerHTML='去看看保存的找房条件&amp;gt;&amp;gt;';
+						}
+					}.bind(this);
+					var params = Form.serialize($('propcondform'))+"&amp;r="+Math.random();
+					var options = {method:"get",onSuccess:response,parameters:params};//{"act":"save"}
+					new Ajax.Request("/aw/ajax/propcond?act=save",options);
+					$('search_condition_box_apf_id_10').show();
+					event.stop();
+				});
+			}catch(ex){;}
+			$('fcksearch_apf_id_10').show();
+		}catch(ex){
+			//$('fcksearch_apf_id_10').hide();
+		}
+	}.bind(this);
+	var options = {method:"get",onSuccess:response,parameters:{"act":"fetch_cond","r":Math.random()}};
+	new Ajax.Request("/ajax/propcond",options);
+
+	
+};
+
+
+//--&gt;
+
+    			var pricerange = new anjuke.listing.property.pricecond1('apf_id_13');
+
+				Event.observe(document, 'click', function(event) {
+				    if (typeof pricerange == 'object' &amp;&amp; pricerange != null) {
+				        with (Event.element(event)) {
+				            if (tagName.toLowerCase() != "input") pricerange.hideButton();
+				        }
+				    }
+				});
+			    
+new function() {
+    new anjuke.global.search.SearchSuggestion('resultkw', '/ajax/autocomplete', {
+        onParameters: function(entry) {
+            var params = entry.toQueryParams();
+            params.c = '27';
+            params.t = '1';
+            return Object.toQueryString(params);
+        },
+        formid: 'ls_form_apf_id_14'
+    });
+}
+
+$('apf_id_14_clearup').observe('click', function(o){
+    $('resultkw').value= "";
+});
+
+$('ls_form_apf_id_14').observe('submit', function(o){
+	if('在结果中搜索'==$('resultkw').value)$('resultkw').value= "";
+    return true;
+});
+
+var pkw = $('ls_form_apf_id_14').firstDescendant();
+if (pkw &amp;&amp; pkw.id == 'resultkw') {
+    pkw.observe('click', function(){
+	    if(pkw.className.indexOf('typing')==-1){
+        	if(pkw.className.indexOf('default')==-1){
+        	    pkw.value = '';
+        	}
+        	$('apf_id_14_clearup').removeClassName('clearkw2');
+            pkw.className = 'kw typing';
+        }
+	});
+	pkw.observe('blur', function(){
+	    if(pkw.className=='kw typing' &amp;&amp; pkw.value==''){
+            pkw.value = '在结果中搜索';
+            pkw.className = 'kw';
+            $('apf_id_14_clearup').addClassName('clearkw2');
+        }
+	});
+}
+
+if($('btn_sale_apf_id_16')){
+$('btn_sale_apf_id_16').observe('click', function(o){
+	//set defualt value
+		document.getElementById('ls_form_apf_id_14').innerHTML = document.getElementById('ls_form_apf_id_14').innerHTML + '&lt;input type="checkbox" value="1" name="priceint_down" checked style="display:none"&gt;&lt;input type="checkbox" value="1" name="houseage_down" checked style="display:none"&gt;';
+		if($('resultkw')){
+		$('resultkw').value="在结果中搜索";
+		if("在结果中搜索"==document.getElementById('resultkw').value)document.getElementById('resultkw').value="";
+		try{$('resultkw').focus();}catch(ex){;}
+	}
+	if(document.createEvent){
+	var evt = document.createEvent("MouseEvents");
+	evt.initEvent("click", true, true);
+	document.getElementById('resultkw').dispatchEvent(evt);
+	}else{
+	$('resultkw').click();
+	}
+	document.getElementById('ls_form_apf_id_14').target="_blank";
+	var f_a=document.getElementById('ls_form_apf_id_14').action;
+	document.getElementById('ls_form_apf_id_14').action="http://cs.anjuke.com/sale/mix200-ps30";
+	document.getElementById('ls_form_apf_id_14').submit();
+	document.getElementById('ls_form_apf_id_14').action=f_a;
+	document.getElementById('ls_form_apf_id_14').target="_self";
+	$('resultkw').blur();
+});
+}
+
+					new anjuke.listing.property.PropItem2('prop_1', 'http://cs.anjuke.com/prop/view/111143127');
+					
+					new anjuke.listing.property.PropItem2('prop_2', 'http://cs.anjuke.com/prop/view/116070135');
+					
+					new anjuke.listing.property.PropItem2('prop_3', 'http://cs.anjuke.com/prop/view/112845590');
+					
+					new anjuke.listing.property.PropItem2('prop_4', 'http://cs.anjuke.com/prop/view/114315111');
+					
+					new anjuke.listing.property.PropItem2('prop_5', 'http://cs.anjuke.com/prop/view/113638092');
+					
+					new anjuke.listing.property.PropItem2('prop_6', 'http://cs.anjuke.com/prop/view/114351092');
+					
+					new anjuke.listing.property.PropItem2('prop_7', 'http://cs.anjuke.com/prop/view/114003849');
+					
+					new anjuke.listing.property.PropItem2('prop_8', 'http://cs.anjuke.com/prop/view/110635758');
+					
+					new anjuke.listing.property.PropItem2('prop_9', 'http://cs.anjuke.com/prop/view/110662849');
+					
+					new anjuke.listing.property.PropItem2('prop_10', 'http://cs.anjuke.com/prop/view/110681701');
+					
+					new anjuke.listing.property.PropItem2('prop_11', 'http://cs.anjuke.com/prop/view/116709770');
+					
+					new anjuke.listing.property.PropItem2('prop_12', 'http://cs.anjuke.com/prop/view/114920260');
+					
+					new anjuke.listing.property.PropItem2('prop_13', 'http://cs.anjuke.com/prop/view/113658212');
+					
+					new anjuke.listing.property.PropItem2('prop_14', 'http://cs.anjuke.com/prop/view/113249833');
+					
+					new anjuke.listing.property.PropItem2('prop_15', 'http://cs.anjuke.com/prop/view/115639024');
+					
+					new anjuke.listing.property.PropItem2('prop_16', 'http://cs.anjuke.com/prop/view/115442294');
+					
+					new anjuke.listing.property.PropItem2('prop_17', 'http://cs.anjuke.com/prop/view/116520234');
+					
+					new anjuke.listing.property.PropItem2('prop_18', 'http://cs.anjuke.com/prop/view/116544551');
+					
+					new anjuke.listing.property.PropItem2('prop_19', 'http://cs.anjuke.com/prop/view/114599398');
+					
+					new anjuke.listing.property.PropItem2('prop_20', 'http://cs.anjuke.com/prop/view/112343890');
+					
+					new anjuke.listing.property.PropItem2('prop_21', 'http://cs.anjuke.com/prop/view/113998072');
+					
+					new anjuke.listing.property.PropItem2('prop_22', 'http://cs.anjuke.com/prop/view/116357316');
+					
+					new anjuke.listing.property.PropItem2('prop_23', 'http://cs.anjuke.com/prop/view/113784874');
+					
+					new anjuke.listing.property.PropItem2('prop_24', 'http://cs.anjuke.com/prop/view/116072356');
+					
+					new anjuke.listing.property.PropItem2('prop_25', 'http://cs.anjuke.com/prop/view/113547119');
+					
+    new Ajax.Updater('recent_propertys_apf_id_19', 'http://cs.anjuke.com/ajax/viewedprop/W0QQlimitZ5QQshowZ1QQtypeZsale', {
+        method: 'get'
+    });
+
+	var objTxtKeyword=document.getElementById('resultkw');
+	var txtKeyword='';
+	if(objTxtKeyword){
+		txtKeyword=objTxtKeyword.value.Trim();
+		if('在结果中搜索'==txtKeyword){
+			txtKeyword='';
+		}
+	}
+	if(''==txtKeyword){
+    	new Ajax.Updater('apf_id_20', 'http://cs.anjuke.com/promotion/listing_adW0QQp1Z27QQp2Z1?r='+Math.random(), {method:'get'});
+	}
+
+var rightcontqa = new View_Prop_RightContentQa('');
+
+	document.write(unescape("%3Cscript src='http://ifx.aifang.com/s?c=27&amp;p=9&amp;o=1&amp;rn=&amp;srn=' type='text/javascript'%3E%3C/script%3E"));
+
+Event.observe(window, 'load', function() {
+    new anjuke.listing.property.SearchPage('content');
+
+});
+Event.observe(document, 'dom:loaded', function(){
+new JS_BRAMUS.lazierLoad({
+    minWidth:50,
+    minHeight:50,
+    replaceImage:'http://pages.anjukestatic.com/js/lazierload-04/blank.gif',
+    loadingImage:'http://pages.anjukestatic.com/js/lazierload-04/loading.gif',
+    listingdiv:'list_body'
+});
+
+//爱房房源
+$("aifang_ad_loading").src = 'http://ifx.aifang.com/s?p=16&amp;c=27&amp;o=1';
+
+});
+
+var report = function(data){
+	var rtn = data.responseText.split("******");
+						if((typeof rtn[0]) == "string"){
+						$('advlogo_111143127').innerHTML = rtn[0];
+					}
+										if((typeof rtn[1]) == "string"){
+						$('advlogo_116070135').innerHTML = rtn[1];
+					}
+										if((typeof rtn[0]) == "string"){
+						$('advlogo_112845590').innerHTML = rtn[0];
+					}
+										if((typeof rtn[1]) == "string"){
+						$('advlogo_114315111').innerHTML = rtn[1];
+					}
+										if((typeof rtn[1]) == "string"){
+						$('advlogo_113638092').innerHTML = rtn[1];
+					}
+										if((typeof rtn[2]) == "string"){
+						$('advlogo_114351092').innerHTML = rtn[2];
+					}
+										if((typeof rtn[1]) == "string"){
+						$('advlogo_114003849').innerHTML = rtn[1];
+					}
+										if((typeof rtn[1]) == "string"){
+						$('advlogo_110635758').innerHTML = rtn[1];
+					}
+										if((typeof rtn[3]) == "string"){
+						$('advlogo_110662849').innerHTML = rtn[3];
+					}
+										if((typeof rtn[0]) == "string"){
+						$('advlogo_110681701').innerHTML = rtn[0];
+					}
+										if((typeof rtn[4]) == "string"){
+						$('advlogo_116709770').innerHTML = rtn[4];
+					}
+										if((typeof rtn[1]) == "string"){
+						$('advlogo_114920260').innerHTML = rtn[1];
+					}
+										if((typeof rtn[5]) == "string"){
+						$('advlogo_113658212').innerHTML = rtn[5];
+					}
+										if((typeof rtn[6]) == "string"){
+						$('advlogo_113249833').innerHTML = rtn[6];
+					}
+										if((typeof rtn[1]) == "string"){
+						$('advlogo_115639024').innerHTML = rtn[1];
+					}
+										if((typeof rtn[1]) == "string"){
+						$('advlogo_115442294').innerHTML = rtn[1];
+					}
+										if((typeof rtn[1]) == "string"){
+						$('advlogo_116520234').innerHTML = rtn[1];
+					}
+										if((typeof rtn[1]) == "string"){
+						$('advlogo_116544551').innerHTML = rtn[1];
+					}
+										if((typeof rtn[1]) == "string"){
+						$('advlogo_114599398').innerHTML = rtn[1];
+					}
+										if((typeof rtn[7]) == "string"){
+						$('advlogo_112343890').innerHTML = rtn[7];
+					}
+										if((typeof rtn[8]) == "string"){
+						$('advlogo_113998072').innerHTML = rtn[8];
+					}
+										if((typeof rtn[1]) == "string"){
+						$('advlogo_116357316').innerHTML = rtn[1];
+					}
+										if((typeof rtn[5]) == "string"){
+						$('advlogo_113784874').innerHTML = rtn[5];
+					}
+										if((typeof rtn[1]) == "string"){
+						$('advlogo_116072356').innerHTML = rtn[1];
+					}
+										if((typeof rtn[0]) == "string"){
+						$('advlogo_113547119').innerHTML = rtn[0];
+					}
+					}
+var options = {method : "get", onSuccess:report, parameters : {"compids":"9657,9659,9635,12537,11532,18656,9636,12293,9715"}};
+new Ajax.Request("/ajax/brandlogo/0/1", options);
+
+		if($('showcitymore')){
+			$$("a.showcitymore").each(function(element){
+				Event.observe(element, 'click', function(){
+					$('cities').style.display = 'inline';				
+					$('hiddencitymore').style.display = 'inline';
+					$('showcitymore').style.display = 'none';
+				});
+			});
+		}
+		if($('hiddencitymore')){
+			$$("a.hiddencitymore").each(function(element){
+				Event.observe(element, 'click', function(){
+					$('cities').style.display = 'none';
+					$('hiddencitymore').style.display = 'none';
+					$('showcitymore').style.display = 'inline';
+				});
+			});
+		}	
+	
+new anjuke.global.footer.CityList('show_city_list', 'city_list', 500);
+
+if (Math.random() &lt; 0.8) {
+   document.write(unescape("%3Cscript src='http://s0.ops.anjukestatic.com/js/f.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script><script type="text/javascript" src="http://ifx.aifang.com/s?c=27&amp;p=9&amp;o=1&amp;rn=&amp;srn="></script><script type="text/javascript" src="http://s0.ops.anjukestatic.com/js/f.js"></script>
+
+
+
+<!--  baidu广告代码加载-->
+<script src="http://cbjs.baidu.com/js/s.js" type="text/javascript"></script>
+
+
+<!--  baidu广告位置填充 -->
+<div style="display:none" id="baidu_adanjuke_zoneid_proplist_002">
+	<script type="text/javascript">
+	if($('adanjuke_zoneid_proplist_002')){
+		BAIDU_CLB_singleFillSlot("127018");
+	}
+	</script><script src="http://cb.baidu.com/ecom?di=127018&amp;fn=BAIDU_CLB_SETJSONADSLOT&amp;tpl=BAIDU_CLB_SETJSONADSLOT&amp;asp_refer=&amp;asp_url=http%3A%2F%2Fcs.anjuke.com%2Fsale%2Fp8&amp;new=1&amp;fv=11&amp;cn=1&amp;if=0&amp;word=http%3A%2F%2Fcs.anjuke.com%2Fsale%2Fp8&amp;refer=http%3A%2F%2Fcs.anjuke.com%2Fsale%2F&amp;ready=1&amp;jn=3&amp;lmt=1339742832&amp;csp=1680,1050&amp;csn=1680,1020&amp;ccd=24&amp;chi=12&amp;cja=false&amp;cpl=22&amp;cmi=85&amp;cce=true&amp;csl=zh-CN&amp;did=1&amp;rt=5&amp;dt=1339742835&amp;c01=0&amp;prt=1339742835418&amp;baidu_id=" charset="utf-8"></script><div id="baidu_clb_slot_127018"><div style="display:none">-</div> <iframe width="200" scrolling="no" height="200" frameborder="0" align="center,center" allowtransparency="true" marginheight="0" marginwidth="0" src="http://cpro.baidu.com/cpro/ui/uijs.php?tu=127018&amp;tn=text_default_200_200&amp;n=anjukeadaccount_cpr&amp;rsi1=200&amp;rsi0=200&amp;rad=&amp;rss0=%23FFFFFF&amp;rss1=%23FFFFFF&amp;rss2=%230000FF&amp;rss3=%23444444&amp;rss4=%23008000&amp;rss5=&amp;rss6=%23e10900&amp;rsi5=4&amp;ts=1&amp;at=6&amp;ch=0&amp;cad=1&amp;aurl=&amp;rss7=&amp;cpa=1&amp;fv=11&amp;cn=1&amp;if=16&amp;word=http%3A%2F%2Fcs.anjuke.com%2Fsale%2Fp8&amp;refer=http%3A%2F%2Fcs.anjuke.com%2Fsale%2F&amp;ready=1&amp;jk=ffb1321afe695607&amp;jn=3&amp;lmt=1339742832&amp;csp=1680,1050&amp;csn=1680,1020&amp;ccd=24&amp;chi=12&amp;cja=false&amp;cpl=22&amp;cmi=85&amp;cce=true&amp;csl=zh-CN&amp;did=1&amp;rt=13&amp;dt=1339742836&amp;ev=33554432&amp;c01=0&amp;prt=1339742835589" id="cproIframe1"></iframe></div>
+</div>
+<!--  baidu广告位置填充 -->
+<div style="display:none" id="baidu_adanjuke_zoneid_proplist_003">
+	<script type="text/javascript">
+	if($('adanjuke_zoneid_proplist_003')){
+		BAIDU_CLB_singleFillSlot("138460");
+	}
+	</script><script src="http://cb.baidu.com/ecom?di=138460&amp;fn=BAIDU_CLB_SETJSONADSLOT&amp;tpl=BAIDU_CLB_SETJSONADSLOT&amp;asp_refer=&amp;asp_url=http%3A%2F%2Fcs.anjuke.com%2Fsale%2Fp8&amp;new=1&amp;fv=11&amp;cn=1&amp;if=0&amp;word=http%3A%2F%2Fcs.anjuke.com%2Fsale%2Fp8&amp;refer=http%3A%2F%2Fcs.anjuke.com%2Fsale%2F&amp;ready=1&amp;jn=3&amp;lmt=1339742832&amp;csp=1680,1050&amp;csn=1680,1020&amp;ccd=24&amp;chi=12&amp;cja=false&amp;cpl=22&amp;cmi=85&amp;cce=true&amp;csl=zh-CN&amp;did=1&amp;rt=18&amp;dt=1339742835&amp;c01=0&amp;prt=1339742835418&amp;baidu_id=" charset="utf-8"></script><div id="baidu_clb_slot_138460"><iframe width="200" scrolling="no" height="200" frameborder="0" style="border: 0; vertical-align: bottom; margin: 0; display: block;" marginwidth="0" marginheight="0" allowtransparency="true" hspace="0" vspace="0" onload="BAIDU_CLB_renderFrame('138460')" src="about:blank" id="baidu_clb_slot_iframe_138460"></iframe></div>
+</div>
+
+<!--  广告的迁移-->       
+<script type="text/javascript">
+
+	var get = function(id) {
+	    return document.getElementById(id);
+	}
+
+	var moved_ads = ['cproIframe1','cproIframe2','cproIframe3'];
+	var moved_num = 0;
+	var anjuke_ad_move = function(type,slot,target,id) {
+		if(type == 'google'){
+			var adslot = get(target), ifrm, ad_frame = get('google_ads_iframe_' + slot);
+		}else if(type == 'baidu'){
+			var adslot = get(slot), ifrm, ad_frame = get('baidu_clb_slot_iframe_' + id);
+		}else{
+			return;
+		}
+	    
+	    if (adslot == null){
+		    return;
+	    }
+
+	    if(type == 'baidu' &amp;&amp; ad_frame == null){
+			var ad_id = moved_ads[moved_num];
+			ad_frame = get(ad_id);
+			if(ad_frame){
+				moved_num++;
+			}
+		}
+	    
+	    if (ad_frame) {
+	        ifrm = document.createElement('iframe');
+	        ifrm.setAttribute('id', type+'_ads_slot_iframe_' + slot);
+	        ifrm.setAttribute('frameBorder', 0);
+	        ifrm.setAttribute('scrolling', 'no');
+	        ifrm.marginWidth = 0;
+            ifrm.marginHeight = 0;
+	        ifrm.setAttribute('width', ad_frame.getAttribute('width'));
+	        ifrm.setAttribute('height', ad_frame.getAttribute('height'));
+	        adslot.update(ifrm);
+	        if(ad_frame.src &amp;&amp; ad_frame.src.indexOf('http') != -1){
+	        	ifrm.src = ad_frame.src;
+	        }else{
+	        	ifrm.contentWindow.document.open();
+		        ifrm.contentWindow.document.write(ad_frame.contentWindow.document.documentElement.innerHTML);
+		        ifrm.contentWindow.document.close();
+	        }
+	        
+	    } else {
+			if(type == 'google'){
+				var ad_div = get('google_ads_div_' + slot) || get('google_ads_div_' + slot + '_ad_container');
+			}else{
+				var ad_div = get(target);
+				ad_div.style.display = "block";
+			}
+			
+			if (ad_div) {
+	            adslot.update(ad_div);
+	        }
+	    }
+
+	    adslot.style.display = '';
+	}
+
+	    
+        	setTimeout("anjuke_ad_move('baidu','adanjuke_zoneid_proplist_002','baidu_adanjuke_zoneid_proplist_002','127018')",0);
+		    
+        	setTimeout("anjuke_ad_move('baidu','adanjuke_zoneid_proplist_003','baidu_adanjuke_zoneid_proplist_003','138460')",100);
+		</script>
+
+<!-- uma ad -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<script>
+if (Math.floor(Math.random() * 100) == 1 ){ //抽样1%
+	var renderTime = new Date().getTime() - startTime;
+	if(renderTime &lt; 10000 &amp;&amp; renderTime&#12288;&gt; 0 ) _gaq.push(['_trackEvent', 'RenderTime', 'Anjuke_Listing_Property', renderTime]);
+}
+</script>
+<script type="text/javascript">
+    &lt;!--
+    var bd_cpro_rtid="nWDsnjb";
+    //--&gt;
+</script>
+<script src="http://cpro.baidu.com/cpro/ui/rt.js" type="text/javascript"></script>
+<noscript>
+    &lt;div style="display:none;"&gt;
+        &lt;img height="0" width="0" style="border-style:none;" src="http://eclick.baidu.com/rt.jpg?t=noscript&amp;rtid=nWDsnjb" /&gt;
+    &lt;/div&gt;
+</noscript>
+	
+
+
+<div style="display:none" class="dialog" id="apf_id_11">
+<div class="view_prop_popup_fav" id="popup_apf_id_11">
+    <div class="my_member_marked_mm" id="msgbox_apf_id_11">
+		<div class="border">
+			<div id="regMainContainer">
+				<form method="post" action="" name="regForm_apf_id_11" id="regForm">
+				<input type="hidden" value="3bd8bc0a" id="formhash" name="formhash">
+				<input type="hidden" value="1" id="useraction" name="useraction">
+				<input type="hidden" value="index.php" id="referer" name="referer">
+				<input type="hidden" value="1" id="usertype" name="usertype"> 
+				<input type="hidden" value="0" id="reg" name="reg">
+				<input type="hidden" value="27" id="cityid" name="cityid">
+				<input type="hidden" value="anjuke" id="sid" name="sid">
+				<input type="hidden" value="aHR0cDovL2FuanVrZS5jb20vcHJvcC92aWV3Lw==" id="history" name="url">
+				<input type="hidden" id="from" name="from">
+				<div class="login">
+					<div class="title"><strong>快速注册</strong> | <span><a href="###" id="user_login">登录</a></span><span class="close"><img border="0" src="http://pages.anjukestatic.com/img/reg/icon.close_8x9.gif"></span></div>
+				    <div class="line"></div>
+				</div>
+				<table width="350" cellspacing="0" cellpadding="0" border="0" class="register">
+					<tbody>
+							<tr>
+								<td style="display:none" id="link"><a target="_blank" id="broker_register" href="http://my.anjuke.com/reg?type=2">经纪人注册点这里</a></td>
+								</tr>
+																	    <tr>
+							<th>用户名：</th>
+						</tr>
+						<tr>
+							<td><input type="text" value="" maxlength="16" id="reg_username" size="20" name="reg_username" class="inputname">
+				        <span id="checkusername_new">
+				        </span>
+			
+				        </td>
+						</tr>
+						<tr>
+							<td><span class="comment">2-15个字，中英文均可。</span></td>
+						</tr>
+						<tr>
+							<td height="12"></td>
+						</tr>
+						<tr>
+							<th>密码：</th>
+						</tr>
+						<tr>
+							<td><input type="password" value="" maxlength="16" id="reg_password" size="20" name="reg_password" class="inputpwd">		
+				        <span id="checkpass_new">							
+				        </span>
+				        </td>
+						</tr>
+						<tr>
+							<td><span class="comment">6个字符以上，请勿使用空格等特殊字符。</span></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td height="12"></td>
+							<td></td>
+						</tr>
+						<tr>
+							<th>邮箱地址：</th>
+						</tr>
+						<tr>
+										<td><input type="text" value="" id="reg_email" size="20" name="reg_email" class="inputemail">
+			
+				        <span id="checkemail_new">
+						</span>
+			
+				        </td>
+						</tr>
+						<tr>
+							<td><span class="comment">不需验证，仅用于找回密码。</span></td>
+						</tr>
+						<tr>
+							<td height="12"></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td><input type="button" name="my_register_submit" value="注 册" id="my_register_submit" class="my_register_submit_new"> <input type="hidden" value="" id="hid_name_status"> <input type="hidden" value="" id="hid_pwd_status"> <input type="hidden" value="" id="hid_email_status"> <input type="hidden" value="" name="src"> <input type="hidden" value="" name="commid">
+								<input type="hidden" value="" name="proid">
+                                								<a id="user_login_2" href="###">已经注册过?马上登录&gt;&gt;</a>
+                                								</td>
+						</tr>
+						<tr>
+							<td class="height50"></td>
+						</tr>
+					</tbody>
+				</table>
+								</form>
+			</div>
+		</div>
+    </div>
+</div>
+</div></body></html>
