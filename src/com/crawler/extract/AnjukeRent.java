@@ -32,6 +32,7 @@ public class AnjukeRent {
 	private AddressMgr addressMgr;
 	//constants
 	public static final int MAX_ITEM_NUMBERS_IN_ONE_PAGE = 25;
+	public static final int MAX_ITEM_NUMBERS_IN_ONE_PAGE_ANJUKE_COMMUNITY = 10;
 	public static final int MAX_ITEM_NUMBERS_IN_ONE_PAGE_ANJUKE_SHANGHAI_COMMUNITY = 10;
 	public static final String CONNECTOR_BETWEEN_WEBSITE_AND_TYPE = "-";
 	//variables
@@ -42,8 +43,8 @@ public class AnjukeRent {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		String html = FileUtil.getDataFile2Str("./data/extract/Anjuke/AnjukeShanghaiCommunity.txt", "utf-8");
-		new AnjukeRent().getAddressAndSave4CommunityShanghai(html, "","","","","");
+		String html = FileUtil.getDataFile2Str("./data/extract/Anjuke/AnjukeShijiazhuangCommunity.txt", "utf-8");
+		new AnjukeRent().getAddressAndSave4Community(html, "","","","","");
 		//extractAndSaveAllOtherCity("安居客-二手房", "北京"); //getAddressAndSave(html, "", "", "", "", "");
 	}
 	
@@ -87,6 +88,7 @@ public class AnjukeRent {
 				return;
 			}
 			for (Url url : urlList) {
+				System.out.println("url: " + url.getUrl());
 				String html = pageMgr.getPageContentByPageUrl(url.getUrl());
 				getAddressAndSave4RentOrSecondhand(html, community, district, city, website, houseType);
 			}
@@ -147,7 +149,7 @@ public class AnjukeRent {
 			return;
 		}
 				
-		for (int i=0; i < MAX_ITEM_NUMBERS_IN_ONE_PAGE; i++) {
+		for (int i=0; i < MAX_ITEM_NUMBERS_IN_ONE_PAGE_ANJUKE_COMMUNITY; i++) {
 			int index = i * 2 + 13;
 			Element element = ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=apf_id_" + (index) + "]", 0);
 			//这页并没有25个数据项，所以没有了，就停止向下循环
@@ -183,7 +185,7 @@ public class AnjukeRent {
 				System.out.println(addrElem.text());
 				System.out.println(titleElem.text());
 //				System.out.println(addrArray[0] + "#" + addrArray[1]);
-				System.out.println(conditionElem.text());
+				System.out.println(houseCondition);
 //				System.out.println(comment);
 //				System.out.println(price);
 //				System.out.println(address);
@@ -195,7 +197,7 @@ public class AnjukeRent {
 		}
 	}
 	
-	public void getAddressAndSave4CommunityShanghai(String html, String community, String district, String city, String website, String houseType){
+	public void getAddressAndSave4CommunityShanghaiAndBeijing(String html, String community, String district, String city, String website, String houseType){
 		if (StringUtils.isBlank(html)){
 			System.err.println("input html is blank in getAddressAndSave4CommunityShanghai()");
 			return;
