@@ -38,13 +38,15 @@ public class AnjukeRent {
 	//variables
 	public static String PRINT_ANJUKE_RENT_EXTRACT_PROCESS = PropertyUtil.getValue("application.properties", "print.anjuke.rent.extract.process");
 	public static String EXTRACT_PROCESS_GET_ADDRESS_SAVE_TO_DB = PropertyUtil.getValue("application.properties", "extract.process.get.address.save.to.db");
+	public static String EXTRACT_ANJUKE_TYPE = PropertyUtil.getValue("application.properties", "extract.anjuke.type");
+	public static String EXTRACT_ANJUKE_TYPE_CITY = PropertyUtil.getValue("application.properties", "extract.anjuke.type.city");
 	
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		String html = FileUtil.getDataFile2Str("./data/extract/Anjuke/AnjukeShijiazhuangCommunity.txt", "utf-8");
-		new AnjukeRent().getAddressAndSave4Community(html, "","","","","");
+		String html = FileUtil.getDataFile2Str("./data/extract/Anjuke/AnjukeShanghaiCommunity.txt", "utf-8");
+		new AnjukeRent().getAddressAndSave4CommunityShanghaiOrBeijing(html, "","","","","");
 		//extractAndSaveAllOtherCity("安居客-二手房", "北京"); //getAddressAndSave(html, "", "", "", "", "");
 	}
 	
@@ -91,7 +93,16 @@ public class AnjukeRent {
 				System.out.println("url: " + url.getUrl());
 				String html = pageMgr.getPageContentByPageUrl(url.getUrl());
 				System.out.println("url: " + url.getUrl());
-				getAddressAndSave4RentOrSecondhand(html, community, district, city, website, houseType);
+				if ("rent".equals(EXTRACT_ANJUKE_TYPE) || "secondhand".equals(EXTRACT_ANJUKE_TYPE)) {
+					getAddressAndSave4RentOrSecondhand(html, community, district, city, website, houseType);
+				} else if ("community".equals(EXTRACT_ANJUKE_TYPE)) {
+					if ("shanghai".equalsIgnoreCase(EXTRACT_ANJUKE_TYPE_CITY) || "beijing".equalsIgnoreCase(EXTRACT_ANJUKE_TYPE_CITY)) {
+						getAddressAndSave4CommunityShanghaiOrBeijing(html, community, district, city, website, houseType);
+					} else {
+						getAddressAndSave4Community(html, community, district, city, website, houseType);
+					}
+				}
+				
 			}
 		}
 	}
@@ -162,38 +173,55 @@ public class AnjukeRent {
 				break;
 			}
 			
+			
+			String titleStr = null, addrStr = null, houseCondition = null, comment = null, price = null;
+			
 			Element titleElem = ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=comm_name_qt_apf_id_" + (index) + "]", 0);
+			if (titleElem != null ){
+				titleStr = titleElem.text();
+			}
 			
 			Element addrElem = ParserUtil.parseElementWithRegexAndResultIndex(element, "address", 0);
-			String[] addrArray = addrElem.text().split("\\s+  ");
-			Element conditionElem = ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=comm_sale_qt_apf_id_" + (index) + "]", 0);
-			String houseCondition = conditionElem.text();
-//			Element commentElem = ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=prop_name_qt_prop_" + (i + 1) + "]", 0);
-//			String comment = commentElem.text();
-//			Element priceElem = ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=prop_price_qt_prop_" + (i + 1) + "]", 0);
-//			String price = priceElem.text();
+			if (addrElem != null ){
+				addrStr = addrElem.text().replace("地图", "").trim();
+			}
+
+			Element conditionElem = ParserUtil.parseElementWithRegexAndResultIndex(element, "p[class=date]", 0);//ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=comm_sale_qt_apf_id_" + (index) + "]", 0);
+			if (conditionElem != null ){
+				houseCondition = conditionElem.text();
+			}
+			
+			Element commentElem = ParserUtil.parseElementWithRegexAndResultIndex(element, "p[class=house]", 0);//ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=prop_name_qt_prop_" + (i + 1) + "]", 0);
+			if (commentElem != null ){
+				comment = commentElem.text();
+			}
+			
+			Element priceElem = ParserUtil.parseElementWithRegexAndResultIndex(element, "div[class=price]", 0);//ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=prop_price_qt_prop_" + (i + 1) + "]", 0);
+			if (priceElem != null ){
+				price = priceElem.text();
+			}
 
 			Address address = new Address();
-			address.setName(addrArray[0]);
-//			address.setAddr(addrArray[1]);
+			address.setName(titleStr);
+			address.setAddr(addrStr);
 			address.setCommunity(community);
 			address.setDistrict(district);
 			address.setCity(city);
-//			address.setHouseCondition(houseCondition);
-//			address.setComment(comment);
-//			address.setPrice(price);
+			address.setHouseCondition(houseCondition);
+			address.setComment(comment);
+			address.setPrice(price);
 			address.setWebsite(website);
 			address.setType(houseType);
 			
 			//判断是否要打印中间的解析过程
 			if ("open".equals(PRINT_ANJUKE_RENT_EXTRACT_PROCESS)) {
-				System.out.println(addrElem.text());
-				System.out.println(titleElem.text());
-//				System.out.println(addrArray[0] + "#" + addrArray[1]);
-				System.out.println(houseCondition);
-//				System.out.println(comment);
-//				System.out.println(price);
-//				System.out.println(address);
+				System.out.println("title:" + titleStr);
+				System.out.println("addr:" + addrStr);
+				System.out.println("condition:" + houseCondition);
+				System.out.println("comment:" + comment);
+				System.out.println("price:" + price);
+				System.out.println(address);
+				System.out.println();
 			}
 			//存入数据库
 			if ("open".equals(EXTRACT_PROCESS_GET_ADDRESS_SAVE_TO_DB)) {
@@ -202,7 +230,7 @@ public class AnjukeRent {
 		}
 	}
 	
-	public void getAddressAndSave4CommunityShanghaiAndBeijing(String html, String community, String district, String city, String website, String houseType){
+	public void getAddressAndSave4CommunityShanghaiOrBeijing(String html, String community, String district, String city, String website, String houseType){
 		if (StringUtils.isBlank(html)){
 			System.err.println("input html is blank in getAddressAndSave4CommunityShanghai()");
 			return;
@@ -216,18 +244,34 @@ public class AnjukeRent {
 				break;
 			}
 			
+			String titleStr = null, addrStr = null, houseCondition = null, comment = null, price = null;
 			Element titleElem = ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=comm_name_qt_apf_html_id_" + (index) + "]", 0);
+			if (titleElem != null ){
+				titleStr = titleElem.text();
+			}
+			
 			Element addrElem = ParserUtil.parseElementWithRegexAndResultIndex(element, "address", 0);
-			String addrStr = addrElem.text().replace("地图", "").trim();
+			if (addrElem != null ){
+				addrStr = addrElem.text().replace("地图", "").trim();
+			}
+			
 			Element conditionElem = ParserUtil.parseElementWithRegexAndResultIndex(element, "p[class=date]", 0);//ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=comm_sale_qt_apf_id_" + (index) + "]", 0);
-			String houseCondition = conditionElem.text();
+			if (conditionElem != null ){
+				houseCondition = conditionElem.text();
+			}
+			
 			Element commentElem = ParserUtil.parseElementWithRegexAndResultIndex(element, "p[class=house]", 0);//ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=prop_name_qt_prop_" + (i + 1) + "]", 0);
-			String comment = commentElem.text();
+			if (commentElem != null ){
+				comment = commentElem.text();
+			}
+			
 			Element priceElem = ParserUtil.parseElementWithRegexAndResultIndex(element, "div[class=price]", 0);//ParserUtil.parseHtmlStrWithRegexAndResultIndex(html, "[id=prop_price_qt_prop_" + (i + 1) + "]", 0);
-			String price = priceElem.text();
-
+			if (priceElem != null ){
+				price = priceElem.text();
+			}
+			
 			Address address = new Address();
-			address.setName(titleElem.text());
+			address.setName(titleStr);
 			address.setAddr(addrStr);
 			address.setCommunity(community);
 			address.setDistrict(district);
@@ -240,7 +284,7 @@ public class AnjukeRent {
 			
 			//判断是否要打印中间的解析过程
 			if ("open".equals(PRINT_ANJUKE_RENT_EXTRACT_PROCESS)) {
-				System.out.println("title:" + titleElem.text());
+				System.out.println("title:" + titleStr);
 				System.out.println("addr:" + addrStr);
 				System.out.println("condition:" + houseCondition);
 				System.out.println("comment:" + comment);

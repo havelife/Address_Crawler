@@ -123,11 +123,41 @@ public class AnjukeRentTest {
 //		anjukeRent.extractAndSaveByCityAndType("北京", "安居客-二手房#朝阳#亚运村#90-110平米#二室#普通住宅");
 //		anjukeRent.extractAndSaveByCityAndType("北京", "安居客-二手房#朝阳#亚运村#110-130平米#二室#普通住宅");
 	}
+	
+	
+	/*------------------------------------------------------------------*/
+	
+	
 	/*
 	 * 解析所有的小区信息，并且存入address表
+	 * 实际上并未执行过这个方法。因为北京、上海两个城市和其他的城市是分开执行的
 	 * */
 	@Test
 	public void extractAndSaveAllOtherCityCommunityTest(){
 		anjukeRent.extractAndSaveAllOtherCity("安居客-小区");
+	}
+	
+	/*
+	 * 解析上海的小区信息，并且存入address表
+	 * */
+	@Test
+	public void extractAndSaveShanghaiCommunityTest(){
+		anjukeRent.extractAndSaveByCityAndType("上海", "安居客-小区");
+	}
+	
+	/*
+	 * 解析北京的小区信息，并且存入address表
+	 * */
+	@Test
+	public void extractAndSaveBeijingCommunityTest(){
+		anjukeRent.extractAndSaveByCityAndType("北京", "安居客-小区");
+	}
+	
+	/*
+	 * 解析除去北京、上海其他所有城市的小区信息，并且存入address表
+	 * */
+	@Test
+	public void extractAndSaveExceptBeijingShanghaiCommunityTest(){
+		anjukeRent.extractAndSaveAllOtherCity("安居客-小区", "北京", "上海");
 	}
 }

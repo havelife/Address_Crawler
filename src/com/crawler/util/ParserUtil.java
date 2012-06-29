@@ -49,7 +49,7 @@ public class ParserUtil {
 	
 	public static Element parseElementWithRegexAndResultIndex(Element element, String regex, int index){
 		Elements elements = element.select(regex);
-		if (elements.size() < index){
+		if (elements.size() < index + 1){
 			System.out.println("input index:" + index + " is beyond result size:" + elements.size());
 			return null;
 		}
